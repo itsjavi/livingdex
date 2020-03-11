@@ -1,0 +1,95 @@
+@charset "utf-8";
+
+// If need, change your variables before importing Bulma
+$title-color: rgba(36, 36, 36, 1);
+
+@import "~bulma/bulma.sass";
+
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.pk-box-poke {
+  text-align: center;
+}
+
+.pk-box-poke img {
+  object-fit: contain;
+  width: auto;
+  height: 56px;
+  vertical-align: bottom;
+  display: inline-block;
+  position: relative;
+  z-index: 2;
+}
+
+.pk-box-container {
+  margin: 20px 20px;
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  width: 560px;
+  float: left;
+}
+
+.pk-box-container .title {
+  background: #fff;
+  padding: 10px;
+  margin: 10px 10%;
+  border-radius: 40px;
+  font-size: 24px;
+  text-align: center;
+  line-height: normal;
+  display: block;
+}
+
+.pk-box-container .hero-head {
+  background: #75d2b7;
+  padding: 10px;
+  border-radius: 20px 20px 0px 0px;
+}
+
+.pk-box-container .hero-body {
+  border: 1px solid #75d2b7;
+  padding: 20px;
+  background: #fff;
+  border-radius: 0px 0px 20px 20px;
+}
+
+.pk-box-poke {
+  position: relative;
+  cursor: pointer;
+}
+
+.pk-box-poke:after {
+  content: "";
+  position: absolute;
+  width: 76px;
+  height: 76px;
+  left: 50%;
+  top: 50%;
+  margin: -34px 0 0 -38px;
+  background: radial-gradient(circle, rgba(117, 210, 183, 0.75) 0%, rgba(117, 210, 183, 0) 60%);
+  border-radius: 60px;
+  z-index: 0;
+}
+
+.pk-home-logo {
+  position: relative;
+  margin: 40px;
+  text-align: center;
+}
+
+.pk-home-logo img {
+  object-fit: contain;
+  width: auto;
+  height: 250px;
+}
