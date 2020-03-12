@@ -1,2 +1,0 @@
-# livingdex
-Pokémon Living Dex
