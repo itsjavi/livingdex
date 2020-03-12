@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/livingdex`,
   siteMetadata: {
     title: `Pokémon Living Dex`,
     description: `An online Living Dex helper tool.`,
@@ -44,7 +45,7 @@ module.exports = {
         background_color: `#75d2b7`,
         theme_color: `#75d2b7`,
         display: `standalone`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        //icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

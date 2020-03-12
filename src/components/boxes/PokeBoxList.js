@@ -46,7 +46,7 @@ const PokeBoxList = () => {
     )
   }
 
-  return boxColumns
+  return boxColumns.concat(<div style={{clear: "both"}} />)
 }
 
 export default PokeBoxList

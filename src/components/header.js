@@ -4,7 +4,7 @@ import React from "react"
 
 const Header = ({ siteTitle }) => (
   <header className="pk-main-header">
-    <Link to="/">{siteTitle}</Link>
+    <Link to="/"><h1>{siteTitle} (Beta)</h1></Link>
   </header>
 )
 

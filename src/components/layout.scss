@@ -17,7 +17,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.pk-main-header {
+.pk-main-header,
+.pk-main-footer {
   background: #75d2b7;
   margin-bottom: 1.45rem;
   color: #fff;
@@ -31,6 +32,15 @@ body {
   font-size: 36px;
   text-align: center;
   font-weight: bold;
+}
+
+.pk-main-footer {
+  padding: 20px 20px;
+  font-size: 16px;
+  a {
+    display: inline-block;
+    margin:0 20px;
+  }
 }
 
 .pk-box-poke {
@@ -55,10 +65,7 @@ body {
   border-radius: 20px;
   width: 480px;
   display: inline-block;
-}
-
-.pk-x-column {
-  display: inline-block;
+  float:left;
 }
 
 .pk-box-container .title {
@@ -88,6 +95,9 @@ body {
 .pk-box-poke {
   position: relative;
   cursor: pointer;
+  word-break: break-all;
+  overflow: hidden;
+  overflow-wrap: break-word;
 }
 
 .pk-box-poke:after {
