@@ -105,8 +105,8 @@ foreach ($pokemon as $i => $pk) {
         $slug = $form['name_numeric_avatar'];
         $form['id'] = $pk['id'];
         $form['pid'] = $pk['pid'];
-        $form['image'] = "renders/{$srcDirName}/{$slug}.png";
-        $form['image_shiny'] = "renders/shiny/{$srcDirName}/{$slug}.png";
+        $form['image'] = "media/renders/{$srcDirName}/{$slug}.png";
+        $form['image_shiny'] = "media/renders/shiny/{$srcDirName}/{$slug}.png";
         $pokemonFormsFlatten[] = $form;
     }
 }

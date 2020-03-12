@@ -17,6 +17,21 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.pk-main-header {
+  background: #75d2b7;
+  margin-bottom: 1.45rem;
+  color: #fff;
+  a {
+    text-decoration: none;
+    color: inherit;
+    text-transform: capitalize;
+    display:block;
+  }
+  padding: 40px 20px;
+  font-size: 36px;
+  text-align: center;
+  font-weight: bold;
+}
 
 .pk-box-poke {
   text-align: center;
@@ -33,11 +48,17 @@ body {
 }
 
 .pk-box-container {
+  position: relative;
+  box-sizing: content-box;
   margin: 20px 20px;
   box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.1);
   border-radius: 20px;
-  width: 560px;
-  float: left;
+  width: 480px;
+  display: inline-block;
+}
+
+.pk-x-column {
+  display: inline-block;
 }
 
 .pk-box-container .title {

@@ -20,5 +20,11 @@ if [[ ! -f "static/data/pokemon-boxes.json" ]]; then
 fi
 
 if [[ ! -d "static/media/renders" ]]; then
-  cp -R vendor/route1rodent/pokemon-media/pokemon/renders/ static/media/renders
+  IMG_NEW_RELATIVE_SIZE="15%"
+
+  cp -R ./vendor/route1rodent/pokemon-media/pokemon/renders/ ./static/media/renders
+  for f in $(find "./static/media/renders" -name "*.png"); do
+    echo "${f}"
+    magick mogrify -resize ${IMG_NEW_RELATIVE_SIZE} "${f}"
+  done
 fi

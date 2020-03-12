@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "src/tasks/pre-build.sh && src/tasks/build.sh",
+    "build": "src/tasks/build.sh",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",

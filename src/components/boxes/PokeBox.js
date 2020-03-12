@@ -3,9 +3,6 @@ import PropTypes from "prop-types"
 import PokeBoxRow from "./PokeBoxRow"
 
 const PokeBox = ({ boxTitle, boxRows }) => {
-  console.log(boxTitle);
-  console.log(boxRows);
-
   const rowContents = boxRows.map((row) => {
     return <PokeBoxRow boxRow={row["cells"]}/>
   })

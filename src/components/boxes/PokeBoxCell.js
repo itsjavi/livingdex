@@ -1,11 +1,14 @@
 import React from "react"
 import PropTypes from "prop-types"
+import Image from "../Image"
 
 const PokeBoxCell = ({ boxCell }) => {
+  let title = `${boxCell.pid} - ${boxCell.name}`;
+
   return (
     <>
-      <div className="pk-box-poke column">
-        {boxCell.id}
+      <div title={title} className="pk-box-poke column">
+        <Image title={title} alt={title} src={boxCell.image} />
       </div>
     </>
   )
