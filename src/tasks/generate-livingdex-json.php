@@ -34,7 +34,6 @@ $excluded = [
         '681-blade',
         '716-active',
         '718-complete',
-        '720-unbound',
         '746-school',
         '778-busted',
         '800-ultra',
