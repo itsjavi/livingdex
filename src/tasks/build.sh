@@ -1,4 +1,4 @@
 #!/usr/bin/env zsh
 
-# graphql init
+gatsby build
 graphql get-schema

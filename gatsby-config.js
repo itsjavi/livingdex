@@ -7,6 +7,26 @@ module.exports = {
   plugins: [
     `gatsby-plugin-sass`, // https://www.gatsbyjs.org/docs/bulma/
     `gatsby-plugin-react-helmet`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-transformer-json`,
+      options: {}
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `data`,
+        path: `${__dirname}/static/data`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `media`,
+        path: `${__dirname}/static/media`,
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -14,10 +34,9 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
     {
-      resolve: `gatsby-plugin-manifest`,  // https://www.gatsbyjs.org/packages/gatsby-plugin-manifest/
+      // https://www.gatsbyjs.org/packages/gatsby-plugin-manifest/
+      resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Pokémon Living Dex`,
         short_name: `Living Dex`,

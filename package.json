@@ -1,9 +1,5 @@
 {
-  "name": "gatsby-starter-default",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "bulma": "^0.8.0",
     "gatsby": "^2.19.7",
@@ -14,6 +10,7 @@
     "gatsby-plugin-sass": "^2.1.30",
     "gatsby-plugin-sharp": "^2.4.3",
     "gatsby-source-filesystem": "^2.1.46",
+    "gatsby-transformer-json": "^2.2.27",
     "gatsby-transformer-sharp": "^2.3.13",
     "node-sass": "^4.13.1",
     "prop-types": "^15.7.2",
@@ -25,11 +22,13 @@
     "prettier": "^1.19.1"
   },
   "keywords": [
-    "gatsby"
+    "pokemon",
+    "pokedex",
+    "livingdex"
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
+    "build": "src/tasks/pre-build.sh && src/tasks/build.sh",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
@@ -39,9 +38,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/capsumon/livingdex"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/capsumon/livingdex/issues"
   }
 }
