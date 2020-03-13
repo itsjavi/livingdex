@@ -9,7 +9,7 @@ const PokeBoxRow = ({ boxRow }) => {
   // TODO add placeholder cells
   return (
     <>
-      <div className="pk-box-row columns">
+      <div className="pk-box-row columns is-mobile">
         {cells}
       </div>
     </>

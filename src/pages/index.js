@@ -1,11 +1,11 @@
 import React from "react"
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Layout0 from "../components/Layout0"
+import SEO from "../components/SEO"
 import PokeBoxList from "../components/boxes/PokeBoxList"
 
 const IndexPage = () => (
-  <Layout>
+  <Layout0>
     <SEO title="Box Organizer" />
     <div className="container">
       <div className="hero is-light" style={{borderRadius:"20px"}}>
@@ -22,7 +22,7 @@ const IndexPage = () => (
       </div>
     </div>
     <PokeBoxList/>
-  </Layout>
+  </Layout0>
 )
 
 export default IndexPage

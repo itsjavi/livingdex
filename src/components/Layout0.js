@@ -2,11 +2,11 @@ import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
-import Header from "./header"
-import "./layout.scss"
+import Header0 from "./Header0"
+import "./Layout0.scss"
 import Footer from "./Footer"
 
-const Layout = ({ children }) => {
+const Layout0 = ({ children }) => {
   const data = useStaticQuery(graphql`
       query SiteTitleQuery {
           site {
@@ -19,7 +19,7 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <Header siteTitle={data.site.siteMetadata.title}/>
+      <Header0 siteTitle={data.site.siteMetadata.title}/>
       <main>
         { children }
       </main>
@@ -28,8 +28,8 @@ const Layout = ({ children }) => {
   )
 }
 
-Layout.propTypes = {
+Layout0.propTypes = {
   children: PropTypes.node.isRequired,
 }
 
-export default Layout
+export default Layout0
