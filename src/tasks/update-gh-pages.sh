@@ -17,5 +17,5 @@ mv gh-pages-git gh-pages/.git
 cd gh-pages
 git add -A
 git commit -m "update gh-pages"
-git log
+
 cd -

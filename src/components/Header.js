@@ -4,7 +4,7 @@ import React from "react"
 
 const Header = ({ siteTitle }) => (
   <header className="pk-main-header">
-    <Link to="/"><h1>{siteTitle}</h1><sup><small>0.2.0-beta</small></sup></Link>
+    <Link to="#"><h1>{siteTitle}</h1><sup><small>0.2.0-beta</small></sup></Link>
   </header>
 )
 
