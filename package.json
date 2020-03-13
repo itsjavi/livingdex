@@ -29,8 +29,8 @@
   "license": "MIT",
   "scripts": {
     "build": "src/tasks/build.sh",
-    "publish": "src/tasks/publish.sh",
-    "develop": "gatsby develop",
+    "publish": "src/tasks/publish-gh-pages.sh",
+    "develop": "src/tasks/update-data.sh && gatsby clean && gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",

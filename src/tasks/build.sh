@@ -1,7 +1,6 @@
 #!/usr/bin/env zsh
 
-rm -f static/data/pokemon-boxes.json
-./src/tasks/install.sh
+./src/tasks/update-data.sh || exit 1
 gatsby clean
 gatsby build
 

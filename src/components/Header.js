@@ -2,18 +2,14 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
-const Header = ({ siteTitle }) => (
+const Header = ({ siteMeta }) => (
   <header className="pk-main-header">
-    <Link to="#"><h1>{siteTitle}</h1><sup><small>0.2.0-beta</small></sup></Link>
+    <Link to="#"><h1>{siteMeta.title}</h1><sup><small>{siteMeta.version}</small></sup></Link>
   </header>
 )
 
 Header.propTypes = {
-  siteTitle: PropTypes.string,
-}
-
-Header.defaultProps = {
-  siteTitle: ``,
+  siteMeta: PropTypes.arrayOf(PropTypes.object).isRequired
 }
 
 export default Header

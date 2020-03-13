@@ -2,6 +2,7 @@ module.exports = {
   pathPrefix: `/livingdex`,
   siteMetadata: {
     title: `Pokémon Living Dex`,
+    version: '0.2.2-beta',
     description: `An online Living Dex helper tool.`,
     author: `@route1rodent`,
   },

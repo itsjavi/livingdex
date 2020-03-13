@@ -21,11 +21,13 @@ const PokeBoxCell = ({ boxCell }) => {
       </>
     )
   }
+  let gmaxTitle = title.split("-")[0] + "-" + title.split("-")[1] + "-gigantamax"
+
   return (
     <>
       <div className={classNameStr}>
         <Image className="pk-img-default" title={title} alt={title} src={boxCell.image}/>
-        <Image className="pk-img-hover" title={title + "-gigantamax"} alt={title + "-gigantamax"}
+        <Image className="pk-img-hover" title={gmaxTitle} alt={gmaxTitle}
                src={boxCell.image.replace(".png", "-gigantamax.png")}/>
       </div>
     </>

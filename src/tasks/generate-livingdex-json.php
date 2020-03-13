@@ -11,7 +11,8 @@ $imgDirDexSize = 100; // max dex numbers per image folder
 $jsonFile = __DIR__ . '/../../vendor/route1rodent/pokemon-data/exports/pokemon-reference.json';
 $pokemon = json_decode(file_get_contents($jsonFile), true, 512, JSON_THROW_ON_ERROR);
 $excluded = [
-    'non_transferable' => [
+    'identifiers' => [
+        // non transferable from their own games:
         '025-partner',
         '025-cosplay',
         '025-phd',
@@ -21,20 +22,28 @@ $excluded = [
         '025-libre',
         '133-partner',
         '172-spiky-eared',
-    ],
-    'non_storable' => [
+
+        // ability-only forms
+        '744-own-tempo',
+
+        // non storable (battle only or they need item or they lose form when stored, etc)
         '351-sunny',
         '351-rainy',
         '351-snowy',
         '421-sunshine',
         '487-origin',
         '492-sky',
+        '555-zen',
+        '555-zen-galar',
         '648-pirouette',
+        '658-ash',
         '670-eternal',
         '681-blade',
         '716-active',
         '718-complete',
         '746-school',
+        '774',
+        '774-meteor',
         '778-busted',
         '800-ultra',
         '845-gulping',
@@ -42,16 +51,16 @@ $excluded = [
         '875-noice-face',
         '877-hangry-mode',
     ],
-    'non_storable__regex' => [
-        '/^000-(.*)/',
+    'regexes' => [
+        '/^000-(.*)/', // misc icons
         '/-(mega|mega-x|mega-y|primal)$/',
-        '/-(totem|totem-alola|alola-totem)$/',
+        '/-(totem|totem-alola|alola-totem)$/', // storable, but in Bank/HOME they lose their custom weight/height
         '/-(gigantamax|eternamax)$/',
         '/-(crowned-sword|crowned-shield)$/',
-        '/^493-(.*)/',
-        '/^649-(.*)/',
-        '/^676-(.*)/',
-        '/^773-(.*)/',
+        '/^493-(.*)/', // all Arceus forms
+        '/^649-(.*)/', // all Genesect forms
+        '/^676-(.*)/', // all Furfrou styles
+        '/^773-(.*)/', // all Sylvally forms
     ],
 ];
 
@@ -61,13 +70,10 @@ $excluded = [
 ///
 
 $isExcluded = function (string $slug) use ($excluded): bool {
-    if (in_array($slug, $excluded['non_transferable'], true)) {
+    if (in_array($slug, $excluded['identifiers'], true)) {
         return true;
     }
-    if (in_array($slug, $excluded['non_storable'], true)) {
-        return true;
-    }
-    foreach ($excluded['non_storable__regex'] as $regex) {
+    foreach ($excluded['regexes'] as $regex) {
         if ((preg_match($regex, $slug) > 0)) {
             return true;
         }
