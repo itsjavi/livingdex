@@ -28,3 +28,7 @@ if [[ ! -d "static/media/renders" ]]; then
     magick mogrify -resize ${IMG_NEW_RELATIVE_SIZE} "${f}"
   done
 fi
+
+if [[ ! -d "static/media/symbols" ]]; then
+  cp -R ./vendor/route1rodent/pokemon-media/symbols/ ./static/media/symbols
+fi

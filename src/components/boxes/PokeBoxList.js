@@ -18,6 +18,7 @@ const PokeBoxList = () => {
                       name_numeric_avatar
                       image
                       image_shiny
+                      tags
                   }
               }
           }
@@ -29,11 +30,11 @@ const PokeBoxList = () => {
 
   result["dataJson"]["boxes"].forEach((box, i) => {
     let title = `BOX ${i + 1}`
-    boxBuffer = boxBuffer.concat(
+    boxBuffer.push(
       <div className="column is-one-third-widescreen is-half is-full-mobile"><PokeBox boxTitle={title} boxRows={box.rows}/></div>,
     )
     if (boxBuffer.length === boxColumnCount) {
-      boxColumns = boxColumns.concat(
+      boxColumns.push(
         <div className="columns">{boxBuffer}</div>,
       )
       boxBuffer = []
@@ -41,20 +42,22 @@ const PokeBoxList = () => {
   })
 
   if (boxBuffer.length > 0) {
-    boxColumns = boxColumns.concat(
+    boxColumns.push(
       <div className="columns">{boxBuffer}</div>,
     )
   }
 
   if (boxBuffer.length < boxColumnCount) {
     for (let i = boxColumnCount.length; i < boxColumnCount; i++) {
-      boxColumns = boxColumns.concat(
+      boxColumns.push(
         <div className="columns">&nbsp;</div>,
       )
     }
   }
 
-  return boxColumns.concat(<div style={{ clear: "both" }}/>)
+  boxColumns.push(<div style={{ clear: "both" }}/>)
+
+  return boxColumns
 }
 
 export default PokeBoxList

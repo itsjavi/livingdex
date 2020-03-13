@@ -9,8 +9,8 @@ html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  background: rgb(208,247,164);
-  background: linear-gradient(180deg, rgba(208,247,164,1) 0%, rgba(153,239,184,1) 60%, rgba(199,251,243,1) 100%);
+  background: rgb(208, 247, 164);
+  background: linear-gradient(180deg, rgba(208, 247, 164, 1) 0%, rgba(153, 239, 184, 1) 60%, rgba(199, 251, 243, 1) 100%);
   color: #222;
 }
 
@@ -27,15 +27,18 @@ body {
   background: #334;
   margin-bottom: 1.45rem;
   color: #fff;
-  text-shadow: 2px 2px 1px rgba(0,0,0,0.4);
+  text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.4);
+
   a {
     text-decoration: none;
     color: inherit;
-    display:block;
+    display: block;
   }
+
   h1 {
     font-weight: bold;
   }
+
   padding: 30px 20px;
   font-size: 36px;
   text-align: center;
@@ -46,9 +49,10 @@ body {
   padding: 50px 20px;
   font-size: 16px;
   margin-bottom: 0;
+
   a {
     display: inline-block;
-    margin:0 20px;
+    margin: 0 20px;
   }
 }
 
@@ -70,6 +74,21 @@ body {
   }
 }
 
+
+img.pk-img-hover {
+  display: none !important;
+}
+
+.pk-tag-has-gigantamax:hover {
+  img.pk-img-default {
+    display: none !important;
+  }
+
+  img.pk-img-hover {
+    display: inline-block !important;
+  }
+}
+
 .pk-box-container {
   position: relative;
   box-sizing: content-box;
@@ -78,11 +97,11 @@ body {
   border-radius: 20px;
   min-width: 400px;
 }
-.pk-x-column .pk-box-container
-{
+
+.pk-x-column .pk-box-container {
   width: 480px;
   display: inline-block;
-  float:left;
+  float: left;
 }
 
 .pk-box-container .title {
@@ -130,6 +149,10 @@ body {
   z-index: 0;
 }
 
+.pk-box-poke.pk-tag-has-gigantamax:after {
+  background: radial-gradient(circle, rgba(210, 6, 23, 0.65) 0%, rgba(117, 210, 183, 0) 60%);
+}
+
 .pk-home-logo {
   position: relative;
   margin: 40px;
@@ -141,3 +164,10 @@ body {
   width: auto;
   height: 250px;
 }
+
+//.pk-tag-has-gigantamax::after {
+//  content: " ";
+//  border-radius: 0;
+//  background: url("/media/symbols/dynamax_sprite.png") transparent no-repeat top right;
+//  background-size: 16px;
+//}

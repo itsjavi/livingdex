@@ -12,7 +12,7 @@ const PokeBoxRow = ({ boxRow }) => {
   // fill gaps
   if (cells.length < boxRowCellCount) {
     for (let i = cells.length; i < boxRowCellCount; i++) {
-      cells = cells.concat(
+      cells.push(
         <PokeBoxCellGap/>,
       )
     }

@@ -94,8 +94,27 @@ $currentBoxCol = -1;
 $pokemonFormsFlatten = [];
 $boxes = [];
 
+// process tags
+foreach ($pokemon as $i => $pk) {
+    $baseIndex = null;
+    $hasGigantaMax = false;
+    foreach ($pk['forms'] as $k => $form) {
+        if (in_array('base', $form['tags'])) {
+            $baseIndex = $k;
+        }
+        if (in_array('gigantamax', $form['tags'])) {
+            $hasGigantaMax = true;
+        }
+    }
+    if ($hasGigantaMax && $baseIndex !== null) {
+        $pokemon[$i]['forms'][$baseIndex]['tags'][] = 'has-gigantamax';
+    }
+}
+
 // process and flatten pokemon forms list
 foreach ($pokemon as $i => $pk) {
+    $baseIndex = null;
+    $hasGigantaMax = false;
     foreach ($pk['forms'] as $k => $form) {
         if ($isExcluded($form['name_numeric']) || $isExcluded($form['name_numeric_avatar'])) {
             continue;
