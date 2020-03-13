@@ -20,6 +20,34 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+a {
+  text-decoration: none;
+}
+
+
+[data-tooltip] {
+  position: relative;
+}
+
+[data-tooltip]:hover::after,
+[data-tooltip]:focus::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  color: #fff;
+  background-color: #333444;
+  padding: 3px;
+  z-index: 999;
+  font-size: 0.9em;
+  width: 200%;
+  margin-left: -50%;
+  /* top: 150%; */
+  //left: 0;
+  border-radius: 8px;
+  display: block;
+  margin-top: 10px;
+}
+
+
 .pk-main-header,
 .pk-main-footer {
   font-family: monospace, "Pokemon GB", "Helvetica Neue";
@@ -75,17 +103,17 @@ body {
 }
 
 
-img.pk-img-hover {
-  display: none !important;
+.pk-img-hover {
+  display: none;
 }
 
 .pk-tag-has-gigantamax:hover {
-  img.pk-img-default {
-    display: none !important;
+  .pk-img-default {
+    display: none;
   }
 
-  img.pk-img-hover {
-    display: inline-block !important;
+  .pk-img-hover {
+    display: inline-block;
   }
 }
 
@@ -130,10 +158,10 @@ img.pk-img-hover {
 
 .pk-box-poke {
   position: relative;
-  cursor: pointer;
-  word-break: break-all;
-  overflow: hidden;
-  overflow-wrap: break-word;
+  //cursor: pointer;
+  //word-break: break-all;
+  //overflow: hidden;
+  //overflow-wrap: break-word;
 }
 
 .pk-box-poke:after {

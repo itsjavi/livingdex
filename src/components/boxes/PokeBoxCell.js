@@ -15,7 +15,7 @@ const PokeBoxCell = ({ boxCell }) => {
   if (!boxCell.tags.includes("has-gigantamax")) {
     return (
       <>
-        <div title={title} className={classNameStr}>
+        <div className={classNameStr}>
           <Image title={title} alt={title} src={boxCell.image}/>
         </div>
       </>
@@ -23,9 +23,9 @@ const PokeBoxCell = ({ boxCell }) => {
   }
   return (
     <>
-      <div title={title} className={classNameStr}>
+      <div className={classNameStr}>
         <Image className="pk-img-default" title={title} alt={title} src={boxCell.image}/>
-        <Image className="pk-img-hover"  title={title + "-gigantamax"} alt={title + "-gigantamax"}
+        <Image className="pk-img-hover" title={title + "-gigantamax"} alt={title + "-gigantamax"}
                src={boxCell.image.replace(".png", "-gigantamax.png")}/>
       </div>
     </>
