@@ -10,7 +10,7 @@ import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-function SEO({ description, lang, meta, title }) {
+function SEO({ description, lang, meta, title, link }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -25,15 +25,23 @@ function SEO({ description, lang, meta, title }) {
     `
   )
 
+  const fullTitle = `${site.siteMetadata.title} | ${title}`
   const metaDescription = description || site.siteMetadata.description
-
+  const previewImg = `https://raw.githubusercontent.com/capsumon/livingdex/master/src/images/preview.png`
   return (
     <Helmet
       htmlAttributes={{
         lang,
       }}
-      title={title}
-      titleTemplate={`${site.siteMetadata.title} | %s`}
+      title={fullTitle}
+      titleTemplate={`%s`}
+      link={[
+        {
+          rel: `icon`,
+          type: `image/x-icon`,
+          href: `icons/icon-48x48.png`
+        }
+      ].concat(link)}
       meta={[
         {
           name: `description`,
@@ -41,7 +49,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:title`,
-          content: title,
+          content: fullTitle,
         },
         {
           property: `og:description`,
@@ -52,20 +60,32 @@ function SEO({ description, lang, meta, title }) {
           content: `website`,
         },
         {
+          property: `og:image`,
+          content: previewImg,
+        },
+        {
           name: `twitter:card`,
-          content: `summary`,
+          content: `summary_large_image`,
         },
         {
           name: `twitter:creator`,
           content: site.siteMetadata.author,
         },
         {
+          name: `twitter:site`,
+          content: '@capsumon',
+        },
+        {
           name: `twitter:title`,
-          content: title,
+          content: fullTitle,
         },
         {
           name: `twitter:description`,
           content: metaDescription,
+        },
+        {
+          property: `twitter:image`,
+          content: previewImg,
         },
       ].concat(meta)}
     />
@@ -74,6 +94,7 @@ function SEO({ description, lang, meta, title }) {
 
 SEO.defaultProps = {
   lang: `en`,
+  link: [],
   meta: [],
   description: ``,
 }
@@ -81,6 +102,7 @@ SEO.defaultProps = {
 SEO.propTypes = {
   description: PropTypes.string,
   lang: PropTypes.string,
+  link: PropTypes.arrayOf(PropTypes.object),
   meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string.isRequired,
 }

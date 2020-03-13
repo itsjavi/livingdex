@@ -11,4 +11,4 @@
     <a href="https://github.com/route1rodent" rel="noopener noreferrer" target="_blank"> via Twitter</a>
 </p>
 
-![](preview.png)
+![](src/images/preview.png)

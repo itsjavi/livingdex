@@ -42,10 +42,10 @@ module.exports = {
       options: {
         name: `Pokémon Living Dex`,
         short_name: `Living Dex`,
-        start_url: `/`,
+        start_url: `/livingdex`,
         background_color: `#75d2b7`,
         theme_color: `#75d2b7`,
-        display: `standalone`,
+        display: `minimal-ui`,
         icon: `src/images/home-logo.png`, // This path is relative to the root of the site.
       },
     },
