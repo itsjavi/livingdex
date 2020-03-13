@@ -9,6 +9,9 @@ html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  background: rgb(208,247,164);
+  background: linear-gradient(180deg, rgba(208,247,164,1) 0%, rgba(153,239,184,1) 60%, rgba(199,251,243,1) 100%);
+  color: #222;
 }
 
 body {
@@ -19,23 +22,30 @@ body {
 
 .pk-main-header,
 .pk-main-footer {
-  background: #75d2b7;
+  font-family: monospace, "Pokemon GB", "Helvetica Neue";
+  //background: #75d2b7;
+  background: #334;
   margin-bottom: 1.45rem;
   color: #fff;
+  text-shadow: 2px 2px 1px rgba(0,0,0,0.4);
   a {
     text-decoration: none;
     color: inherit;
     display:block;
   }
-  padding: 40px 20px;
+  h1 {
+    font-weight: bold;
+  }
+  padding: 30px 20px;
   font-size: 36px;
   text-align: center;
   font-weight: bold;
 }
 
 .pk-main-footer {
-  padding: 20px 20px;
+  padding: 50px 20px;
   font-size: 16px;
+  margin-bottom: 0;
   a {
     display: inline-block;
     margin:0 20px;
@@ -54,6 +64,10 @@ body {
   display: inline-block;
   position: relative;
   z-index: 2;
+  //filter: drop-shadow(2px 4px 4px rgba(0, 0, 0, 0.25));
+  &:hover {
+    filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.6));
+  }
 }
 
 .pk-box-container {
@@ -62,6 +76,7 @@ body {
   margin: 20px 20px;
   box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.1);
   border-radius: 20px;
+  min-width: 400px;
 }
 .pk-x-column .pk-box-container
 {
@@ -82,13 +97,13 @@ body {
 }
 
 .pk-box-container .hero-head {
-  background: #75d2b7;
+  background: #11b2b0;
   padding: 10px;
   border-radius: 20px 20px 0px 0px;
 }
 
 .pk-box-container .hero-body {
-  border: 1px solid #75d2b7;
+  border: 1px solid #11b2b0;
   padding: 20px;
   background: #fff;
   border-radius: 0px 0px 20px 20px;
@@ -110,7 +125,7 @@ body {
   left: 50%;
   top: 50%;
   margin: -34px 0 0 -38px;
-  background: radial-gradient(circle, rgba(117, 210, 183, 0.75) 0%, rgba(117, 210, 183, 0) 60%);
+  background: radial-gradient(circle, rgba(117, 210, 183, 0.65) 0%, rgba(117, 210, 183, 0) 60%);
   border-radius: 60px;
   z-index: 0;
 }

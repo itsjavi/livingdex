@@ -1,11 +1,23 @@
 import React from "react"
 import PropTypes from "prop-types"
 import PokeBoxRow from "./PokeBoxRow"
+import PokeBoxRowGap from "./PokeBoxRowGap"
+
+const boxRowCount = 5
 
 const PokeBox = ({ boxTitle, boxRows }) => {
-  const rowContents = boxRows.map((row) => {
+  let rowContents = boxRows.map((row) => {
     return <PokeBoxRow boxRow={row["cells"]}/>
   })
+
+  // fill gaps
+  if (rowContents.length < boxRowCount) {
+    for (let i = rowContents.length; i < boxRowCount; i++) {
+      rowContents = rowContents.concat(
+        <PokeBoxRowGap/>,
+      )
+    }
+  }
 
   return (
     <>
