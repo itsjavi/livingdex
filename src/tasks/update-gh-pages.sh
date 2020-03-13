@@ -9,7 +9,9 @@ fi
 
 mv gh-pages/.git gh-pages-git
 rm -rf gh-pages/*
-cp -$ public/ gh-pages
+
+./src/tasks/build.sh
+cp -R public/ gh-pages
 mv gh-pages-git gh-pages/.git
 
 cd gh-pages

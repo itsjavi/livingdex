@@ -123,7 +123,7 @@ a {
   margin: 20px 20px;
   box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.1);
   border-radius: 20px;
-  min-width: 400px;
+  min-width: 360px;
 }
 
 .pk-x-column .pk-box-container {
@@ -199,3 +199,20 @@ a {
 //  background: url("/media/symbols/dynamax_sprite.png") transparent no-repeat top right;
 //  background-size: 16px;
 //}
+
+@media screen and (max-width: 768px)
+{
+  .is-full-mobile {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+    .pk-box-container {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+  .columns.is-full-mobile{
+    padding: 0 0.75rem;
+  }
+}

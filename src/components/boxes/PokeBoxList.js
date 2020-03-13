@@ -35,7 +35,7 @@ const PokeBoxList = () => {
     )
     if (boxBuffer.length === boxColumnCount) {
       boxColumns.push(
-        <div className="columns">{boxBuffer}</div>,
+        <div className="columns is-full-mobile">{boxBuffer}</div>,
       )
       boxBuffer = []
     }
@@ -43,19 +43,19 @@ const PokeBoxList = () => {
 
   if (boxBuffer.length > 0) {
     boxColumns.push(
-      <div className="columns">{boxBuffer}</div>,
+      <div className="columns is-full-mobile">{boxBuffer}</div>,
     )
   }
 
   if (boxBuffer.length < boxColumnCount) {
     for (let i = boxColumnCount.length; i < boxColumnCount; i++) {
       boxColumns.push(
-        <div className="columns">&nbsp;</div>,
+        <div className="columns is-full-mobile">&nbsp;</div>,
       )
     }
   }
 
-  boxColumns.push(<div style={{ clear: "both" }}/>)
+  //boxColumns.push(<div style={{ clear: "both" }}/>)
 
   return boxColumns
 }
