@@ -7,7 +7,6 @@ if [[ ! -d "gh-pages" ]]; then
   cd -
 fi
 
-git pull --rebase || exit 1
 mv gh-pages/.git gh-pages-git
 rm -rf gh-pages/*
 

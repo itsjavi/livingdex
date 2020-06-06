@@ -42,7 +42,7 @@ module.exports = {
       options: {
         name: `Pokémon Living Dex`,
         short_name: `LivingDex`,
-        start_url: '.',
+        start_url: ".",
         background_color: `#75d2b7`,
         theme_color: `#75d2b7`,
         display: `standalone`,
@@ -53,6 +53,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "UA-85082661-2",
+        head: true,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
