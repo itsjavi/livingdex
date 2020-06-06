@@ -50,6 +50,12 @@ $excluded = [
         '845-gorging',
         '875-noice-face',
         '877-hangry-mode',
+
+        // fusions
+        '646-black',
+        '646-white',
+        '800-dusk-mane',
+        '800-dawn-wings'
     ],
     'regexes' => [
         '/^000-(.*)/', // misc icons

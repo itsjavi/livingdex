@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: `/livingdex`,
   siteMetadata: {
     title: `Pokémon Living Dex`,
-    version: '0.2.2-beta',
+    version: "0.3.0-beta",
     description: `An online Living Dex helper tool.`,
     author: `@itsjavi`,
   },
@@ -13,7 +13,7 @@ module.exports = {
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-transformer-json`,
-      options: {}
+      options: {},
     },
     {
       resolve: `gatsby-source-filesystem`,
@@ -41,11 +41,11 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Pokémon Living Dex`,
-        short_name: `Living Dex`,
+        short_name: `LivingDex`,
         start_url: `/livingdex`,
         background_color: `#75d2b7`,
         theme_color: `#75d2b7`,
-        display: `minimal-ui`,
+        display: `standalone`,
         icon: `src/images/home-logo.png`, // This path is relative to the root of the site.
       },
     },
