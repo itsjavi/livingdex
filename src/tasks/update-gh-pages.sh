@@ -1,7 +1,7 @@
 #!/usr/bin/env zsh
 
 if [[ ! -d "gh-pages" ]]; then
-  git clone git@github.com:capsumon/livingdex.git gh-pages
+  git clone git@github.com:itsjavi/livingdex.git gh-pages
   cd gh-pages
   git checkout gh-pages
   cd -

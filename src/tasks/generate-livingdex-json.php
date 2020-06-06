@@ -8,7 +8,7 @@ $boxRowSize = 5;
 $boxColSize = 6;
 $boxSize = $boxRowSize * $boxColSize; // = 30
 $imgDirDexSize = 100; // max dex numbers per image folder
-$jsonFile = __DIR__ . '/../../vendor/route1rodent/pokemon-data/exports/pokemon-reference.json';
+$jsonFile = __DIR__ . '/../../vendor/itsjavi/pokemon-data/exports/pokemon-reference.json';
 $pokemon = json_decode(file_get_contents($jsonFile), true, 512, JSON_THROW_ON_ERROR);
 $excluded = [
     'identifiers' => [

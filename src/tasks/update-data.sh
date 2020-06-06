@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-cd vendor/route1rodent/pokemon-data
+cd vendor/itsjavi/pokemon-data
 git pull
 cd -
 

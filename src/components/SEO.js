@@ -27,7 +27,7 @@ function SEO({ description, lang, meta, title, link }) {
 
   const fullTitle = `${site.siteMetadata.title} | ${title}`
   const metaDescription = description || site.siteMetadata.description
-  const previewImg = `https://raw.githubusercontent.com/capsumon/livingdex/master/src/images/preview.png`
+  const previewImg = `https://raw.githubusercontent.com/itsjavi/livingdex/master/src/images/preview.png`
   return (
     <Helmet
       htmlAttributes={{
@@ -73,7 +73,7 @@ function SEO({ description, lang, meta, title, link }) {
         },
         {
           name: `twitter:site`,
-          content: '@capsumon',
+          content: '@itsjavi',
         },
         {
           name: `twitter:title`,

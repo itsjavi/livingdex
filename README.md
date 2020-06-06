@@ -8,7 +8,7 @@
     <br/>
     The project is still in a very early state, but
     please feel free to send any feedback directly
-    <a href="https://github.com/route1rodent" rel="noopener noreferrer" target="_blank"> via Twitter</a>
+    <a href="https://github.com/itsjavi" rel="noopener noreferrer" target="_blank"> via Twitter</a>
 </p>
 
 ![](src/images/preview.png)
