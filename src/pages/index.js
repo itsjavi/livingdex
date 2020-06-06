@@ -20,7 +20,7 @@ const IndexPage = () => (
             including all gender differences.
             <br/>
             The project is still in a very early state, but
-            please feel free to send any feedback directly
+            please feel free to send any feedback directly&nbsp;
             <a href="https://github.com/itsjavi/livingdex" rel="noopener noreferrer" target="_blank">
               via Github.
             </a>
