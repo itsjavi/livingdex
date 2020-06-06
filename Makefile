@@ -8,6 +8,9 @@ install:
 build:
 	npm run build
 
+pages:
+	npm run publish
+
 start:
 	npm run start
 
