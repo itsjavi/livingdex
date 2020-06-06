@@ -6,15 +6,15 @@ import PokeBoxRowGap from "./PokeBoxRowGap"
 const boxRowCount = 5
 
 const PokeBox = ({ boxTitle, boxRows }) => {
-  let rowContents = boxRows.map((row) => {
-    return <PokeBoxRow boxRow={row["cells"]}/>
+  let rowContents = boxRows.map((row, i) => {
+    return <PokeBoxRow key={i} boxRow={row["cells"]}/>
   })
 
   // fill gaps
   if (rowContents.length < boxRowCount) {
     for (let i = rowContents.length; i < boxRowCount; i++) {
       rowContents.push(
-        <PokeBoxRowGap/>,
+        <PokeBoxRowGap key={i}/>,
       )
     }
   }

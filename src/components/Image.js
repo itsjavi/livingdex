@@ -1,7 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 
-const Image = ({ src, alt = "", title = "", className = "", href = "javascript:;" }) => {
+const Image = ({ src, alt = "", title = "", className = "", href = "#" }) => {
   title = title.replace(/-/g, " ")
   title = title.toLowerCase()
     .split(" ")

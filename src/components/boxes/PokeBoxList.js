@@ -31,11 +31,11 @@ const PokeBoxList = () => {
   result["dataJson"]["boxes"].forEach((box, i) => {
     let title = `BOX ${i + 1}`
     boxBuffer.push(
-      <div className="column is-one-third-widescreen is-half is-full-mobile"><PokeBox boxTitle={title} boxRows={box.rows}/></div>,
+      <div key={i} className="column is-one-third-widescreen is-half is-full-mobile"><PokeBox boxTitle={title} boxRows={box.rows}/></div>,
     )
     if (boxBuffer.length === boxColumnCount) {
       boxColumns.push(
-        <div className="columns is-full-mobile">{boxBuffer}</div>,
+        <div key={i} className="columns is-full-mobile">{boxBuffer}</div>,
       )
       boxBuffer = []
     }
@@ -43,14 +43,14 @@ const PokeBoxList = () => {
 
   if (boxBuffer.length > 0) {
     boxColumns.push(
-      <div className="columns is-full-mobile">{boxBuffer}</div>,
+      <div key={-1} className="columns is-full-mobile">{boxBuffer}</div>,
     )
   }
 
   if (boxBuffer.length < boxColumnCount) {
     for (let i = boxColumnCount.length; i < boxColumnCount; i++) {
       boxColumns.push(
-        <div className="columns is-full-mobile">&nbsp;</div>,
+        <div key={-(i + 2)} className="columns is-full-mobile">&nbsp;</div>,
       )
     }
   }

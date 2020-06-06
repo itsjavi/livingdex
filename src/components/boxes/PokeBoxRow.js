@@ -6,14 +6,14 @@ import PokeBoxCellGap from "./PokeBoxCellGap"
 const boxRowCellCount = 6
 
 const PokeBoxRow = ({ boxRow }) => {
-  let cells = boxRow.map((cell) => {
-    return <PokeBoxCell boxCell={cell}/>
+  let cells = boxRow.map((cell, i) => {
+    return <PokeBoxCell key={i} boxCell={cell}/>
   })
   // fill gaps
   if (cells.length < boxRowCellCount) {
     for (let i = cells.length; i < boxRowCellCount; i++) {
       cells.push(
-        <PokeBoxCellGap/>,
+        <PokeBoxCellGap key={i}/>,
       )
     }
   }

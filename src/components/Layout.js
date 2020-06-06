@@ -20,7 +20,7 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <Header siteMeta={data.site.siteMetadata}/>
+      <Header siteMeta={data.site.siteMetadata} />
       <main>
         { children }
       </main>

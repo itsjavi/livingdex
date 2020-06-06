@@ -9,7 +9,7 @@ const Header = ({ siteMeta }) => (
 )
 
 Header.propTypes = {
-  siteMeta: PropTypes.arrayOf(PropTypes.object).isRequired
+  siteMeta: PropTypes.object.isRequired
 }
 
 export default Header
