@@ -1,4 +1,5 @@
 default:build
+publish:pages
 
 install:
 	./src/tasks/install-prerequisites.sh
