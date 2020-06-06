@@ -8,7 +8,9 @@
     <br/>
     The project is still in a very early state, but
     please feel free to send any feedback directly
-    <a href="https://github.com/itsjavi" rel="noopener noreferrer" target="_blank"> via Twitter</a>
+    <a href="https://github.com/itsjavi/livingdex" target="_blank">
+      via Github.
+    </a>
 </p>
 
 ![](src/images/preview.png)
