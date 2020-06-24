@@ -56,7 +56,8 @@
                             "name_numeric_avatar": "003-female",
                             "name_short": "female",
                             "tags": [
-                                "female"
+                                "female",
+                                "has-gigantamax"
                             ],
                             "id": 3,
                             "pid": "003",
@@ -209,7 +210,8 @@
                             "name_numeric_avatar": "012-female",
                             "name_short": "female",
                             "tags": [
-                                "female"
+                                "female",
+                                "has-gigantamax"
                             ],
                             "id": 12,
                             "pid": "012",
@@ -573,7 +575,8 @@
                             "name_numeric_avatar": "025-female",
                             "name_short": "female",
                             "tags": [
-                                "female"
+                                "female",
+                                "has-gigantamax"
                             ],
                             "id": 25,
                             "pid": "025",
@@ -2853,7 +2856,8 @@
                             "name_numeric_avatar": "133-female",
                             "name_short": "female",
                             "tags": [
-                                "female"
+                                "female",
+                                "has-gigantamax"
                             ],
                             "id": 133,
                             "pid": "133",
@@ -16284,7 +16288,9 @@
                             "name_numeric": "849-low-key",
                             "name_numeric_avatar": "849-low-key",
                             "name_short": "low-key",
-                            "tags": [],
+                            "tags": [
+                                "has-gigantamax"
+                            ],
                             "id": 849,
                             "pid": "849",
                             "image": "media\/renders\/801-900\/849-low-key.png",
@@ -17761,6 +17767,122 @@
                             "pid": "890",
                             "image": "media\/renders\/801-900\/890.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/890.png"
+                        },
+                        {
+                            "name": "kubfu",
+                            "name_avatar": "kubfu",
+                            "name_numeric": "891",
+                            "name_numeric_avatar": "891",
+                            "name_short": null,
+                            "tags": [
+                                "base"
+                            ],
+                            "id": 891,
+                            "pid": "891",
+                            "image": "media\/renders\/801-900\/891.png",
+                            "image_shiny": "media\/renders\/shiny\/801-900\/891.png"
+                        },
+                        {
+                            "name": "urshifu-single-strike-style",
+                            "name_avatar": "urshifu-single-strike-style",
+                            "name_numeric": "892",
+                            "name_numeric_avatar": "892",
+                            "name_short": "single-strike-style",
+                            "tags": [
+                                "base",
+                                "has-gigantamax"
+                            ],
+                            "id": 892,
+                            "pid": "892",
+                            "image": "media\/renders\/801-900\/892.png",
+                            "image_shiny": "media\/renders\/shiny\/801-900\/892.png"
+                        },
+                        {
+                            "name": "urshifu-rapid-strike-style",
+                            "name_avatar": "urshifu-rapid-strike-style",
+                            "name_numeric": "892-rapid-strike-style",
+                            "name_numeric_avatar": "892-rapid-strike-style",
+                            "name_short": "rapid-strike-style",
+                            "tags": [
+                                "has-gigantamax"
+                            ],
+                            "id": 892,
+                            "pid": "892",
+                            "image": "media\/renders\/801-900\/892-rapid-strike-style.png",
+                            "image_shiny": "media\/renders\/shiny\/801-900\/892-rapid-strike-style.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "pokemon": [
+                        {
+                            "name": "zarude",
+                            "name_avatar": "zarude",
+                            "name_numeric": "893",
+                            "name_numeric_avatar": "893",
+                            "name_short": null,
+                            "tags": [
+                                "base"
+                            ],
+                            "id": 893,
+                            "pid": "893",
+                            "image": "media\/renders\/801-900\/893.png",
+                            "image_shiny": "media\/renders\/shiny\/801-900\/893.png"
+                        },
+                        {
+                            "name": "zarude-dada",
+                            "name_avatar": "zarude-dada",
+                            "name_numeric": "893-dada",
+                            "name_numeric_avatar": "893-dada",
+                            "name_short": "dada",
+                            "tags": [],
+                            "id": 893,
+                            "pid": "893",
+                            "image": "media\/renders\/801-900\/893-dada.png",
+                            "image_shiny": "media\/renders\/shiny\/801-900\/893-dada.png"
+                        },
+                        {
+                            "name": "calyrex",
+                            "name_avatar": "calyrex",
+                            "name_numeric": "894",
+                            "name_numeric_avatar": "894",
+                            "name_short": null,
+                            "tags": [
+                                "base"
+                            ],
+                            "id": 894,
+                            "pid": "???",
+                            "image": "media\/renders\/801-900\/894.png",
+                            "image_shiny": "media\/renders\/shiny\/801-900\/894.png"
+                        },
+                        {
+                            "name": "regieleki",
+                            "name_avatar": "regieleki",
+                            "name_numeric": "895",
+                            "name_numeric_avatar": "895",
+                            "name_short": null,
+                            "tags": [
+                                "base"
+                            ],
+                            "id": 895,
+                            "pid": "???",
+                            "image": "media\/renders\/801-900\/895.png",
+                            "image_shiny": "media\/renders\/shiny\/801-900\/895.png"
+                        },
+                        {
+                            "name": "regidrago",
+                            "name_avatar": "regidrago",
+                            "name_numeric": "896",
+                            "name_numeric_avatar": "896",
+                            "name_short": null,
+                            "tags": [
+                                "base"
+                            ],
+                            "id": 896,
+                            "pid": "???",
+                            "image": "media\/renders\/801-900\/896.png",
+                            "image_shiny": "media\/renders\/shiny\/801-900\/896.png"
                         }
                     ]
                 }
