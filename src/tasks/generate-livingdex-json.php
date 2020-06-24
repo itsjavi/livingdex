@@ -37,7 +37,6 @@ $excluded = [
         '555-zen-galar',
         '648-pirouette',
         '658-ash',
-        '670-eternal',
         '681-blade',
         '716-active',
         '718-complete',
@@ -55,7 +54,15 @@ $excluded = [
         '646-black',
         '646-white',
         '800-dusk-mane',
-        '800-dawn-wings'
+        '800-dawn-wings',
+
+        // unreleased
+        '670-eternal',
+        '025-world-cap',
+//        '893-dada',
+//        '894',
+//        '895',
+//        '896',
     ],
     'regexes' => [
         '/^000-(.*)/', // misc icons
@@ -69,7 +76,11 @@ $excluded = [
         '/^773-(.*)/', // all Sylvally forms
     ],
 ];
-
+$unknownDexNumber = [
+    '894',
+    '895',
+    '896',
+];
 
 ///
 /// PROCESSOR:
@@ -106,27 +117,41 @@ $currentBoxCol = -1;
 $pokemonFormsFlatten = [];
 $boxes = [];
 
-// process tags
+// detect gigantamax forms
 foreach ($pokemon as $i => $pk) {
-    $baseIndex = null;
-    $hasGigantaMax = false;
+    if(in_array($pk['pid'], $unknownDexNumber)){
+        $pokemon[$i]['pid'] = '???';
+    }
+    $nonGigantamaxForms = [];
+    $gigantamaxForms = [];
+
     foreach ($pk['forms'] as $k => $form) {
-        if (in_array('base', $form['tags'])) {
-            $baseIndex = $k;
-        }
+        $form['_index'] = $k;
+
         if (in_array('gigantamax', $form['tags'])) {
-            $hasGigantaMax = true;
+            $gigantamaxForms[$form['name']] = $form;
+        } else {
+            $nonGigantamaxForms[$form['name']] = $form;
         }
     }
-    if ($hasGigantaMax && $baseIndex !== null) {
-        $pokemon[$i]['forms'][$baseIndex]['tags'][] = 'has-gigantamax';
+    foreach ($nonGigantamaxForms as $form) {
+        if (isset($gigantamaxForms[$form['name'] . '-gigantamax'])) {
+            $pokemon[$i]['forms'][$form['_index']]['tags'][] = 'has-gigantamax';
+            continue;
+        }
+        if (in_array('base', $form['tags']) && isset($gigantamaxForms[$pk['name'] . '-gigantamax'])) {
+            $pokemon[$i]['forms'][$form['_index']]['tags'][] = 'has-gigantamax';
+            continue;
+        }
+        if (in_array('female', $form['tags']) && isset($gigantamaxForms[$pk['name'] . '-gigantamax'])) {
+            $pokemon[$i]['forms'][$form['_index']]['tags'][] = 'has-gigantamax';
+            continue;
+        }
     }
 }
 
 // process and flatten pokemon forms list
 foreach ($pokemon as $i => $pk) {
-    $baseIndex = null;
-    $hasGigantaMax = false;
     foreach ($pk['forms'] as $k => $form) {
         if ($isExcluded($form['name_numeric']) || $isExcluded($form['name_numeric_avatar'])) {
             continue;
