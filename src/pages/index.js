@@ -6,7 +6,7 @@ import PokeBoxList from "../components/boxes/PokeBoxList"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Box Organizer"/>
+    <SEO title="Pokémon HOME Box Organizer"/>
     <div className="container">
       <div className="hero is-light" style={{
         borderRadius: "20px",

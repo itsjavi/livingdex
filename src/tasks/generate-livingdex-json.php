@@ -163,6 +163,9 @@ foreach ($pokemon as $i => $pk) {
         if (in_array('base', $form['tags']) && $isExcluded($form['name_numeric'], 'base')) {
             continue;
         }
+        if (in_array('female', $form['tags']) && in_array('has-gigantamax', $form['tags'])) {
+            unset($form['tags'][array_search('has-gigantamax', $form['tags'])]);
+        }
         $srcDirName = $boxCalc($pk['id'], $imgDirDexSize, $numPadding);
         $slug = $form['name_numeric_avatar'];
         $form['id'] = $pk['id'];
