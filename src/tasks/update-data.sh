@@ -5,3 +5,4 @@ git pull
 cd -
 
 php ./src/tasks/generate-livingdex-json.php > static/data/pokemon-boxes.json
+echo " > static/data/pokemon-boxes.json generated"

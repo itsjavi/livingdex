@@ -75,6 +75,9 @@ $excluded = [
         '/^676-(.*)/', // all Furfrou styles
         '/^773-(.*)/', // all Sylvally forms
     ],
+    'base' => [
+        '658', // regular greninja, since we will store greninja-batle-bond preferably
+    ]
 ];
 $unknownDexNumber = [
     '894',
@@ -86,11 +89,12 @@ $unknownDexNumber = [
 /// PROCESSOR:
 ///
 
-$isExcluded = function (string $slug) use ($excluded): bool {
-    if (in_array($slug, $excluded['identifiers'], true)) {
+$isExcluded = function (string $slug, $group = 'identifiers', $regexGroup = 'regexes')
+use ($excluded): bool {
+    if (in_array($slug, $excluded[$group], true)) {
         return true;
     }
-    foreach ($excluded['regexes'] as $regex) {
+    foreach ($excluded[$regexGroup] as $regex) {
         if ((preg_match($regex, $slug) > 0)) {
             return true;
         }
@@ -119,7 +123,7 @@ $boxes = [];
 
 // detect gigantamax forms
 foreach ($pokemon as $i => $pk) {
-    if(in_array($pk['pid'], $unknownDexNumber)){
+    if (in_array($pk['pid'], $unknownDexNumber)) {
         $pokemon[$i]['pid'] = '???';
     }
     $nonGigantamaxForms = [];
@@ -154,6 +158,9 @@ foreach ($pokemon as $i => $pk) {
 foreach ($pokemon as $i => $pk) {
     foreach ($pk['forms'] as $k => $form) {
         if ($isExcluded($form['name_numeric']) || $isExcluded($form['name_numeric_avatar'])) {
+            continue;
+        }
+        if (in_array('base', $form['tags']) && $isExcluded($form['name_numeric'], 'base')) {
             continue;
         }
         $srcDirName = $boxCalc($pk['id'], $imgDirDexSize, $numPadding);

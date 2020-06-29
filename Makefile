@@ -6,7 +6,10 @@ install:
 	./src/tasks/install.sh
 	./src/tasks/update-data.sh
 
-reinstall:
+data:
+	./src/tasks/update-data.sh
+
+upgrade:
 	rm -rf ./static
 	./src/tasks/install.sh
 	./src/tasks/update-data.sh
@@ -14,6 +17,7 @@ reinstall:
 build:
 	npm run build
 
+publish:pages
 pages:
 	npm run publish
 
