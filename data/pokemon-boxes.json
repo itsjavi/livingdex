@@ -56,8 +56,7 @@
                             "name_numeric_avatar": "003-female",
                             "name_short": "female",
                             "tags": [
-                                "female",
-                                "has-gigantamax"
+                                "female"
                             ],
                             "id": 3,
                             "pid": "003",
@@ -210,8 +209,7 @@
                             "name_numeric_avatar": "012-female",
                             "name_short": "female",
                             "tags": [
-                                "female",
-                                "has-gigantamax"
+                                "female"
                             ],
                             "id": 12,
                             "pid": "012",
@@ -575,8 +573,7 @@
                             "name_numeric_avatar": "025-female",
                             "name_short": "female",
                             "tags": [
-                                "female",
-                                "has-gigantamax"
+                                "female"
                             ],
                             "id": 25,
                             "pid": "025",
@@ -2856,8 +2853,7 @@
                             "name_numeric_avatar": "133-female",
                             "name_short": "female",
                             "tags": [
-                                "female",
-                                "has-gigantamax"
+                                "female"
                             ],
                             "id": 133,
                             "pid": "133",
