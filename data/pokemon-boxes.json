@@ -12688,20 +12688,6 @@
                             "image_shiny": "media\/renders\/shiny\/601-700\/657.png"
                         },
                         {
-                            "name": "greninja",
-                            "name_avatar": "greninja",
-                            "name_numeric": "658",
-                            "name_numeric_avatar": "658",
-                            "name_short": null,
-                            "tags": [
-                                "base"
-                            ],
-                            "id": 658,
-                            "pid": "658",
-                            "image": "media\/renders\/601-700\/658.png",
-                            "image_shiny": "media\/renders\/shiny\/601-700\/658.png"
-                        },
-                        {
                             "name": "greninja-battle-bond",
                             "name_avatar": "greninja",
                             "name_numeric": "658-battle-bond",
@@ -12712,12 +12698,7 @@
                             "pid": "658",
                             "image": "media\/renders\/601-700\/658.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/658.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "pokemon": [
+                        },
                         {
                             "name": "bunnelby",
                             "name_avatar": "bunnelby",
@@ -12731,7 +12712,12 @@
                             "pid": "659",
                             "image": "media\/renders\/601-700\/659.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/659.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "pokemon": [
                         {
                             "name": "diggersby",
                             "name_avatar": "diggersby",
@@ -12801,12 +12787,7 @@
                             "pid": "664",
                             "image": "media\/renders\/601-700\/664.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/664.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "pokemon": [
+                        },
                         {
                             "name": "spewpa",
                             "name_avatar": "spewpa",
@@ -12820,7 +12801,12 @@
                             "pid": "665",
                             "image": "media\/renders\/601-700\/665.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/665.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "pokemon": [
                         {
                             "name": "vivillon-icy-snow",
                             "name_avatar": "vivillon-icy-snow",
@@ -12882,12 +12868,7 @@
                             "pid": "666",
                             "image": "media\/renders\/601-700\/666-continental.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/666-continental.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "pokemon": [
+                        },
                         {
                             "name": "vivillon-garden",
                             "name_avatar": "vivillon-garden",
@@ -12899,7 +12880,12 @@
                             "pid": "666",
                             "image": "media\/renders\/601-700\/666-garden.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/666-garden.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "pokemon": [
                         {
                             "name": "vivillon-elegant",
                             "name_avatar": "vivillon-elegant",
@@ -12959,17 +12945,7 @@
                             "pid": "666",
                             "image": "media\/renders\/601-700\/666-high-plains.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/666-high-plains.png"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 30,
-            "rows": [
-                {
-                    "id": 1,
-                    "pokemon": [
+                        },
                         {
                             "name": "vivillon-sandstorm",
                             "name_avatar": "vivillon-sandstorm",
@@ -12981,7 +12957,17 @@
                             "pid": "666",
                             "image": "media\/renders\/601-700\/666-sandstorm.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/666-sandstorm.png"
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "rows": [
+                {
+                    "id": 1,
+                    "pokemon": [
                         {
                             "name": "vivillon-river",
                             "name_avatar": "vivillon-river",
@@ -13041,12 +13027,7 @@
                             "pid": "666",
                             "image": "media\/renders\/601-700\/666-ocean.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/666-ocean.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "pokemon": [
+                        },
                         {
                             "name": "vivillon-jungle",
                             "name_avatar": "vivillon-jungle",
@@ -13058,7 +13039,12 @@
                             "pid": "666",
                             "image": "media\/renders\/601-700\/666-jungle.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/666-jungle.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "pokemon": [
                         {
                             "name": "vivillon-fancy",
                             "name_avatar": "vivillon-fancy",
@@ -13124,12 +13110,7 @@
                             "pid": "668",
                             "image": "media\/renders\/601-700\/668-female.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/668-female.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "pokemon": [
+                        },
                         {
                             "name": "flabebe-red",
                             "name_avatar": "flabebe-red",
@@ -13143,7 +13124,12 @@
                             "pid": "669",
                             "image": "media\/renders\/601-700\/669.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/669.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "pokemon": [
                         {
                             "name": "flabebe-yellow",
                             "name_avatar": "flabebe-yellow",
@@ -13205,12 +13191,7 @@
                             "pid": "670",
                             "image": "media\/renders\/601-700\/670.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/670.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "pokemon": [
+                        },
                         {
                             "name": "floette-yellow",
                             "name_avatar": "floette-yellow",
@@ -13222,7 +13203,12 @@
                             "pid": "670",
                             "image": "media\/renders\/601-700\/670-yellow.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/670-yellow.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "pokemon": [
                         {
                             "name": "floette-orange",
                             "name_avatar": "floette-orange",
@@ -13284,12 +13270,7 @@
                             "pid": "671",
                             "image": "media\/renders\/601-700\/671-yellow.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/671-yellow.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "pokemon": [
+                        },
                         {
                             "name": "florges-orange",
                             "name_avatar": "florges-orange",
@@ -13301,7 +13282,12 @@
                             "pid": "671",
                             "image": "media\/renders\/601-700\/671-orange.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/671-orange.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "pokemon": [
                         {
                             "name": "florges-blue",
                             "name_avatar": "florges-blue",
@@ -13367,17 +13353,7 @@
                             "pid": "674",
                             "image": "media\/renders\/601-700\/674.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/674.png"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 31,
-            "rows": [
-                {
-                    "id": 1,
-                    "pokemon": [
+                        },
                         {
                             "name": "pangoro",
                             "name_avatar": "pangoro",
@@ -13391,7 +13367,17 @@
                             "pid": "675",
                             "image": "media\/renders\/601-700\/675.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/675.png"
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "rows": [
+                {
+                    "id": 1,
+                    "pokemon": [
                         {
                             "name": "furfrou-natural",
                             "name_avatar": "furfrou-natural",
@@ -13461,12 +13447,7 @@
                             "pid": "679",
                             "image": "media\/renders\/601-700\/679.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/679.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "pokemon": [
+                        },
                         {
                             "name": "doublade",
                             "name_avatar": "doublade",
@@ -13480,7 +13461,12 @@
                             "pid": "680",
                             "image": "media\/renders\/601-700\/680.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/680.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "pokemon": [
                         {
                             "name": "aegislash-shield",
                             "name_avatar": "aegislash-shield",
@@ -13550,12 +13536,7 @@
                             "pid": "685",
                             "image": "media\/renders\/601-700\/685.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/685.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "pokemon": [
+                        },
                         {
                             "name": "inkay",
                             "name_avatar": "inkay",
@@ -13569,7 +13550,12 @@
                             "pid": "686",
                             "image": "media\/renders\/601-700\/686.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/686.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "pokemon": [
                         {
                             "name": "malamar",
                             "name_avatar": "malamar",
@@ -13639,12 +13625,7 @@
                             "pid": "691",
                             "image": "media\/renders\/601-700\/691.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/691.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "pokemon": [
+                        },
                         {
                             "name": "clauncher",
                             "name_avatar": "clauncher",
@@ -13658,7 +13639,12 @@
                             "pid": "692",
                             "image": "media\/renders\/601-700\/692.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/692.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "pokemon": [
                         {
                             "name": "clawitzer",
                             "name_avatar": "clawitzer",
@@ -13728,12 +13714,7 @@
                             "pid": "697",
                             "image": "media\/renders\/601-700\/697.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/697.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "pokemon": [
+                        },
                         {
                             "name": "amaura",
                             "name_avatar": "amaura",
@@ -13747,7 +13728,12 @@
                             "pid": "698",
                             "image": "media\/renders\/601-700\/698.png",
                             "image_shiny": "media\/renders\/shiny\/601-700\/698.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "pokemon": [
                         {
                             "name": "aurorus",
                             "name_avatar": "aurorus",
@@ -13817,17 +13803,7 @@
                             "pid": "703",
                             "image": "media\/renders\/701-800\/703.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/703.png"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 32,
-            "rows": [
-                {
-                    "id": 1,
-                    "pokemon": [
+                        },
                         {
                             "name": "goomy",
                             "name_avatar": "goomy",
@@ -13841,7 +13817,17 @@
                             "pid": "704",
                             "image": "media\/renders\/701-800\/704.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/704.png"
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "rows": [
+                {
+                    "id": 1,
+                    "pokemon": [
                         {
                             "name": "sliggoo",
                             "name_avatar": "sliggoo",
@@ -13911,12 +13897,7 @@
                             "pid": "709",
                             "image": "media\/renders\/701-800\/709.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/709.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "pokemon": [
+                        },
                         {
                             "name": "pumpkaboo-average",
                             "name_avatar": "pumpkaboo-average",
@@ -13930,7 +13911,12 @@
                             "pid": "710",
                             "image": "media\/renders\/701-800\/710.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/710.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "pokemon": [
                         {
                             "name": "pumpkaboo-small",
                             "name_avatar": "pumpkaboo-small",
@@ -13992,12 +13978,7 @@
                             "pid": "711",
                             "image": "media\/renders\/701-800\/711-small.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/711-small.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "pokemon": [
+                        },
                         {
                             "name": "gourgeist-large",
                             "name_avatar": "gourgeist-large",
@@ -14009,7 +13990,12 @@
                             "pid": "711",
                             "image": "media\/renders\/701-800\/711-large.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/711-large.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "pokemon": [
                         {
                             "name": "gourgeist-super",
                             "name_avatar": "gourgeist-super",
@@ -14077,12 +14063,7 @@
                             "pid": "715",
                             "image": "media\/renders\/701-800\/715.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/715.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "pokemon": [
+                        },
                         {
                             "name": "xerneas-neutral",
                             "name_avatar": "xerneas-neutral",
@@ -14096,7 +14077,12 @@
                             "pid": "716",
                             "image": "media\/renders\/701-800\/716.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/716.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "pokemon": [
                         {
                             "name": "yveltal",
                             "name_avatar": "yveltal",
@@ -14164,12 +14150,7 @@
                             "pid": "720",
                             "image": "media\/renders\/701-800\/720.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/720.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "pokemon": [
+                        },
                         {
                             "name": "hoopa-unbound",
                             "name_avatar": "hoopa-unbound",
@@ -14181,7 +14162,12 @@
                             "pid": "720",
                             "image": "media\/renders\/701-800\/720-unbound.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/720-unbound.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "pokemon": [
                         {
                             "name": "volcanion",
                             "name_avatar": "volcanion",
@@ -14251,17 +14237,7 @@
                             "pid": "725",
                             "image": "media\/renders\/701-800\/725.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/725.png"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 33,
-            "rows": [
-                {
-                    "id": 1,
-                    "pokemon": [
+                        },
                         {
                             "name": "torracat",
                             "name_avatar": "torracat",
@@ -14275,7 +14251,17 @@
                             "pid": "726",
                             "image": "media\/renders\/701-800\/726.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/726.png"
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "rows": [
+                {
+                    "id": 1,
+                    "pokemon": [
                         {
                             "name": "incineroar",
                             "name_avatar": "incineroar",
@@ -14345,12 +14331,7 @@
                             "pid": "731",
                             "image": "media\/renders\/701-800\/731.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/731.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "pokemon": [
+                        },
                         {
                             "name": "trumbeak",
                             "name_avatar": "trumbeak",
@@ -14364,7 +14345,12 @@
                             "pid": "732",
                             "image": "media\/renders\/701-800\/732.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/732.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "pokemon": [
                         {
                             "name": "toucannon",
                             "name_avatar": "toucannon",
@@ -14434,12 +14420,7 @@
                             "pid": "737",
                             "image": "media\/renders\/701-800\/737.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/737.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "pokemon": [
+                        },
                         {
                             "name": "vikavolt",
                             "name_avatar": "vikavolt",
@@ -14453,7 +14434,12 @@
                             "pid": "738",
                             "image": "media\/renders\/701-800\/738.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/738.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "pokemon": [
                         {
                             "name": "crabrawler",
                             "name_avatar": "crabrawler",
@@ -14519,12 +14505,7 @@
                             "pid": "741",
                             "image": "media\/renders\/701-800\/741-pau-style.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/741-pau-style.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "pokemon": [
+                        },
                         {
                             "name": "oricorio-sensu-style",
                             "name_avatar": "oricorio-sensu-style",
@@ -14536,7 +14517,12 @@
                             "pid": "741",
                             "image": "media\/renders\/701-800\/741-sensu-style.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/741-sensu-style.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "pokemon": [
                         {
                             "name": "cutiefly",
                             "name_avatar": "cutiefly",
@@ -14604,12 +14590,7 @@
                             "pid": "745",
                             "image": "media\/renders\/701-800\/745-midnight.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/745-midnight.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "pokemon": [
+                        },
                         {
                             "name": "lycanroc-dusk",
                             "name_avatar": "lycanroc-dusk",
@@ -14621,7 +14602,12 @@
                             "pid": "745",
                             "image": "media\/renders\/701-800\/745-dusk.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/745-dusk.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "pokemon": [
                         {
                             "name": "wishiwashi-solo",
                             "name_avatar": "wishiwashi-solo",
@@ -14691,17 +14677,7 @@
                             "pid": "750",
                             "image": "media\/renders\/701-800\/750.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/750.png"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 34,
-            "rows": [
-                {
-                    "id": 1,
-                    "pokemon": [
+                        },
                         {
                             "name": "dewpider",
                             "name_avatar": "dewpider",
@@ -14715,7 +14691,17 @@
                             "pid": "751",
                             "image": "media\/renders\/701-800\/751.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/751.png"
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "rows": [
+                {
+                    "id": 1,
+                    "pokemon": [
                         {
                             "name": "araquanid",
                             "name_avatar": "araquanid",
@@ -14785,12 +14771,7 @@
                             "pid": "756",
                             "image": "media\/renders\/701-800\/756.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/756.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "pokemon": [
+                        },
                         {
                             "name": "salandit",
                             "name_avatar": "salandit",
@@ -14804,7 +14785,12 @@
                             "pid": "757",
                             "image": "media\/renders\/701-800\/757.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/757.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "pokemon": [
                         {
                             "name": "salazzle",
                             "name_avatar": "salazzle",
@@ -14874,12 +14860,7 @@
                             "pid": "762",
                             "image": "media\/renders\/701-800\/762.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/762.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "pokemon": [
+                        },
                         {
                             "name": "tsareena",
                             "name_avatar": "tsareena",
@@ -14893,7 +14874,12 @@
                             "pid": "763",
                             "image": "media\/renders\/701-800\/763.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/763.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "pokemon": [
                         {
                             "name": "comfey",
                             "name_avatar": "comfey",
@@ -14963,12 +14949,7 @@
                             "pid": "768",
                             "image": "media\/renders\/701-800\/768.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/768.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "pokemon": [
+                        },
                         {
                             "name": "sandygast",
                             "name_avatar": "sandygast",
@@ -14982,7 +14963,12 @@
                             "pid": "769",
                             "image": "media\/renders\/701-800\/769.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/769.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "pokemon": [
                         {
                             "name": "palossand",
                             "name_avatar": "palossand",
@@ -15050,12 +15036,7 @@
                             "pid": "774",
                             "image": "media\/renders\/701-800\/774-red-core.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/774-red-core.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "pokemon": [
+                        },
                         {
                             "name": "minior-orange-core",
                             "name_avatar": "minior-orange-core",
@@ -15067,7 +15048,12 @@
                             "pid": "774",
                             "image": "media\/renders\/701-800\/774-orange-core.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/774-orange-core.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "pokemon": [
                         {
                             "name": "minior-yellow-core",
                             "name_avatar": "minior-yellow-core",
@@ -15127,17 +15113,7 @@
                             "pid": "774",
                             "image": "media\/renders\/701-800\/774-violet-core.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/774-violet-core.png"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 35,
-            "rows": [
-                {
-                    "id": 1,
-                    "pokemon": [
+                        },
                         {
                             "name": "komala",
                             "name_avatar": "komala",
@@ -15151,7 +15127,17 @@
                             "pid": "775",
                             "image": "media\/renders\/701-800\/775.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/775.png"
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "rows": [
+                {
+                    "id": 1,
+                    "pokemon": [
                         {
                             "name": "turtonator",
                             "name_avatar": "turtonator",
@@ -15221,12 +15207,7 @@
                             "pid": "780",
                             "image": "media\/renders\/701-800\/780.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/780.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "pokemon": [
+                        },
                         {
                             "name": "dhelmise",
                             "name_avatar": "dhelmise",
@@ -15240,7 +15221,12 @@
                             "pid": "781",
                             "image": "media\/renders\/701-800\/781.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/781.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "pokemon": [
                         {
                             "name": "jangmo-o",
                             "name_avatar": "jangmo-o",
@@ -15310,12 +15296,7 @@
                             "pid": "786",
                             "image": "media\/renders\/701-800\/786.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/786.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "pokemon": [
+                        },
                         {
                             "name": "tapu-bulu",
                             "name_avatar": "tapu-bulu",
@@ -15329,7 +15310,12 @@
                             "pid": "787",
                             "image": "media\/renders\/701-800\/787.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/787.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "pokemon": [
                         {
                             "name": "tapu-fini",
                             "name_avatar": "tapu-fini",
@@ -15399,12 +15385,7 @@
                             "pid": "792",
                             "image": "media\/renders\/701-800\/792.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/792.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "pokemon": [
+                        },
                         {
                             "name": "nihilego",
                             "name_avatar": "nihilego",
@@ -15418,7 +15399,12 @@
                             "pid": "793",
                             "image": "media\/renders\/701-800\/793.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/793.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "pokemon": [
                         {
                             "name": "buzzwole",
                             "name_avatar": "buzzwole",
@@ -15488,12 +15474,7 @@
                             "pid": "798",
                             "image": "media\/renders\/701-800\/798.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/798.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "pokemon": [
+                        },
                         {
                             "name": "guzzlord",
                             "name_avatar": "guzzlord",
@@ -15507,7 +15488,12 @@
                             "pid": "799",
                             "image": "media\/renders\/701-800\/799.png",
                             "image_shiny": "media\/renders\/shiny\/701-800\/799.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "pokemon": [
                         {
                             "name": "necrozma",
                             "name_avatar": "necrozma",
@@ -15575,17 +15561,7 @@
                             "pid": "803",
                             "image": "media\/renders\/801-900\/803.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/803.png"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 36,
-            "rows": [
-                {
-                    "id": 1,
-                    "pokemon": [
+                        },
                         {
                             "name": "naganadel",
                             "name_avatar": "naganadel",
@@ -15599,7 +15575,17 @@
                             "pid": "804",
                             "image": "media\/renders\/801-900\/804.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/804.png"
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "rows": [
+                {
+                    "id": 1,
+                    "pokemon": [
                         {
                             "name": "stakataka",
                             "name_avatar": "stakataka",
@@ -15670,12 +15656,7 @@
                             "pid": "809",
                             "image": "media\/renders\/801-900\/809.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/809.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "pokemon": [
+                        },
                         {
                             "name": "grookey",
                             "name_avatar": "grookey",
@@ -15689,7 +15670,12 @@
                             "pid": "810",
                             "image": "media\/renders\/801-900\/810.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/810.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "pokemon": [
                         {
                             "name": "thwackey",
                             "name_avatar": "thwackey",
@@ -15761,12 +15747,7 @@
                             "pid": "815",
                             "image": "media\/renders\/801-900\/815.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/815.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "pokemon": [
+                        },
                         {
                             "name": "sobble",
                             "name_avatar": "sobble",
@@ -15780,7 +15761,12 @@
                             "pid": "816",
                             "image": "media\/renders\/801-900\/816.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/816.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "pokemon": [
                         {
                             "name": "drizzile",
                             "name_avatar": "drizzile",
@@ -15851,12 +15837,7 @@
                             "pid": "821",
                             "image": "media\/renders\/801-900\/821.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/821.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "pokemon": [
+                        },
                         {
                             "name": "corvisquire",
                             "name_avatar": "corvisquire",
@@ -15870,7 +15851,12 @@
                             "pid": "822",
                             "image": "media\/renders\/801-900\/822.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/822.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "pokemon": [
                         {
                             "name": "corviknight",
                             "name_avatar": "corviknight",
@@ -15942,12 +15928,7 @@
                             "pid": "827",
                             "image": "media\/renders\/801-900\/827.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/827.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "pokemon": [
+                        },
                         {
                             "name": "thievul",
                             "name_avatar": "thievul",
@@ -15961,7 +15942,12 @@
                             "pid": "828",
                             "image": "media\/renders\/801-900\/828.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/828.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "pokemon": [
                         {
                             "name": "gossifleur",
                             "name_avatar": "gossifleur",
@@ -16031,17 +16017,7 @@
                             "pid": "833",
                             "image": "media\/renders\/801-900\/833.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/833.png"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 37,
-            "rows": [
-                {
-                    "id": 1,
-                    "pokemon": [
+                        },
                         {
                             "name": "drednaw",
                             "name_avatar": "drednaw",
@@ -16056,7 +16032,17 @@
                             "pid": "834",
                             "image": "media\/renders\/801-900\/834.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/834.png"
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "rows": [
+                {
+                    "id": 1,
+                    "pokemon": [
                         {
                             "name": "yamper",
                             "name_avatar": "yamper",
@@ -16127,12 +16113,7 @@
                             "pid": "839",
                             "image": "media\/renders\/801-900\/839.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/839.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "pokemon": [
+                        },
                         {
                             "name": "applin",
                             "name_avatar": "applin",
@@ -16146,7 +16127,12 @@
                             "pid": "840",
                             "image": "media\/renders\/801-900\/840.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/840.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "pokemon": [
                         {
                             "name": "flapple",
                             "name_avatar": "flapple",
@@ -16219,12 +16205,7 @@
                             "pid": "845",
                             "image": "media\/renders\/801-900\/845.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/845.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "pokemon": [
+                        },
                         {
                             "name": "arrokuda",
                             "name_avatar": "arrokuda",
@@ -16238,7 +16219,12 @@
                             "pid": "846",
                             "image": "media\/renders\/801-900\/846.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/846.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "pokemon": [
                         {
                             "name": "barraskewda",
                             "name_avatar": "barraskewda",
@@ -16309,12 +16295,7 @@
                             "pid": "850",
                             "image": "media\/renders\/801-900\/850.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/850.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "pokemon": [
+                        },
                         {
                             "name": "centiskorch",
                             "name_avatar": "centiskorch",
@@ -16329,7 +16310,12 @@
                             "pid": "851",
                             "image": "media\/renders\/801-900\/851.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/851.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "pokemon": [
                         {
                             "name": "clobbopus",
                             "name_avatar": "clobbopus",
@@ -16397,12 +16383,7 @@
                             "pid": "855",
                             "image": "media\/renders\/801-900\/855.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/855.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "pokemon": [
+                        },
                         {
                             "name": "polteageist-antique",
                             "name_avatar": "polteageist",
@@ -16414,7 +16395,12 @@
                             "pid": "855",
                             "image": "media\/renders\/801-900\/855.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/855.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "pokemon": [
                         {
                             "name": "hatenna",
                             "name_avatar": "hatenna",
@@ -16485,17 +16471,7 @@
                             "pid": "860",
                             "image": "media\/renders\/801-900\/860.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/860.png"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 38,
-            "rows": [
-                {
-                    "id": 1,
-                    "pokemon": [
+                        },
                         {
                             "name": "grimmsnarl",
                             "name_avatar": "grimmsnarl",
@@ -16510,7 +16486,17 @@
                             "pid": "861",
                             "image": "media\/renders\/801-900\/861.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/861.png"
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "rows": [
+                {
+                    "id": 1,
+                    "pokemon": [
                         {
                             "name": "obstagoon",
                             "name_avatar": "obstagoon",
@@ -16580,12 +16566,7 @@
                             "pid": "866",
                             "image": "media\/renders\/801-900\/866.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/866.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "pokemon": [
+                        },
                         {
                             "name": "runerigus",
                             "name_avatar": "runerigus",
@@ -16599,7 +16580,12 @@
                             "pid": "867",
                             "image": "media\/renders\/801-900\/867.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/867.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "pokemon": [
                         {
                             "name": "milcery",
                             "name_avatar": "milcery",
@@ -16664,12 +16650,7 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-vanilla-cream-star.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-vanilla-cream-star.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "pokemon": [
+                        },
                         {
                             "name": "alcremie-vanilla-cream-clover",
                             "name_avatar": "alcremie-vanilla-cream-clover",
@@ -16681,7 +16662,12 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-vanilla-cream-clover.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-vanilla-cream-clover.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "pokemon": [
                         {
                             "name": "alcremie-vanilla-cream-flower",
                             "name_avatar": "alcremie-vanilla-cream-flower",
@@ -16741,12 +16727,7 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-ruby-cream-love.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-ruby-cream-love.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "pokemon": [
+                        },
                         {
                             "name": "alcremie-ruby-cream-star",
                             "name_avatar": "alcremie-ruby-cream-star",
@@ -16758,7 +16739,12 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-ruby-cream-star.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-ruby-cream-star.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "pokemon": [
                         {
                             "name": "alcremie-ruby-cream-clover",
                             "name_avatar": "alcremie-ruby-cream-clover",
@@ -16818,12 +16804,7 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-matcha-cream-berry.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-matcha-cream-berry.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "pokemon": [
+                        },
                         {
                             "name": "alcremie-matcha-cream-love",
                             "name_avatar": "alcremie-matcha-cream-love",
@@ -16835,7 +16816,12 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-matcha-cream-love.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-matcha-cream-love.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "pokemon": [
                         {
                             "name": "alcremie-matcha-cream-star",
                             "name_avatar": "alcremie-matcha-cream-star",
@@ -16895,17 +16881,7 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-mint-cream-strawberry.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-mint-cream-strawberry.png"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 39,
-            "rows": [
-                {
-                    "id": 1,
-                    "pokemon": [
+                        },
                         {
                             "name": "alcremie-mint-cream-berry",
                             "name_avatar": "alcremie-mint-cream-berry",
@@ -16917,7 +16893,17 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-mint-cream-berry.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-mint-cream-berry.png"
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "rows": [
+                {
+                    "id": 1,
+                    "pokemon": [
                         {
                             "name": "alcremie-mint-cream-love",
                             "name_avatar": "alcremie-mint-cream-love",
@@ -16977,12 +16963,7 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-mint-cream-ribbon.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-mint-cream-ribbon.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "pokemon": [
+                        },
                         {
                             "name": "alcremie-lemon-cream-strawberry",
                             "name_avatar": "alcremie-lemon-cream-strawberry",
@@ -16994,7 +16975,12 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-lemon-cream-strawberry.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-lemon-cream-strawberry.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "pokemon": [
                         {
                             "name": "alcremie-lemon-cream-berry",
                             "name_avatar": "alcremie-lemon-cream-berry",
@@ -17054,12 +17040,7 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-lemon-cream-flower.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-lemon-cream-flower.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "pokemon": [
+                        },
                         {
                             "name": "alcremie-lemon-cream-ribbon",
                             "name_avatar": "alcremie-lemon-cream-ribbon",
@@ -17071,7 +17052,12 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-lemon-cream-ribbon.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-lemon-cream-ribbon.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "pokemon": [
                         {
                             "name": "alcremie-salted-cream-strawberry",
                             "name_avatar": "alcremie-salted-cream-strawberry",
@@ -17131,12 +17117,7 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-salted-cream-clover.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-salted-cream-clover.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "pokemon": [
+                        },
                         {
                             "name": "alcremie-salted-cream-flower",
                             "name_avatar": "alcremie-salted-cream-flower",
@@ -17148,7 +17129,12 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-salted-cream-flower.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-salted-cream-flower.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "pokemon": [
                         {
                             "name": "alcremie-salted-cream-ribbon",
                             "name_avatar": "alcremie-salted-cream-ribbon",
@@ -17208,12 +17194,7 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-ruby-swirl-star.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-ruby-swirl-star.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "pokemon": [
+                        },
                         {
                             "name": "alcremie-ruby-swirl-clover",
                             "name_avatar": "alcremie-ruby-swirl-clover",
@@ -17225,7 +17206,12 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-ruby-swirl-clover.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-ruby-swirl-clover.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "pokemon": [
                         {
                             "name": "alcremie-ruby-swirl-flower",
                             "name_avatar": "alcremie-ruby-swirl-flower",
@@ -17285,17 +17271,7 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-caramel-swirl-love.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-caramel-swirl-love.png"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 40,
-            "rows": [
-                {
-                    "id": 1,
-                    "pokemon": [
+                        },
                         {
                             "name": "alcremie-caramel-swirl-star",
                             "name_avatar": "alcremie-caramel-swirl-star",
@@ -17307,7 +17283,17 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-caramel-swirl-star.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-caramel-swirl-star.png"
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "rows": [
+                {
+                    "id": 1,
+                    "pokemon": [
                         {
                             "name": "alcremie-caramel-swirl-clover",
                             "name_avatar": "alcremie-caramel-swirl-clover",
@@ -17367,12 +17353,7 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-rainbow-swirl-berry.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-rainbow-swirl-berry.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "pokemon": [
+                        },
                         {
                             "name": "alcremie-rainbow-swirl-love",
                             "name_avatar": "alcremie-rainbow-swirl-love",
@@ -17384,7 +17365,12 @@
                             "pid": "869",
                             "image": "media\/renders\/801-900\/869-rainbow-swirl-love.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/869-rainbow-swirl-love.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "pokemon": [
                         {
                             "name": "alcremie-rainbow-swirl-star",
                             "name_avatar": "alcremie-rainbow-swirl-star",
@@ -17446,12 +17432,7 @@
                             "pid": "870",
                             "image": "media\/renders\/801-900\/870.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/870.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "pokemon": [
+                        },
                         {
                             "name": "pincurchin",
                             "name_avatar": "pincurchin",
@@ -17465,7 +17446,12 @@
                             "pid": "871",
                             "image": "media\/renders\/801-900\/871.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/871.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "pokemon": [
                         {
                             "name": "snom",
                             "name_avatar": "snom",
@@ -17535,12 +17521,7 @@
                             "pid": "876",
                             "image": "media\/renders\/801-900\/876.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/876.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "pokemon": [
+                        },
                         {
                             "name": "indeedee-female",
                             "name_avatar": "indeedee-female",
@@ -17554,7 +17535,12 @@
                             "pid": "876",
                             "image": "media\/renders\/801-900\/876-female.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/876-female.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "pokemon": [
                         {
                             "name": "morpeko-full-belly-mode",
                             "name_avatar": "morpeko-full-belly-mode",
@@ -17625,12 +17611,7 @@
                             "pid": "881",
                             "image": "media\/renders\/801-900\/881.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/881.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "pokemon": [
+                        },
                         {
                             "name": "dracovish",
                             "name_avatar": "dracovish",
@@ -17644,7 +17625,12 @@
                             "pid": "882",
                             "image": "media\/renders\/801-900\/882.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/882.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "pokemon": [
                         {
                             "name": "arctovish",
                             "name_avatar": "arctovish",
@@ -17715,17 +17701,7 @@
                             "pid": "887",
                             "image": "media\/renders\/801-900\/887.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/887.png"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 41,
-            "rows": [
-                {
-                    "id": 1,
-                    "pokemon": [
+                        },
                         {
                             "name": "zacian-hero-of-many-battles",
                             "name_avatar": "zacian-hero-of-many-battles",
@@ -17739,7 +17715,17 @@
                             "pid": "888",
                             "image": "media\/renders\/801-900\/888.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/888.png"
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "rows": [
+                {
+                    "id": 1,
+                    "pokemon": [
                         {
                             "name": "zamazenta-hero-of-many-battles",
                             "name_avatar": "zamazenta-hero-of-many-battles",
@@ -17810,12 +17796,7 @@
                             "pid": "892",
                             "image": "media\/renders\/801-900\/892-rapid-strike-style.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/892-rapid-strike-style.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "pokemon": [
+                        },
                         {
                             "name": "zarude",
                             "name_avatar": "zarude",
@@ -17829,7 +17810,12 @@
                             "pid": "893",
                             "image": "media\/renders\/801-900\/893.png",
                             "image_shiny": "media\/renders\/shiny\/801-900\/893.png"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "pokemon": [
                         {
                             "name": "zarude-dada",
                             "name_avatar": "zarude-dada",
