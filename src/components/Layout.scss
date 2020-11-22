@@ -38,13 +38,13 @@ a {
   padding: 3px;
   z-index: 999;
   font-size: 0.9em;
-  width: 200%;
+  width: 250%;
   margin-left: -50%;
   /* top: 150%; */
   //left: 0;
   border-radius: 8px;
   display: block;
-  margin-top: 10px;
+  margin-top: 30px;
 }
 
 .pk-box-poke-gap [data-tooltip]:hover::after,
@@ -55,6 +55,16 @@ a {
 .pk-box-poke-gap a,
 .pk-box-poke-gap a:hover {
   cursor: default;
+}
+
+.pk-box-poke img {
+  transition: all .2s ease;
+  vertical-align: middle;
+}
+
+.pk-box-poke:hover img {
+  transition: all .2s ease;
+  transform: scale(2);
 }
 
 .pk-main-header,
@@ -74,6 +84,12 @@ a {
 
   h1 {
     font-weight: bold;
+    display: inline-block;
+  }
+
+  sup {
+    font-size: 0.5em;
+    margin-left: 1em;
   }
 
   padding: 30px 20px;

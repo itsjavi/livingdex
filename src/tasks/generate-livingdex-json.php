@@ -58,18 +58,20 @@ $excluded = [
 
         // unreleased
         '670-eternal',
-        '025-world-cap',
+//        '025-world-cap',
 //        '893-dada',
 //        '894',
 //        '895',
 //        '896',
+        '898-ice',
+        '898-shadow',
     ],
     'regexes' => [
         '/^000-(.*)/', // misc icons
         '/-(mega|mega-x|mega-y|primal)$/',
         '/-(totem|totem-alola|alola-totem)$/', // storable, but in Bank/HOME they lose their custom weight/height
-        '/-(gigantamax|eternamax)$/',
-        '/-(crowned-sword|crowned-shield)$/',
+        '/-(gigantamax|gmax|eternamax)$/',
+        '/-(crowned-sword|crowned-shield|crowned)$/',
         '/^493-(.*)/', // all Arceus forms
         '/^649-(.*)/', // all Genesect forms
         '/^676-(.*)/', // all Furfrou styles
@@ -77,13 +79,9 @@ $excluded = [
     ],
     'base' => [
         '658', // regular greninja, since we will store greninja-batle-bond preferably
-    ]
+    ],
 ];
-$unknownDexNumber = [
-    '894',
-    '895',
-    '896',
-];
+$unknownDexNumber = [];
 
 ///
 /// PROCESSOR:
@@ -132,7 +130,7 @@ foreach ($pokemon as $i => $pk) {
     foreach ($pk['forms'] as $k => $form) {
         $form['_index'] = $k;
 
-        if (in_array('gigantamax', $form['tags'])) {
+        if (in_array('gigantamax', $form['tags']) || in_array('gmax', $form['tags'])) {
             $gigantamaxForms[$form['name']] = $form;
         } else {
             $nonGigantamaxForms[$form['name']] = $form;
@@ -154,6 +152,15 @@ foreach ($pokemon as $i => $pk) {
     }
 }
 
+$replacements = [
+    '/-gigantamax/' => '-gmax',
+    '/-female$/' => '-f',
+    '/-core$/' => '',
+    '/-style$/' => '',
+    '/-poke-ball$/' => '-pokeball',
+    '/-blue-striped$/' => '-blue-stripe',
+];
+
 // process and flatten pokemon forms list
 foreach ($pokemon as $i => $pk) {
     foreach ($pk['forms'] as $k => $form) {
@@ -168,6 +175,9 @@ foreach ($pokemon as $i => $pk) {
         }
         $srcDirName = $boxCalc($pk['id'], $imgDirDexSize, $numPadding);
         $slug = $form['name_numeric_avatar'];
+        foreach($replacements as $reg => $repl) {
+            $slug = preg_replace($reg, $repl, $slug);
+        }
         $form['id'] = $pk['id'];
         $form['pid'] = $pk['pid'];
         $form['image'] = "media/renders/{$srcDirName}/{$slug}.png";

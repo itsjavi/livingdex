@@ -1,8 +1,10 @@
 default:build
 publish:pages
 
-install:
+install-tools:
 	./src/tasks/install-prerequisites.sh
+
+install:
 	./src/tasks/install.sh
 	./src/tasks/update-data.sh
 
@@ -18,7 +20,7 @@ build:
 	npm run build
 
 publish:pages
-pages:
+pages:build
 	npm run publish
 
 develop:start

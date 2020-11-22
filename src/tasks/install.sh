@@ -20,13 +20,7 @@ if [[ ! -f "static/data/pokemon-boxes.json" ]]; then
 fi
 
 if [[ ! -d "static/media/renders" ]]; then
-  IMG_NEW_RELATIVE_SIZE="15%"
-
-  cp -R ./vendor/itsjavi/pokemon-media/pokemon/renders/ ./static/media/renders
-  for f in $(find "./static/media/renders" -name "*.png"); do
-    echo "${f}"
-    magick mogrify -resize ${IMG_NEW_RELATIVE_SIZE} "${f}"
-  done
+  ./src/tasks/make-thumbnails.sh
 fi
 
 if [[ ! -d "static/media/symbols" ]]; then

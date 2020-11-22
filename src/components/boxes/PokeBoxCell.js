@@ -28,7 +28,7 @@ const PokeBoxCell = ({ boxCell }) => {
       <div className={classNameStr}>
         <Image className="pk-img-default" title={title} alt={title} src={boxCell.image}/>
         <Image className="pk-img-hover" title={gmaxTitle} alt={gmaxTitle}
-               src={boxCell.image.replace('-female', '').replace(".png", "-gigantamax.png")}/>
+               src={boxCell.image.replace('-female', '').replace(".png", "-gmax.png")}/>
       </div>
     </>
   )
