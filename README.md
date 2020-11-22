@@ -1,5 +1,7 @@
 # Pokémon Living Dex
 
+[itsjavi.com/livingdex](https://itsjavi.com/livingdex)
+
 [![MIT license](https://img.shields.io/badge/license-MIT-white.svg)](https://opensource.org/licenses/MIT) 
 ![Generations](https://img.shields.io/badge/Generations-1--8-black) 
 ![Updated for](https://img.shields.io/badge/Updated%20For-Crown%20of%20Tundra-teal)
