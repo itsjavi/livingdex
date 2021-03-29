@@ -13,7 +13,7 @@ This web app contains a view of all storable Pokémon forms, including all gende
 The project is still in an early state, please feel free to join our discussion and share your thoughts 
 on the [Github project repository](https://github.com/itsjavi/livingdex/discussions).
 
-![](public/graphics/preview.png)
+![](resources/preview.png)
 
 ## React App
 
