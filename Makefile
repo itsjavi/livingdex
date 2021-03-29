@@ -46,3 +46,8 @@ docker-test:
 
 build-serve:
 	cd build && open http://localhost:8000 && python3 -m http.server 8000
+
+deploy:
+	npm run deploy
+docker-deploy:
+	docker-compose run --rm app deploy
