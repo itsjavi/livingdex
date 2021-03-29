@@ -25,13 +25,13 @@ function LayoutHeader(props) {
           <nav>
             <NavLink to="/"
                      activeClassName={styles.active}
-                     isActive={checkActive}><i className="icon-box-add"></i> Boxes</NavLink>
+                     isActive={checkActive}><i className="icon-box-add"/> Boxes</NavLink>
             <NavLink to="/pokedex"
-                     activeClassName={styles.active}><i className="icon-books"></i> Pokédex</NavLink>
-            <a href="https://github.com/itsjavi/livingdex" target="_blank">
-              <i class="icon-github" title="Github"></i> Github
+                     activeClassName={styles.active}><i className="icon-books"/> Pokédex</NavLink>
+            <a href="https://github.com/itsjavi/livingdex" target="_blank" rel="noreferrer">
+              <i className="icon-github" title="Github"/> Github
             </a>
-            <a href="https://blog.itsjavi.com/" target="_blank">
+            <a href="https://blog.itsjavi.com/" target="_blank" rel="noreferrer">
               <small>Created by <b>@itsjavi</b></small>
             </a>
           </nav>
@@ -47,8 +47,8 @@ function LayoutHeader(props) {
 }
 
 LayoutHeader.propTypes = {
-  title: PropTypes.string.isRequired,
-  subtitle: PropTypes.string,
+  title: PropTypes.any.isRequired,
+  subtitle: PropTypes.any,
 }
 
 export { LayoutHeader }

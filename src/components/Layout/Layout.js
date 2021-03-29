@@ -21,8 +21,8 @@ function Layout(props) {
 }
 
 Layout.propTypes = {
-  title: PropTypes.string.isRequired,
-  subtitle: PropTypes.string,
+  title: PropTypes.any.isRequired,
+  subtitle: PropTypes.any,
   footer: PropTypes.any,
   footerActions: PropTypes.any,
 }

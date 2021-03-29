@@ -119,3 +119,39 @@
 .layoutHeaderSubMenuTitle {
     flex: 1;
 }
+
+
+
+
+@media only screen and (max-width: 1024px) {
+    .layoutHeaderTop {
+        display: block;
+    }
+
+    .layoutHeaderTitle {
+        display: block;
+        text-align: center;
+        margin:0;
+    }
+
+    .layoutHeaderTitle:after,
+    .layoutHeaderTitle:before {
+        display: none;
+        width:0;
+        height:0;
+        content: none;
+    }
+    .layoutHeaderRightMenu {
+        display: block;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+    .layoutHeaderRightMenu nav {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(32px, 1fr));
+    }
+    .layoutHeaderRightMenu nav a {
+        padding: 24px 12px;
+    }
+}

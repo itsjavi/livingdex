@@ -6,7 +6,7 @@ import BoxesPage from "../../pages/BoxesPage/BoxesPage"
 function App() {
 
   return (
-    <Router>
+    <Router basename="/livingdex">
       <Switch>
         <Route path="/pokedex">
           <PokedexPage />
