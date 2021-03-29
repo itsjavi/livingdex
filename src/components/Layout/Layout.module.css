@@ -1,0 +1,35 @@
+
+.layout {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.layoutBody {
+    flex-grow: 1;
+    padding: var(--base-space);
+    overflow: auto;
+    overflow: paged-y;
+}
+
+.layoutBodyInner {
+}
+
+.layoutBody::-webkit-scrollbar {
+    width: 12px;
+}
+
+.layoutBody::-webkit-scrollbar-track {
+    background-color: rgba(0,0,0,0.1);
+    border-radius: 24px;
+}
+
+.layoutBody::-webkit-scrollbar-corner {
+    background-color: rgba(0,0,0,0.2);
+}
+
+.layoutBody::-webkit-scrollbar-thumb {
+    background-color: var(--color-primary);
+    border-radius: 24px;
+    opacity: 0.8;
+}

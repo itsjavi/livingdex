@@ -1,32 +1,48 @@
-default:build
-publish:pages
-
-install-tools:
-	./src/tasks/install-prerequisites.sh
+default:build-all
 
 install:
-	./src/tasks/install.sh
-	./src/tasks/update-data.sh
+	echo "Installing npm dependencies..."
+	npm install
+docker-install:
+	docker-compose run --rm app install
 
-data:
-	./src/tasks/update-data.sh
-
-upgrade:
-	rm -rf ./static
-	./src/tasks/install.sh
-	./src/tasks/update-data.sh
+update:
+	echo "Updating npm dependencies..."
+	npm update
+docker-update:
+	docker-compose run --rm app update
 
 build:
+	echo "Building app..."
 	npm run build
+docker-build:
+	docker-compose run --rm app build
 
-publish:pages
-pages:build
-	npm run publish
+images:
+	./src/scripts/generate-images.sh || exit 1
+docker-images:
+	docker-compose run --rm app images
 
-develop:start
+data:
+	./src/scripts/generate-data.sh
+	node ./src/scripts/generate-pokemon-index.mjs
+docker-data: data
+
+assets: data images
+docker-assets: data docker-images
+
+build-all: build assets
+docker-build-all: docker-build docker-assets
+
 start:
-	./src/tasks/update-data.sh
-	npm run start
+	npm start
+docker-start:
+	docker-compose up -d
 
-$(V).SILENT:
-.PHONY: build
+test:
+	npm test
+docker-test:
+	docker-compose run --rm app test
+
+build-serve:
+	cd build && open http://localhost:8000 && python3 -m http.server 8000

@@ -1,0 +1,113 @@
+/**
+ * ------------------------------------------------
+ *              VARIABLES
+ * ------------------------------------------------
+ */
+
+:root {
+    --thumbnail-size: 64px;
+    --color-black: #323232;
+    --color-gray: #828282;
+    --color-primary: #b5b5b5;
+    --color-primary-light1: #f3f3f3;
+    --color-primary-light2: #e0e0e0;
+    --color-primary-light2b: #e0e0e0;
+    --color-primary-light2c: #ffffffbb;
+    --color-main-title: #ff8002;
+    --color-button-selected: #FFAD03;
+    --color-pink: #FF78BB;
+    --color-lime: #B6E934;
+    --color-navy: #617BE9;
+    --color-navy-light: #A6B3FF;
+    --color-cyan: #32D6D5;
+    --base-space: 1.6rem;
+    --base-space-half: 0.8rem;
+    --box-shadow-1: 0 20px 40px rgba(0, 0, 0, 0.05);
+}
+
+.themeTeal {
+    --color-primary: #39b5ac;
+    --color-primary-light1: #d7f89d;
+    --color-primary-light2: #92E5CB;
+    --color-primary-light2b: #7ACCAB;
+}
+
+.themePurple {
+    --color-primary: #9E81D5;
+    --color-primary-light1: #EBD0FB;
+    --color-primary-light2: #C8B8F9;
+    --color-primary-light2b: #C8B8F9;
+}
+
+.themeBlue {
+    --color-primary: #4F7EC4;
+    --color-primary-light1: #ABEFFA;
+    --color-primary-light2: #A6CEF2;
+    --color-primary-light2b: #A6CEF2;
+}
+
+.themeGold {
+    --color-primary: #FFB406;
+    --color-primary-light1: #FFE97A;
+    --color-primary-light2: #FACD6B;
+    --color-primary-light2b: #FACD6B;
+}
+
+.bgGradientDown {
+    background: linear-gradient(180deg, var(--color-primary-light1) 0%, rgba(255, 255, 255, 0) 100%), var(--color-primary-light2);
+    transition: background-color 2s ease;
+}
+
+.bgGradientLeft {
+    background: linear-gradient(270deg, var(--color-primary-light1) 0%, rgba(255, 255, 255, 0) 61.08%), var(--color-primary-light2);
+    transition: background-color 2s ease;
+}
+
+.bgGradientDownLight {
+    background: linear-gradient(360deg, var(--color-primary-light1) -51.67%, rgba(255, 255, 255, 0) 240%), #FFFFFF;
+    transition: background-color 2s ease;
+}
+
+.imgOutline {
+    filter: drop-shadow(1px 1px 0px #fff) drop-shadow(1px -1px 0px #fff) drop-shadow(-1px 1px 0px #fff) drop-shadow(-1px -1px 0px #fff);
+}
+
+/**
+ * ------------------------------------------------
+ *          BASE STYLES / CSS RESET
+ * ------------------------------------------------
+ */
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6em;
+}
+
+html, body, #root {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: 100%;
+    overscroll-behavior: none;
+    background: #fff;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 1.6em;
+}
+
+body * {
+    position: relative;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

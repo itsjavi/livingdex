@@ -1,22 +1,19 @@
 import React from "react"
 import PropTypes from "prop-types"
 
-const Image = ({ src, alt = "", title = "", className = ""}) => {
-  title = title.replace(/-/g, " ")
-  title = title.toLowerCase()
-    .split(" ")
-    .map((s) => s.charAt(0).toUpperCase() + s.substring(1))
-    .join(" ")
-  return <>
-    <span aria-label={title} data-tooltip={title} className={"pk-link " + className}>
-      <img className={"pk-img"} alt={alt} src={src}/>
-      {/*<i className="pk-tooltip">{title}</i>*/}
-    </span>
-  </>
+const BaseHomeRenderPath = "./assets/images/home/pokemon/regular/"
+
+function Image(props) {
+  return (
+    <img className={props.className} src={process.env.PUBLIC_URL + "/" + props.src} alt={props.alt} />
+  )
 }
 
 Image.propTypes = {
   src: PropTypes.string.isRequired,
+  alt: PropTypes.string,
+  className: PropTypes.string,
 }
 
 export default Image
+export { Image, BaseHomeRenderPath }

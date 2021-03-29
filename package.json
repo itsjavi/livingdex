@@ -1,49 +1,43 @@
 {
-  "version": "1.0.0",
+  "name": "livingdex-redux",
+  "version": "0.1.0",
   "private": true,
+  "homepage": "/",
   "dependencies": {
-    "bulma": "^0.8.0",
-    "gatsby": "^2.27.0",
-    "gatsby-image": "^2.2.39",
-    "gatsby-plugin-google-analytics": "^2.3.3",
-    "gatsby-plugin-manifest": "^2.2.39",
-    "gatsby-plugin-offline": "^3.0.32",
-    "gatsby-plugin-react-helmet": "^3.1.21",
-    "gatsby-plugin-sass": "^2.1.30",
-    "gatsby-plugin-sharp": "^2.9.0",
-    "gatsby-source-filesystem": "^2.1.46",
-    "gatsby-transformer-json": "^2.2.27",
-    "gatsby-transformer-sharp": "^2.3.13",
-    "node-sass": "^4.13.1",
+    "@reduxjs/toolkit": "^1.5.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "livingdex-renders": "git+ssh://git@github.com:itsjavi/livingdex-renders.git#fa6041b",
     "prop-types": "^15.7.2",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-helmet": "^5.2.1"
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3"
   },
   "devDependencies": {
-    "prettier": "^1.19.1"
+    "prettier": "^2.2.1"
   },
-  "keywords": [
-    "pokemon",
-    "pokedex",
-    "livingdex"
-  ],
-  "license": "MIT",
   "scripts": {
-    "build": "src/tasks/build.sh",
-    "publish": "src/tasks/publish-gh-pages.sh",
-    "develop": "src/tasks/update-data.sh && gatsby clean && gatsby develop",
-    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
-    "start": "npm run develop",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/itsjavi/livingdex"
+  "eslintConfig": {
+    "extends": "react-app"
   },
-  "bugs": {
-    "url": "https://github.com/itsjavi/livingdex/issues"
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

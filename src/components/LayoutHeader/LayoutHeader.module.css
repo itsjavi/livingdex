@@ -1,0 +1,94 @@
+
+.layoutHeader {
+
+}
+
+.layoutHeaderTop {
+    font-weight: bold;
+    display: flex;
+}
+
+.layoutHeaderTitle {
+    background: #fff;
+    padding: var(--base-space);
+    padding-right: 80px;
+}
+
+.layoutHeaderTitle img {
+    height: 42px;
+    margin: 0 10px 0 0;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.layoutHeaderTitle h1 {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 1.4em;
+    line-height: 1.2em;
+    text-transform: uppercase;
+    color: var(--color-main-title);
+    margin: 0;
+}
+
+.layoutHeaderTitle:before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    top: 0;
+    left: 100%;
+    width: 90px;
+    margin-left: -34px;
+    background: rgba(255, 255, 255, .4);
+    transform: skew(36deg);
+}
+
+.layoutHeaderTitle:after {
+    content: "";
+    position: absolute;
+    height: 100%;
+    top: 0;
+    left: 100%;
+    width: 90px;
+    margin-left: -46px;
+    background: rgba(255, 255, 255, 1);
+    transform: skew(36deg);
+}
+
+.layoutHeaderRightMenu {
+    flex-grow: 1;
+    margin-left: 90px;
+    padding: var(--base-space);
+}
+
+.layoutHeaderRightMenu nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: var(--color-main-title);
+    margin: 12px 12px 0 0;
+}
+
+.layoutHeaderRightMenu nav a.active {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.layoutHeaderRightMenu nav a:hover {
+    text-decoration: underline;
+}
+
+.layoutHeaderBottom {
+    padding: var(--base-space);
+    text-align: center;
+    color: var(--color-gray);
+    box-shadow: var(--box-shadow-1);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+}
+
+.layoutHeaderSubMenuTitle {
+    flex: 1;
+}

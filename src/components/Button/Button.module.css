@@ -1,0 +1,50 @@
+
+.button {
+    color: var(--color-black);
+    font-size: 1em;
+    line-height: 1em;
+    font-weight: bold;
+    display: inline-block;
+    font-style: normal;
+    margin-right: var(--base-space);
+    padding: 4px;
+    vertical-align: middle;
+    user-select: none;
+    cursor: pointer;
+}
+
+.button:active {
+    color: var(--color-gray);
+}
+
+.buttonShoulderLeft {
+    background: #fff;
+    padding: 4px 20px 4px 10px;
+    border-radius: 0 20px 0 0;
+}
+
+.buttonShoulderRight {
+    background: #fff;
+    padding: 4px 10px 4px 20px;
+    border-radius: 20px 0 0 0;
+}
+
+.buttonIcon {
+    padding: 3px;
+    background: var(--color-black);
+    border-radius: 20px;
+    color: #fff;
+    font-size: 1em;
+    line-height: 1em;
+    font-weight: bold;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    text-align: center;
+    font-style: normal;
+    margin-right: var(--base-space-half);
+}
+
+.button:active .buttonIcon {
+    background: var(--color-gray);
+}
