@@ -70,7 +70,7 @@
 }
 
 .box-cell:focus {
-    transition: all .1s ease;
+    transition: transform .1s ease;
     transform: scale(1.5);
     /*background-color: var(--color-primary-light1);*/
     background: var(--boxBg);
@@ -103,7 +103,7 @@
     box-sizing: border-box;
     top: 100%;
     left: 0;
-    width: 124%;
+    width: 126%;
     background: var(--color-main-title);
     /*border: 1px solid #d7ebeb;*/
     color: #fff;
@@ -115,7 +115,7 @@
     overflow-wrap: revert;
     display: none;
     margin-top: 5px;
-    margin-left: -12%;
+    margin-left: -13%;
     z-index: 11;
 }
 
@@ -134,14 +134,14 @@
     background-color: #d7ebebaa;
     background-blend-mode: darken;
     background-repeat: no-repeat;
-    transition: all 0.2s ease;
+    transition: transform 0.2s ease;
 }
 
 .has-gmax:hover {
     background-color: #d7ebebff;
     background-blend-mode: normal;
     background-position: top center;
-    transition: all 0.2s ease;
+    transition: transform 0.2s ease;
 }
 
 /** CSS Grid styles **/

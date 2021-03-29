@@ -84,7 +84,7 @@ function BoxesPage() {
 
   const pokemonList = usePokemonList(opts)
   let boxes = createBoxes(pokemonList)
-  let title = "Living Dex"
+  let title = <span>Living Dex / <b>Boxes</b></span>
   let subtitle = "Box Organization (" + pokemonList.length + " Storable Pokémon)"
 
   return (

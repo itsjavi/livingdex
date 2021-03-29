@@ -19,6 +19,7 @@
     margin: 0 10px 0 0;
     vertical-align: middle;
     display: inline-block;
+    z-index: 1;
 }
 
 .layoutHeaderTitle h1 {
@@ -29,6 +30,11 @@
     text-transform: uppercase;
     color: var(--color-main-title);
     margin: 0;
+    z-index: 1;
+}
+
+.layoutHeaderTitle h1 b {
+    font-weight: bolder;
 }
 
 .layoutHeaderTitle:before {
@@ -36,9 +42,13 @@
     position: absolute;
     height: 100%;
     top: 0;
-    left: 100%;
-    width: 90px;
-    margin-left: -34px;
+    /*left: 100%;*/
+    /*width: 90px;*/
+    /*margin-left: -34px;*/
+
+    left:100%;
+    width:100%;
+    margin-left: -45%;
     background: rgba(255, 255, 255, .4);
     transform: skew(36deg);
 }
@@ -48,9 +58,13 @@
     position: absolute;
     height: 100%;
     top: 0;
-    left: 100%;
-    width: 90px;
-    margin-left: -46px;
+    /*left: 100%;*/
+    /*width: 90px;*/
+    /*margin-left: -46px;*/
+
+    left:100%;
+    width:100%;
+    margin-left: -50%;
     background: rgba(255, 255, 255, 1);
     transform: skew(36deg);
 }
@@ -59,22 +73,35 @@
     flex-grow: 1;
     margin-left: 90px;
     padding: var(--base-space);
+    text-align: right;
 }
-
+.layoutHeaderRightMenu nav {
+    display: inline-block;
+    text-align: center;
+    /*background: #ffffff44;*/
+    border-radius: 12px 12px 0 0;
+    font-weight: 300;
+}
 .layoutHeaderRightMenu nav a {
     display: inline-block;
     text-decoration: none;
-    color: var(--color-main-title);
-    margin: 12px 12px 0 0;
-}
-
-.layoutHeaderRightMenu nav a.active {
-    text-decoration: underline;
-    font-weight: bold;
+    color: var(--color-primary);
+    padding: 12px 12px 18px 12px;
+    font-weight: 600;
 }
 
 .layoutHeaderRightMenu nav a:hover {
-    text-decoration: underline;
+    /*background: var(--color-main-title);*/
+    color: var(--color-primary);
+    padding-bottom:12px;
+    border-bottom: 6px solid var(--color-primary);
+}
+
+.layoutHeaderRightMenu nav a.active {
+    /*background: var(--color-main-title);*/
+    color: var(--color-main-title);
+    padding-bottom:12px;
+    border-bottom: 6px solid var(--color-main-title);
 }
 
 .layoutHeaderBottom {

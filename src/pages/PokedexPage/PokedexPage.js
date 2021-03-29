@@ -22,7 +22,7 @@ function PokedexPage() {
 
   const pokemonList = usePokemonList(opts)
 
-  let title = "Living Dex"
+  let title = <span>Living Dex / <b>Pokédex</b></span>
   let subtitle = "National Pokédex (" + pokemonList.length + " Pokémon)"
 
   let pokemonListContainers = []
