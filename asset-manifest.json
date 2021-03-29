@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/livingdex/static/css/main.63adca5a.chunk.css",
+    "main.js": "/livingdex/static/js/main.ae1df8c9.chunk.js",
+    "main.js.map": "/livingdex/static/js/main.ae1df8c9.chunk.js.map",
+    "runtime-main.js": "/livingdex/static/js/runtime-main.bd692309.js",
+    "runtime-main.js.map": "/livingdex/static/js/runtime-main.bd692309.js.map",
+    "static/js/2.c2502f6d.chunk.js": "/livingdex/static/js/2.c2502f6d.chunk.js",
+    "static/js/2.c2502f6d.chunk.js.map": "/livingdex/static/js/2.c2502f6d.chunk.js.map",
+    "index.html": "/livingdex/index.html",
+    "static/css/main.63adca5a.chunk.css.map": "/livingdex/static/css/main.63adca5a.chunk.css.map",
+    "static/js/2.c2502f6d.chunk.js.LICENSE.txt": "/livingdex/static/js/2.c2502f6d.chunk.js.LICENSE.txt",
+    "static/media/box-icon.c2afa28f.svg": "/livingdex/static/media/box-icon.c2afa28f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd692309.js",
+    "static/js/2.c2502f6d.chunk.js",
+    "static/css/main.63adca5a.chunk.css",
+    "static/js/main.ae1df8c9.chunk.js"
+  ]
+}

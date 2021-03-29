@@ -1,0 +1,268 @@
+id,rating,showdown_name,veekun_name,gen,slug,name
+1,10,Stench,stench,3,stench,Stench
+2,80,Drizzle,drizzle,3,drizzle,Drizzle
+3,90,"Speed Boost",speed-boost,3,speed-boost,"Speed Boost"
+4,20,"Battle Armor",battle-armor,3,battle-armor,"Battle Armor"
+5,60,Sturdy,sturdy,3,sturdy,Sturdy
+6,20,Damp,damp,3,damp,Damp
+7,40,Limber,limber,3,limber,Limber
+8,30,"Sand Veil",sand-veil,3,sand-veil,"Sand Veil"
+9,40,Static,static,3,static,Static
+10,70,"Volt Absorb",volt-absorb,3,volt-absorb,"Volt Absorb"
+11,70,"Water Absorb",water-absorb,3,water-absorb,"Water Absorb"
+12,30,Oblivious,oblivious,3,oblivious,Oblivious
+13,40,"Cloud Nine",cloud-nine,3,cloud-nine,"Cloud Nine"
+14,60,"Compound Eyes",compound-eyes,3,compound-eyes,"Compound Eyes"
+15,40,Insomnia,insomnia,3,insomnia,Insomnia
+16,0,"Color Change",color-change,3,color-change,"Color Change"
+17,40,Immunity,immunity,3,immunity,Immunity
+18,70,"Flash Fire",flash-fire,3,flash-fire,"Flash Fire"
+19,40,"Shield Dust",shield-dust,3,shield-dust,"Shield Dust"
+20,30,"Own Tempo",own-tempo,3,own-tempo,"Own Tempo"
+21,20,"Suction Cups",suction-cups,3,suction-cups,"Suction Cups"
+22,70,Intimidate,intimidate,3,intimidate,Intimidate
+23,100,"Shadow Tag",shadow-tag,3,shadow-tag,"Shadow Tag"
+24,50,"Rough Skin",rough-skin,3,rough-skin,"Rough Skin"
+25,100,"Wonder Guard",wonder-guard,3,wonder-guard,"Wonder Guard"
+26,70,Levitate,levitate,3,levitate,Levitate
+27,40,"Effect Spore",effect-spore,3,effect-spore,"Effect Spore"
+28,40,Synchronize,synchronize,3,synchronize,Synchronize
+29,40,"Clear Body",clear-body,3,clear-body,"Clear Body"
+30,50,"Natural Cure",natural-cure,3,natural-cure,"Natural Cure"
+31,60,"Lightning Rod",lightning-rod,3,lightning-rod,"Lightning Rod"
+32,70,"Serene Grace",serene-grace,3,serene-grace,"Serene Grace"
+33,60,"Swift Swim",swift-swim,3,swift-swim,"Swift Swim"
+34,60,Chlorophyll,chlorophyll,3,chlorophyll,Chlorophyll
+35,0,Illuminate,illuminate,3,illuminate,Illuminate
+36,50,Trace,trace,3,trace,Trace
+37,100,"Huge Power",huge-power,3,huge-power,"Huge Power"
+38,30,"Poison Point",poison-point,3,poison-point,"Poison Point"
+39,30,"Inner Focus",inner-focus,3,inner-focus,"Inner Focus"
+40,20,"Magma Armor",magma-armor,3,magma-armor,"Magma Armor"
+41,40,"Water Veil",water-veil,3,water-veil,"Water Veil"
+42,80,"Magnet Pull",magnet-pull,3,magnet-pull,"Magnet Pull"
+43,30,Soundproof,soundproof,3,soundproof,Soundproof
+44,30,"Rain Dish",rain-dish,3,rain-dish,"Rain Dish"
+45,80,"Sand Stream",sand-stream,3,sand-stream,"Sand Stream"
+46,50,Pressure,pressure,3,pressure,Pressure
+47,70,"Thick Fat",thick-fat,3,thick-fat,"Thick Fat"
+48,30,"Early Bird",early-bird,3,early-bird,"Early Bird"
+49,40,"Flame Body",flame-body,3,flame-body,"Flame Body"
+50,0,"Run Away",run-away,3,run-away,"Run Away"
+51,10,"Keen Eye",keen-eye,3,keen-eye,"Keen Eye"
+52,30,"Hyper Cutter",hyper-cutter,3,hyper-cutter,"Hyper Cutter"
+53,10,Pickup,pickup,3,pickup,Pickup
+54,-20,Truant,truant,3,truant,Truant
+55,70,Hustle,hustle,3,hustle,Hustle
+56,10,"Cute Charm",cute-charm,3,cute-charm,"Cute Charm"
+57,0,Plus,plus,3,plus,Plus
+58,0,Minus,minus,3,minus,Minus
+59,40,Forecast,forecast,3,forecast,Forecast
+60,40,"Sticky Hold",sticky-hold,3,sticky-hold,"Sticky Hold"
+61,60,"Shed Skin",shed-skin,3,shed-skin,"Shed Skin"
+62,60,Guts,guts,3,guts,Guts
+63,50,"Marvel Scale",marvel-scale,3,marvel-scale,"Marvel Scale"
+64,30,"Liquid Ooze",liquid-ooze,3,liquid-ooze,"Liquid Ooze"
+65,40,Overgrow,overgrow,3,overgrow,Overgrow
+66,40,Blaze,blaze,3,blaze,Blaze
+67,40,Torrent,torrent,3,torrent,Torrent
+68,40,Swarm,swarm,3,swarm,Swarm
+69,60,"Rock Head",rock-head,3,rock-head,"Rock Head"
+70,80,Drought,drought,3,drought,Drought
+71,100,"Arena Trap",arena-trap,3,arena-trap,"Arena Trap"
+72,40,"Vital Spirit",vital-spirit,3,vital-spirit,"Vital Spirit"
+73,40,"White Smoke",white-smoke,3,white-smoke,"White Smoke"
+74,100,"Pure Power",pure-power,3,pure-power,"Pure Power"
+75,20,"Shell Armor",shell-armor,3,shell-armor,"Shell Armor"
+76,40,"Air Lock",air-lock,3,air-lock,"Air Lock"
+77,20,"Tangled Feet",tangled-feet,4,tangled-feet,"Tangled Feet"
+78,60,"Motor Drive",motor-drive,4,motor-drive,"Motor Drive"
+79,0,Rivalry,rivalry,4,rivalry,Rivalry
+80,20,Steadfast,steadfast,4,steadfast,Steadfast
+81,30,"Snow Cloak",snow-cloak,4,snow-cloak,"Snow Cloak"
+82,30,Gluttony,gluttony,4,gluttony,Gluttony
+83,30,"Anger Point",anger-point,4,anger-point,"Anger Point"
+84,70,Unburden,unburden,4,unburden,Unburden
+85,40,Heatproof,heatproof,4,heatproof,Heatproof
+86,80,Simple,simple,4,simple,Simple
+87,60,"Dry Skin",dry-skin,4,dry-skin,"Dry Skin"
+88,70,Download,download,4,download,Download
+89,60,"Iron Fist",iron-fist,4,iron-fist,"Iron Fist"
+90,80,"Poison Heal",poison-heal,4,poison-heal,"Poison Heal"
+91,80,Adaptability,adaptability,4,adaptability,Adaptability
+92,60,"Skill Link",skill-link,4,skill-link,"Skill Link"
+93,30,Hydration,hydration,4,hydration,Hydration
+94,40,"Solar Power",solar-power,4,solar-power,"Solar Power"
+95,50,"Quick Feet",quick-feet,4,quick-feet,"Quick Feet"
+96,0,Normalize,normalize,4,normalize,Normalize
+97,40,Sniper,sniper,4,sniper,Sniper
+98,80,"Magic Guard",magic-guard,4,magic-guard,"Magic Guard"
+99,80,"No Guard",no-guard,4,no-guard,"No Guard"
+100,-20,Stall,stall,4,stall,Stall
+101,70,Technician,technician,4,technician,Technician
+102,10,"Leaf Guard",leaf-guard,4,leaf-guard,"Leaf Guard"
+103,-20,Klutz,klutz,4,klutz,Klutz
+104,70,"Mold Breaker",mold-breaker,4,mold-breaker,"Mold Breaker"
+105,30,"Super Luck",super-luck,4,super-luck,"Super Luck"
+106,50,Aftermath,aftermath,4,aftermath,Aftermath
+107,10,Anticipation,anticipation,4,anticipation,Anticipation
+108,10,Forewarn,forewarn,4,forewarn,Forewarn
+109,80,Unaware,unaware,4,unaware,Unaware
+110,80,"Tinted Lens",tinted-lens,4,tinted-lens,"Tinted Lens"
+111,60,Filter,filter,4,filter,Filter
+112,-20,"Slow Start",slow-start,4,slow-start,"Slow Start"
+113,60,Scrappy,scrappy,4,scrappy,Scrappy
+114,60,"Storm Drain",storm-drain,4,storm-drain,"Storm Drain"
+115,20,"Ice Body",ice-body,4,ice-body,"Ice Body"
+116,60,"Solid Rock",solid-rock,4,solid-rock,"Solid Rock"
+117,80,"Snow Warning",snow-warning,4,snow-warning,"Snow Warning"
+118,0,"Honey Gather",honey-gather,4,honey-gather,"Honey Gather"
+119,30,Frisk,frisk,4,frisk,Frisk
+120,60,Reckless,reckless,4,reckless,Reckless
+121,80,Multitype,multitype,4,multitype,Multitype
+122,20,"Flower Gift",flower-gift,4,flower-gift,"Flower Gift"
+123,30,"Bad Dreams",bad-dreams,4,bad-dreams,"Bad Dreams"
+124,20,Pickpocket,pickpocket,5,pickpocket,Pickpocket
+125,70,"Sheer Force",sheer-force,5,sheer-force,"Sheer Force"
+126,90,Contrary,contrary,5,contrary,Contrary
+127,30,Unnerve,unnerve,5,unnerve,Unnerve
+128,50,Defiant,defiant,5,defiant,Defiant
+129,-20,Defeatist,defeatist,5,defeatist,Defeatist
+130,40,"Cursed Body",cursed-body,5,cursed-body,"Cursed Body"
+131,0,Healer,healer,5,healer,Healer
+132,0,"Friend Guard",friend-guard,5,friend-guard,"Friend Guard"
+133,20,"Weak Armor",weak-armor,5,weak-armor,"Weak Armor"
+134,0,"Heavy Metal",heavy-metal,5,heavy-metal,"Heavy Metal"
+135,20,"Light Metal",light-metal,5,light-metal,"Light Metal"
+136,70,Multiscale,multiscale,5,multiscale,Multiscale
+137,50,"Toxic Boost",toxic-boost,5,toxic-boost,"Toxic Boost"
+138,40,"Flare Boost",flare-boost,5,flare-boost,"Flare Boost"
+139,50,Harvest,harvest,5,harvest,Harvest
+140,0,Telepathy,telepathy,5,telepathy,Telepathy
+141,100,Moody,moody,5,moody,Moody
+142,40,Overcoat,overcoat,5,overcoat,Overcoat
+143,40,"Poison Touch",poison-touch,5,poison-touch,"Poison Touch"
+144,90,Regenerator,regenerator,5,regenerator,Regenerator
+145,10,"Big Pecks",big-pecks,5,big-pecks,"Big Pecks"
+146,60,"Sand Rush",sand-rush,5,sand-rush,"Sand Rush"
+147,40,"Wonder Skin",wonder-skin,5,wonder-skin,"Wonder Skin"
+148,50,Analytic,analytic,5,analytic,Analytic
+149,90,Illusion,illusion,5,illusion,Illusion
+150,100,Imposter,imposter,5,imposter,Imposter
+151,50,Infiltrator,infiltrator,5,infiltrator,Infiltrator
+152,40,Mummy,mummy,5,mummy,Mummy
+153,60,Moxie,moxie,5,moxie,Moxie
+154,50,Justified,justified,5,justified,Justified
+155,30,Rattled,rattled,5,rattled,Rattled
+156,80,"Magic Bounce",magic-bounce,5,magic-bounce,"Magic Bounce"
+157,60,"Sap Sipper",sap-sipper,5,sap-sipper,"Sap Sipper"
+158,80,Prankster,prankster,5,prankster,Prankster
+159,40,"Sand Force",sand-force,5,sand-force,"Sand Force"
+160,50,"Iron Barbs",iron-barbs,5,iron-barbs,"Iron Barbs"
+161,0,"Zen Mode",zen-mode,5,zen-mode,"Zen Mode"
+162,40,"Victory Star",victory-star,5,victory-star,"Victory Star"
+163,70,Turboblaze,turboblaze,5,turboblaze,Turboblaze
+164,70,Teravolt,teravolt,5,teravolt,Teravolt
+165,40,"Aroma Veil",aroma-veil,6,aroma-veil,"Aroma Veil"
+166,0,"Flower Veil",flower-veil,6,flower-veil,"Flower Veil"
+167,40,"Cheek Pouch",cheek-pouch,6,cheek-pouch,"Cheek Pouch"
+168,90,Protean,protean,6,protean,Protean
+169,80,"Fur Coat",fur-coat,6,fur-coat,"Fur Coat"
+170,30,Magician,magician,6,magician,Magician
+171,60,Bulletproof,bulletproof,6,bulletproof,Bulletproof
+172,50,Competitive,competitive,6,competitive,Competitive
+173,60,"Strong Jaw",strong-jaw,6,strong-jaw,"Strong Jaw"
+174,80,Refrigerate,refrigerate,6,refrigerate,Refrigerate
+175,40,"Sweet Veil",sweet-veil,6,sweet-veil,"Sweet Veil"
+176,80,"Stance Change",stance-change,6,stance-change,"Stance Change"
+177,60,"Gale Wings",gale-wings,6,gale-wings,"Gale Wings"
+178,60,"Mega Launcher",mega-launcher,6,mega-launcher,"Mega Launcher"
+179,10,"Grass Pelt",grass-pelt,6,grass-pelt,"Grass Pelt"
+180,0,Symbiosis,symbiosis,6,symbiosis,Symbiosis
+181,70,"Tough Claws",tough-claws,6,tough-claws,"Tough Claws"
+182,80,Pixilate,pixilate,6,pixilate,Pixilate
+183,40,Gooey,gooey,6,gooey,Gooey
+184,80,Aerilate,aerilate,6,aerilate,Aerilate
+185,90,"Parental Bond",parental-bond,6,parental-bond,"Parental Bond"
+186,60,"Dark Aura",dark-aura,6,dark-aura,"Dark Aura"
+187,60,"Fairy Aura",fairy-aura,6,fairy-aura,"Fairy Aura"
+188,20,"Aura Break",aura-break,6,aura-break,"Aura Break"
+189,90,"Primordial Sea",primordial-sea,6,primordial-sea,"Primordial Sea"
+190,90,"Desolate Land",desolate-land,6,desolate-land,"Desolate Land"
+191,80,"Delta Stream",delta-stream,6,delta-stream,"Delta Stream"
+192,70,Stamina,stamina,7,stamina,Stamina
+193,20,"Wimp Out",wimp-out,7,wimp-out,"Wimp Out"
+194,20,"Emergency Exit",emergency-exit,7,emergency-exit,"Emergency Exit"
+195,30,"Water Compaction",water-compaction,7,water-compaction,"Water Compaction"
+196,30,Merciless,merciless,7,merciless,Merciless
+197,60,"Shields Down",shields-down,7,shields-down,"Shields Down"
+198,90,Stakeout,stakeout,7,stakeout,Stakeout
+199,90,"Water Bubble",water-bubble,7,water-bubble,"Water Bubble"
+200,70,Steelworker,steelworker,7,steelworker,Steelworker
+201,40,Berserk,berserk,7,berserk,Berserk
+202,60,"Slush Rush",slush-rush,7,slush-rush,"Slush Rush"
+203,20,"Long Reach",long-reach,7,long-reach,"Long Reach"
+204,30,"Liquid Voice",liquid-voice,7,liquid-voice,"Liquid Voice"
+205,70,Triage,triage,7,triage,Triage
+206,80,Galvanize,galvanize,7,galvanize,Galvanize
+207,60,"Surge Surfer",surge-surfer,7,surge-surfer,"Surge Surfer"
+208,60,Schooling,schooling,7,schooling,Schooling
+209,70,Disguise,disguise,7,disguise,Disguise
+210,80,"Battle Bond",battle-bond,7,battle-bond,"Battle Bond"
+211,100,"Power Construct",power-construct,7,power-construct,"Power Construct"
+212,50,Corrosion,corrosion,7,corrosion,Corrosion
+213,80,Comatose,comatose,7,comatose,Comatose
+214,50,"Queenly Majesty",queenly-majesty,7,queenly-majesty,"Queenly Majesty"
+215,80,"Innards Out",innards-out,7,innards-out,"Innards Out"
+216,30,Dancer,dancer,7,dancer,Dancer
+217,0,Battery,battery,7,battery,Battery
+218,70,Fluffy,fluffy,7,fluffy,Fluffy
+219,50,Dazzling,dazzling,7,dazzling,Dazzling
+220,70,Soul-Heart,soul-heart,7,soul-heart,Soul-Heart
+221,40,"Tangling Hair",tangling-hair,7,tangling-hair,"Tangling Hair"
+222,0,Receiver,receiver,7,receiver,Receiver
+223,0,"Power of Alchemy",power-of-alchemy,7,power-of-alchemy,"Power of Alchemy"
+224,70,"Beast Boost",beast-boost,7,beast-boost,"Beast Boost"
+225,80,"RKS System",rks-system,7,rks-system,"RKS System"
+226,80,"Electric Surge",electric-surge,7,electric-surge,"Electric Surge"
+227,80,"Psychic Surge",psychic-surge,7,psychic-surge,"Psychic Surge"
+228,70,"Misty Surge",misty-surge,7,misty-surge,"Misty Surge"
+229,80,"Grassy Surge",grassy-surge,7,grassy-surge,"Grassy Surge"
+230,40,"Full Metal Body",full-metal-body,7,full-metal-body,"Full Metal Body"
+231,70,"Shadow Shield",shadow-shield,7,shadow-shield,"Shadow Shield"
+232,60,"Prism Armor",prism-armor,7,prism-armor,"Prism Armor"
+233,50,Neuroforce,neuroforce,7,neuroforce,Neuroforce
+234,80,"Intrepid Sword",,8,intrepid-sword,"Intrepid Sword"
+235,70,"Dauntless Shield",,8,dauntless-shield,"Dauntless Shield"
+236,90,Libero,,8,libero,Libero
+237,0,"Ball Fetch",,8,ball-fetch,"Ball Fetch"
+238,40,"Cotton Down",,8,cotton-down,"Cotton Down"
+239,0,"Propeller Tail",,8,propeller-tail,"Propeller Tail"
+240,40,"Mirror Armor",,8,mirror-armor,"Mirror Armor"
+241,50,"Gulp Missile",,8,gulp-missile,"Gulp Missile"
+242,0,Stalwart,,8,stalwart,Stalwart
+243,40,"Steam Engine",,8,steam-engine,"Steam Engine"
+244,70,"Punk Rock",,8,punk-rock,"Punk Rock"
+245,40,"Sand Spit",,8,sand-spit,"Sand Spit"
+246,80,"Ice Scales",,8,ice-scales,"Ice Scales"
+247,40,Ripen,,8,ripen,Ripen
+248,60,"Ice Face",,8,ice-face,"Ice Face"
+249,20,"Power Spot",,8,power-spot,"Power Spot"
+250,10,Mimicry,,8,mimicry,Mimicry
+251,40,"Screen Cleaner",,8,screen-cleaner,"Screen Cleaner"
+252,70,"Steely Spirit",,8,steely-spirit,"Steely Spirit"
+253,20,"Perish Body",,8,perish-body,"Perish Body"
+254,50,"Wandering Spirit",,8,wandering-spirit,"Wandering Spirit"
+255,90,"Gorilla Tactics",,8,gorilla-tactics,"Gorilla Tactics"
+256,100,"Neutralizing Gas",,8,neutralizing-gas,"Neutralizing Gas"
+257,40,"Pastel Veil",,8,pastel-veil,"Pastel Veil"
+258,20,"Hunger Switch",,8,hunger-switch,"Hunger Switch"
+259,50,"Quick Draw",,8,quick-draw,"Quick Draw"
+260,40,"Unseen Fist",,8,unseen-fist,"Unseen Fist"
+261,0,"Curious Medicine",,8,curious-medicine,"Curious Medicine"
+262,70,Transistor,,8,transistor,Transistor
+263,70,"Dragon's Maw",,8,dragons-maw,"Dragon's Maw"
+264,60,"Chilling Neigh",,8,chilling-neigh,"Chilling Neigh"
+265,60,"Grim Neigh",,8,grim-neigh,"Grim Neigh"
+266,70,"As One (Glastrier)",,8,as-one-glastrier,"As One (Glastrier)"
+267,70,"As One (Spectrier)",,8,as-one-spectrier,"As One (Spectrier)"
