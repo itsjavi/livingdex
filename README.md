@@ -10,8 +10,8 @@
 Living Dex is a visual guide for organizing Pokémon HOME boxes.<br>
 This web app contains a view of all storable Pokémon forms, including all gender differences.
 
-The project is still in an early state, please feel free to join our discussion and share your thoughts 
-on the [Github project repository](https://github.com/itsjavi/livingdex/discussions).
+The project is still in an early state, please feel free to join our discussion and share your thoughts <br>
+on the [Github project's discussion](https://github.com/itsjavi/livingdex/discussions) section.
 
 ![](resources/preview.png)
 
