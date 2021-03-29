@@ -1,12 +1,12 @@
 import "./App.css"
 import PokedexPage from "../../pages/PokedexPage/PokedexPage"
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom"
+import { HashRouter as Router, Route, Switch } from "react-router-dom"
 import BoxesPage from "../../pages/BoxesPage/BoxesPage"
 
 function App() {
 
   return (
-    <Router basename="/livingdex">
+    <Router basename="/">
       <Switch>
         <Route path="/pokedex">
           <PokedexPage />
