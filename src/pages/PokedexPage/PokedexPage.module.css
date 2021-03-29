@@ -17,10 +17,25 @@
     /*box-shadow: 2px 2px 8px rgba(255,255,255,0.2), -2px -2px 8px rgba(255,255,255,0.2);*/
     /*filter: drop-shadow(2px 2px 4px rgba(255,255,255,0.7));*/
 }
+
+.pokedexListItem::after {
+     content: "";
+     position: absolute;
+     width: 100%;
+     height: 100%;
+     left: 50%;
+     top: 50%;
+     margin: -50% 0 0 -50%;
+     background: var(--circle-shadow);
+     border-radius: 200px;
+     z-index: 0;
+ }
+
 .pokedexListItem img {
     width: 100%;
     height: auto;
     vertical-align: baseline;
+    z-index: 1;
 }
 
 .pokedexListItem:hover {

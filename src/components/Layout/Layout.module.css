@@ -6,10 +6,10 @@
 }
 
 .layoutBody {
-    flex-grow: 1;
+    /*flex-grow: 1;*/
     padding: var(--base-space);
     overflow: auto;
-    overflow: paged-y;
+    /*overflow: paged-y;*/
 }
 
 .layoutBodyInner {
@@ -20,12 +20,12 @@
 }
 
 .layoutBody::-webkit-scrollbar-track {
-    background-color: rgba(0,0,0,0.1);
+    background-color: rgba(0, 0, 0, 0.1);
     border-radius: 24px;
 }
 
 .layoutBody::-webkit-scrollbar-corner {
-    background-color: rgba(0,0,0,0.2);
+    background-color: rgba(0, 0, 0, 0.2);
 }
 
 .layoutBody::-webkit-scrollbar-thumb {

@@ -1,16 +1,6 @@
 declare module LivingDex {
   // generated with the help of http://json2ts.com/
 
-  export interface PokemonListOptions {
-    search: string;
-    gen: number;
-    onlyHomeStorable: boolean;
-    showForms: boolean;
-    showCosmeticForms: boolean;
-    separateBoxPikachu: boolean;
-    separateBoxForms: boolean;
-  }
-
   export interface BoxPosition {
     box: number;
     col: number;

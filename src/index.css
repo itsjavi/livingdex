@@ -15,6 +15,7 @@
     --color-primary-light2c: #ffffffbb;
     --color-main-title: #ff8002;
     --color-button-selected: #FFAD03;
+    --circle-shadow: radial-gradient(circle, rgba(122, 122, 122, 0.65) 0%, rgba(122, 122, 122, 0) 62%);
     --color-pink: #FF78BB;
     --color-lime: #B6E934;
     --color-navy: #617BE9;
@@ -29,28 +30,32 @@
     --color-primary: #39b5ac;
     --color-primary-light1: #d7f89d;
     --color-primary-light2: #92E5CB;
-    --color-primary-light2b: #7ACCAB;
+    --color-primary-light2b: rgb(122, 204, 171);
+    --circle-shadow: radial-gradient(circle, rgba(122, 204, 171, 0.65) 0%, rgba(122, 204, 171, 0) 62%);
 }
 
 .themePurple {
     --color-primary: #9E81D5;
     --color-primary-light1: #EBD0FB;
-    --color-primary-light2: #C8B8F9;
-    --color-primary-light2b: #C8B8F9;
+    --color-primary-light2: rgb(200, 184, 249);
+    --color-primary-light2b: rgb(200, 184, 249);
+    --circle-shadow: radial-gradient(circle, rgba(200, 184, 249, 0.65) 0%, rgba(200, 184, 249, 0) 62%);
 }
 
 .themeBlue {
     --color-primary: #4F7EC4;
     --color-primary-light1: #ABEFFA;
-    --color-primary-light2: #A6CEF2;
-    --color-primary-light2b: #A6CEF2;
+    --color-primary-light2: rgb(166, 206, 242);
+    --color-primary-light2b: rgb(166, 206, 242);
+    --circle-shadow: radial-gradient(circle, rgba(166, 206, 242, 0.65) 0%, rgba(166, 206, 242, 0) 62%);
 }
 
 .themeGold {
     --color-primary: #FFB406;
     --color-primary-light1: #FFE97A;
-    --color-primary-light2: #FACD6B;
-    --color-primary-light2b: #FACD6B;
+    --color-primary-light2: rgb(250, 205, 107);
+    --color-primary-light2b: rgb(250, 205, 107);
+    --circle-shadow: radial-gradient(circle, rgba(250, 205, 107, 0.65) 0%, rgba(250, 205, 107, 0) 62%);
 }
 
 .bgGradientDown {
@@ -88,7 +93,7 @@ html, body, #root {
     margin: 0;
     padding: 0;
     width: auto;
-    height: 100%;
+    min-height: 100%;
     overscroll-behavior: none;
     background: #fff;
     box-sizing: border-box;

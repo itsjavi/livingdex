@@ -25,11 +25,18 @@ function LayoutHeader(props) {
           <nav>
             <NavLink to="/"
                      activeClassName={styles.active}
-                     isActive={checkActive}><i className="icon-box-add"/> Boxes</NavLink>
+                     isActive={checkActive}>
+              <i className="icon-box-add"/>
+              <span>Boxes</span>
+            </NavLink>
             <NavLink to="/pokedex"
-                     activeClassName={styles.active}><i className="icon-books"/> Pokédex</NavLink>
+                     activeClassName={styles.active}>
+              <i className="icon-books"/>
+              <span>Pokédex</span>
+            </NavLink>
             <a href="https://github.com/itsjavi/livingdex" target="_blank" rel="noreferrer">
-              <i className="icon-github" title="Github"/> Github
+              <i className="icon-github" title="Github"/>
+              <span>Github</span>
             </a>
             <a href="https://blog.itsjavi.com/" target="_blank" rel="noreferrer">
               <small>Created by <b>@itsjavi</b></small>

@@ -4,7 +4,7 @@ import { BaseHomeRenderPath, Image } from "../../components/Image"
 import React from "react"
 import { CalcBoxPosition } from "../../app/utils"
 import usePokemonList from "../../hooks/usePokemonList"
-import { useLocation } from "react-router-dom"
+import useQueryOptions from "../../hooks/useQueryOptions"
 
 /**
  * @param {PokemonListItemSimple} pkm
@@ -64,28 +64,16 @@ function createBoxes(pokemonList) {
 }
 
 function BoxesPage() {
-  let query = new URLSearchParams(useLocation().search)
+  const { pokemon, loading } = usePokemonList(useQueryOptions())
 
-  let opts = {
-    "gen": query.get("gen"),
-    "search": query.get("q"),
-    "separateBoxPikachu": query.has("sep-pika"),
-    "separateBoxForms": query.has("sep-forms"),
-    "showForms": true,
-    "showCosmeticForms": true,
-    "onlyHomeStorable": true,
-  }
-  if (query.has("noforms")) {
-    opts.showForms = false
-  }
-  if (query.has("nocosmetic")) {
-    opts.showCosmeticForms = false
-  }
+  let boxes = null
+  let title = <span>Living Dex</span>
+  let subtitle = "Loading..."
 
-  const pokemonList = usePokemonList(opts)
-  let boxes = createBoxes(pokemonList)
-  let title = <span>Living Dex / <b>Boxes</b></span>
-  let subtitle = "Box Organization (" + pokemonList.length + " Storable Pokémon)"
+  if (loading === false) {
+    boxes = createBoxes(pokemon)
+    subtitle = "Box Organization (" + pokemon.length + " Storable Pokémon)"
+  }
 
   return (
     <div className="app themeTeal bgGradientDown">
