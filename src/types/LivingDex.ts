@@ -22,6 +22,7 @@ declare module LivingDex {
     dexNum: number;
     tabIndex: number;
     file: string;
+    fileBaseName: string;
     slug: string;
     name: string;
   }

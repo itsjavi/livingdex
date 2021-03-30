@@ -16,7 +16,8 @@ function createPokemonElement(pkm) {
               className={styles["box-cell"]}>
     <figure>
       <Image className={styles["box-img"]}
-             src={BaseHomeRenderPath + pkm.file}
+             // src={BaseHomeRenderPath + pkm.file}
+             src={BaseHomeRenderPath + "/regular/" + pkm.file}
              alt={pkm.name} />
       <figcaption>{pkm.name}</figcaption>
     </figure>

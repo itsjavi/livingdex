@@ -53,7 +53,9 @@ function usePokemonList(options) {
               id: pkm.id,
               dexNum: pkm.num,
               tabIndex: idx,
+              // file: pkm.imgHome + ".png",
               file: pkm.imgHome + ".png",
+              fileBaseName: pkm.imgHome.split('/').pop(),
               slug: pkm.slug,
               name: pkm.title,
             })

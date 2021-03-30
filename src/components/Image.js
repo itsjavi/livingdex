@@ -1,7 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 
-const BaseHomeRenderPath = "./assets/images/home/pokemon/regular/"
+const BaseHomeRenderPath = "./assets/images/home/pokemon"
 
 function Image(props) {
   return (
