@@ -8,6 +8,7 @@ class PokemonListOptions {
   separateBoxPikachu = false
   separateBoxForms = false
   onlyHomeStorable = false
+  viewShiny = false
 
   get gen() {
     return this._gen

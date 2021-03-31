@@ -27,6 +27,11 @@
     padding: calc(var(--boxRadius) / 2);
 }
 
+.box:focus {
+    outline: none;
+}
+
+.box:focus .box-header,
 .box:focus-within .box-header {
     background-color: var(--color-primary);
 }
@@ -51,6 +56,7 @@
     padding: 12px 18px 18px 18px;
 }
 
+.box:focus .box-grid,
 .box-grid:focus-within {
     padding: 12px;
     border: 6px solid var(--color-cyan);
@@ -88,7 +94,7 @@
     /*background-color: var(--color-primary-light1);*/
     background: var(--boxBg);
     /*transition: background-color 2s ease;*/
-    border: 2px solid var(--color-main-title);
+    border: 2px solid var(--color-button-selected);
     background-blend-mode: normal;
     z-index: 10;
     outline: none;
@@ -118,7 +124,7 @@
     top: 100%;
     left: 0;
     width: 126%;
-    background: var(--color-main-title);
+    background: var(--color-button-selected);
     /*border: 1px solid #d7ebeb;*/
     color: #fff;
     font-weight: bold;
@@ -131,6 +137,10 @@
     margin-top: 5px;
     margin-left: -13%;
     z-index: 11;
+}
+
+.box-cell figcaption:hover {
+    background: var(--color-main-title);
 }
 
 .box-cell .box-img {

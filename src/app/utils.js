@@ -2,6 +2,16 @@ function UpperCaseFirst(str) {
   return str.charAt(0).toUpperCase() + str.slice(1)
 }
 
+function CalcImageSrc(num, formSlug) {
+  let src = CalcRangeFolder(num) + "/" + String(num).padStart(4, "0")
+
+  if (formSlug) {
+    src += "-" + formSlug
+  }
+
+  return src + ".png"
+}
+
 function CalcRangeFolder(num, zeroPadding = 4, itemsPerFolder = 100) {
   num = parseInt(num)
   let minFolder = null
@@ -67,4 +77,4 @@ function CalcBoxPosition(sequentialIndex, gridRows = 5, gridColumns = 6) {
   }
 }
 
-export { UpperCaseFirst, CalcRangeFolder, CalcBoxPosition }
+export { UpperCaseFirst, CalcRangeFolder, CalcBoxPosition, CalcImageSrc }

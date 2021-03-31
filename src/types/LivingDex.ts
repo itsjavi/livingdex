@@ -25,6 +25,8 @@ declare module LivingDex {
     fileBaseName: string;
     slug: string;
     name: string;
+    isCosmetic: string;
+    baseDataForm: string;
   }
 
   export interface PokemonListItem {
@@ -51,6 +53,66 @@ declare module LivingDex {
     type2: string;
     baseStats: PokemonStats;
   }
+
+  export interface PokemonDetails {
+    id: number;
+    num: number;
+    slug: string;
+    name: string;
+    gen: number;
+    forms: string[];
+    formName: string;
+    formSlug: string;
+    formOrder: number;
+    baseSpecies: string;
+    baseDataForm?: any;
+    imgSprite: string;
+    imgHome: string;
+    dataGen: number;
+    type1: string;
+    type2?: any;
+    eggGroup1: string;
+    eggGroup2?: any;
+    ability1: string;
+    ability2?: any;
+    abilityHidden: string;
+    height: number;
+    weight: number;
+    color: string;
+    actualColor: string;
+    shape: string;
+    maleRatio: number;
+    femaleRatio: number;
+    growthRate: string;
+    catchRate: number;
+    hatchCycles: number;
+    baseFriendship: number;
+    baseStats: PokemonStats;
+    baseStatsTotal: number;
+    yieldStats: PokemonStats;
+    yieldBaseExp: number;
+    isFemale: boolean;
+    isCosmetic: boolean;
+    isLegendary: boolean;
+    isMythical: boolean;
+    isFusion: boolean;
+    isMega: boolean;
+    isPrimal: boolean;
+    isGmax: boolean;
+    canDynamax: boolean;
+    isTotem: boolean;
+    isRegional: boolean;
+    isHomeStorable: boolean;
+    showdownSlug: string;
+    veekunSlug: string;
+    veekunFormId: number;
+
+    title: string;
+    dexNum: number;
+    file: string;
+    fileBaseName: string;
+  }
+
 
 }
 

@@ -1,38 +1,46 @@
 import { useEffect, useState } from "react"
 import { PokeApi } from "../app/api"
-import PokemonListOptions, { defaultPokemonListOptions } from "../app/PokemonListOptions"
 
 const api = new PokeApi()
 
 /**
  * @param {PokemonListOptions} options
+ * @param {PokemonListItem} pkm
+ * @returns {boolean}
+ */
+function shouldSkip(options, pkm) {
+  if (options.onlyHomeStorable && !pkm.isHomeStorable) {
+    return true
+  }
+  if (options.onlyHomeStorable && pkm.isGmax) {
+    return true
+  }
+  if ((!options.showForms) && pkm.isForm) {
+    return true
+  }
+  if ((!options.showCosmeticForms) && pkm.isCosmetic) {
+    return true
+  }
+  if (options.search.length > 2) {
+    let reg = new RegExp(options.search, "gi")
+    let typeFound = ((pkm.type1 !== null && pkm.type1.match(reg))
+      || (pkm.type2 !== null && pkm.type2.match(reg)))
+
+    if (!pkm.name.match(reg) && !pkm.slug.match(reg)) {
+      return !typeFound
+    }
+  }
+  return false
+}
+
+/**
+ * @param {PokemonListOptions} initialOptions
  * @return {{pokemon: PokemonListItemSimple[], options: PokemonListOptions, loading: boolean}}
  */
-function usePokemonList(options) {
+function usePokemonList(initialOptions) {
+  const [options] = useState(initialOptions)
   const [pokemonList, setPokemonList] = useState([])
   const [loading, setLoading] = useState(true)
-
-  function shouldSkip(pkm) {
-    if (options.search.length > 2) {
-      let reg = new RegExp(options.search, "gi")
-      if (!pkm.name.match(reg) && !pkm.slug.match(reg)) {
-        return true
-      }
-    }
-    if (options.onlyHomeStorable && !pkm.isHomeStorable) {
-      return true
-    }
-    if (options.onlyHomeStorable && pkm.isGmax) {
-      return true
-    }
-    if ((!options.showForms) && pkm.isForm) {
-      return true
-    }
-    if ((!options.showCosmeticForms) && pkm.isCosmetic) {
-      return true
-    }
-    return false
-  }
 
   useEffect(() => {
     async function fetchPokemonList() {
@@ -45,19 +53,23 @@ function usePokemonList(options) {
           let idx = 0
           for (let slug in apiResponse) {
             let pkm = apiResponse[slug]
-            if (shouldSkip(pkm)) {
+            if (shouldSkip(options, pkm)) {
               continue
             }
             idx++
+            // TODO: stop using PokemonListItemSimple, use regular one
             pokedex.push({
+              //...pkm,
               id: pkm.id,
               dexNum: pkm.num,
               tabIndex: idx,
               // file: pkm.imgHome + ".png",
               file: pkm.imgHome + ".png",
-              fileBaseName: pkm.imgHome.split('/').pop(),
+              fileBaseName: pkm.imgHome.split("/").pop(),
               slug: pkm.slug,
               name: pkm.title,
+              isCosmetic: pkm.isCosmetic,
+              baseDataForm: pkm.baseDataForm,
             })
           }
           return pokedex
@@ -67,7 +79,7 @@ function usePokemonList(options) {
     }
 
     fetchPokemonList()
-  }, [])
+  }, [options])
 
   return { pokemon: pokemonList, loading: loading, options: options }
 }

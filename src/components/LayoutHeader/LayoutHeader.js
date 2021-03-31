@@ -45,9 +45,9 @@ function LayoutHeader(props) {
         </div>
       </div>
       <div className={styles.layoutHeaderBottom + " bgGradientDownLight"}>
-        <div className={styles.layoutHeaderSubMenuTitle}>
+        <h2 className={styles.layoutHeaderSubMenuTitle}>
           {props.subtitle}
-        </div>
+        </h2>
       </div>
     </div>
   )

@@ -14,6 +14,7 @@
     --color-primary-light2b: #e0e0e0;
     --color-primary-light2c: #ffffffbb;
     --color-main-title: #ff8002;
+    --color-main-title-hover: #e39344;
     --color-button-selected: #FFAD03;
     --circle-shadow: radial-gradient(circle, rgba(122, 122, 122, 0.65) 0%, rgba(122, 122, 122, 0) 62%);
     --color-pink: #FF78BB;
@@ -69,7 +70,7 @@
 }
 
 .bgGradientDownLight {
-    background: linear-gradient(360deg, var(--color-primary-light1) -51.67%, rgba(255, 255, 255, 0) 240%), #FFFFFF;
+    background: linear-gradient(360deg, var(--color-primary-light1) -100%, rgba(255, 255, 255, 0) 200%), #FFFFFF;
     transition: background-color 2s ease;
 }
 

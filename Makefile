@@ -48,6 +48,7 @@ build-serve:
 	cd build && open http://localhost:8000 && python3 -m http.server 8000
 
 deploy:
+	rm -rf public/assets/data/csv public/assets/data/pogo
 	npm run deploy
 docker-deploy:
 	docker-compose run --rm app deploy
