@@ -25,7 +25,19 @@
     --base-space: 1.6rem;
     --base-space-half: 0.8rem;
     --box-shadow-1: 0 20px 40px rgba(0, 0, 0, 0.05);
+    --img-outline-filter: drop-shadow(1px 1px 0px #333)
+            drop-shadow(1px -1px 0px #333)
+            drop-shadow(-1px 1px 0px #333)
+            drop-shadow(-1px -1px 0px #333);
+    --img-outline-filter-soft: drop-shadow(1px 1px 0px #ffffff77)
+            drop-shadow(1px -1px 0px #ffffff77)
+            drop-shadow(-1px 1px 0px #ffffff77)
+            drop-shadow(-1px -1px 0px #ffffff77);
 }
+
+/* img {*/
+/*    filter: var(--img-outline-filter);*/
+/*}*/
 
 .themeTeal {
     --color-primary: #39b5ac;

@@ -2,7 +2,7 @@
 .pokedexList {
     position: relative;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(calc(var(--thumbnail-size) * 1), 2fr));
+    grid-template-columns: repeat(auto-fill, minmax(calc(var(--thumbnail-size) * 1.5), 2fr));
     grid-gap: var(--base-space-half);
     text-align: center;
 }
