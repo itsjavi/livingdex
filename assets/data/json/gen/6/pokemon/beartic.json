@@ -63,5 +63,6 @@
   "isHomeStorable": true,
   "showdownSlug": "beartic",
   "veekunSlug": "beartic",
-  "veekunFormId": 614
+  "veekunFormId": 614,
+  "title": "Beartic"
 }

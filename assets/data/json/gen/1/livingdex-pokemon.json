@@ -26,7 +26,8 @@
       "spa": 65,
       "spd": 65,
       "spe": 45
-    }
+    },
+    "veekunSlug": "bulbasaur"
   },
   {
     "id": 2,
@@ -55,7 +56,8 @@
       "spa": 80,
       "spd": 80,
       "spe": 60
-    }
+    },
+    "veekunSlug": "ivysaur"
   },
   {
     "id": 3,
@@ -86,7 +88,8 @@
       "spa": 100,
       "spd": 100,
       "spe": 80
-    }
+    },
+    "veekunSlug": "venusaur"
   },
   {
     "id": 10001,
@@ -115,7 +118,8 @@
       "spa": 100,
       "spd": 100,
       "spe": 80
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 4,
@@ -144,7 +148,8 @@
       "spa": 60,
       "spd": 50,
       "spe": 65
-    }
+    },
+    "veekunSlug": "charmander"
   },
   {
     "id": 5,
@@ -173,7 +178,8 @@
       "spa": 80,
       "spd": 65,
       "spe": 80
-    }
+    },
+    "veekunSlug": "charmeleon"
   },
   {
     "id": 6,
@@ -202,7 +208,8 @@
       "spa": 109,
       "spd": 85,
       "spe": 100
-    }
+    },
+    "veekunSlug": "charizard"
   },
   {
     "id": 7,
@@ -231,7 +238,8 @@
       "spa": 50,
       "spd": 64,
       "spe": 43
-    }
+    },
+    "veekunSlug": "squirtle"
   },
   {
     "id": 8,
@@ -260,7 +268,8 @@
       "spa": 65,
       "spd": 80,
       "spe": 58
-    }
+    },
+    "veekunSlug": "wartortle"
   },
   {
     "id": 9,
@@ -289,7 +298,8 @@
       "spa": 85,
       "spd": 105,
       "spe": 78
-    }
+    },
+    "veekunSlug": "blastoise"
   },
   {
     "id": 10,
@@ -318,7 +328,8 @@
       "spa": 20,
       "spd": 20,
       "spe": 45
-    }
+    },
+    "veekunSlug": "caterpie"
   },
   {
     "id": 11,
@@ -347,7 +358,8 @@
       "spa": 25,
       "spd": 25,
       "spe": 30
-    }
+    },
+    "veekunSlug": "metapod"
   },
   {
     "id": 12,
@@ -378,7 +390,8 @@
       "spa": 90,
       "spd": 80,
       "spe": 70
-    }
+    },
+    "veekunSlug": "butterfree"
   },
   {
     "id": 10009,
@@ -407,7 +420,8 @@
       "spa": 90,
       "spd": 80,
       "spe": 70
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 13,
@@ -436,7 +450,8 @@
       "spa": 20,
       "spd": 20,
       "spe": 50
-    }
+    },
+    "veekunSlug": "weedle"
   },
   {
     "id": 14,
@@ -465,7 +480,8 @@
       "spa": 25,
       "spd": 25,
       "spe": 35
-    }
+    },
+    "veekunSlug": "kakuna"
   },
   {
     "id": 15,
@@ -494,7 +510,8 @@
       "spa": 45,
       "spd": 80,
       "spe": 75
-    }
+    },
+    "veekunSlug": "beedrill"
   },
   {
     "id": 16,
@@ -523,7 +540,8 @@
       "spa": 35,
       "spd": 35,
       "spe": 56
-    }
+    },
+    "veekunSlug": "pidgey"
   },
   {
     "id": 17,
@@ -552,7 +570,8 @@
       "spa": 50,
       "spd": 50,
       "spe": 71
-    }
+    },
+    "veekunSlug": "pidgeotto"
   },
   {
     "id": 18,
@@ -581,7 +600,8 @@
       "spa": 70,
       "spd": 70,
       "spe": 101
-    }
+    },
+    "veekunSlug": "pidgeot"
   },
   {
     "id": 19,
@@ -612,7 +632,8 @@
       "spa": 25,
       "spd": 35,
       "spe": 72
-    }
+    },
+    "veekunSlug": "rattata"
   },
   {
     "id": 10013,
@@ -641,7 +662,8 @@
       "spa": 25,
       "spd": 35,
       "spe": 72
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 20,
@@ -672,7 +694,8 @@
       "spa": 50,
       "spd": 70,
       "spe": 97
-    }
+    },
+    "veekunSlug": "raticate"
   },
   {
     "id": 10015,
@@ -701,7 +724,8 @@
       "spa": 50,
       "spd": 70,
       "spe": 97
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 21,
@@ -730,7 +754,8 @@
       "spa": 31,
       "spd": 31,
       "spe": 70
-    }
+    },
+    "veekunSlug": "spearow"
   },
   {
     "id": 22,
@@ -759,7 +784,8 @@
       "spa": 61,
       "spd": 61,
       "spe": 100
-    }
+    },
+    "veekunSlug": "fearow"
   },
   {
     "id": 23,
@@ -788,7 +814,8 @@
       "spa": 40,
       "spd": 54,
       "spe": 55
-    }
+    },
+    "veekunSlug": "ekans"
   },
   {
     "id": 24,
@@ -817,7 +844,8 @@
       "spa": 65,
       "spd": 79,
       "spe": 80
-    }
+    },
+    "veekunSlug": "arbok"
   },
   {
     "id": 25,
@@ -848,7 +876,8 @@
       "spa": 50,
       "spd": 50,
       "spe": 90
-    }
+    },
+    "veekunSlug": "pikachu"
   },
   {
     "id": 10018,
@@ -877,7 +906,8 @@
       "spa": 50,
       "spd": 50,
       "spe": 90
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 26,
@@ -908,7 +938,8 @@
       "spa": 90,
       "spd": 80,
       "spe": 110
-    }
+    },
+    "veekunSlug": "raichu"
   },
   {
     "id": 10035,
@@ -937,7 +968,8 @@
       "spa": 90,
       "spd": 80,
       "spe": 110
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 27,
@@ -966,7 +998,8 @@
       "spa": 20,
       "spd": 30,
       "spe": 40
-    }
+    },
+    "veekunSlug": "sandshrew"
   },
   {
     "id": 28,
@@ -995,7 +1028,8 @@
       "spa": 45,
       "spd": 55,
       "spe": 65
-    }
+    },
+    "veekunSlug": "sandslash"
   },
   {
     "id": 29,
@@ -1024,7 +1058,8 @@
       "spa": 40,
       "spd": 40,
       "spe": 41
-    }
+    },
+    "veekunSlug": "nidoran-f"
   },
   {
     "id": 30,
@@ -1053,7 +1088,8 @@
       "spa": 55,
       "spd": 55,
       "spe": 56
-    }
+    },
+    "veekunSlug": "nidorina"
   },
   {
     "id": 31,
@@ -1082,7 +1118,8 @@
       "spa": 75,
       "spd": 85,
       "spe": 76
-    }
+    },
+    "veekunSlug": "nidoqueen"
   },
   {
     "id": 32,
@@ -1111,7 +1148,8 @@
       "spa": 40,
       "spd": 40,
       "spe": 50
-    }
+    },
+    "veekunSlug": "nidoran-m"
   },
   {
     "id": 33,
@@ -1140,7 +1178,8 @@
       "spa": 55,
       "spd": 55,
       "spe": 65
-    }
+    },
+    "veekunSlug": "nidorino"
   },
   {
     "id": 34,
@@ -1169,7 +1208,8 @@
       "spa": 85,
       "spd": 75,
       "spe": 85
-    }
+    },
+    "veekunSlug": "nidoking"
   },
   {
     "id": 35,
@@ -1198,7 +1238,8 @@
       "spa": 60,
       "spd": 65,
       "spe": 35
-    }
+    },
+    "veekunSlug": "clefairy"
   },
   {
     "id": 36,
@@ -1227,7 +1268,8 @@
       "spa": 95,
       "spd": 90,
       "spe": 60
-    }
+    },
+    "veekunSlug": "clefable"
   },
   {
     "id": 37,
@@ -1256,7 +1298,8 @@
       "spa": 50,
       "spd": 65,
       "spe": 65
-    }
+    },
+    "veekunSlug": "vulpix"
   },
   {
     "id": 38,
@@ -1285,7 +1328,8 @@
       "spa": 81,
       "spd": 100,
       "spe": 100
-    }
+    },
+    "veekunSlug": "ninetales"
   },
   {
     "id": 39,
@@ -1314,7 +1358,8 @@
       "spa": 45,
       "spd": 25,
       "spe": 20
-    }
+    },
+    "veekunSlug": "jigglypuff"
   },
   {
     "id": 40,
@@ -1343,7 +1388,8 @@
       "spa": 85,
       "spd": 50,
       "spe": 45
-    }
+    },
+    "veekunSlug": "wigglytuff"
   },
   {
     "id": 41,
@@ -1374,7 +1420,8 @@
       "spa": 30,
       "spd": 40,
       "spe": 55
-    }
+    },
+    "veekunSlug": "zubat"
   },
   {
     "id": 10041,
@@ -1403,7 +1450,8 @@
       "spa": 30,
       "spd": 40,
       "spe": 55
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 42,
@@ -1434,7 +1482,8 @@
       "spa": 65,
       "spd": 75,
       "spe": 90
-    }
+    },
+    "veekunSlug": "golbat"
   },
   {
     "id": 10042,
@@ -1463,7 +1512,8 @@
       "spa": 65,
       "spd": 75,
       "spe": 90
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 43,
@@ -1492,7 +1542,8 @@
       "spa": 75,
       "spd": 65,
       "spe": 30
-    }
+    },
+    "veekunSlug": "oddish"
   },
   {
     "id": 44,
@@ -1523,7 +1574,8 @@
       "spa": 85,
       "spd": 75,
       "spe": 40
-    }
+    },
+    "veekunSlug": "gloom"
   },
   {
     "id": 10043,
@@ -1552,7 +1604,8 @@
       "spa": 85,
       "spd": 75,
       "spe": 40
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 45,
@@ -1583,7 +1636,8 @@
       "spa": 110,
       "spd": 90,
       "spe": 50
-    }
+    },
+    "veekunSlug": "vileplume"
   },
   {
     "id": 10044,
@@ -1612,7 +1666,8 @@
       "spa": 110,
       "spd": 90,
       "spe": 50
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 46,
@@ -1641,7 +1696,8 @@
       "spa": 45,
       "spd": 55,
       "spe": 25
-    }
+    },
+    "veekunSlug": "paras"
   },
   {
     "id": 47,
@@ -1670,7 +1726,8 @@
       "spa": 60,
       "spd": 80,
       "spe": 30
-    }
+    },
+    "veekunSlug": "parasect"
   },
   {
     "id": 48,
@@ -1699,7 +1756,8 @@
       "spa": 40,
       "spd": 55,
       "spe": 45
-    }
+    },
+    "veekunSlug": "venonat"
   },
   {
     "id": 49,
@@ -1728,7 +1786,8 @@
       "spa": 90,
       "spd": 75,
       "spe": 90
-    }
+    },
+    "veekunSlug": "venomoth"
   },
   {
     "id": 50,
@@ -1757,7 +1816,8 @@
       "spa": 35,
       "spd": 45,
       "spe": 95
-    }
+    },
+    "veekunSlug": "diglett"
   },
   {
     "id": 51,
@@ -1786,7 +1846,8 @@
       "spa": 50,
       "spd": 70,
       "spe": 120
-    }
+    },
+    "veekunSlug": "dugtrio"
   },
   {
     "id": 52,
@@ -1815,7 +1876,8 @@
       "spa": 40,
       "spd": 40,
       "spe": 90
-    }
+    },
+    "veekunSlug": "meowth"
   },
   {
     "id": 53,
@@ -1844,7 +1906,8 @@
       "spa": 65,
       "spd": 65,
       "spe": 115
-    }
+    },
+    "veekunSlug": "persian"
   },
   {
     "id": 54,
@@ -1873,7 +1936,8 @@
       "spa": 65,
       "spd": 50,
       "spe": 55
-    }
+    },
+    "veekunSlug": "psyduck"
   },
   {
     "id": 55,
@@ -1902,7 +1966,8 @@
       "spa": 95,
       "spd": 80,
       "spe": 85
-    }
+    },
+    "veekunSlug": "golduck"
   },
   {
     "id": 56,
@@ -1931,7 +1996,8 @@
       "spa": 35,
       "spd": 45,
       "spe": 70
-    }
+    },
+    "veekunSlug": "mankey"
   },
   {
     "id": 57,
@@ -1960,7 +2026,8 @@
       "spa": 60,
       "spd": 70,
       "spe": 95
-    }
+    },
+    "veekunSlug": "primeape"
   },
   {
     "id": 58,
@@ -1989,7 +2056,8 @@
       "spa": 70,
       "spd": 50,
       "spe": 60
-    }
+    },
+    "veekunSlug": "growlithe"
   },
   {
     "id": 59,
@@ -2018,7 +2086,8 @@
       "spa": 100,
       "spd": 80,
       "spe": 95
-    }
+    },
+    "veekunSlug": "arcanine"
   },
   {
     "id": 60,
@@ -2047,7 +2116,8 @@
       "spa": 40,
       "spd": 40,
       "spe": 90
-    }
+    },
+    "veekunSlug": "poliwag"
   },
   {
     "id": 61,
@@ -2076,7 +2146,8 @@
       "spa": 50,
       "spd": 50,
       "spe": 90
-    }
+    },
+    "veekunSlug": "poliwhirl"
   },
   {
     "id": 62,
@@ -2105,7 +2176,8 @@
       "spa": 70,
       "spd": 90,
       "spe": 70
-    }
+    },
+    "veekunSlug": "poliwrath"
   },
   {
     "id": 63,
@@ -2134,7 +2206,8 @@
       "spa": 105,
       "spd": 55,
       "spe": 90
-    }
+    },
+    "veekunSlug": "abra"
   },
   {
     "id": 64,
@@ -2165,7 +2238,8 @@
       "spa": 120,
       "spd": 70,
       "spe": 105
-    }
+    },
+    "veekunSlug": "kadabra"
   },
   {
     "id": 10051,
@@ -2194,7 +2268,8 @@
       "spa": 120,
       "spd": 70,
       "spe": 105
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 65,
@@ -2225,7 +2300,8 @@
       "spa": 135,
       "spd": 95,
       "spe": 120
-    }
+    },
+    "veekunSlug": "alakazam"
   },
   {
     "id": 10052,
@@ -2254,7 +2330,8 @@
       "spa": 135,
       "spd": 95,
       "spe": 120
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 66,
@@ -2283,7 +2360,8 @@
       "spa": 35,
       "spd": 35,
       "spe": 35
-    }
+    },
+    "veekunSlug": "machop"
   },
   {
     "id": 67,
@@ -2312,7 +2390,8 @@
       "spa": 50,
       "spd": 60,
       "spe": 45
-    }
+    },
+    "veekunSlug": "machoke"
   },
   {
     "id": 68,
@@ -2341,7 +2420,8 @@
       "spa": 65,
       "spd": 85,
       "spe": 55
-    }
+    },
+    "veekunSlug": "machamp"
   },
   {
     "id": 69,
@@ -2370,7 +2450,8 @@
       "spa": 70,
       "spd": 30,
       "spe": 40
-    }
+    },
+    "veekunSlug": "bellsprout"
   },
   {
     "id": 70,
@@ -2399,7 +2480,8 @@
       "spa": 85,
       "spd": 45,
       "spe": 55
-    }
+    },
+    "veekunSlug": "weepinbell"
   },
   {
     "id": 71,
@@ -2428,7 +2510,8 @@
       "spa": 100,
       "spd": 70,
       "spe": 70
-    }
+    },
+    "veekunSlug": "victreebel"
   },
   {
     "id": 72,
@@ -2457,7 +2540,8 @@
       "spa": 50,
       "spd": 100,
       "spe": 70
-    }
+    },
+    "veekunSlug": "tentacool"
   },
   {
     "id": 73,
@@ -2486,7 +2570,8 @@
       "spa": 80,
       "spd": 120,
       "spe": 100
-    }
+    },
+    "veekunSlug": "tentacruel"
   },
   {
     "id": 74,
@@ -2515,7 +2600,8 @@
       "spa": 30,
       "spd": 30,
       "spe": 20
-    }
+    },
+    "veekunSlug": "geodude"
   },
   {
     "id": 75,
@@ -2544,7 +2630,8 @@
       "spa": 45,
       "spd": 45,
       "spe": 35
-    }
+    },
+    "veekunSlug": "graveler"
   },
   {
     "id": 76,
@@ -2573,7 +2660,8 @@
       "spa": 55,
       "spd": 65,
       "spe": 45
-    }
+    },
+    "veekunSlug": "golem"
   },
   {
     "id": 77,
@@ -2602,7 +2690,8 @@
       "spa": 65,
       "spd": 65,
       "spe": 90
-    }
+    },
+    "veekunSlug": "ponyta"
   },
   {
     "id": 78,
@@ -2631,7 +2720,8 @@
       "spa": 80,
       "spd": 80,
       "spe": 105
-    }
+    },
+    "veekunSlug": "rapidash"
   },
   {
     "id": 79,
@@ -2660,7 +2750,8 @@
       "spa": 40,
       "spd": 40,
       "spe": 15
-    }
+    },
+    "veekunSlug": "slowpoke"
   },
   {
     "id": 80,
@@ -2689,7 +2780,8 @@
       "spa": 100,
       "spd": 80,
       "spe": 30
-    }
+    },
+    "veekunSlug": "slowbro"
   },
   {
     "id": 81,
@@ -2718,7 +2810,8 @@
       "spa": 95,
       "spd": 55,
       "spe": 45
-    }
+    },
+    "veekunSlug": "magnemite"
   },
   {
     "id": 82,
@@ -2747,7 +2840,8 @@
       "spa": 120,
       "spd": 70,
       "spe": 70
-    }
+    },
+    "veekunSlug": "magneton"
   },
   {
     "id": 83,
@@ -2776,7 +2870,8 @@
       "spa": 58,
       "spd": 62,
       "spe": 60
-    }
+    },
+    "veekunSlug": "farfetchd"
   },
   {
     "id": 84,
@@ -2807,7 +2902,8 @@
       "spa": 35,
       "spd": 35,
       "spe": 75
-    }
+    },
+    "veekunSlug": "doduo"
   },
   {
     "id": 10064,
@@ -2836,7 +2932,8 @@
       "spa": 35,
       "spd": 35,
       "spe": 75
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 85,
@@ -2867,7 +2964,8 @@
       "spa": 60,
       "spd": 60,
       "spe": 110
-    }
+    },
+    "veekunSlug": "dodrio"
   },
   {
     "id": 10065,
@@ -2896,7 +2994,8 @@
       "spa": 60,
       "spd": 60,
       "spe": 110
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 86,
@@ -2925,7 +3024,8 @@
       "spa": 45,
       "spd": 70,
       "spe": 45
-    }
+    },
+    "veekunSlug": "seel"
   },
   {
     "id": 87,
@@ -2954,7 +3054,8 @@
       "spa": 70,
       "spd": 95,
       "spe": 70
-    }
+    },
+    "veekunSlug": "dewgong"
   },
   {
     "id": 88,
@@ -2983,7 +3084,8 @@
       "spa": 40,
       "spd": 50,
       "spe": 25
-    }
+    },
+    "veekunSlug": "grimer"
   },
   {
     "id": 89,
@@ -3012,7 +3114,8 @@
       "spa": 65,
       "spd": 100,
       "spe": 50
-    }
+    },
+    "veekunSlug": "muk"
   },
   {
     "id": 90,
@@ -3041,7 +3144,8 @@
       "spa": 45,
       "spd": 25,
       "spe": 40
-    }
+    },
+    "veekunSlug": "shellder"
   },
   {
     "id": 91,
@@ -3070,7 +3174,8 @@
       "spa": 85,
       "spd": 45,
       "spe": 70
-    }
+    },
+    "veekunSlug": "cloyster"
   },
   {
     "id": 92,
@@ -3099,7 +3204,8 @@
       "spa": 100,
       "spd": 35,
       "spe": 80
-    }
+    },
+    "veekunSlug": "gastly"
   },
   {
     "id": 93,
@@ -3128,7 +3234,8 @@
       "spa": 115,
       "spd": 55,
       "spe": 95
-    }
+    },
+    "veekunSlug": "haunter"
   },
   {
     "id": 94,
@@ -3157,7 +3264,8 @@
       "spa": 130,
       "spd": 75,
       "spe": 110
-    }
+    },
+    "veekunSlug": "gengar"
   },
   {
     "id": 95,
@@ -3186,7 +3294,8 @@
       "spa": 30,
       "spd": 45,
       "spe": 70
-    }
+    },
+    "veekunSlug": "onix"
   },
   {
     "id": 96,
@@ -3215,7 +3324,8 @@
       "spa": 43,
       "spd": 90,
       "spe": 42
-    }
+    },
+    "veekunSlug": "drowzee"
   },
   {
     "id": 97,
@@ -3246,7 +3356,8 @@
       "spa": 73,
       "spd": 115,
       "spe": 67
-    }
+    },
+    "veekunSlug": "hypno"
   },
   {
     "id": 10070,
@@ -3275,7 +3386,8 @@
       "spa": 73,
       "spd": 115,
       "spe": 67
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 98,
@@ -3304,7 +3416,8 @@
       "spa": 25,
       "spd": 25,
       "spe": 50
-    }
+    },
+    "veekunSlug": "krabby"
   },
   {
     "id": 99,
@@ -3333,7 +3446,8 @@
       "spa": 50,
       "spd": 50,
       "spe": 75
-    }
+    },
+    "veekunSlug": "kingler"
   },
   {
     "id": 100,
@@ -3362,7 +3476,8 @@
       "spa": 55,
       "spd": 55,
       "spe": 100
-    }
+    },
+    "veekunSlug": "voltorb"
   },
   {
     "id": 101,
@@ -3391,7 +3506,8 @@
       "spa": 80,
       "spd": 80,
       "spe": 150
-    }
+    },
+    "veekunSlug": "electrode"
   },
   {
     "id": 102,
@@ -3420,7 +3536,8 @@
       "spa": 60,
       "spd": 45,
       "spe": 40
-    }
+    },
+    "veekunSlug": "exeggcute"
   },
   {
     "id": 103,
@@ -3449,7 +3566,8 @@
       "spa": 125,
       "spd": 75,
       "spe": 55
-    }
+    },
+    "veekunSlug": "exeggutor"
   },
   {
     "id": 104,
@@ -3478,7 +3596,8 @@
       "spa": 40,
       "spd": 50,
       "spe": 35
-    }
+    },
+    "veekunSlug": "cubone"
   },
   {
     "id": 105,
@@ -3507,7 +3626,8 @@
       "spa": 50,
       "spd": 80,
       "spe": 45
-    }
+    },
+    "veekunSlug": "marowak"
   },
   {
     "id": 106,
@@ -3536,7 +3656,8 @@
       "spa": 35,
       "spd": 110,
       "spe": 87
-    }
+    },
+    "veekunSlug": "hitmonlee"
   },
   {
     "id": 107,
@@ -3565,7 +3686,8 @@
       "spa": 35,
       "spd": 110,
       "spe": 76
-    }
+    },
+    "veekunSlug": "hitmonchan"
   },
   {
     "id": 108,
@@ -3594,7 +3716,8 @@
       "spa": 60,
       "spd": 75,
       "spe": 30
-    }
+    },
+    "veekunSlug": "lickitung"
   },
   {
     "id": 109,
@@ -3623,7 +3746,8 @@
       "spa": 60,
       "spd": 45,
       "spe": 35
-    }
+    },
+    "veekunSlug": "koffing"
   },
   {
     "id": 110,
@@ -3652,7 +3776,8 @@
       "spa": 85,
       "spd": 70,
       "spe": 60
-    }
+    },
+    "veekunSlug": "weezing"
   },
   {
     "id": 111,
@@ -3683,7 +3808,8 @@
       "spa": 30,
       "spd": 30,
       "spe": 25
-    }
+    },
+    "veekunSlug": "rhyhorn"
   },
   {
     "id": 10076,
@@ -3712,7 +3838,8 @@
       "spa": 30,
       "spd": 30,
       "spe": 25
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 112,
@@ -3743,7 +3870,8 @@
       "spa": 45,
       "spd": 45,
       "spe": 40
-    }
+    },
+    "veekunSlug": "rhydon"
   },
   {
     "id": 10077,
@@ -3772,7 +3900,8 @@
       "spa": 45,
       "spd": 45,
       "spe": 40
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 113,
@@ -3801,7 +3930,8 @@
       "spa": 35,
       "spd": 105,
       "spe": 50
-    }
+    },
+    "veekunSlug": "chansey"
   },
   {
     "id": 114,
@@ -3830,7 +3960,8 @@
       "spa": 100,
       "spd": 40,
       "spe": 60
-    }
+    },
+    "veekunSlug": "tangela"
   },
   {
     "id": 115,
@@ -3859,7 +3990,8 @@
       "spa": 40,
       "spd": 80,
       "spe": 90
-    }
+    },
+    "veekunSlug": "kangaskhan"
   },
   {
     "id": 116,
@@ -3888,7 +4020,8 @@
       "spa": 70,
       "spd": 25,
       "spe": 60
-    }
+    },
+    "veekunSlug": "horsea"
   },
   {
     "id": 117,
@@ -3917,7 +4050,8 @@
       "spa": 95,
       "spd": 45,
       "spe": 85
-    }
+    },
+    "veekunSlug": "seadra"
   },
   {
     "id": 118,
@@ -3948,7 +4082,8 @@
       "spa": 35,
       "spd": 50,
       "spe": 63
-    }
+    },
+    "veekunSlug": "goldeen"
   },
   {
     "id": 10079,
@@ -3977,7 +4112,8 @@
       "spa": 35,
       "spd": 50,
       "spe": 63
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 119,
@@ -4008,7 +4144,8 @@
       "spa": 65,
       "spd": 80,
       "spe": 68
-    }
+    },
+    "veekunSlug": "seaking"
   },
   {
     "id": 10080,
@@ -4037,7 +4174,8 @@
       "spa": 65,
       "spd": 80,
       "spe": 68
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 120,
@@ -4066,7 +4204,8 @@
       "spa": 70,
       "spd": 55,
       "spe": 85
-    }
+    },
+    "veekunSlug": "staryu"
   },
   {
     "id": 121,
@@ -4095,7 +4234,8 @@
       "spa": 100,
       "spd": 85,
       "spe": 115
-    }
+    },
+    "veekunSlug": "starmie"
   },
   {
     "id": 122,
@@ -4124,7 +4264,8 @@
       "spa": 100,
       "spd": 120,
       "spe": 90
-    }
+    },
+    "veekunSlug": "mr-mime"
   },
   {
     "id": 123,
@@ -4155,7 +4296,8 @@
       "spa": 55,
       "spd": 80,
       "spe": 105
-    }
+    },
+    "veekunSlug": "scyther"
   },
   {
     "id": 10082,
@@ -4184,7 +4326,8 @@
       "spa": 55,
       "spd": 80,
       "spe": 105
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 124,
@@ -4213,7 +4356,8 @@
       "spa": 115,
       "spd": 95,
       "spe": 95
-    }
+    },
+    "veekunSlug": "jynx"
   },
   {
     "id": 125,
@@ -4242,7 +4386,8 @@
       "spa": 95,
       "spd": 85,
       "spe": 105
-    }
+    },
+    "veekunSlug": "electabuzz"
   },
   {
     "id": 126,
@@ -4271,7 +4416,8 @@
       "spa": 100,
       "spd": 85,
       "spe": 93
-    }
+    },
+    "veekunSlug": "magmar"
   },
   {
     "id": 127,
@@ -4300,7 +4446,8 @@
       "spa": 55,
       "spd": 70,
       "spe": 85
-    }
+    },
+    "veekunSlug": "pinsir"
   },
   {
     "id": 128,
@@ -4329,7 +4476,8 @@
       "spa": 40,
       "spd": 70,
       "spe": 110
-    }
+    },
+    "veekunSlug": "tauros"
   },
   {
     "id": 129,
@@ -4360,7 +4508,8 @@
       "spa": 15,
       "spd": 20,
       "spe": 80
-    }
+    },
+    "veekunSlug": "magikarp"
   },
   {
     "id": 10084,
@@ -4389,7 +4538,8 @@
       "spa": 15,
       "spd": 20,
       "spe": 80
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 130,
@@ -4420,7 +4570,8 @@
       "spa": 60,
       "spd": 100,
       "spe": 81
-    }
+    },
+    "veekunSlug": "gyarados"
   },
   {
     "id": 10085,
@@ -4449,7 +4600,8 @@
       "spa": 60,
       "spd": 100,
       "spe": 81
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 131,
@@ -4478,7 +4630,8 @@
       "spa": 85,
       "spd": 95,
       "spe": 60
-    }
+    },
+    "veekunSlug": "lapras"
   },
   {
     "id": 132,
@@ -4507,7 +4660,8 @@
       "spa": 48,
       "spd": 48,
       "spe": 48
-    }
+    },
+    "veekunSlug": "ditto"
   },
   {
     "id": 133,
@@ -4538,7 +4692,8 @@
       "spa": 45,
       "spd": 65,
       "spe": 55
-    }
+    },
+    "veekunSlug": "eevee"
   },
   {
     "id": 10088,
@@ -4567,7 +4722,8 @@
       "spa": 45,
       "spd": 65,
       "spe": 55
-    }
+    },
+    "veekunSlug": null
   },
   {
     "id": 134,
@@ -4596,7 +4752,8 @@
       "spa": 110,
       "spd": 95,
       "spe": 65
-    }
+    },
+    "veekunSlug": "vaporeon"
   },
   {
     "id": 135,
@@ -4625,7 +4782,8 @@
       "spa": 110,
       "spd": 95,
       "spe": 130
-    }
+    },
+    "veekunSlug": "jolteon"
   },
   {
     "id": 136,
@@ -4654,7 +4812,8 @@
       "spa": 95,
       "spd": 110,
       "spe": 65
-    }
+    },
+    "veekunSlug": "flareon"
   },
   {
     "id": 137,
@@ -4683,7 +4842,8 @@
       "spa": 85,
       "spd": 75,
       "spe": 40
-    }
+    },
+    "veekunSlug": "porygon"
   },
   {
     "id": 138,
@@ -4712,7 +4872,8 @@
       "spa": 90,
       "spd": 55,
       "spe": 35
-    }
+    },
+    "veekunSlug": "omanyte"
   },
   {
     "id": 139,
@@ -4741,7 +4902,8 @@
       "spa": 115,
       "spd": 70,
       "spe": 55
-    }
+    },
+    "veekunSlug": "omastar"
   },
   {
     "id": 140,
@@ -4770,7 +4932,8 @@
       "spa": 55,
       "spd": 45,
       "spe": 55
-    }
+    },
+    "veekunSlug": "kabuto"
   },
   {
     "id": 141,
@@ -4799,7 +4962,8 @@
       "spa": 65,
       "spd": 70,
       "spe": 80
-    }
+    },
+    "veekunSlug": "kabutops"
   },
   {
     "id": 142,
@@ -4828,7 +4992,8 @@
       "spa": 60,
       "spd": 75,
       "spe": 130
-    }
+    },
+    "veekunSlug": "aerodactyl"
   },
   {
     "id": 143,
@@ -4857,7 +5022,8 @@
       "spa": 65,
       "spd": 110,
       "spe": 30
-    }
+    },
+    "veekunSlug": "snorlax"
   },
   {
     "id": 144,
@@ -4886,7 +5052,8 @@
       "spa": 95,
       "spd": 125,
       "spe": 85
-    }
+    },
+    "veekunSlug": "articuno"
   },
   {
     "id": 145,
@@ -4915,7 +5082,8 @@
       "spa": 125,
       "spd": 90,
       "spe": 100
-    }
+    },
+    "veekunSlug": "zapdos"
   },
   {
     "id": 146,
@@ -4944,7 +5112,8 @@
       "spa": 125,
       "spd": 85,
       "spe": 90
-    }
+    },
+    "veekunSlug": "moltres"
   },
   {
     "id": 147,
@@ -4973,7 +5142,8 @@
       "spa": 50,
       "spd": 50,
       "spe": 50
-    }
+    },
+    "veekunSlug": "dratini"
   },
   {
     "id": 148,
@@ -5002,7 +5172,8 @@
       "spa": 70,
       "spd": 70,
       "spe": 70
-    }
+    },
+    "veekunSlug": "dragonair"
   },
   {
     "id": 149,
@@ -5031,7 +5202,8 @@
       "spa": 100,
       "spd": 100,
       "spe": 80
-    }
+    },
+    "veekunSlug": "dragonite"
   },
   {
     "id": 150,
@@ -5060,7 +5232,8 @@
       "spa": 154,
       "spd": 90,
       "spe": 130
-    }
+    },
+    "veekunSlug": "mewtwo"
   },
   {
     "id": 151,
@@ -5089,6 +5262,7 @@
       "spa": 100,
       "spd": 100,
       "spe": 100
-    }
+    },
+    "veekunSlug": "mew"
   }
 ]

@@ -63,5 +63,6 @@
   "isHomeStorable": true,
   "showdownSlug": "golem",
   "veekunSlug": "golem",
-  "veekunFormId": 76
+  "veekunFormId": 76,
+  "title": "Golem"
 }

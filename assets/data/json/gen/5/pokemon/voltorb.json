@@ -63,5 +63,6 @@
   "isHomeStorable": true,
   "showdownSlug": "voltorb",
   "veekunSlug": "voltorb",
-  "veekunFormId": 100
+  "veekunFormId": 100,
+  "title": "Voltorb"
 }

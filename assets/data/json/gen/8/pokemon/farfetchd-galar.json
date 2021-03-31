@@ -2,7 +2,7 @@
   "id": 10063,
   "num": 83,
   "slug": "farfetchd-galar",
-  "name": "Farfetch\u2019d-Galar",
+  "name": "Farfetch’d-Galar",
   "gen": 8,
   "forms": [],
   "formName": "Galar",
@@ -63,5 +63,6 @@
   "isHomeStorable": true,
   "showdownSlug": "farfetchdgalar",
   "veekunSlug": null,
-  "veekunFormId": null
+  "veekunFormId": null,
+  "title": "Farfetch’d (Galar)"
 }

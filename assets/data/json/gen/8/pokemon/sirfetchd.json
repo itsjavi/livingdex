@@ -2,7 +2,7 @@
   "id": 865,
   "num": 865,
   "slug": "sirfetchd",
-  "name": "Sirfetch\u2019d",
+  "name": "Sirfetch’d",
   "gen": 8,
   "forms": [],
   "formName": null,
@@ -63,5 +63,6 @@
   "isHomeStorable": true,
   "showdownSlug": "sirfetchd",
   "veekunSlug": null,
-  "veekunFormId": null
+  "veekunFormId": null,
+  "title": "Sirfetch’d"
 }
