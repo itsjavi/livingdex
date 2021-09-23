@@ -4,8 +4,8 @@ rm -rf public/assets/data
 mkdir -p public/assets/data/pogo
 
 docker container rm -f livingdex-data-dist
-docker pull docker.pkg.github.com/itsjavi/livingdex-data/livingdex-data:0.3
-docker run --name livingdex-data-dist docker.pkg.github.com/itsjavi/livingdex-data/livingdex-data:0.3 || exit 1
+docker pull docker.pkg.github.com/itsjavi/livingdex-data/livingdex-data:latest
+docker run --name livingdex-data-dist docker.pkg.github.com/itsjavi/livingdex-data/livingdex-data:latest || exit 1
 
 docker cp livingdex-data-dist:/usr/src/app/dist ./public/assets/data
 mv ./public/assets/data/dist/* ./public/assets/data/
