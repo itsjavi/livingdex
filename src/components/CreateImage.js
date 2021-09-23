@@ -1,6 +1,6 @@
 import React from "react"
 
-const BaseHomeRenderPath = "./assets/images/home/pokemon"
+const BaseHomeRenderPath = "./assets/images/home"
 
 function CreateImage(src, alt, className = null) {
   return (

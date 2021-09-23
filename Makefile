@@ -52,3 +52,5 @@ deploy:
 	npm run deploy
 docker-deploy:
 	docker-compose run --rm app deploy
+
+.PHONY: build
