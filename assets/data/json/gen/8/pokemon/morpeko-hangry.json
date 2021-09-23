@@ -28,9 +28,9 @@
   "maleRatio": 0,
   "femaleRatio": 0,
   "growthRate": "medium-fast",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 180,
+  "hatchCycles": 10,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 58,
     "atk": 95,
@@ -48,7 +48,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 153,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -62,7 +62,7 @@
   "isRegional": false,
   "isHomeStorable": false,
   "showdownSlug": "morpekohangry",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "morpeko-hangry",
+  "veekunFormId": 10356,
   "title": "Morpeko (Hangry)"
 }

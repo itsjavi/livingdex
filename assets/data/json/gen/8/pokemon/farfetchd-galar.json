@@ -24,13 +24,13 @@
   "weight": 1500,
   "color": "brown",
   "actualColor": "brown",
-  "shape": "?",
+  "shape": "wings-single",
   "maleRatio": 0,
   "femaleRatio": 0,
-  "growthRate": "?",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "growthRate": "medium-fast",
+  "catchRate": 45,
+  "hatchCycles": 20,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 52,
     "atk": 95,
@@ -48,7 +48,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 132,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -62,7 +62,7 @@
   "isRegional": true,
   "isHomeStorable": true,
   "showdownSlug": "farfetchdgalar",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "farfetchd-galar",
+  "veekunFormId": 10325,
   "title": "Farfetch’d (Galar)"
 }

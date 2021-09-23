@@ -28,9 +28,9 @@
   "maleRatio": 0,
   "femaleRatio": 0,
   "growthRate": "medium-fast",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 190,
+  "hatchCycles": 20,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 40,
     "atk": 40,
@@ -48,7 +48,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 50,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -62,7 +62,7 @@
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "gossifleur",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "gossifleur",
+  "veekunFormId": 829,
   "title": "Gossifleur"
 }

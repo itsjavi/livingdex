@@ -28,9 +28,9 @@
   "maleRatio": 0,
   "femaleRatio": 0,
   "growthRate": "medium-fast",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 255,
+  "hatchCycles": 15,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 42,
     "atk": 40,
@@ -48,7 +48,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 122,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -62,7 +62,7 @@
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "wooloo",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "wooloo",
+  "veekunFormId": 831,
   "title": "Wooloo"
 }

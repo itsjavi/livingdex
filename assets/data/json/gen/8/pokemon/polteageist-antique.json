@@ -62,7 +62,7 @@
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "polteageistantique",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "polteageist-antique",
+  "veekunFormId": 10345,
   "title": "Polteageist (Antique)"
 }

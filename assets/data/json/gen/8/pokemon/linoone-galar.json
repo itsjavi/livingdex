@@ -24,13 +24,13 @@
   "weight": 3250,
   "color": "white",
   "actualColor": "white",
-  "shape": "?",
+  "shape": "quadruped",
   "maleRatio": 0,
   "femaleRatio": 0,
-  "growthRate": "?",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "growthRate": "medium-fast",
+  "catchRate": 90,
+  "hatchCycles": 15,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 78,
     "atk": 70,
@@ -48,7 +48,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 147,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -62,7 +62,7 @@
   "isRegional": true,
   "isHomeStorable": true,
   "showdownSlug": "linoonegalar",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "linoone-galar",
+  "veekunFormId": 10334,
   "title": "Linoone (Galar)"
 }

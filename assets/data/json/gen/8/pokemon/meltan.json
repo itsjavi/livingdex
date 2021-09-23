@@ -28,9 +28,9 @@
   "maleRatio": 0,
   "femaleRatio": 0,
   "growthRate": "slow",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 3,
+  "hatchCycles": 120,
+  "baseFriendship": 0,
   "baseStats": {
     "hp": 46,
     "atk": 65,
@@ -48,7 +48,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 150,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -62,7 +62,7 @@
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "meltan",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "meltan",
+  "veekunFormId": 808,
   "title": "Meltan"
 }

@@ -28,9 +28,9 @@
   "maleRatio": 100,
   "femaleRatio": 0,
   "growthRate": "medium-fast",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 255,
+  "hatchCycles": 20,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 45,
     "atk": 45,
@@ -48,7 +48,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 53,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -62,7 +62,7 @@
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "impidimp",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "impidimp",
+  "veekunFormId": 859,
   "title": "Impidimp"
 }

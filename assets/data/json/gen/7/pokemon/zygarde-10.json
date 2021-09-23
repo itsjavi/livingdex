@@ -48,7 +48,7 @@
     "spd": 0,
     "spe": 0
   },
-  "yieldBaseExp": 219,
+  "yieldBaseExp": 243,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": true,
@@ -63,6 +63,6 @@
   "isHomeStorable": true,
   "showdownSlug": "zygarde10",
   "veekunSlug": "zygarde-10",
-  "veekunFormId": 10220,
+  "veekunFormId": 10340,
   "title": "Zygarde (10%)"
 }

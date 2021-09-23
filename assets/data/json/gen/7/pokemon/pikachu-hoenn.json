@@ -30,7 +30,7 @@
   "growthRate": "medium-fast",
   "catchRate": 190,
   "hatchCycles": 10,
-  "baseFriendship": 70,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 35,
     "atk": 55,
@@ -59,7 +59,7 @@
   "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
-  "isRegional": false,
+  "isRegional": true,
   "isHomeStorable": true,
   "showdownSlug": "pikachuhoenn",
   "veekunSlug": "pikachu-hoenn-cap",

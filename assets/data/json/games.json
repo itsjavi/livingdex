@@ -524,7 +524,7 @@
     "name": "Brilliant Diamond and Shining Pearl",
     "gen": 8,
     "region": "sinnoh",
-    "date": "2021-12-31",
+    "date": "2021-11-19",
     "order": 24,
     "games": [
       {
@@ -548,8 +548,8 @@
     "slug": "la",
     "name": "Legends: Arceus",
     "gen": 8,
-    "region": "sinnoh",
-    "date": "2022-06-30",
+    "region": "hisui",
+    "date": "2022-01-28",
     "order": 25,
     "games": [
       {

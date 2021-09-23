@@ -30,7 +30,7 @@
   "growthRate": "medium-fast",
   "catchRate": 90,
   "hatchCycles": 15,
-  "baseFriendship": 70,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 85,
     "atk": 90,
@@ -48,7 +48,7 @@
     "spd": 0,
     "spe": 3
   },
-  "yieldBaseExp": 241,
+  "yieldBaseExp": 268,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,

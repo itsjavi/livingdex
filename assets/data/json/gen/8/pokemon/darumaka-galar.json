@@ -24,13 +24,13 @@
   "weight": 4000,
   "color": "white",
   "actualColor": "white",
-  "shape": "?",
+  "shape": "bipedal-tailless",
   "maleRatio": 0,
   "femaleRatio": 0,
-  "growthRate": "?",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "growthRate": "medium-slow",
+  "catchRate": 120,
+  "hatchCycles": 20,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 70,
     "atk": 90,
@@ -48,7 +48,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 63,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -62,7 +62,7 @@
   "isRegional": true,
   "isHomeStorable": true,
   "showdownSlug": "darumakagalar",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "darumaka-galar",
+  "veekunFormId": 10335,
   "title": "Darumaka (Galar)"
 }

@@ -28,9 +28,9 @@
   "maleRatio": 0,
   "femaleRatio": 0,
   "growthRate": "medium-fast",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 45,
+  "hatchCycles": 15,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 93,
     "atk": 90,
@@ -48,7 +48,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 260,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -62,7 +62,7 @@
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "obstagoon",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "obstagoon",
+  "veekunFormId": 862,
   "title": "Obstagoon"
 }

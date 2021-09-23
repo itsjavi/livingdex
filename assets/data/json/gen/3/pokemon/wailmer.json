@@ -30,7 +30,7 @@
   "growthRate": "fluctuating",
   "catchRate": 125,
   "hatchCycles": 40,
-  "baseFriendship": 70,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 130,
     "atk": 70,

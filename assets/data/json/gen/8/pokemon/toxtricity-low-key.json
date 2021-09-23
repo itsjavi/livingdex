@@ -28,9 +28,9 @@
   "maleRatio": 0,
   "femaleRatio": 0,
   "growthRate": "medium-slow",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 45,
+  "hatchCycles": 25,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 75,
     "atk": 98,
@@ -48,7 +48,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 176,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -62,7 +62,7 @@
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "toxtricitylowkey",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "toxtricity-low-key",
+  "veekunFormId": 10343,
   "title": "Toxtricity (Low Key)"
 }

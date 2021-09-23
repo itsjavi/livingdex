@@ -27,10 +27,10 @@
   "shape": "quadruped",
   "maleRatio": 0,
   "femaleRatio": 0,
-  "growthRate": "?",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "growthRate": "slow",
+  "catchRate": 3,
+  "hatchCycles": 120,
+  "baseFriendship": 0,
   "baseStats": {
     "hp": 54,
     "atk": 100,
@@ -41,14 +41,14 @@
   },
   "baseStatsTotal": 486,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 3,
+    "atk": 0,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 243,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": true,
@@ -62,7 +62,7 @@
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "zygarde10",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "zygarde-10-power-construct",
+  "veekunFormId": 10220,
   "title": "Zygarde (10% Power Construct)"
 }

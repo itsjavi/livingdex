@@ -13697,7 +13697,7 @@
     "imgHome": "0601-0700/0676-heart",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": false
+    "isHomeStorable": true
   },
   {
     "id": 10343,
@@ -13711,7 +13711,7 @@
     "imgHome": "0601-0700/0676-star",
     "formOrder": 2,
     "isCosmetic": true,
-    "isHomeStorable": false
+    "isHomeStorable": true
   },
   {
     "id": 10337,
@@ -13725,7 +13725,7 @@
     "imgHome": "0601-0700/0676-diamond",
     "formOrder": 3,
     "isCosmetic": true,
-    "isHomeStorable": false
+    "isHomeStorable": true
   },
   {
     "id": 10336,
@@ -13739,7 +13739,7 @@
     "imgHome": "0601-0700/0676-debutante",
     "formOrder": 4,
     "isCosmetic": true,
-    "isHomeStorable": false
+    "isHomeStorable": true
   },
   {
     "id": 10341,
@@ -13753,7 +13753,7 @@
     "imgHome": "0601-0700/0676-matron",
     "formOrder": 5,
     "isCosmetic": true,
-    "isHomeStorable": false
+    "isHomeStorable": true
   },
   {
     "id": 10335,
@@ -13767,7 +13767,7 @@
     "imgHome": "0601-0700/0676-dandy",
     "formOrder": 6,
     "isCosmetic": true,
-    "isHomeStorable": false
+    "isHomeStorable": true
   },
   {
     "id": 10340,
@@ -13781,7 +13781,7 @@
     "imgHome": "0601-0700/0676-la-reine",
     "formOrder": 7,
     "isCosmetic": true,
-    "isHomeStorable": false
+    "isHomeStorable": true
   },
   {
     "id": 10339,
@@ -13795,7 +13795,7 @@
     "imgHome": "0601-0700/0676-kabuki",
     "formOrder": 8,
     "isCosmetic": true,
-    "isHomeStorable": false
+    "isHomeStorable": true
   },
   {
     "id": 10342,
@@ -13809,7 +13809,7 @@
     "imgHome": "0601-0700/0676-pharaoh",
     "formOrder": 9,
     "isCosmetic": true,
-    "isHomeStorable": false
+    "isHomeStorable": true
   },
   {
     "id": 677,

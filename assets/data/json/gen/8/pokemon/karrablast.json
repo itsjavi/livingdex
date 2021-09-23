@@ -30,7 +30,7 @@
   "growthRate": "medium-fast",
   "catchRate": 200,
   "hatchCycles": 15,
-  "baseFriendship": 70,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 50,
     "atk": 75,

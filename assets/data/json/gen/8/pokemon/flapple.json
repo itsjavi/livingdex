@@ -30,9 +30,9 @@
   "maleRatio": 0,
   "femaleRatio": 0,
   "growthRate": "erratic",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 45,
+  "hatchCycles": 20,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 70,
     "atk": 110,
@@ -50,7 +50,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 170,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -64,7 +64,7 @@
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "flapple",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "flapple",
+  "veekunFormId": 841,
   "title": "Flapple"
 }

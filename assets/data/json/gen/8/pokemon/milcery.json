@@ -28,9 +28,9 @@
   "maleRatio": 0,
   "femaleRatio": 100,
   "growthRate": "medium-fast",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 200,
+  "hatchCycles": 20,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 45,
     "atk": 40,
@@ -48,7 +48,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 54,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -62,7 +62,7 @@
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "milcery",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "milcery",
+  "veekunFormId": 868,
   "title": "Milcery"
 }

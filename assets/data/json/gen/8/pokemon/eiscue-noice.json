@@ -28,9 +28,9 @@
   "maleRatio": 0,
   "femaleRatio": 0,
   "growthRate": "slow",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 60,
+  "hatchCycles": 25,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 75,
     "atk": 80,
@@ -48,7 +48,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 165,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -62,7 +62,7 @@
   "isRegional": false,
   "isHomeStorable": false,
   "showdownSlug": "eiscuenoice",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "eiscue-noice",
+  "veekunFormId": 10354,
   "title": "Eiscue (Noice)"
 }

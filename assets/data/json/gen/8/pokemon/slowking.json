@@ -32,7 +32,7 @@
   "growthRate": "medium-fast",
   "catchRate": 70,
   "hatchCycles": 20,
-  "baseFriendship": 70,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 95,
     "atk": 75,
@@ -47,7 +47,7 @@
     "atk": 0,
     "def": 0,
     "spa": 0,
-    "spd": 3,
+    "spd": 2,
     "spe": 0
   },
   "yieldBaseExp": 172,

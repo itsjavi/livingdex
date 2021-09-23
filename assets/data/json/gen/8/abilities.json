@@ -2103,7 +2103,7 @@
     "gen": 8,
     "rating": 80,
     "showdownName": "Intrepid Sword",
-    "veekunName": null
+    "veekunName": "intrepid-sword"
   },
   {
     "id": 235,
@@ -2112,7 +2112,7 @@
     "gen": 8,
     "rating": 70,
     "showdownName": "Dauntless Shield",
-    "veekunName": null
+    "veekunName": "dauntless-shield"
   },
   {
     "id": 236,
@@ -2121,7 +2121,7 @@
     "gen": 8,
     "rating": 90,
     "showdownName": "Libero",
-    "veekunName": null
+    "veekunName": "libero"
   },
   {
     "id": 237,
@@ -2130,7 +2130,7 @@
     "gen": 8,
     "rating": 0,
     "showdownName": "Ball Fetch",
-    "veekunName": null
+    "veekunName": "ball-fetch"
   },
   {
     "id": 238,
@@ -2139,7 +2139,7 @@
     "gen": 8,
     "rating": 40,
     "showdownName": "Cotton Down",
-    "veekunName": null
+    "veekunName": "cotton-down"
   },
   {
     "id": 239,
@@ -2148,7 +2148,7 @@
     "gen": 8,
     "rating": 0,
     "showdownName": "Propeller Tail",
-    "veekunName": null
+    "veekunName": "propeller-tail"
   },
   {
     "id": 240,
@@ -2157,7 +2157,7 @@
     "gen": 8,
     "rating": 40,
     "showdownName": "Mirror Armor",
-    "veekunName": null
+    "veekunName": "mirror-armor"
   },
   {
     "id": 241,
@@ -2166,7 +2166,7 @@
     "gen": 8,
     "rating": 50,
     "showdownName": "Gulp Missile",
-    "veekunName": null
+    "veekunName": "gulp-missile"
   },
   {
     "id": 242,
@@ -2175,7 +2175,7 @@
     "gen": 8,
     "rating": 0,
     "showdownName": "Stalwart",
-    "veekunName": null
+    "veekunName": "stalwart"
   },
   {
     "id": 243,
@@ -2184,7 +2184,7 @@
     "gen": 8,
     "rating": 40,
     "showdownName": "Steam Engine",
-    "veekunName": null
+    "veekunName": "steam-engine"
   },
   {
     "id": 244,
@@ -2193,7 +2193,7 @@
     "gen": 8,
     "rating": 70,
     "showdownName": "Punk Rock",
-    "veekunName": null
+    "veekunName": "punk-rock"
   },
   {
     "id": 245,
@@ -2202,7 +2202,7 @@
     "gen": 8,
     "rating": 40,
     "showdownName": "Sand Spit",
-    "veekunName": null
+    "veekunName": "sand-spit"
   },
   {
     "id": 246,
@@ -2211,7 +2211,7 @@
     "gen": 8,
     "rating": 80,
     "showdownName": "Ice Scales",
-    "veekunName": null
+    "veekunName": "ice-scales"
   },
   {
     "id": 247,
@@ -2220,7 +2220,7 @@
     "gen": 8,
     "rating": 40,
     "showdownName": "Ripen",
-    "veekunName": null
+    "veekunName": "ripen"
   },
   {
     "id": 248,
@@ -2229,7 +2229,7 @@
     "gen": 8,
     "rating": 60,
     "showdownName": "Ice Face",
-    "veekunName": null
+    "veekunName": "ice-face"
   },
   {
     "id": 249,
@@ -2238,7 +2238,7 @@
     "gen": 8,
     "rating": 20,
     "showdownName": "Power Spot",
-    "veekunName": null
+    "veekunName": "power-spot"
   },
   {
     "id": 250,
@@ -2247,7 +2247,7 @@
     "gen": 8,
     "rating": 10,
     "showdownName": "Mimicry",
-    "veekunName": null
+    "veekunName": "mimicry"
   },
   {
     "id": 251,
@@ -2256,7 +2256,7 @@
     "gen": 8,
     "rating": 40,
     "showdownName": "Screen Cleaner",
-    "veekunName": null
+    "veekunName": "screen-cleaner"
   },
   {
     "id": 252,
@@ -2265,7 +2265,7 @@
     "gen": 8,
     "rating": 70,
     "showdownName": "Steely Spirit",
-    "veekunName": null
+    "veekunName": "steely-spirit"
   },
   {
     "id": 253,
@@ -2274,7 +2274,7 @@
     "gen": 8,
     "rating": 20,
     "showdownName": "Perish Body",
-    "veekunName": null
+    "veekunName": "perish-body"
   },
   {
     "id": 254,
@@ -2283,7 +2283,7 @@
     "gen": 8,
     "rating": 50,
     "showdownName": "Wandering Spirit",
-    "veekunName": null
+    "veekunName": "wandering-spirit"
   },
   {
     "id": 255,
@@ -2292,16 +2292,16 @@
     "gen": 8,
     "rating": 90,
     "showdownName": "Gorilla Tactics",
-    "veekunName": null
+    "veekunName": "gorilla-tactics"
   },
   {
     "id": 256,
     "slug": "neutralizing-gas",
     "name": "Neutralizing Gas",
     "gen": 8,
-    "rating": 100,
+    "rating": 80,
     "showdownName": "Neutralizing Gas",
-    "veekunName": null
+    "veekunName": "neutralizing-gas"
   },
   {
     "id": 257,
@@ -2310,7 +2310,7 @@
     "gen": 8,
     "rating": 40,
     "showdownName": "Pastel Veil",
-    "veekunName": null
+    "veekunName": "pastel-veil"
   },
   {
     "id": 258,
@@ -2319,7 +2319,7 @@
     "gen": 8,
     "rating": 20,
     "showdownName": "Hunger Switch",
-    "veekunName": null
+    "veekunName": "hunger-switch"
   },
   {
     "id": 259,
@@ -2328,7 +2328,7 @@
     "gen": 8,
     "rating": 50,
     "showdownName": "Quick Draw",
-    "veekunName": null
+    "veekunName": "quick-draw"
   },
   {
     "id": 260,
@@ -2337,7 +2337,7 @@
     "gen": 8,
     "rating": 40,
     "showdownName": "Unseen Fist",
-    "veekunName": null
+    "veekunName": "unseen-fist"
   },
   {
     "id": 261,
@@ -2346,7 +2346,7 @@
     "gen": 8,
     "rating": 0,
     "showdownName": "Curious Medicine",
-    "veekunName": null
+    "veekunName": "curious-medicine"
   },
   {
     "id": 262,
@@ -2355,7 +2355,7 @@
     "gen": 8,
     "rating": 70,
     "showdownName": "Transistor",
-    "veekunName": null
+    "veekunName": "transistor"
   },
   {
     "id": 263,
@@ -2364,7 +2364,7 @@
     "gen": 8,
     "rating": 70,
     "showdownName": "Dragon's Maw",
-    "veekunName": null
+    "veekunName": "dragons-maw"
   },
   {
     "id": 264,
@@ -2373,7 +2373,7 @@
     "gen": 8,
     "rating": 60,
     "showdownName": "Chilling Neigh",
-    "veekunName": null
+    "veekunName": "chilling-neigh"
   },
   {
     "id": 265,
@@ -2382,7 +2382,7 @@
     "gen": 8,
     "rating": 60,
     "showdownName": "Grim Neigh",
-    "veekunName": null
+    "veekunName": "grim-neigh"
   },
   {
     "id": 266,
@@ -2391,7 +2391,7 @@
     "gen": 8,
     "rating": 70,
     "showdownName": "As One (Glastrier)",
-    "veekunName": null
+    "veekunName": "as-one-glastrier"
   },
   {
     "id": 267,
@@ -2400,6 +2400,6 @@
     "gen": 8,
     "rating": 70,
     "showdownName": "As One (Spectrier)",
-    "veekunName": null
+    "veekunName": "as-one-spectrier"
   }
 ]

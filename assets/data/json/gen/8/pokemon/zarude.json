@@ -30,9 +30,9 @@
   "maleRatio": 0,
   "femaleRatio": 0,
   "growthRate": "slow",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 3,
+  "hatchCycles": 120,
+  "baseFriendship": 0,
   "baseStats": {
     "hp": 105,
     "atk": 120,
@@ -50,7 +50,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 300,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -64,7 +64,7 @@
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "zarude",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "zarude",
+  "veekunFormId": 893,
   "title": "Zarude"
 }

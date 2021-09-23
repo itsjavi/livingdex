@@ -1444,7 +1444,7 @@
       "spd": 60,
       "spe": 120
     },
-    "veekunSlug": null
+    "veekunSlug": "pikachu-starter"
   },
   {
     "id": 10020,
@@ -6203,7 +6203,7 @@
       "spd": 85,
       "spe": 75
     },
-    "veekunSlug": null
+    "veekunSlug": "eevee-starter"
   },
   {
     "id": 134,
@@ -29778,7 +29778,7 @@
     "imgHome": "0601-0700/0676-heart",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": false,
+    "isHomeStorable": true,
     "title": "Furfrou (Heart)",
     "baseDataForm": "furfrou",
     "isBaseSpecies": false,
@@ -29808,7 +29808,7 @@
     "imgHome": "0601-0700/0676-star",
     "formOrder": 2,
     "isCosmetic": true,
-    "isHomeStorable": false,
+    "isHomeStorable": true,
     "title": "Furfrou (Star)",
     "baseDataForm": "furfrou",
     "isBaseSpecies": false,
@@ -29838,7 +29838,7 @@
     "imgHome": "0601-0700/0676-diamond",
     "formOrder": 3,
     "isCosmetic": true,
-    "isHomeStorable": false,
+    "isHomeStorable": true,
     "title": "Furfrou (Diamond)",
     "baseDataForm": "furfrou",
     "isBaseSpecies": false,
@@ -29868,7 +29868,7 @@
     "imgHome": "0601-0700/0676-debutante",
     "formOrder": 4,
     "isCosmetic": true,
-    "isHomeStorable": false,
+    "isHomeStorable": true,
     "title": "Furfrou (Debutante)",
     "baseDataForm": "furfrou",
     "isBaseSpecies": false,
@@ -29898,7 +29898,7 @@
     "imgHome": "0601-0700/0676-matron",
     "formOrder": 5,
     "isCosmetic": true,
-    "isHomeStorable": false,
+    "isHomeStorable": true,
     "title": "Furfrou (Matron)",
     "baseDataForm": "furfrou",
     "isBaseSpecies": false,
@@ -29928,7 +29928,7 @@
     "imgHome": "0601-0700/0676-dandy",
     "formOrder": 6,
     "isCosmetic": true,
-    "isHomeStorable": false,
+    "isHomeStorable": true,
     "title": "Furfrou (Dandy)",
     "baseDataForm": "furfrou",
     "isBaseSpecies": false,
@@ -29958,7 +29958,7 @@
     "imgHome": "0601-0700/0676-la-reine",
     "formOrder": 7,
     "isCosmetic": true,
-    "isHomeStorable": false,
+    "isHomeStorable": true,
     "title": "Furfrou (La Reine)",
     "baseDataForm": "furfrou",
     "isBaseSpecies": false,
@@ -29988,7 +29988,7 @@
     "imgHome": "0601-0700/0676-kabuki",
     "formOrder": 8,
     "isCosmetic": true,
-    "isHomeStorable": false,
+    "isHomeStorable": true,
     "title": "Furfrou (Kabuki)",
     "baseDataForm": "furfrou",
     "isBaseSpecies": false,
@@ -30018,7 +30018,7 @@
     "imgHome": "0601-0700/0676-pharaoh",
     "formOrder": 9,
     "isCosmetic": true,
-    "isHomeStorable": false,
+    "isHomeStorable": true,
     "title": "Furfrou (Pharaoh)",
     "baseDataForm": "furfrou",
     "isBaseSpecies": false,
@@ -31673,7 +31673,7 @@
       "spd": 85,
       "spe": 115
     },
-    "veekunSlug": null
+    "veekunSlug": "zygarde-10-power-construct"
   },
   {
     "id": 10356,
@@ -35910,7 +35910,7 @@
       "spd": 35,
       "spe": 34
     },
-    "veekunSlug": null
+    "veekunSlug": "meltan"
   },
   {
     "id": 809,
@@ -35940,6 +35940,6 @@
       "spd": 65,
       "spe": 34
     },
-    "veekunSlug": null
+    "veekunSlug": "melmetal"
   }
 ]

@@ -7,8 +7,8 @@
   "forms": [
     "zacian-crowned"
   ],
-  "formName": null,
-  "formSlug": null,
+  "formName": "Hero",
+  "formSlug": "hero",
   "formOrder": 0,
   "baseSpecies": null,
   "baseDataForm": null,
@@ -30,9 +30,9 @@
   "maleRatio": 0,
   "femaleRatio": 0,
   "growthRate": "slow",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 10,
+  "hatchCycles": 120,
+  "baseFriendship": 0,
   "baseStats": {
     "hp": 92,
     "atk": 130,
@@ -50,7 +50,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 335,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": true,
@@ -64,7 +64,7 @@
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "zacian",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "zacian",
+  "veekunFormId": 888,
   "title": "Zacian"
 }

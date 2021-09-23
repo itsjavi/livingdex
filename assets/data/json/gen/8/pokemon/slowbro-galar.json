@@ -27,10 +27,10 @@
   "shape": "bipedal-tailed",
   "maleRatio": 0,
   "femaleRatio": 0,
-  "growthRate": "?",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "growthRate": "medium-fast",
+  "catchRate": 75,
+  "hatchCycles": 20,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 95,
     "atk": 100,
@@ -48,7 +48,7 @@
     "spd": -1,
     "spe": -1
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 172,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -62,7 +62,7 @@
   "isRegional": true,
   "isHomeStorable": true,
   "showdownSlug": "slowbrogalar",
-  "veekunSlug": null,
-  "veekunFormId": null,
+  "veekunSlug": "slowbro-galar",
+  "veekunFormId": 10324,
   "title": "Slowbro (Galar)"
 }
