@@ -1,16 +1,18 @@
-FROM ubuntu:20.04 as base
+FROM php:8.0-fpm-buster as base
 
-ENV TZ=UTC
-ENV LANG C.UTF-8
+ENV DEBIAN_FRONTEND=noninteractive
+ENV TZ "Europe/Berlin"
+ENV LC_ALL en_US.UTF-8
+ENV LANG en_US.UTF-8
+ENV LANGUAGE en_US.UTF-8
 ENV PHP_MEMORY_LIMIT=${PHP_MEMORY_LIMIT:-"256M"}
 ENV COMPOSER_ALLOW_SUPERUSER=${COMPOSER_ALLOW_SUPERUSER:-1}
 ENV COMPOSER_PROCESS_TIMEOUT=${COMPOSER_PROCESS_TIMEOUT:-0}
 ENV COMPOSER_MEMORY_LIMIT=${COMPOSER_MEMORY_LIMIT:-"2G"}
-# ensure local python is preferred over distribution python
+
+# ensure local binaries are preferred over distro ones
 ENV PATH /usr/local/bin:$PATH
 
-RUN export LC_ALL=C.UTF-8
-RUN DEBIAN_FRONTEND=noninteractive
 RUN rm /bin/sh && ln -s /bin/bash /bin/sh
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
@@ -19,9 +21,11 @@ RUN apt-get install -y \
     sudo \
     autoconf \
     autogen \
-    language-pack-en-base \
+    locales \
+    locales-all \
     wget \
     zip \
+    libzip-dev \
     unzip \
     curl \
     rsync \
@@ -41,30 +45,14 @@ RUN apt-get install -y \
 RUN useradd -m docker && echo "docker:docker" | chpasswd && adduser docker sudo
 
 # PHP
-RUN LC_ALL=en_US.UTF-8 add-apt-repository ppa:ondrej/php && apt-get update && apt-get install -y php8.0
-RUN apt-get install -y \
-    php8.0-apcu \
-    php8.0-curl \
-    php8.0-gd \
-    php8.0-dev \
-    php8.0-xml \
-    php8.0-bcmath \
-    php8.0-mysql \
-    php8.0-mbstring \
-    php8.0-zip \
-    php8.0-bz2 \
-    php8.0-sqlite \
-    php8.0-intl \
-    php8.0-imagick
-RUN command -v php
-RUN echo "memory_limit = ${PHP_MEMORY_LIMIT}" > /etc/php/8.0/cli/conf.d/php_memory.ini
+RUN docker-php-ext-install pdo_mysql
+RUN pecl install apcu
+RUN docker-php-ext-install zip
+RUN docker-php-ext-enable apcu
+RUN echo "memory_limit = ${PHP_MEMORY_LIMIT}" > /usr/local/etc/php/conf.d/php_memory.ini
 
 # Composer
-RUN curl -sS https://getcomposer.org/installer | php
-RUN mv composer.phar /usr/local/bin/composer && \
-    chmod +x /usr/local/bin/composer && \
-    composer self-update
-RUN command -v composer
+COPY --from=composer:2 /usr/bin/composer /usr/local/bin/composer
 
 # Node.js
 RUN curl -sL https://deb.nodesource.com/setup_16.x -o nodesource_setup.sh
@@ -74,25 +62,27 @@ RUN npm install npm@7 -g
 RUN command -v node
 RUN command -v npm
 
-# Other
+# SSH
 RUN mkdir ~/.ssh
 RUN touch ~/.ssh_config
-
-# Known hosts github
 RUN mkdir -p ~/.ssh && ssh-keyscan -H github.com >>~/.ssh/known_hosts
 
-# Install Git LFS
+# Git LFS
 RUN curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | bash && \
     apt-get install git-lfs # && git lfs install
 
-# Install python 3.9
-# ---------------
-# extra dependencies (over what buildpack-deps already includes)
+# Python 3.9 and PIP
+
 RUN apt-get update && apt-get install -y --no-install-recommends \
 		libbluetooth-dev \
 		tk-dev \
 		uuid-dev \
 		libffi-dev \
+		libssl-dev \
+    libncurses5-dev \
+    libsqlite3-dev \
+    libreadline-dev \
+    libreadline-dev \
 	&& rm -rf /var/lib/apt/lists/*
 
 ENV GPG_KEY E3FF2839C048B25C084DEBE9B26995E310250568
@@ -173,7 +163,6 @@ RUN set -ex; \
 	rm -f get-pip.py
 # ---------------
 
-
 RUN pip install setuptools
 
 # Install pogodumper app
@@ -181,7 +170,6 @@ COPY apps/pogodumper/ /usr/src/pogodumper
 WORKDIR /usr/src/pogodumper
 RUN ls /usr/src/pogodumper/pogodumper && echo "Setting up pogodata..." && \
    pip install .
-
 
 WORKDIR /usr/src/project
 

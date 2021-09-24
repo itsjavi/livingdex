@@ -27,6 +27,8 @@ services:
     nginx:
         image: nginx:1.19-alpine
         restart: on-failure
+        env_file:
+            - .env
         volumes:
             - './:/usr/src/project'
             - './scripts/docker/nginx/default.conf:/etc/nginx/conf.d/default.conf:ro'
@@ -39,6 +41,8 @@ services:
         build:
             context: .
             target: base
+        env_file:
+            - .env
         restart: on-failure
         volumes:
             - './:/usr/src/project'
