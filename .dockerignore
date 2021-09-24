@@ -1,4 +1,9 @@
-public/assets
-node_modules/livingdex-renders
 build
 tmp
+assets
+data
+vendor
+node_modules
+*.sqlite
+*.png
+*.zip

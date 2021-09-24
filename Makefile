@@ -1,56 +1,18 @@
-default:build-all
+default:build
 
-install:
-	echo "Installing npm dependencies..."
-	npm install
-docker-install:
-	docker-compose run --rm app install
+configure: # Installs and configures the project dependencies
+	./scripts/configure.sh
 
-update:
-	echo "Updating npm dependencies..."
-	npm update
-docker-update:
-	docker-compose run --rm app update
+upgrade: # Upgrades the project dependencies and data sources
+	./scripts/upgrade.sh
 
-build:
-	echo "Building app..."
-	npm run build
-docker-build:
-	docker-compose run --rm app build
+build: # Builds the project data source and apps
+	./scripts/build.sh
 
-images:
-	./src/scripts/generate-images.sh || exit 1
-docker-images:
-	docker-compose run --rm app images
+start: # Starts the apps
+	./scripts/start.sh
 
-data:
-	./src/scripts/generate-data.sh
-	node ./src/scripts/generate-pokemon-index.mjs
-docker-data: data
-
-assets: data images
-docker-assets: data docker-images
-
-build-all: build assets
-docker-build-all: docker-build docker-assets
-
-start:
-	npm start
-docker-start:
-	docker-compose up -d
-
-test:
-	npm test
-docker-test:
-	docker-compose run --rm app test
-
-build-serve:
-	cd build && open http://localhost:8000 && python3 -m http.server 8000
-
-deploy:
-	rm -rf public/assets/data/csv public/assets/data/pogo
-	npm run deploy
-docker-deploy:
-	docker-compose run --rm app deploy
+deploy: # Deploys the apps
+	./scripts/deploy.sh
 
 .PHONY: build

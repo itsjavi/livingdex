@@ -1,0 +1,264 @@
+openapi: "3.0.0"
+servers:
+    -   url: 'https://itsjavi.com/pokemon-assets/api/v1'
+info:
+    title: LivingDex API
+    version: 1.0.0
+    description: >-
+        LivingDex API
+tags:
+    -   name: pokemon
+        description: Everything about Pokémon species and forms
+paths:
+    '/gen/{genId}/pokemon.json':
+        get:
+            tags:
+                - pokemon
+            summary: Get Pokémon species index
+            operationId: getPokemonIndex
+            parameters:
+                -   name: genId
+                    in: path
+                    description: ID of the Generation
+                    required: true
+                    schema:
+                        type: integer
+                        format: int64
+            responses:
+                '200':
+                    description: successful operation
+                    content:
+                        application/json:
+                            schema:
+                                type: array
+                                items:
+                                    $ref: '#/components/schemas/PokemonIndexItem'
+                '404':
+                    description: Generation or Pokémon not found
+    '/gen/{genId}/pokemon/{slug}.json':
+        get:
+            tags:
+                - pokemon
+            summary: Get Pokémon by generation and slug
+            operationId: getPokemonBySlug
+            parameters:
+                -   name: genId
+                    in: path
+                    description: ID of the Generation
+                    required: true
+                    schema:
+                        type: integer
+                        format: int64
+                -   name: slug
+                    in: path
+                    description: Slug of the Pokémon
+                    required: true
+                    schema:
+                        type: string
+            responses:
+                '200':
+                    description: successful operation
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/schemas/Pokemon'
+                '404':
+                    description: Generation or Pokémon not found
+components:
+    schemas:
+        PokemonIndexItem:
+            type: object
+            properties:
+                id:
+                    type: number
+                    example: 3
+                num:
+                    type: number
+                    example: 3
+                slug:
+                    type: string
+                    example: venusaur
+                name:
+                    type: string
+                    example: Venusaur
+                forms:
+                    type: array
+                    items:
+                        type: string
+                        example: venusaur-f
+        Pokemon:
+            type: object
+            properties:
+                id:
+                    type: number
+                    example: 460
+                num:
+                    type: number
+                    example: 460
+                slug:
+                    type: string
+                    example: abomasnow
+                name:
+                    type: string
+                    example: Abomasnow
+                forms:
+                    type: array
+                    items:
+                        type: string
+                        example: abomasnow-f
+                formName:
+                    type: string
+                    format: nullable
+                formSlug:
+                    type: string
+                    format: nullable
+                formOrder:
+                    type: number
+                    example: 0
+                baseSpecies:
+                    type: string
+                    format: nullable
+                baseDataForm:
+                    type: string
+                    format: nullable
+                imgSprite:
+                    type: string
+                    example: abomasnow
+                imgHome:
+                    type: string
+                    example: 0401-0500/0460
+                type1:
+                    type: string
+                    example: grass
+                type2:
+                    type: string
+                    example: ice
+                eggGroup1:
+                    type: string
+                    example: monster
+                eggGroup2:
+                    type: string
+                    example: grass
+                ability1:
+                    type: string
+                    example: snow-warning
+                ability2:
+                    type: string
+                    format: nullable
+                abilityHidden:
+                    type: string
+                    example: soundproof
+                height:
+                    type: number
+                    example: 220
+                weight:
+                    type: number
+                    example: 13550
+                color:
+                    type: string
+                    example: white
+                actualColor:
+                    type: string
+                    example: white
+                shape:
+                    type: string
+                    example: bipedal-tailed
+                maleRatio:
+                    type: number
+                    example: 0
+                femaleRatio:
+                    type: number
+                    example: 0
+                growthRate:
+                    type: string
+                    example: slow
+                catchRate:
+                    type: number
+                    example: 60
+                hatchCycles:
+                    type: number
+                    example: 20
+                baseFriendship:
+                    type: number
+                    example: 70
+                baseStats:
+                    type: object
+                    properties:
+                        hp:
+                            type: number
+                            example: 90
+                        atk:
+                            type: number
+                            example: 92
+                        def:
+                            type: number
+                            example: 75
+                        spa:
+                            type: number
+                            example: 92
+                        spd:
+                            type: number
+                            example: 85
+                        spe:
+                            type: number
+                            example: 60
+                baseStatsTotal:
+                    type: number
+                    example: 494
+                yieldStats:
+                    type: object
+                    properties:
+                        hp:
+                            type: number
+                            example: 0
+                        atk:
+                            type: number
+                            example: 1
+                        def:
+                            type: number
+                            example: 0
+                        spa:
+                            type: number
+                            example: 1
+                        spd:
+                            type: number
+                            example: 0
+                        spe:
+                            type: number
+                            example: 0
+                yieldBaseExp:
+                    type: number
+                    example: 173
+                isFemale:
+                    type: boolean
+                isCosmetic:
+                    type: boolean
+                isLegendary:
+                    type: boolean
+                isMythical:
+                    type: boolean
+                isFusion:
+                    type: boolean
+                isMega:
+                    type: boolean
+                isPrimal:
+                    type: boolean
+                isGmax:
+                    type: boolean
+                canDynamax:
+                    type: boolean
+                isTotem:
+                    type: boolean
+                isRegional:
+                    type: boolean
+                isHomeStorable:
+                    type: boolean
+                showdownSlug:
+                    type: string
+                    example: abomasnow
+                veekunSlug:
+                    type: string
+                    example: abomasnow
+                veekunFormId:
+                    type: number
+                    example: 460

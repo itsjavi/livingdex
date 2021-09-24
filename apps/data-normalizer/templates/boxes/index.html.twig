@@ -1,0 +1,65 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Living Dex - Box Debugger{% endblock %}
+
+{% block body %}
+  {% include 'boxes/base-styles.html.twig' %}
+  {% include 'boxes/grid-styles.html.twig' %}
+  {% include 'boxes/gamepadjs.html.twig' %}
+  <script>
+    function toggleBoxGroup(boxGroupId) {
+      let boxGroup = document.getElementById(boxGroupId);
+      if (boxGroup.classList.contains('hidden')) {
+        boxGroup.classList.remove('hidden')
+      } else {
+        boxGroup.classList.add('hidden')
+      }
+    }
+  </script>
+  <div class="wrapper">
+    <h1 class="center">
+      <img src="{{ asset('img/home-renders/logo.png') }}"/><br>
+      Living Dex - Box Debugger<br>
+    </h1>
+    <p id="gamepadInfo"></p>
+
+    {% for boxGroup in pokemonBoxGroups %}
+      {% set tabIndex = 1 %}
+      <div class="box-group">
+        <h2 class="box-group-header" title="Click to toggle"
+            onclick="toggleBoxGroup('bgc_{{ loop.index }}');">{{ boxGroup.title }}</h2>
+        <div class="box-group-content" id="bgc_{{ loop.index }}">
+          {% for box in pokemonBoxes %}
+            <div class="box">
+              <div class="box-title">BOX {{ loop.index }}</div>
+              <div class="box-grid">
+                {% for row in box %}
+                  <div class="box-row">
+                    {% for poke in row %}
+                      {# @var poke \App\Entity\LivingDex\Pokemon #}
+                      <div tabindex="{{ tabIndex }}"
+{#                           class="box-cell {% if poke.hasGmaxForm %} has-gmax {% endif %} {% if poke.hasMegaForm %} has-mega {% endif %}">#}
+                           class="box-cell" title="{{ poke.name }}">
+                        <figure>
+                          <img class="box-img"
+                               src="{{ asset(boxGroup.imgPath ~ attribute(poke, boxGroup.imgProperty) ~ '.png') }}"/>
+
+                          {# {% if poke.hasGmaxForm %} <i class="box-cell-icon gmax-icon"></i> {% endif %} #}
+                          {# {% if poke.hasMegaForm %} <i class="box-cell-icon mega-icon"></i> {% endif %} #}
+                          <figcaption>
+                            {{ poke.name }}
+                          </figcaption>
+                        </figure>
+                      </div>
+                      {% set tabIndex = tabIndex + 1 %}
+                    {% endfor %}
+                  </div>
+                {% endfor %}
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+{% endblock %}

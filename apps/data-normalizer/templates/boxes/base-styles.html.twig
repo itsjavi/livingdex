@@ -1,0 +1,145 @@
+<style>
+  body {
+    font: 18px/1.5 sans-serif;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  .wrapper {
+    position: relative;
+    margin: 1em auto;
+  }
+
+  .box-group {
+    position: relative;
+  }
+
+  .box-group-header {
+    position: relative;
+    padding: 12px;
+    border-radius: 24px;
+    background: rgba(11, 60, 60, 0.7);
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .box-group-content {
+    position: relative;
+  }
+
+  .box-group-content.hidden {
+    display: none;
+  }
+
+  .box {
+    position: relative;
+    border: {{ style.boxBorder }};
+    padding: {{ style.boxPadding }};
+    border-radius: 6px;
+    background: rgba(17, 178, 176, 0.25);
+  }
+
+  .box-title {
+    position: relative;
+    height: {{ style.boxTitleHeight }};
+    padding: {{ style.boxTitlePadding }};
+    text-align: center;
+    border-radius: 6px;
+    font-weight: bold;
+    margin-bottom: {{ style.boxTitleMarginBottom }};
+    color: #000;
+    font-size: 16px;
+    background: #fff;
+  }
+
+  .box-grid {
+    position: relative;
+  }
+
+  .box-row {
+    position: relative;
+    margin: 8px 0;
+  }
+
+  .box-cell {
+    position: relative;
+    background: #d7ebeb;
+    padding: 4px;
+    margin: 2px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .box-cell:focus {
+    transition: all .1s ease;
+    transform: scale(1.5);
+    background-color: #d7ebebff;
+    border: 1px solid rgba(91, 146, 146, 0.67);
+    background-blend-mode: normal;
+    z-index: 2;
+    outline: none;
+  }
+
+  .box-cell:focus figcaption {
+    display: block;
+  }
+
+  .box-cell:active {
+    border: 1px solid rgb(146, 91, 130);
+  }
+
+  .box-cell figure {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  .box-cell figcaption {
+    position: absolute;
+    box-sizing: border-box;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background: rgb(91, 146, 146);
+    border: 1px solid #d7ebeb;
+    color: #fff;
+    text-align: center;
+    padding: 4px;
+    font-size: 8px;
+    border-radius: 6px;
+    overflow-wrap: revert;
+    display: none;
+    margin-top: 2px;
+  }
+
+  .box-cell .box-img {
+    display: inline-block;
+    vertical-align: middle;
+    /*image-rendering: crisp-edges;*/
+    /*image-rendering: pixelated;*/
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    object-fit: contain;
+  }
+
+  .has-gmax {
+    background-image: url("{{ asset("img/dynamax-white.png") }}");
+    background-color: #d7ebebaa;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    transition: all 0.2s ease;
+  }
+
+  .has-gmax:hover {
+    background-color: #d7ebebff;
+    background-blend-mode: normal;
+    background-position: top center;
+    transition: all 0.2s ease;
+  }
+</style>
+
