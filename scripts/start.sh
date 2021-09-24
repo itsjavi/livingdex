@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-cd apps/ui
-npm start
+docker-compose up -d
+

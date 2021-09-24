@@ -30,6 +30,7 @@ docker-data: data
 
 assets: data images
 docker-assets: data docker-images
+docker-assets: data docker-images
 
 build-all: build assets
 docker-build-all: docker-build docker-assets

@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
-docker-compose run --rm --entrypoint=/bin/sh make -c "${@}"
+args="${@}"
+
+docker-compose run --rm --entrypoint=/bin/sh phpfpm -c "${args}"

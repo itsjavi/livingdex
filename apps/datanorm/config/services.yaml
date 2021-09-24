@@ -8,12 +8,14 @@ parameters:
     export_format: json
     build_dir: '%kernel.project_dir%/var/build'
     assets_dir: '%kernel.project_dir%/public/assets'
-    veekun_db_file: '%kernel.project_dir%/var/data/veekun-pokedex.sqlite'
-    showdown_data_dir: '%kernel.project_dir%/vendor/itsjavi/showdown-data/dist/data'
-    pokesprite_dir: '%kernel.project_dir%/vendor/msikma/pokesprite'
-    home_images_dir: '%kernel.project_dir%/vendor/itsjavi/livingdex-renders/images/home'
+    sources_dir: '%env(string:DATA_SOURCES_DIR)%'
+    showdown_data_dir: '%sources_dir%/showdown-data/dist/data'
+    pokesprite_dir: '%sources_dir%/msikma-pokesprite'
+    home_images_dir: '%sources_dir%/livingdex-renders/images/home'
     data_source_dir: '%kernel.project_dir%/src/DataSources/Data'
-    csv_data_dir: '%kernel.project_dir%/dist/csv'
+    csv_data_dir: '%env(string:DATA_DIR)%/dist/csv'
+    json_data_dir: '%env(string:DATA_DIR)%/dist/json'
+    veekun_db_file: '%kernel.project_dir%/var/data/veekun-pokedex.sqlite'
 services:
     # default configuration for services in *this* file
     _defaults:

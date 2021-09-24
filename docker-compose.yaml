@@ -46,15 +46,13 @@ services:
         restart: on-failure
         volumes:
             - './:/usr/src/project'
-        environment:
-            - DATABASE_URL=mysql://${DATABASE_USER}:${DATABASE_PASSWORD}@mysql:3306/${DATABASE_NAME}?serverVersion=8.0
 
     make:
         build:
             context: .
             dockerfile: Dockerfile
-            target: make
-        command: start
+        entrypoint: 'make'
+        command: 'info'
         env_file:
             - .env
         restart: on-failure

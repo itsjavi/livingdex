@@ -172,10 +172,5 @@ RUN ls /usr/src/pogodumper/pogodumper && echo "Setting up pogodata..." && \
    pip install .
 
 WORKDIR /usr/src/project
-
-# ----------------------
-FROM base as make
 EXPOSE 3000
-ENTRYPOINT ["make"]
-CMD ["start"]
 

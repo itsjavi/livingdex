@@ -1,7 +1,7 @@
 default:build
 
-configure: # Installs and configures the project dependencies
-	./scripts/configure.sh
+install: # Installs and configures the project
+	./scripts/install.sh
 
 upgrade: # Upgrades the project dependencies and data sources
 	./scripts/upgrade.sh
@@ -28,4 +28,4 @@ info:
 	echo $$PATH
 	whoami
 
-.PHONY: build
+#.PHONY: build data assets

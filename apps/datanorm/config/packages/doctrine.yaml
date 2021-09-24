@@ -3,7 +3,7 @@ doctrine:
         default_connection: default
         connections:
             default:
-                url: '%env(resolve:DATABASE_URL)%'
+                url: 'mysql://${DATABASE_USER}:${DATABASE_PASSWORD}@mysql:3306/${DATABASE_NAME}?serverVersion=8.0'
                 charset: utf8mb4
                 logging: false
                 profiling: false
