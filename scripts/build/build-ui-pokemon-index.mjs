@@ -5,7 +5,7 @@ import { URL } from "url"
 const __filename = new URL("", import.meta.url).pathname
 const __dirname = new URL(".", import.meta.url).pathname
 const MAX_GEN = 8
-const DATA_DIR = path.resolve(__dirname + "/../../public/assets/data/json")
+const DATA_DIR = path.resolve(__dirname + "/../../apps/ui/public/assets/data/json")
 
 if (!fs.existsSync(DATA_DIR + "/gen")) {
   throw new Error("gen path does not exist")

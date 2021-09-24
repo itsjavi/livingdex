@@ -5,6 +5,7 @@ rm -rf apps/datanorm/var/log/*
 rm -rf apps/ui/build/*
 rm -rf assets/dist/*
 rm -rf data/dist/*
+rm -rf "${UI_ASSETS_DIR}/data"
 
 
 cd apps/datanorm
