@@ -23,7 +23,7 @@
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
-  "isHomeStorable": false,
+  "isHomeStorable": true,
   "showdownSlug": "furfrou",
   "veekunSlug": "furfrou-dandy",
   "veekunFormId": 10120

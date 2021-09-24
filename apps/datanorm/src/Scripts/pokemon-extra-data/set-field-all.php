@@ -9,7 +9,7 @@ require __DIR__ . '/../../../vendor/autoload.php';
  * To add, update or delete a field in all objects at once.
  */
 
-$file = __DIR__ . '/../../DataSources/Data/extras/pokemon.json';
+$file = __DIR__ . '/../../../../../data/extras/pokemon.json';
 $json = file_get_contents($file);
 
 $field = $argv[1] ?? null;

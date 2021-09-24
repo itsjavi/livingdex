@@ -9,7 +9,7 @@ require __DIR__ . '/../../../vendor/autoload.php';
  * Given a pokemon slug and a field, sets the value for that entry.
  */
 
-$file = __DIR__ . '/../../DataSources/Data/extras/pokemon.json';
+$file = __DIR__ . '/../../../../../data/extras/pokemon.json';
 $json = file_get_contents($file);
 
 $pkmSlug = $argv[1] ?? null;

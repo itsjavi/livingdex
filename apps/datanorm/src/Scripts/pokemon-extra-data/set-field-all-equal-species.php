@@ -9,7 +9,7 @@ require __DIR__ . '/../../../vendor/autoload.php';
  * Given a field, it makes it equal to the base_species, for the form entries
  */
 
-$file = __DIR__ . '/../../DataSources/Data/extras/pokemon.json';
+$file = __DIR__ . '/../../../../../data/extras/pokemon.json';
 $json = file_get_contents($file);
 $data = JsonEncoder::decode($json);
 

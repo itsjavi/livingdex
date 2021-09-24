@@ -6,7 +6,6 @@ namespace App\Command;
 
 use App\DataSources\Data\VeekunDataMapping;
 use App\DataSources\DataSourceFileIo;
-use App\Support\Serialization\Encoder\CsvEncoder;
 use App\Support\Serialization\Encoder\JsonEncoder;
 use JsonPath\JsonObject;
 use Symfony\Component\Console\Command\Command;
@@ -19,7 +18,7 @@ use Symfony\Component\Console\Style\SymfonyStyle;
 
 class ExtraDataPokemonEditCommand extends Command
 {
-    private const FILENAME = 'extras/pokemon.json';
+    private const FILENAME = 'pokemon.json';
 
     private const ACTION_QUERY = 'q';
     private const ACTION_DELETE = 'd';

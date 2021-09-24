@@ -5,7 +5,8 @@
 # -------------------------
 cd apps/datanorm
 
-rm -rf "${DATA_DIR}/dist/*"
+rm -rf "${DATA_DIR}/dist"
+mkdir -p "${DATA_DIR}/dist"
 
 CSV_DATA_DIR="${DATA_DIR}/dist/csv"
 JSON_DATA_DIR="${DATA_DIR}/dist/json"

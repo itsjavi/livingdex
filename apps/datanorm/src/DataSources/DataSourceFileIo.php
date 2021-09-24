@@ -10,11 +10,11 @@ use App\Support\Serialization\Encoder\JsonEncoder;
 class DataSourceFileIo
 {
     private static array $cache = [];
-    private string $dataSourceDir;
+    private string $dataExtrasDir;
 
-    public function __construct(string $dataSourceDir)
+    public function __construct(string $dataExtrasDir)
     {
-        $this->dataSourceDir = $dataSourceDir;
+        $this->dataExtrasDir = $dataExtrasDir;
     }
 
     public function hasKey(string $key, string $fileName): bool
@@ -60,7 +60,7 @@ class DataSourceFileIo
 
     public function getFilePath(string $fileName): string
     {
-        return $this->dataSourceDir . DIRECTORY_SEPARATOR . $fileName;
+        return $this->dataExtrasDir . DIRECTORY_SEPARATOR . $fileName;
     }
 
     public function writeFile(string $fileName, $data): void

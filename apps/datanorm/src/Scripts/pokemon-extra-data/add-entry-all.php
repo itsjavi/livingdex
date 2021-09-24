@@ -9,7 +9,7 @@ require __DIR__ . '/../../../vendor/autoload.php';
  * To append a new entry at the end.
  */
 
-$file = __DIR__ . '/../../DataSources/Data/extras/pokemon.json';
+$file = __DIR__ . '/../../../../../data/extras/pokemon.json';
 $json = file_get_contents($file);
 
 $newSlugs = $argv[1] ?? null;

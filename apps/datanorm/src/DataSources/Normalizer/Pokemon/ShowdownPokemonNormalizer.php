@@ -51,7 +51,7 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
     {
         $containers = [];
         $containersById = [];
-        $this->extraData = $this->localDataSource->getAll('extras/pokemon.json');
+        $this->extraData = $this->localDataSource->getAll('pokemon.json');
 
         // normalize array to container
         foreach ($entries as $alias => $entry) {
@@ -391,7 +391,7 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
 
     private function getSortingOrder(string $slug, string $baseSpeciesSlug): int
     {
-        $speciesForms = $this->localDataSource->getValue($baseSpeciesSlug, 'extras/pokemon-forms-sorting_order.json');
+        $speciesForms = $this->localDataSource->getValue($baseSpeciesSlug, 'pokemon-forms-sorting_order.json');
         if ($speciesForms === null) {
             throw new DataSourceFileIoException("No FormsOrder entry for species '{$baseSpeciesSlug}' found.");
         }
