@@ -16,8 +16,6 @@
         "doctrine/orm": "^2.8",
         "galbar/jsonpath": "^1.1",
         "illuminate/support": "^8.24",
-        "itsjavi/showdown-data": "^2021",
-        "itsjavi/veekun-pokedex": "^2021",
         "laminas/laminas-code": "^4.0",
         "symfony/asset": "4.4.*",
         "symfony/console": "4.4.*",
@@ -33,9 +31,7 @@
         "twig/twig": "^2.12|^3.0"
     },
     "require-dev": {
-        "symfony/maker-bundle": "^1.28",
-        "itsjavi/livingdex-renders": "^2021",
-        "msikma/pokesprite": "^2021"
+        "symfony/maker-bundle": "^1.28"
     },
     "config": {
         "preferred-install": {
@@ -81,32 +77,6 @@
         "symfony": {
             "allow-contrib": false,
             "require": "4.4.*"
-        }
-    },
-    "repositories": {
-        "msikma-pokesprite": {
-            "type": "package",
-            "package": {
-                "name": "msikma/pokesprite",
-                "version": "2021.05.02",
-                "source": {
-                    "url": "https://github.com/msikma/pokesprite.git",
-                    "type": "git",
-                    "reference": "9e70455a17d1f24e30fd6cb45ccdb48f6c5bf034"
-                }
-            }
-        },
-        "itsjavi-livingdex-renders": {
-            "type": "vcs",
-            "url": "git@github.com:itsjavi/livingdex-renders.git"
-        },
-        "itsjavi-veekun-pokedex": {
-            "type": "vcs",
-            "url": "https://github.com/itsjavi/veekun-pokedex.git"
-        },
-        "itsjavi-showdown-data": {
-            "type": "vcs",
-            "url": "https://github.com/itsjavi/showdown-data.git"
         }
     }
 }

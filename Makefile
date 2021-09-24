@@ -15,4 +15,17 @@ start: # Starts the apps
 deploy: # Deploys the apps
 	./scripts/deploy.sh
 
+info:
+	php -v
+	php --ini
+	composer --version
+	node -v
+	npm -v
+	python --version
+	pip --version
+	which pip
+	echo $$HOME
+	echo $$PATH
+	whoami
+
 .PHONY: build

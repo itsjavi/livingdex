@@ -1,9 +1,6 @@
-vendor
-node_modules
 *.log
-var
 .idea
-build
-tmp
-assets/sources
-data/sources
+/build
+/tmp
+/assets/sources
+/data/sources
