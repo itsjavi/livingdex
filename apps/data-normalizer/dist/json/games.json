@@ -1,0 +1,564 @@
+[
+  {
+    "id": 1,
+    "slug": "rb",
+    "name": "Red and Blue",
+    "gen": 1,
+    "region": "kanto",
+    "date": "1996-02-27",
+    "order": 1,
+    "games": [
+      {
+        "id": 1,
+        "slug": "red",
+        "name": "Red",
+        "gen": 1,
+        "order": 1
+      },
+      {
+        "id": 2,
+        "slug": "blue",
+        "name": "Blue",
+        "gen": 1,
+        "order": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "y",
+    "name": "Yellow",
+    "gen": 1,
+    "region": "kanto",
+    "date": "1998-09-12",
+    "order": 2,
+    "games": [
+      {
+        "id": 3,
+        "slug": "yellow",
+        "name": "Yellow",
+        "gen": 1,
+        "order": 3
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "gs",
+    "name": "Gold and Silver",
+    "gen": 2,
+    "region": "johto",
+    "date": "1999-11-21",
+    "order": 3,
+    "games": [
+      {
+        "id": 4,
+        "slug": "gold",
+        "name": "Gold",
+        "gen": 2,
+        "order": 4
+      },
+      {
+        "id": 5,
+        "slug": "silver",
+        "name": "Silver",
+        "gen": 2,
+        "order": 5
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "c",
+    "name": "Crystal",
+    "gen": 2,
+    "region": "johto",
+    "date": "2000-12-14",
+    "order": 4,
+    "games": [
+      {
+        "id": 6,
+        "slug": "crystal",
+        "name": "Crystal",
+        "gen": 2,
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "rs",
+    "name": "Ruby and Sapphire",
+    "gen": 3,
+    "region": "hoenn",
+    "date": "2002-11-21",
+    "order": 5,
+    "games": [
+      {
+        "id": 7,
+        "slug": "ruby",
+        "name": "Ruby",
+        "gen": 3,
+        "order": 7
+      },
+      {
+        "id": 8,
+        "slug": "sapphire",
+        "name": "Sapphire",
+        "gen": 3,
+        "order": 8
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "col",
+    "name": "Colosseum",
+    "gen": 3,
+    "region": "orre",
+    "date": "2003-11-21",
+    "order": 6,
+    "games": [
+      {
+        "id": 19,
+        "slug": "colosseum",
+        "name": "Colosseum",
+        "gen": 3,
+        "order": 9
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "frlg",
+    "name": "Fire Red and Leaf Green",
+    "gen": 3,
+    "region": "kanto",
+    "date": "2004-01-29",
+    "order": 7,
+    "games": [
+      {
+        "id": 10,
+        "slug": "fire-red",
+        "name": "Fire Red",
+        "gen": 3,
+        "order": 10
+      },
+      {
+        "id": 11,
+        "slug": "leaf-green",
+        "name": "Leaf Green",
+        "gen": 3,
+        "order": 11
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "e",
+    "name": "Emerald",
+    "gen": 3,
+    "region": "hoenn",
+    "date": "2004-09-16",
+    "order": 8,
+    "games": [
+      {
+        "id": 9,
+        "slug": "emerald",
+        "name": "Emerald",
+        "gen": 3,
+        "order": 12
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "xd",
+    "name": "XD",
+    "gen": 3,
+    "region": "orre",
+    "date": "2005-08-04",
+    "order": 9,
+    "games": [
+      {
+        "id": 20,
+        "slug": "xd",
+        "name": "XD",
+        "gen": 3,
+        "order": 13
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "dp",
+    "name": "Diamond and Pearl",
+    "gen": 4,
+    "region": "sinnoh",
+    "date": "2006-09-28",
+    "order": 10,
+    "games": [
+      {
+        "id": 12,
+        "slug": "diamond",
+        "name": "Diamond",
+        "gen": 4,
+        "order": 14
+      },
+      {
+        "id": 13,
+        "slug": "pearl",
+        "name": "Pearl",
+        "gen": 4,
+        "order": 15
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "pt",
+    "name": "Platinum",
+    "gen": 4,
+    "region": "sinnoh",
+    "date": "2008-09-13",
+    "order": 11,
+    "games": [
+      {
+        "id": 14,
+        "slug": "platinum",
+        "name": "Platinum",
+        "gen": 4,
+        "order": 16
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "hgss",
+    "name": "Heart Gold and Soul Silver",
+    "gen": 4,
+    "region": "johto",
+    "date": "2009-09-12",
+    "order": 12,
+    "games": [
+      {
+        "id": 15,
+        "slug": "heart-gold",
+        "name": "Heart Gold",
+        "gen": 4,
+        "order": 17
+      },
+      {
+        "id": 16,
+        "slug": "soul-silver",
+        "name": "Soul Silver",
+        "gen": 4,
+        "order": 18
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "bw",
+    "name": "Black and White",
+    "gen": 5,
+    "region": "unova",
+    "date": "2010-09-18",
+    "order": 13,
+    "games": [
+      {
+        "id": 17,
+        "slug": "black",
+        "name": "Black",
+        "gen": 5,
+        "order": 19
+      },
+      {
+        "id": 18,
+        "slug": "white",
+        "name": "White",
+        "gen": 5,
+        "order": 20
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "b2w2",
+    "name": "Black 2 and White 2",
+    "gen": 5,
+    "region": "unova",
+    "date": "2012-06-23",
+    "order": 14,
+    "games": [
+      {
+        "id": 21,
+        "slug": "black2",
+        "name": "Black2",
+        "gen": 5,
+        "order": 21
+      },
+      {
+        "id": 22,
+        "slug": "white2",
+        "name": "White2",
+        "gen": 5,
+        "order": 22
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "xy",
+    "name": "X and Y",
+    "gen": 6,
+    "region": "kalos",
+    "date": "2013-10-12",
+    "order": 15,
+    "games": [
+      {
+        "id": 23,
+        "slug": "x",
+        "name": "X",
+        "gen": 6,
+        "order": 23
+      },
+      {
+        "id": 24,
+        "slug": "y",
+        "name": "Y",
+        "gen": 6,
+        "order": 24
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "oras",
+    "name": "Omega Ruby and Alpha Sapphire",
+    "gen": 6,
+    "region": "hoenn",
+    "date": "2014-11-21",
+    "order": 16,
+    "games": [
+      {
+        "id": 25,
+        "slug": "omega-ruby",
+        "name": "Omega Ruby",
+        "gen": 6,
+        "order": 25
+      },
+      {
+        "id": 26,
+        "slug": "alpha-sapphire",
+        "name": "Alpha Sapphire",
+        "gen": 6,
+        "order": 26
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "go",
+    "name": "GO",
+    "gen": 0,
+    "region": null,
+    "date": "2016-07-06",
+    "order": 17,
+    "games": [
+      {
+        "id": 31,
+        "slug": "go",
+        "name": "GO",
+        "gen": 0,
+        "order": 27
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "sm",
+    "name": "Sun and Moon",
+    "gen": 7,
+    "region": "alola",
+    "date": "2016-11-18",
+    "order": 18,
+    "games": [
+      {
+        "id": 27,
+        "slug": "sun",
+        "name": "Sun",
+        "gen": 7,
+        "order": 28
+      },
+      {
+        "id": 28,
+        "slug": "moon",
+        "name": "Moon",
+        "gen": 7,
+        "order": 29
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "usum",
+    "name": "Ultra Sun and Ultra Moon",
+    "gen": 7,
+    "region": "alola",
+    "date": "2017-11-17",
+    "order": 19,
+    "games": [
+      {
+        "id": 29,
+        "slug": "ultra-sun",
+        "name": "Ultra Sun",
+        "gen": 7,
+        "order": 30
+      },
+      {
+        "id": 30,
+        "slug": "ultra-moon",
+        "name": "Ultra Moon",
+        "gen": 7,
+        "order": 31
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "lgpe",
+    "name": "Let's Go! Pikachu and Let's Go! Eevee",
+    "gen": 7,
+    "region": "kanto",
+    "date": "2018-11-16",
+    "order": 20,
+    "games": [
+      {
+        "id": 32,
+        "slug": "lets-go-pikachu",
+        "name": "Let's Go! Pikachu",
+        "gen": 7,
+        "order": 32
+      },
+      {
+        "id": 33,
+        "slug": "lets-go-eevee",
+        "name": "Let's Go! Eevee",
+        "gen": 7,
+        "order": 33
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "swsh",
+    "name": "Sword and Shield",
+    "gen": 8,
+    "region": "galar",
+    "date": "2019-11-15",
+    "order": 21,
+    "games": [
+      {
+        "id": 34,
+        "slug": "sword",
+        "name": "Sword",
+        "gen": 8,
+        "order": 34
+      },
+      {
+        "id": 35,
+        "slug": "shield",
+        "name": "Shield",
+        "gen": 8,
+        "order": 35
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "home",
+    "name": "HOME",
+    "gen": 0,
+    "region": null,
+    "date": "2020-02-12",
+    "order": 22,
+    "games": [
+      {
+        "id": 36,
+        "slug": "home",
+        "name": "HOME",
+        "gen": 0,
+        "order": 36
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "swshex",
+    "name": "Sword and Shield Expansion Pass",
+    "gen": 8,
+    "region": "galar",
+    "date": "2020-10-01",
+    "order": 23,
+    "games": [
+      {
+        "id": 37,
+        "slug": "sword-expansion-pass",
+        "name": "Sword Expansion Pass",
+        "gen": 8,
+        "order": 37
+      },
+      {
+        "id": 38,
+        "slug": "shield-expansion-pass",
+        "name": "Shield Expansion Pass",
+        "gen": 8,
+        "order": 38
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "bdsp",
+    "name": "Brilliant Diamond and Shining Pearl",
+    "gen": 8,
+    "region": "sinnoh",
+    "date": "2021-11-19",
+    "order": 24,
+    "games": [
+      {
+        "id": 39,
+        "slug": "brilliant-diamond",
+        "name": "Brilliant Diamond",
+        "gen": 8,
+        "order": 39
+      },
+      {
+        "id": 40,
+        "slug": "shining-pearl",
+        "name": "Shining Pearl",
+        "gen": 8,
+        "order": 40
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "la",
+    "name": "Legends: Arceus",
+    "gen": 8,
+    "region": "hisui",
+    "date": "2022-01-28",
+    "order": 25,
+    "games": [
+      {
+        "id": 41,
+        "slug": "legends-arceus",
+        "name": "Legends: Arceus",
+        "gen": 8,
+        "order": 41
+      }
+    ]
+  }
+]

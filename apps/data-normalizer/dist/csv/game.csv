@@ -1,0 +1,42 @@
+id,game_group_id,gen,slug,name,sorting_order
+1,1,1,red,Red,1
+2,1,1,blue,Blue,2
+3,2,1,yellow,Yellow,3
+4,3,2,gold,Gold,4
+5,3,2,silver,Silver,5
+6,4,2,crystal,Crystal,6
+7,5,3,ruby,Ruby,7
+8,5,3,sapphire,Sapphire,8
+9,6,3,emerald,Emerald,12
+10,7,3,fire-red,"Fire Red",10
+11,7,3,leaf-green,"Leaf Green",11
+12,8,4,diamond,Diamond,14
+13,8,4,pearl,Pearl,15
+14,9,4,platinum,Platinum,16
+15,10,4,heart-gold,"Heart Gold",17
+16,10,4,soul-silver,"Soul Silver",18
+17,11,5,black,Black,19
+18,11,5,white,White,20
+19,12,3,colosseum,Colosseum,9
+20,13,3,xd,XD,13
+21,14,5,black2,Black2,21
+22,14,5,white2,White2,22
+23,15,6,x,X,23
+24,15,6,y,Y,24
+25,16,6,omega-ruby,"Omega Ruby",25
+26,16,6,alpha-sapphire,"Alpha Sapphire",26
+27,17,7,sun,Sun,28
+28,17,7,moon,Moon,29
+29,18,7,ultra-sun,"Ultra Sun",30
+30,18,7,ultra-moon,"Ultra Moon",31
+31,19,0,go,GO,27
+32,20,7,lets-go-pikachu,"Let's Go! Pikachu",32
+33,20,7,lets-go-eevee,"Let's Go! Eevee",33
+34,21,8,sword,Sword,34
+35,21,8,shield,Shield,35
+36,22,0,home,HOME,36
+37,23,8,sword-expansion-pass,"Sword Expansion Pass",37
+38,23,8,shield-expansion-pass,"Shield Expansion Pass",38
+39,24,8,brilliant-diamond,"Brilliant Diamond",39
+40,24,8,shining-pearl,"Shining Pearl",40
+41,25,8,legends-arceus,"Legends: Arceus",41

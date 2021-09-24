@@ -1,0 +1,14 @@
+.git
+.git*
+.idea
+*.log
+/var/cache
+/var/log
+/dist
+/.env.local
+/.env.local.php
+/.env.*.local
+/vendor
+/public/assets
+/public/img
+
