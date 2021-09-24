@@ -1,2 +1,9 @@
 build
 tmp
+assets
+data
+vendor
+node_modules
+*.sqlite
+*.png
+*.zip
