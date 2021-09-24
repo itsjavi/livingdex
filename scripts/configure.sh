@@ -29,8 +29,8 @@ cd -
 #---
 
 # Download Assets
-mkdir -p assets/img
-cd assets/img
+mkdir -p assets/sources
+cd assets/sources
 
 if [[ ! -d "./livingdex-renders" ]]; then
   git clone git@github.com:itsjavi/livingdex-renders.git
