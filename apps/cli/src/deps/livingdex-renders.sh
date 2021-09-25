@@ -17,7 +17,7 @@ if [[ ! -d "./${REPO}" ]]; then
   #  cd -
   if [[ ! -f "${REPO}.zip" ]]; then
     echo "Downloading ${REPO}.zip from mega.nz ..."
-    "${SCRIPTS_DIR}/mega-dl.sh" -o "${REPO}.zip" "${HOME_RENDERS_DOWNLOAD_URL}"
+    ${CLI_APP} megadl "${HOME_RENDERS_DOWNLOAD_URL}" "${REPO}.zip"
   fi
   unzip "${REPO}.zip"
 fi

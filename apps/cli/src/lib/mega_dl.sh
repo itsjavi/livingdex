@@ -1,5 +1,6 @@
 #!/bin/bash
 
+function mega_dl {
 # Originally from https://github.com/tonikelope/megadown
 
 VERSION="1.9.46"
@@ -701,3 +702,4 @@ if [ ! $quiet ]; then
 fi
 
 exit 0
+}
