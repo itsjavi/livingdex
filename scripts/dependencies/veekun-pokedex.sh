@@ -4,7 +4,7 @@ REPO="veekun-pokedex"
 REPO_FQN="itsjavi/${REPO}"
 SQLITE_FILE="${DATA_DIR}/sources/pokedex.sqlite"
 SQLITE_FILE_ZIP="${REPO}/pokedex/data/pokedex.sqlite.zip"
-SQLITE_FILE_DEST="${APPS_DIR}/datanorm/var/data/veekun-pokedex.sqlite"
+SQLITE_FILE_DEST="${APPS_DIR}/data-generator/var/data/veekun-pokedex.sqlite"
 
 mkdir -p data/sources
 cd data/sources
@@ -33,3 +33,5 @@ if [[ ! -f "${SQLITE_FILE_DEST}" ]]; then
   fi
   mv "${SQLITE_FILE}" "${SQLITE_FILE_DEST}"
 fi
+
+echo "${REPO} is up to date."

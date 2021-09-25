@@ -3,7 +3,7 @@
 # -------------------------
 # Generate DIST data
 # -------------------------
-cd apps/datanorm
+cd apps/data-generator
 
 rm -rf "${DATA_DIR}/dist"
 mkdir -p "${DATA_DIR}/dist"

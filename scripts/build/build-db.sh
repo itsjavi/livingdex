@@ -3,7 +3,7 @@
 # -------------------------
 # Rebuild DB
 # -------------------------
-cd apps/datanorm
+cd apps/data-generator
 
 echo "Recreating DB schema..."
 bin/console doctrine:schema:drop -f -n -q

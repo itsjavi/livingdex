@@ -40,7 +40,8 @@ RUN apt-get install -y \
     libpng-dev \
     libpng16-16 \
     imagemagick \
-    jq
+    jq \
+    pv
 
 RUN useradd -m docker && echo "docker:docker" | chpasswd && adduser docker sudo
 
@@ -165,12 +166,11 @@ RUN set -ex; \
 
 RUN pip install setuptools
 
-# Install pogodumper app
-COPY apps/pogodumper/ /usr/src/pogodumper
-WORKDIR /usr/src/pogodumper
-RUN ls /usr/src/pogodumper/pogodumper && echo "Setting up pogodata..." && \
+# Install pogo-dumper app
+COPY apps/pogo-dumper/ /usr/src/pogo-dumper
+WORKDIR /usr/src/pogo-dumper
+RUN ls /usr/src/pogo-dumper/pogo-dumper && echo "Setting up pogodata..." && \
    pip install .
 
 WORKDIR /usr/src/project
 EXPOSE 3000
-

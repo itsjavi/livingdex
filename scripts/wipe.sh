@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 
-rm -rf apps/datanorm/var/data/*
-rm -rf apps/datanorm/var/log/*
+rm -rf apps/data-generator/var/data/*
+rm -rf apps/data-generator/var/log/*
 rm -rf apps/ui/build/*
 rm -rf assets/dist/*
 rm -rf data/dist/*
 rm -rf "${UI_ASSETS_DIR}/data"
 
 
-cd apps/datanorm
+cd apps/data-generator
 composer dumpautoload
 bin/console cache:clear
 

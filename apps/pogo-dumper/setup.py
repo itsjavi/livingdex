@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name="pogodumper",
+    name="pogo-dumper",
     version='0.2.0',
-    packages=["pogodumper"],
+    packages=["pogo-dumper"],
     install_requires=["pogodata"],
     author="itsjavi",
     url="https://github.com/itsjavi/pogodata",

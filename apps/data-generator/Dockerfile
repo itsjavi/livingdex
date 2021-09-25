@@ -32,11 +32,11 @@ WORKDIR /usr/src/app
 
 RUN printf '#!/usr/bin/env bash \nmkdir -p /usr/src/data \n ' > /usr/src/app/pogodata-dump.sh && \
     printf 'echo "Dumping PoGO data to JSON..."\n' >> /usr/src/app/pogodata-dump.sh && \
-    printf 'python3 /usr/src/app/pogodumper/dumper.py moves > /usr/src/data/pogo-moves.json\n' >> /usr/src/app/pogodata-dump.sh && \
-    printf 'python3 /usr/src/app/pogodumper/dumper.py pokemon > /usr/src/data/pogo-pokemon.json\n' >> /usr/src/app/pogodata-dump.sh && \
+    printf 'python3 /usr/src/app/pogo-dumper/dumper.py moves > /usr/src/data/pogo-moves.json\n' >> /usr/src/app/pogodata-dump.sh && \
+    printf 'python3 /usr/src/app/pogo-dumper/dumper.py pokemon > /usr/src/data/pogo-pokemon.json\n' >> /usr/src/app/pogodata-dump.sh && \
     chmod +x /usr/src/app/pogodata-dump.sh
 
-COPY src/Scripts/pogodumper-py/ /usr/src/app
+COPY src/Scripts/pogo-dumper-py/ /usr/src/app
 
 RUN echo "Setting up pogodata..." && \
    python3 -m pip install pogodata && \

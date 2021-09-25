@@ -14,6 +14,8 @@ if [[ ! -d "./${POGO_DIR}" || "${1}" == "update" ]]; then
   
   echo "Dumping PoGO data to JSON..."
 
-  python3 /usr/src/pogodumper/pogodumper/dumper.py moves > "${POGO_DIR}"/pogo-moves.json
-  python3 /usr/src/pogodumper/pogodumper/dumper.py pokemon > "${POGO_DIR}"/pogo-pokemon.json
+  python3 /usr/src/pogo-dumper/pogo-dumper/dumper.py moves > "${POGO_DIR}"/pogo-moves.json
+  python3 /usr/src/pogo-dumper/pogo-dumper/dumper.py pokemon > "${POGO_DIR}"/pogo-pokemon.json
 fi
+
+echo "pogo-data is up to date."

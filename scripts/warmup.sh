@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-cd apps/datanorm
+cd apps/data-generator
 composer dumpautoload
 bin/console cache:clear

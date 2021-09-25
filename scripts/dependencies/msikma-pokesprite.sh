@@ -15,3 +15,5 @@ cd "${REPO}"
 if [[ "${1}" == "update" ]]; then
   git pull
 fi
+
+echo "${REPO} is up to date."

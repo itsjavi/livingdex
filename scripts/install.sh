@@ -5,7 +5,7 @@ cd apps/ui
 npm install
 cd -
 
-cd apps/datanorm
+cd apps/data-generator
 composer install
 cd -
 #---
