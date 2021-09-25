@@ -4,3 +4,6 @@
 /tmp
 /assets/sources
 /data/sources
+/apps/ui/public/assets
+/apps/data-generator/public/assets
+.megadown
