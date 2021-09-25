@@ -3,8 +3,8 @@
 REPO="livingdex-renders"
 # REPO_FQN="itsjavi/${REPO}"
 
-mkdir -p assets/sources
-cd assets/sources
+mkdir -p "${SOURCES_DIR}"
+cd "${SOURCES_DIR}"
 
 if [[ "${1}" == "update" ]]; then
   rm -rf "./${REPO}" "${REPO}.zip"

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-cd apps/data-generator
+cd "${APPS_DIR}/db"
 composer dumpautoload
 bin/console cache:clear

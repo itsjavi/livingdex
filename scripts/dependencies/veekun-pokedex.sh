@@ -2,12 +2,12 @@
 
 REPO="veekun-pokedex"
 REPO_FQN="itsjavi/${REPO}"
-SQLITE_FILE="${DATA_DIR}/sources/pokedex.sqlite"
+SQLITE_FILE="${SOURCES_DIR}/pokedex.sqlite"
 SQLITE_FILE_ZIP="${REPO}/pokedex/data/pokedex.sqlite.zip"
-SQLITE_FILE_DEST="${APPS_DIR}/data-generator/var/data/veekun-pokedex.sqlite"
+SQLITE_FILE_DEST="${APPS_DIR}/db/var/data/veekun-pokedex.sqlite"
 
-mkdir -p data/sources
-cd data/sources
+mkdir -p "${SOURCES_DIR}"
+cd "${SOURCES_DIR}"
 
 if [[ ! -d "./${REPO}" ]]; then
   git clone https://github.com/${REPO_FQN}.git "${REPO}"

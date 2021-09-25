@@ -3,8 +3,8 @@
 REPO="msikma-pokesprite"
 REPO_FQN="msikma/pokesprite"
 
-mkdir -p assets/sources
-cd assets/sources
+mkdir -p "${SOURCES_DIR}"
+cd "${SOURCES_DIR}"
 
 if [[ ! -d "./${REPO}" ]]; then
   git clone https://github.com/${REPO_FQN}.git "${REPO}"

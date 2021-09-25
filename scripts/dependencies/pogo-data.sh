@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
-if [[ -z "${DATA_SOURCES_DIR}" ]]; then
-  echo "DATA_SOURCES_DIR env var not set"
+if [[ -z "${SOURCES_DIR}" ]]; then
+  echo "SOURCES_DIR env var not set"
   exit 1
 fi
 
-mkdir -p "${DATA_SOURCES_DIR}"
-POGO_DIR="${DATA_SOURCES_DIR}/pogo-data"
+mkdir -p "${SOURCES_DIR}"
+POGO_DIR="${SOURCES_DIR}/pogo-data"
 
 if [[ ! -d "./${POGO_DIR}" || "${1}" == "update" ]]; then
   rm -rf "${POGO_DIR}"

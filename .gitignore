@@ -5,5 +5,6 @@
 /assets/sources
 /data/sources
 /apps/ui/public/assets
-/apps/data-generator/public/assets
+/apps/db/public/assets
 .megadown
+.sources

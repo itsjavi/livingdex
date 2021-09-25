@@ -3,7 +3,7 @@
 # -------------------------
 # Rebuild DB
 # -------------------------
-cd apps/data-generator
+cd "${APPS_DIR}/db"
 
 echo "Recreating DB schema..."
 bin/console doctrine:schema:drop -f -n -q

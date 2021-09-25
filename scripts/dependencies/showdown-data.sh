@@ -3,8 +3,8 @@
 REPO="showdown-data"
 REPO_FQN="itsjavi/${REPO}"
 
-mkdir -p data/sources
-cd data/sources
+mkdir -p "${SOURCES_DIR}"
+cd "${SOURCES_DIR}"
 
 if [[ ! -d "./${REPO}" ]]; then
   git clone https://github.com/${REPO_FQN}.git "${REPO}"

@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
 # Install dependencies
-cd apps/ui
+cd "${APPS_DIR}/ui"
 npm install
 cd -
 
-cd apps/data-generator
+cd "${APPS_DIR}/db"
 composer install
 cd -
 #---

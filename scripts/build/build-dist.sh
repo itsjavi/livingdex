@@ -3,13 +3,13 @@
 # -------------------------
 # Generate DIST data
 # -------------------------
-cd apps/data-generator
+cd "${APPS_DIR}/db"
 
-rm -rf "${DATA_DIR}/dist"
-mkdir -p "${DATA_DIR}/dist"
+rm -rf "${DIST_DIR}"
+mkdir -p "${DIST_DIR}"
 
-CSV_DATA_DIR="${DATA_DIR}/dist/csv"
-JSON_DATA_DIR="${DATA_DIR}/dist/json"
+CSV_DATA_DIR="${DIST_DIR}/csv"
+JSON_DATA_DIR="${DIST_DIR}/json"
 
 mkdir -p "${CSV_DATA_DIR}"
 mkdir -p "${JSON_DATA_DIR}"

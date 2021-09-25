@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
-cd apps/ui
+cd "${APPS_DIR}/ui"
 
 # DATA
 echo "Adding data assets and generating index..."
 rm -rf "${UI_ASSETS_DIR}/data"
 mkdir -p "${UI_ASSETS_DIR}/data/json"
-cp -R "${DATA_DIR}/dist/json" "${UI_ASSETS_DIR}/data"
+cp -R "${DIST_DIR}/json" "${UI_ASSETS_DIR}/data"
 node "${SCRIPTS_DIR}/build/build-ui-pokemon-index.mjs"
 
 # THUMBNAILS (if do not exist)
