@@ -41,39 +41,16 @@ RUN apt-get install -y \
     libpng16-16 \
     imagemagick \
     jq \
-    pv
-
-RUN useradd -m docker && echo "docker:docker" | chpasswd && adduser docker sudo
-
-# PHP
-RUN docker-php-ext-install pdo_mysql
-RUN pecl install apcu
-RUN docker-php-ext-install zip
-RUN docker-php-ext-enable apcu
-RUN echo "memory_limit = ${PHP_MEMORY_LIMIT}" > /usr/local/etc/php/conf.d/php_memory.ini
-
-# Composer
-COPY --from=composer:2 /usr/bin/composer /usr/local/bin/composer
-
-# Node.js
-RUN curl -sL https://deb.nodesource.com/setup_16.x -o nodesource_setup.sh
-RUN bash nodesource_setup.sh
-RUN apt-get install nodejs -y
-RUN npm install npm@7 -g
-RUN command -v node
-RUN command -v npm
+    pv \
+    gnupg
 
 # SSH
 RUN mkdir ~/.ssh
 RUN touch ~/.ssh_config
 RUN mkdir -p ~/.ssh && ssh-keyscan -H github.com >>~/.ssh/known_hosts
 
-# Git LFS
-RUN curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | bash && \
-    apt-get install git-lfs # && git lfs install
-
+# ---------------------------------------------------------------------------
 # Python 3.9 and PIP
-
 RUN apt-get update && apt-get install -y --no-install-recommends \
 		libbluetooth-dev \
 		tk-dev \
@@ -162,15 +139,41 @@ RUN set -ex; \
 			\( -type f -a \( -name '*.pyc' -o -name '*.pyo' \) \) \
 		\) -exec rm -rf '{}' +; \
 	rm -f get-pip.py
-# ---------------
 
 RUN pip install setuptools
+# --------------------------------------------------------------------------- (end python setup)
+
+# Node.js
+RUN curl -sL https://deb.nodesource.com/setup_16.x -o nodesource_setup.sh
+RUN bash nodesource_setup.sh
+RUN apt-get install nodejs -y
+RUN npm install npm@7 -g
+
+# PHP extensions
+RUN docker-php-ext-install pdo_mysql
+RUN pecl install apcu
+RUN docker-php-ext-install zip
+RUN docker-php-ext-enable apcu
+RUN echo "memory_limit = ${PHP_MEMORY_LIMIT}" > /usr/local/etc/php/conf.d/php_memory.ini
+
+# Composer
+COPY --from=composer:2 /usr/bin/composer /usr/local/bin/composer
+
+# ImageMagick
+RUN rm -f /etc/ImageMagick-6/policy.xml
+COPY resources/docker/imagemagick-policy.xml /etc/ImageMagick-6/policy.xml
 
 # Install pogo-dumper app
 COPY apps/pogo-dumper/ /usr/src/pogo-dumper
 WORKDIR /usr/src/pogo-dumper
-RUN ls /usr/src/pogo-dumper/pogo-dumper && echo "Setting up pogodata..." && \
-   pip install .
+RUN ls /usr/src/pogo-dumper/pogo-dumper && \
+  echo "Setting up pogodata..." && \
+  pip install .
+
+# ----------------------
+
+RUN apt-get update && apt-get install -y \
+  optipng
 
 WORKDIR /usr/src/project
 EXPOSE 3000

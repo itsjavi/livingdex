@@ -46,19 +46,21 @@ services:
     restart: on-failure
     volumes:
       - './:/usr/src/project'
+      - '~/.composer:/root/.config/composer'  # required to install private packages and use your auth.json in the container
+      - '~/.ssh:/root/.ssh'                   # required to clone private repositories
 
-  make:
+  dev:
     build:
       context: .
-      dockerfile: Dockerfile
-    entrypoint: 'make'
-    command: 'info'
+      target: base
+    working_dir: /usr/src/project/apps/ui
+    entrypoint: /usr/bin/npm
+    command: start
     env_file:
       - .env
     restart: on-failure
     volumes:
       - './:/usr/src/project'
-      - '~/.composer:/root/.config/composer'  # required to install private packages and use your auth.json in the container
-      - '~/.ssh:/root/.ssh'                   # required to clone private repositories
     ports:
       - "3000:3000"
+

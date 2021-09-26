@@ -1,7 +1,7 @@
 CSV_DATA_DIR="${DIST_DIR}/csv"
 JSON_DATA_DIR="${DIST_DIR}/json"
 
-function livingdex_cleanup() {
+function dist_cleanup() {
   rm -rf "${DIST_DIR}"
   mkdir -p "${CSV_DATA_DIR}"
   mkdir -p "${JSON_DATA_DIR}"
@@ -30,46 +30,37 @@ function ui_generate_data() {
   mkdir -p "${UI_ASSETS_DIR}/data/json"
   cp -R "${DIST_DIR}/json" "${UI_ASSETS_DIR}/data"
   # TODO generate pokemon index from DB app and remove this mjs
-  node "${APPS_DIR}/cli/src/build-ui-pokemon-index.mjs"
+  node "${APPS_DIR}/cli/scripts/build-ui-pokemon-index.mjs"
 }
 
 function ui_generate_thumbnails() {
-  THUMBS_DIR="${UI_ASSETS_DIR}/images/home"
+  THUMBS_DIR="${UI_ASSETS_DIR}/images"
 
   if [[ ! -d "${THUMBS_DIR}" ]]; then
-    echo "Adding image assets and generating thumbnails..."
+    mkdir -p "${THUMBS_DIR}"
 
-    HOME_RENDERS_THUMBNAIL_RESIZE=${HOME_RENDERS_THUMBNAIL_RESIZE:-"25%"}
-
-    rm -rf ${THUMBS_DIR} && mkdir -p ${THUMBS_DIR}
+    "${CLI_APP}" mount-spritesheet
 
     echo "Copying original Pokemon renders to ${THUMBS_DIR} ..."
-
-    cp -nR "${SOURCES_DIR}/livingdex-renders/images/home/pokemon/" ${THUMBS_DIR}
-    PNG_FILES=$(find "${THUMBS_DIR}" -name "*.png")
-
-    echo "Resizing Pokemon renders to ${HOME_RENDERS_THUMBNAIL_RESIZE} of size (may take up to 5 min) ..."
-
-    for f in ${PNG_FILES}; do
-      mogrify -resize "${HOME_RENDERS_THUMBNAIL_RESIZE}" "${f}"
-    done
+    cp -nR "${HOME_RENDERS_DIR}/pokemon-edited/" "${THUMBS_DIR}/pokemon-home"
+    cp -f "${RESOURCES_DIR}/img/placeholder.png" "${THUMBS_DIR}/placeholder.png"
 
     echo "Thumbnails created successfully."
   fi
 }
 
 function livingdex_build() {
-  livingdex_cleanup
+  # dist_cleanup
 
   # export pokemon GO data
-  cd "${APPS_DIR}/pogo-dumper" && make
+  # cd "${APPS_DIR}/pogo-dumper" && make
 
   # rebuild DB
-  cd "${APPS_DIR}/db" && make
+  # cd "${APPS_DIR}/db" && make
 
   # export data from DB
-  table_export_csv_all
-  table_export_json_all
+  # table_export_csv_all
+  # table_export_json_all
 
   # copy data & assets
   ui_generate_data

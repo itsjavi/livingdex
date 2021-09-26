@@ -46,6 +46,11 @@ commands:
     examples:
       - ./livingdex deploy
 
+  - name: mount-spritesheet
+    help: Mounts a responsive CSS spritesheet out of the Pokemon HOME renders
+    examples:
+      - ./livingdex mount-spritesheet
+
   - name: query
     short: q
     help: Queries the db DB and returns the results in JSON format
