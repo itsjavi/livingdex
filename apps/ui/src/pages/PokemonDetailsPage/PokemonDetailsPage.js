@@ -4,7 +4,7 @@ import { Layout } from "../../components/Layout/Layout"
 import { Link, useParams } from "react-router-dom"
 import useQueryOptions from "../../hooks/useQueryOptions"
 import usePokemon from "../../hooks/usePokemon"
-import { BaseHomeRenderPath, CreateImage } from "../../components/CreateImage"
+import { BaseHomeRenderPath, CreateImage, CreateThumbImage } from "../../components/CreateImage"
 
 function PokemonDetailsPage() {
   let { slug } = useParams()
@@ -26,8 +26,9 @@ function PokemonDetailsPage() {
   subtitle = pokemon.title
 
   let img = CreateImage(
-    BaseHomeRenderPath + (q.viewShiny ? "/shiny/" : "/regular/") + pokemon.file,
+    './assets/images/placeholder.png',
     pokemon.name,
+    "pkm pkm-" + pokemon.fileBaseName + (q.viewShiny ? ' shiny': ''),
   )
 
   let baseSpecies = null
@@ -37,7 +38,9 @@ function PokemonDetailsPage() {
     baseDataForm = <span>
         <Link to={"/pokemon/" + pokemon.baseSpecies.slug}>
           {CreateImage(
-            BaseHomeRenderPath + "/regular/" + pokemon.baseSpecies.file,
+            './assets/images/placeholder.png',
+            pokemon.name,
+            "pkm pkm-" + pokemon.baseSpecies.fileBaseName + (q.viewShiny ? ' shiny': ''),
             pokemon.baseSpecies.title,
           )}
         </Link>

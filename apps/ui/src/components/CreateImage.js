@@ -1,6 +1,6 @@
 import React from "react"
 
-const BaseHomeRenderPath = "./assets/images/home"
+const BaseHomeRenderPath = "./assets/images/pokemon-home"
 
 function CreateImage(src, alt, className = null) {
   return (
@@ -8,5 +8,11 @@ function CreateImage(src, alt, className = null) {
   )
 }
 
+function CreateThumbImage(src, alt, className = null) {
+  return (
+    <img className={className} src={process.env.PUBLIC_URL + "/" + src} alt={alt} />
+  )
+}
+
+export { CreateImage, CreateThumbImage, BaseHomeRenderPath }
 export default CreateImage
-export { CreateImage, BaseHomeRenderPath }

@@ -118,6 +118,35 @@
     z-index: 2;
 }
 
+.box-cell {
+  display: flex;
+  flex-wrap: wrap;
+}
+.box-cell figure {
+  position: relative;
+  flex-basis: 128px;
+  /*margin: 5px;*/
+  /*border: 1px solid;*/
+  /*box-sizing: border-box;*/
+}
+
+.box-cell figure::before {
+  content: '';
+  display: block;
+  padding-top: 100%;
+}
+
+.box-cell-content {
+  position: absolute;
+  top: 0; left: 0;
+  height: 100%;
+  width: 100%;
+
+  display: flex;               /* added for centered text */
+  justify-content: center;     /* added for centered text */
+  align-items: center;         /* added for centered text */
+}
+
 .box-cell figcaption {
     position: absolute;
     box-sizing: border-box;

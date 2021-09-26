@@ -1205,10 +1205,10 @@ livingdex_build_command() {
     dist_cleanup
   
     # export pokemon GO data
-    # cd "${APPS_DIR}/pogo-dumper" && make
+    cd "${APPS_DIR}/pogo-dumper" && make
   
     # rebuild DB
-    # cd "${APPS_DIR}/db" && make
+    cd "${APPS_DIR}/db" && make
   
     # export data from DB
     table_export_csv_all

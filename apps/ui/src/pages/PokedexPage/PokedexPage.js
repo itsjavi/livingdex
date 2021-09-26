@@ -1,6 +1,6 @@
 import { Layout } from "../../components/Layout/Layout"
 import styles from "./PokedexPage.module.css"
-import { BaseHomeRenderPath, CreateImage } from "../../components/CreateImage"
+import { BaseHomeRenderPath, CreateImage, CreateThumbImage } from "../../components/CreateImage"
 import React, { useState } from "react"
 import usePokemonList from "../../hooks/usePokemonList"
 import useQueryOptions from "../../hooks/useQueryOptions"
@@ -24,10 +24,10 @@ function PokedexPage() {
     }
 
     for (const pkm of pokemon) {
-      let img = CreateImage(
-        BaseHomeRenderPath + (q.viewShiny ? "/shiny/" : "/regular/") + pkm.file,
+      let img = CreateThumbImage(
+        './assets/images/placeholder.png',
         pkm.name,
-        '',
+        "pkm pkm-" + pkm.fileBaseName + (q.viewShiny ? ' shiny': ''),
       )
 
       let dataAttrs = {

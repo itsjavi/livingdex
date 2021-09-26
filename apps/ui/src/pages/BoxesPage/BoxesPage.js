@@ -1,6 +1,6 @@
 import { Layout } from "../../components/Layout/Layout"
 import styles from "./BoxesPage.module.css"
-import { BaseHomeRenderPath, CreateImage } from "../../components/CreateImage"
+import { CreateImage, CreateThumbImage } from "../../components/CreateImage"
 import React from "react"
 import { CalcBoxPosition } from "../../app/utils"
 import usePokemonList from "../../hooks/usePokemonList"
@@ -13,10 +13,10 @@ import { useHistory } from "react-router-dom"
  * @param {boolean} shiny
  */
 function createPokemonElement(pkm, history, shiny = false) {
-  let img = CreateImage(
-    BaseHomeRenderPath + (shiny ? "/shiny/" : "/regular/") + pkm.file,
+  let img = CreateThumbImage(
+    './assets/images/placeholder.png',
     pkm.name,
-    styles["box-img"],
+    styles["box-img"] + " pkm pkm-" + pkm.fileBaseName + (shiny ? ' shiny': ''),
   )
 
   const handleClick = (e) => {
@@ -33,10 +33,12 @@ function createPokemonElement(pkm, history, shiny = false) {
               key={pkm.id}
               className={styles["box-cell"]}>
     <figure>
-      {img}
-      <figcaption
-        onClick={handleClick}
-        {...dataAttrs}>{pkm.name}</figcaption>
+      <div className={styles["box-cell-content"]}>
+        <span className={styles["box-cell-thumbnail"]}>{img}</span>
+        <figcaption
+          onClick={handleClick}
+          {...dataAttrs}>{pkm.name}</figcaption>
+      </div>
     </figure>
   </div>
 }

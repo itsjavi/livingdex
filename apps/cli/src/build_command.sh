@@ -50,17 +50,17 @@ function ui_generate_thumbnails() {
 }
 
 function livingdex_build() {
-  # dist_cleanup
+  dist_cleanup
 
   # export pokemon GO data
-  # cd "${APPS_DIR}/pogo-dumper" && make
+  cd "${APPS_DIR}/pogo-dumper" && make
 
   # rebuild DB
-  # cd "${APPS_DIR}/db" && make
+  cd "${APPS_DIR}/db" && make
 
   # export data from DB
-  # table_export_csv_all
-  # table_export_json_all
+  table_export_csv_all
+  table_export_json_all
 
   # copy data & assets
   ui_generate_data
