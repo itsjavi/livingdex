@@ -7,6 +7,6 @@ npm -v
 python --version
 pip --version
 which pip
-echo $$HOME
-echo $$PATH
+echo $HOME
+echo $PATH
 whoami
