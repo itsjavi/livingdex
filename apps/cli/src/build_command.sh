@@ -8,7 +8,7 @@ function livingdex_cleanup() {
 }
 
 function table_export_csv() {
-  ${CLI_APP} table-export --format=csv "${1}" >"${CSV_DATA_DIR}/${1}.csv"
+  "${APPS_DIR}/db/bin/console" app:data:export -vvv --format=csv "SELECT * FROM ${1} ORDER BY id" > "${CSV_DATA_DIR}/${1}.csv"
 }
 
 function table_export_csv_all() {
@@ -59,6 +59,8 @@ function ui_generate_thumbnails() {
 }
 
 function livingdex_build() {
+  livingdex_cleanup
+
   # export pokemon GO data
   cd "${APPS_DIR}/pogo-dumper" && make
 

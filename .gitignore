@@ -8,3 +8,4 @@
 /apps/db/public/assets
 .megadown
 .sources
+/apps/pogo-dumper/*.json

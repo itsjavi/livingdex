@@ -24,15 +24,14 @@ livingdex_usage() {
   echo
   # :command.usage_commands
   printf "Commands:\n"
-  echo "  info           Shows system info"
-  echo "  build          Builds the entire project (DB, assets and UI)"
-  echo "  install        Installs project dependencies"
-  echo "  update         Updates (and upgrades) project dependencies"
-  echo "  clear          Clears cache, dist and other generated files"
-  echo "  deploy         Deploys the current state of the UI build into gh-pages"
-  echo "  table-export   Exports an entire table from DB to JSON or CSV"
-  echo "  query          Queries the db DB and returns the results in JSON format"
-  echo "  megadl         Downloads a file from mega.nz (requires old file URL format)"
+  echo "  info      Shows system info"
+  echo "  build     Builds the entire project (DB, assets and UI)"
+  echo "  install   Installs project dependencies"
+  echo "  update    Updates (and upgrades) project dependencies"
+  echo "  clear     Clears cache, dist and other generated files"
+  echo "  deploy    Deploys the current state of the UI build into gh-pages"
+  echo "  query     Queries the db DB and returns the results in JSON format"
+  echo "  megadl    Downloads a file from mega.nz (requires old file URL format)"
   echo
 
   if [[ -n $long_usage ]]; then
@@ -256,51 +255,6 @@ livingdex_deploy_usage() {
     printf "Examples:\n"
     
     printf "  ./livingdex deploy\n"
-    echo
-
-  fi
-}
-
-# :command.usage
-livingdex_table_export_usage() {
-  if [[ -n $long_usage ]]; then
-    printf "livingdex table-export - Exports an entire table from DB to JSON or CSV\n"
-    echo 
-  else
-    printf "livingdex table-export - Exports an entire table from DB to JSON or CSV\n"
-    echo 
-  fi
-
-  printf "Usage:\n"
-  printf "  livingdex table-export TABLE [options]\n"
-  printf "  livingdex table-export --help | -h\n"
-  echo
-
-  if [[ -n $long_usage ]]; then
-    printf "Options:\n"
-    # :command.usage_fixed_flags
-    echo "  --help, -h"
-    printf "    Show this help\n"
-    echo
-    # :command.usage_flags
-    # :flag.usage
-    echo "  --format, -f FORMAT"
-    printf "    Format to export to\n"
-    printf "    Default: json\n"
-    echo
-    # :command.usage_args
-    printf "Arguments:\n"
-    
-    # :argument.usage
-    echo "  TABLE"
-    printf "    table name to export (it should have an id column)\n"
-    echo
-
-    # :command.usage_examples
-    printf "Examples:\n"
-    
-    printf "  ./livingdex table-export pokemon --format=json > pokemon-data.json\n"
-    printf "  ./livingdex table-export move -fcsv > moves-data.csv\n"
     echo
 
   fi
@@ -1174,7 +1128,7 @@ livingdex_build_command() {
   }
   
   function table_export_csv() {
-    ${CLI_APP} table-export --format=csv "${1}" >"${CSV_DATA_DIR}/${1}.csv"
+    "${APPS_DIR}/db/bin/console" app:data:export -vvv --format=csv "SELECT * FROM ${1} ORDER BY id" > "${CSV_DATA_DIR}/${1}.csv"
   }
   
   function table_export_csv_all() {
@@ -1225,6 +1179,8 @@ livingdex_build_command() {
   }
   
   function livingdex_build() {
+    livingdex_cleanup
+  
     # export pokemon GO data
     cd "${APPS_DIR}/pogo-dumper" && make
   
@@ -1324,15 +1280,6 @@ livingdex_deploy_command() {
   
   rm -rf public/assets/data/csv public/assets/data/pogo
   npm run deploy
-}
-
-# :command.function
-livingdex_table_export_command() {
-  # :src/table_export_command.sh
-  table=${args[table]}
-  format=${args[--format]}
-  
-  "${APPS_DIR}/db/bin/console" app:data:export -vvv --format="${format}" "SELECT * FROM ${table} ORDER BY id"
 }
 
 # :command.function
@@ -1441,13 +1388,6 @@ parse_requirements() {
     action="deploy"
     shift
     livingdex_deploy_parse_requirements "$@"
-    shift $#
-    ;;    
-  
-  table-export )
-    action="table-export"
-    shift
-    livingdex_table_export_parse_requirements "$@"
     shift $#
     ;;    
   
@@ -1774,76 +1714,6 @@ livingdex_deploy_parse_requirements() {
 }
 
 # :command.parse_requirements
-livingdex_table_export_parse_requirements() {
-  # :command.fixed_flag_filter
-  case "$1" in
-  --version | -v )
-    version_command
-    exit
-    ;;
-  
-  --help | -h )
-    long_usage=yes
-    livingdex_table_export_usage
-    exit
-    ;;
-  
-  esac
-  # :command.environment_variables_filter
-  # :command.dependencies_filter
-  # :command.command_filter
-  action="table-export"
-  # :command.required_args_filter
-  if [[ $1 && $1 != -* ]]; then
-    args[table]=$1
-    shift
-  else
-    printf "missing required argument: TABLE\nusage: livingdex table-export TABLE [options]\n"
-    exit 1
-  fi
-  # :command.required_flags_filter
-  # :command.parse_requirements_while
-  while [[ $# -gt 0 ]]; do
-    key="$1"
-    case "$key" in
-    # :flag.case
-    --format | -f )
-      if [[ $2 ]]; then
-        args[--format]="$2"
-        shift
-        shift
-      else
-        printf "%s\n" "--format requires an argument: --format, -f FORMAT"
-        exit 1
-      fi
-      ;;
-  
-  
-    -* )
-      printf "invalid option: %s\n" "$key"
-      exit 1
-      ;;
-  
-    * )
-      # :command.parse_requirements_case
-      if [[ ! ${args[table]} ]]; then
-        args[table]=$1
-        shift
-      else
-        printf "invalid argument: %s\n" "$key"
-        exit 1
-      fi
-      ;;
-  
-    esac
-  done
-  # :command.catch_all_filter
-  # :command.default_assignments
-  [[ -n ${args[--format]} ]] || args[--format]="json"
-  # :command.whitelist_filter
-}
-
-# :command.parse_requirements
 livingdex_query_parse_requirements() {
   # :command.fixed_flag_filter
   case "$1" in
@@ -2042,14 +1912,6 @@ run() {
       livingdex_deploy_usage
     else
       livingdex_deploy_command
-    fi
-  
-  elif [[ $action == "table-export" ]]; then
-    if [[ ${args[--help]} ]]; then
-      long_usage=yes
-      livingdex_table_export_usage
-    else
-      livingdex_table_export_command
     fi
   
   elif [[ $action == "query" ]]; then

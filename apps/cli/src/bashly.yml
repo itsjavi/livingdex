@@ -46,23 +46,6 @@ commands:
     examples:
       - ./livingdex deploy
 
-  - name: table-export
-    help: Exports an entire table from DB to JSON or CSV
-    args:
-      - name: table
-        required: true
-        help: table name to export (it should have an id column)
-    flags:
-      - long: --format
-        short: -f
-        arg: format
-        help: Format to export to
-        allows: [ "json", "csv" ]
-        default: json
-    examples:
-      - ./livingdex table-export pokemon --format=json > pokemon-data.json
-      - ./livingdex table-export move -fcsv > moves-data.csv
-
   - name: query
     short: q
     help: Queries the db DB and returns the results in JSON format
