@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+source .env
+
 # IMPORTANT: this script is a dockerized version of ./apps/cli/livingdex
 #   use ./apps/cli/livingdex instead when running a command directly inside of a docker container.
 
