@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/livingdex/static/css/main.a20c18a8.chunk.css",
-    "main.js": "/livingdex/static/js/main.162b212d.chunk.js",
-    "main.js.map": "/livingdex/static/js/main.162b212d.chunk.js.map",
+    "main.js": "/livingdex/static/js/main.c1425f76.chunk.js",
+    "main.js.map": "/livingdex/static/js/main.c1425f76.chunk.js.map",
     "runtime-main.js": "/livingdex/static/js/runtime-main.bd692309.js",
     "runtime-main.js.map": "/livingdex/static/js/runtime-main.bd692309.js.map",
     "static/js/2.fb722a23.chunk.js": "/livingdex/static/js/2.fb722a23.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.bd692309.js",
     "static/js/2.fb722a23.chunk.js",
     "static/css/main.a20c18a8.chunk.css",
-    "static/js/main.162b212d.chunk.js"
+    "static/js/main.c1425f76.chunk.js"
   ]
 }
