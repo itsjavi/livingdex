@@ -1,11 +1,11 @@
 import { Layout } from "../../components/Layout/Layout"
 import styles from "./BoxesPage.module.css"
-import { CreateImage, CreateThumbImage } from "../../components/CreateImage"
 import React from "react"
 import { CalcBoxPosition } from "../../app/utils"
 import usePokemonList from "../../hooks/usePokemonList"
 import useQueryOptions from "../../hooks/useQueryOptions"
 import { useHistory } from "react-router-dom"
+import { PokeImg } from "../../components/PokeImg/PokeImg"
 
 /**
  * @param {PokemonListItemSimple} pkm
@@ -13,18 +13,20 @@ import { useHistory } from "react-router-dom"
  * @param {boolean} shiny
  */
 function createPokemonElement(pkm, history, shiny = false) {
-  let img = CreateThumbImage(
-    './assets/images/placeholder.png',
-    pkm.name,
-    styles["box-img"] + " pkm pkm-" + pkm.fileBaseName + (shiny ? ' shiny': ''),
-  )
+  // let img = CreateThumbImage(
+  //   "./assets/images/placeholder.png",
+  //   pkm.name,
+  //   styles["box-img"] + " pkm pkm-" + pkm.fileBaseName + (shiny ? " shiny" : ""),
+  // )
+
+  let img = PokeImg(pkm.slug, pkm.name, shiny, styles["box-img"])
 
   const handleClick = (e) => {
     history.push("/pokemon/" + e.currentTarget.dataset.slug)
   }
 
   let dataAttrs = {
-    'data-slug': pkm.slug
+    "data-slug": pkm.slug,
   }
 
   // TODO use same component on all pkm lists
@@ -74,7 +76,7 @@ function createBoxes(pokemonList, history, shiny = false) {
         boxPokemon.push(createPokemonElement(pkm, history, shiny))
       })
     })
-    boxElements.push(<div key={boxIndex} tabIndex={boxIndex * -1  } className={styles["box"]}>
+    boxElements.push(<div key={boxIndex} tabIndex={boxIndex * -1} className={styles["box"]}>
       <div className={styles["box-header"]}>
         <div className={styles["box-title"]}>{"Box " + (boxIndex + 1)}</div>
       </div>

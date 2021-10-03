@@ -1,10 +1,10 @@
 import { Layout } from "../../components/Layout/Layout"
 import styles from "./PokedexPage.module.css"
-import { BaseHomeRenderPath, CreateImage, CreateThumbImage } from "../../components/CreateImage"
 import React, { useState } from "react"
 import usePokemonList from "../../hooks/usePokemonList"
 import useQueryOptions from "../../hooks/useQueryOptions"
 import { useHistory } from "react-router-dom"
+import { PokeImg } from "../../components/PokeImg/PokeImg"
 
 function PokedexPage() {
   const history = useHistory()
@@ -24,11 +24,7 @@ function PokedexPage() {
     }
 
     for (const pkm of pokemon) {
-      let img = CreateThumbImage(
-        './assets/images/placeholder.png',
-        pkm.name,
-        "pkm pkm-" + pkm.fileBaseName + (q.viewShiny ? ' shiny': ''),
-      )
+      let img = PokeImg(pkm.slug, pkm.name, q.viewShiny)
 
       let dataAttrs = {
         'data-slug': pkm.slug

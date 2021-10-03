@@ -4,7 +4,7 @@ import { Layout } from "../../components/Layout/Layout"
 import { Link, useParams } from "react-router-dom"
 import useQueryOptions from "../../hooks/useQueryOptions"
 import usePokemon from "../../hooks/usePokemon"
-import { BaseHomeRenderPath, CreateImage, CreateThumbImage } from "../../components/CreateImage"
+import { PokeImg } from "../../components/PokeImg/PokeImg"
 
 function PokemonDetailsPage() {
   let { slug } = useParams()
@@ -25,11 +25,7 @@ function PokemonDetailsPage() {
 
   subtitle = pokemon.title
 
-  let img = CreateImage(
-    './assets/images/placeholder.png',
-    pokemon.name,
-    "pkm pkm-" + pokemon.fileBaseName + (q.viewShiny ? ' shiny': ''),
-  )
+  let img = PokeImg(pokemon.slug, pokemon.name, q.viewShiny)
 
   let baseSpecies = null
   let baseDataForm = null
@@ -37,12 +33,7 @@ function PokemonDetailsPage() {
   if (pokemon.baseSpecies) {
     baseDataForm = <span>
         <Link to={"/pokemon/" + pokemon.baseSpecies.slug}>
-          {CreateImage(
-            './assets/images/placeholder.png',
-            pokemon.name,
-            "pkm pkm-" + pokemon.baseSpecies.fileBaseName + (q.viewShiny ? ' shiny': ''),
-            pokemon.baseSpecies.title,
-          )}
+          {PokeImg(pokemon.baseSpecies.slug, pokemon.baseSpecies.name, q.viewShiny)}
         </Link>
         <span>{" // "}</span>
       </span>
@@ -51,10 +42,7 @@ function PokemonDetailsPage() {
   if (pokemon.baseDataForm) {
     baseDataForm = <span>
         <Link to={"/pokemon/" + pokemon.baseDataForm.slug}>
-          {CreateImage(
-            BaseHomeRenderPath + "/regular/" + pokemon.baseDataForm.file,
-            pokemon.baseDataForm.title,
-          )}
+          {PokeImg(pokemon.baseDataForm.slug, pokemon.baseDataForm.name, q.viewShiny)}
         </Link>
         <span>{" // "}</span>
       </span>
