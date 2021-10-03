@@ -12,7 +12,7 @@ function PokeImg(slug, alt, shiny = false, classNameExtra = "") {
   }
   return (
     <span className={prefix + "-wrapper" + (classNameExtra.length > 0 ? (" " + classNameExtra) : "")}>
-      <img className={className} src={process.env.PUBLIC_URL + "/assets/images/" + src} alt={alt} />
+      <img className={className} src={process.env.PUBLIC_URL + "/placeholders/" + src} alt={alt} />
     </span>
   )
 }
