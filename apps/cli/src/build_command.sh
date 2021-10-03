@@ -42,8 +42,7 @@ function ui_generate_thumbnails() {
     "${CLI_APP}" mount-spritesheet
 
     echo "Copying original Pokemon renders to ${THUMBS_DIR} ..."
-    cp -nR "${HOME_RENDERS_DIR}/pokemon-edited/" "${THUMBS_DIR}/pokemon-home"
-    cp -f "${RESOURCES_DIR}/img/placeholder.png" "${THUMBS_DIR}/placeholder.png"
+    cp -f "${RESOURCES_DIR}"/img/*.png "${THUMBS_DIR}/"
 
     echo "Thumbnails created successfully."
   fi

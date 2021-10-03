@@ -64,3 +64,23 @@ services:
     ports:
       - "3000:3000"
 
+  spritesheet-generator:
+    build:
+      context: apps/spritesheet-generator
+    env_file:
+      - .env
+    environment:
+      - SOURCES_DIR=/usr/shared/sources
+      - DIST_DIR=/usr/shared/dist
+      - RESOURCES_DIR=/usr/shared/resources
+      - SPRITESHEETS_DIR=/usr/shared/ui-public/assets/spritesheets/pokemon
+      - HOME_IMG_DIR=/usr/shared/sources/livingdex-renders/images/pokemon
+      - POKESPRITE_IMG_DIR=/usr/shared/sources/msikma-pokesprite/pokemon-gen8
+      - POKEMON_JSON_FILE=/usr/shared/dist/json/gen/8/pokemon-forms.json
+    restart: on-failure
+    volumes:
+      - './apps/spritesheet-generator:/usr/src/app'
+      - './apps/ui/public:/usr/shared/ui-public'
+      - './.sources:/usr/shared/sources:ro'
+      - './dist:/usr/shared/dist:ro'
+      - './resources:/usr/shared/resources:ro'
