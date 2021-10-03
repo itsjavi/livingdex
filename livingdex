@@ -32,6 +32,13 @@ if [[ "${1}" == "open" ]]; then
   open "http://localhost:${ADMINER_PORT}/?server=mysql&username=test&db=livingdex"
   # open "http://localhost:${NGINX_PORT}/livingdex/"
   open "http://localhost:3000"
+  exit
+fi
+
+if [[ "${1}" == "install" ]]; then
+  cd apps/php8-imagemagick
+  make
+  cd -
 fi
 
 docker-compose run --rm --workdir=/usr/src/project --entrypoint=/usr/src/project/apps/cli/livingdex phpfpm "${@}"

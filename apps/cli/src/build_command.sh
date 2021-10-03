@@ -35,17 +35,11 @@ function ui_generate_data() {
 
 function ui_generate_thumbnails() {
   THUMBS_DIR="${UI_ASSETS_DIR}/images"
+  mkdir -p "${THUMBS_DIR}"
 
-  if [[ ! -d "${THUMBS_DIR}" ]]; then
-    mkdir -p "${THUMBS_DIR}"
+  "${CLI_APP}" mount-spritesheet
 
-    "${CLI_APP}" mount-spritesheet
-
-    echo "Copying original Pokemon renders to ${THUMBS_DIR} ..."
-    cp -f "${RESOURCES_DIR}"/img/*.png "${THUMBS_DIR}/"
-
-    echo "Thumbnails created successfully."
-  fi
+  cp -f "${RESOURCES_DIR}"/img/*.png "${THUMBS_DIR}/"
 }
 
 function livingdex_build() {

@@ -10,8 +10,7 @@
 
 # production
 /build
-/public/assets/images/home
-/public/assets/data
+/public/assets
 *.log
 
 # misc

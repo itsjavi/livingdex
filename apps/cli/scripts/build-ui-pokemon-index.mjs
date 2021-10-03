@@ -17,15 +17,6 @@ function PokeNameToTitle(pkm) {
     .replace(/-(.*)/gi, " ($1)")
     .replace(/-/gi, " ")
 
-
-  if (
-    pkm.veekunSlug !== undefined
-    && pkm.veekunSlug !== null
-    && pkm.veekunSlug.match(/-cap$/i)
-  ) {
-    str = str.replace(/\)$/gi, " Cap)")
-  }
-
   return str
 }
 
