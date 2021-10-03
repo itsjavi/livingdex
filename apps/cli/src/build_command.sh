@@ -37,7 +37,7 @@ function ui_generate_thumbnails() {
   THUMBS_DIR="${UI_ASSETS_DIR}/images"
   mkdir -p "${THUMBS_DIR}"
 
-  "${CLI_APP}" mount-spritesheet
+  # "${CLI_APP}" mount-spritesheet
 
   cp -f "${RESOURCES_DIR}"/img/*.png "${THUMBS_DIR}/"
 }

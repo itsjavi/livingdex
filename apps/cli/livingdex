@@ -1189,7 +1189,7 @@ livingdex_build_command() {
     THUMBS_DIR="${UI_ASSETS_DIR}/images"
     mkdir -p "${THUMBS_DIR}"
   
-    "${CLI_APP}" mount-spritesheet
+    # "${CLI_APP}" mount-spritesheet
   
     cp -f "${RESOURCES_DIR}"/img/*.png "${THUMBS_DIR}/"
   }
@@ -1302,8 +1302,10 @@ livingdex_deploy_command() {
 livingdex_mount_spritesheet_command() {
   # :src/mount_spritesheet_command.sh
   
-  cd "${APPS_DIR}/spritesheet-generator"
-  make
+  #cd "${APPS_DIR}/spritesheet-generator"
+  #make
+  
+  echo ""
 }
 
 # :command.function
