@@ -5,8 +5,6 @@ version: 0.1.0
 environment_variables:
   - name: APPS_DIR
     required: true
-  - name: SCRIPTS_DIR
-    required: true
   - name: SOURCES_DIR
     required: true
   - name: RESOURCES_DIR
@@ -15,14 +13,6 @@ environment_variables:
     required: true
 
 commands:
-  - name: info
-    help: Shows system info
-
-  - name: build
-    help: Builds the entire project (DB, assets and UI)
-    examples:
-      - ./livingdex build
-
   - name: install
     help: Installs project dependencies
     examples:
@@ -33,23 +23,10 @@ commands:
     examples:
       - ./livingdex update
 
-  - name: clear
-    help: Clears cache, dist and other generated files
-    flags:
-      - long: --db
-        help: When specified, it recreated the DB in an empty state
-    examples:
-      - ./livingdex clear
-
   - name: deploy
     help: Deploys the current state of the UI build into gh-pages
     examples:
       - ./livingdex deploy
-
-  - name: mount-spritesheet
-    help: Mounts a responsive CSS spritesheet out of the Pokemon HOME renders
-    examples:
-      - ./livingdex mount-spritesheet
 
   - name: query
     short: q

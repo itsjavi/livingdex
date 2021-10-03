@@ -165,7 +165,7 @@ class DataFullExportCommand extends Command
     }
 
     /**
-     * @param array     $pokemonIndex
+     * @param array $pokemonIndex
      * @param Pokemon[] $pokemonCollection
      * @return array
      */
@@ -278,7 +278,7 @@ class DataFullExportCommand extends Command
 
     /**
      * @param Pokemon[] $pokemonCollection
-     * @param bool      $withForms
+     * @param bool $withForms
      * @return array
      */
     private function createPokemonIndex(iterable $pokemonCollection, bool $withForms = false): array
@@ -337,7 +337,7 @@ class DataFullExportCommand extends Command
     private function writeData(array $data, string $file): bool
     {
         if (file_exists($file)) {
-            throw new \RuntimeException("IO Error: Output file already exists: {$file}");
+            error_log("IO Warning: Output file already exists: {$file}");
         }
 
         $json = empty($data) ? ('[]' . PHP_EOL) : JsonEncoder::encodePrettyCompact($data, 4);

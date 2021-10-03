@@ -27,8 +27,6 @@ services:
   nginx:
     image: nginx:1.19-alpine
     restart: on-failure
-    env_file:
-      - .env
     volumes:
       - './:/usr/src/project'
       - './resources/docker/nginx/default.conf:/etc/nginx/conf.d/default.conf:ro'
@@ -37,10 +35,35 @@ services:
     depends_on:
       - phpfpm
 
+  data-generator:
+    build:
+      context: .
+      target: node-php8-imagemagick
+    command: [ 'true' ]
+    working_dir: /usr/src/app
+    environment:
+      - APP_DIR=/usr/src/app
+      - SOURCES_DIR=/usr/shared/sources
+      - RESOURCES_DIR=/usr/shared/resources
+      - DIST_DIR=/usr/shared/dist
+    env_file:
+      - .env
+    restart: on-failure
+    volumes:
+      - './apps/db:/usr/src/app'
+      - './dist:/usr/shared/dist'
+      - './resources:/usr/shared/resources:ro'
+      - './.sources:/usr/shared/sources:ro'
+
   phpfpm:
     build:
       context: .
-      target: base
+      target: node-php8-imagemagick
+    environment:
+      - APPS_DIR=/usr/src/project/apps
+      - SOURCES_DIR=/usr/src/project/.sources
+      - RESOURCES_DIR=/usr/src/project/resources
+      - DIST_DIR=/usr/src/project/dist
     env_file:
       - .env
     restart: on-failure
@@ -49,30 +72,41 @@ services:
       - '~/.composer:/root/.config/composer'  # required to install private packages and use your auth.json in the container
       - '~/.ssh:/root/.ssh'                   # required to clone private repositories
 
-  dev:
+  ui:
     build:
       context: .
-      target: base
-    working_dir: /usr/src/project/apps/ui
-    entrypoint: /usr/bin/npm
-    command: start
-    env_file:
-      - .env
+      target: node
+    command: [ 'npm', 'start' ]
     restart: on-failure
+    environment:
+      - DIST_DIR=/usr/shared/dist
     volumes:
-      - './:/usr/src/project'
+      - './apps/ui:/usr/src/app'
+      - './dist:/usr/shared/dist:ro'
     ports:
       - "3000:3000"
 
+  pogo-dumper:
+    build:
+      context: .
+      target: python
+    command: [ 'true' ]
+    environment:
+      - DATA_DIR=/usr/shared/data
+    restart: on-failure
+    volumes:
+      - './apps/pogo-dumper:/usr/src/app'
+      - './dist/json/go:/usr/shared/data'
+
   spritesheet-generator:
     build:
-      context: apps/spritesheet-generator
-    env_file:
-      - .env
+      context: .
+      target: php8-imagemagick
+    command: [ 'true' ]
     environment:
       - SOURCES_DIR=/usr/shared/sources
-      - DIST_DIR=/usr/shared/dist
       - RESOURCES_DIR=/usr/shared/resources
+      - DIST_DIR=/usr/shared/dist
       - SPRITESHEETS_DIR=/usr/shared/ui-public/assets/spritesheets/pokemon
       - HOME_IMG_DIR=/usr/shared/sources/livingdex-renders/images/pokemon
       - POKESPRITE_IMG_DIR=/usr/shared/sources/msikma-pokesprite/pokemon-gen8

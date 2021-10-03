@@ -35,10 +35,4 @@ if [[ "${1}" == "open" ]]; then
   exit
 fi
 
-if [[ "${1}" == "install" ]]; then
-  cd apps/php8-imagemagick
-  make
-  cd -
-fi
-
 docker-compose run --rm --workdir=/usr/src/project --entrypoint=/usr/src/project/apps/cli/livingdex phpfpm "${@}"

@@ -11,7 +11,6 @@ cd -
 # Download data sources
 ${APPS_DIR}/cli/src/deps/showdown-data.sh
 ${APPS_DIR}/cli/src/deps/veekun-pokedex.sh
-${APPS_DIR}/cli/src/deps/pogo-data.sh
 
 # Download assets
 ${APPS_DIR}/cli/src/deps/livingdex-renders.sh

@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+RENDERS_URL="https://mega.nz/#!kwtkWLaZ!QpEZIEeOADV4_xE4rCy7G1yUJFu1CvWXL4aS_1bat48"
 REPO="livingdex-renders"
 # REPO_FQN="itsjavi/${REPO}"
 
@@ -17,7 +18,7 @@ if [[ ! -d "./${REPO}" ]]; then
   #  cd -
   if [[ ! -f "${REPO}.zip" ]]; then
     echo "Downloading ${REPO}.zip from mega.nz ..."
-    ${CLI_APP} megadl "${HOME_RENDERS_DOWNLOAD_URL}" "${REPO}.zip"
+    /usr/src/project/apps/cli/livingdex megadl "${RENDERS_URL}" "${REPO}.zip"
   fi
   unzip "${REPO}.zip"
 fi
