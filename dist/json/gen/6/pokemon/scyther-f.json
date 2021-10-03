@@ -11,7 +11,7 @@
   "baseSpecies": "scyther",
   "baseDataForm": "scyther",
   "imgSprite": "scyther",
-  "imgHome": "0101-0200/0123-f",
+  "imgHome": "0123-f",
   "isFemale": true,
   "isCosmetic": true,
   "isLegendary": false,

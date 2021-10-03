@@ -11,7 +11,7 @@
   "baseSpecies": "floette",
   "baseDataForm": "floette",
   "imgSprite": "floette-yellow",
-  "imgHome": "0601-0700/0670-yellow",
+  "imgHome": "0670-yellow",
   "isFemale": false,
   "isCosmetic": true,
   "isLegendary": false,

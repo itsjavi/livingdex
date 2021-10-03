@@ -11,7 +11,7 @@
   "baseSpecies": "vivillon",
   "baseDataForm": "vivillon",
   "imgSprite": "vivillon-garden",
-  "imgHome": "0601-0700/0666-garden",
+  "imgHome": "0666-garden",
   "isFemale": false,
   "isCosmetic": true,
   "isLegendary": false,

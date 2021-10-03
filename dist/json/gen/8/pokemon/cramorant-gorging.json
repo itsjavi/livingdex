@@ -11,7 +11,7 @@
   "baseSpecies": "cramorant",
   "baseDataForm": null,
   "imgSprite": "cramorant-gorging",
-  "imgHome": "0801-0900/0845-gorging",
+  "imgHome": "0845-gorging",
   "dataGen": 8,
   "type1": "flying",
   "type2": "water",

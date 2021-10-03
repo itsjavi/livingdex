@@ -11,7 +11,7 @@
   "baseSpecies": "pikachu",
   "baseDataForm": "pikachu",
   "imgSprite": "female/pikachu",
-  "imgHome": "0001-0100/0025-f",
+  "imgHome": "0025-f",
   "isFemale": true,
   "isCosmetic": true,
   "isLegendary": false,

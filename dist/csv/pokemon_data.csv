@@ -925,7 +925,7 @@ id,pokemon_id,ability1_id,ability2_id,ability_hidden_id,type1,type2,egg_group1,e
 924,10031,9,,31,electric,,undiscovered,,40,600,yellow,yellow,quadruped,100,0,medium-fast,190,10,50,35,55,40,50,50,90,112,0,0,0,0,0,2,8
 925,10032,9,,31,electric,,undiscovered,,40,600,yellow,yellow,quadruped,0,0,medium-fast,190,10,50,45,80,50,75,60,120,86,0,0,0,0,0,2,8
 926,10033,9,,31,electric,,field,fairy,2100,0,yellow,yellow,?,0,0,?,-1,-1,-1,35,55,40,50,50,90,-1,-1,-1,-1,-1,-1,-1,8
-927,10034,9,,31,electric,,undiscovered,,40,600,yellow,yellow,?,100,0,?,-1,-1,-1,35,55,40,50,50,90,-1,-1,-1,-1,-1,-1,-1,8
+927,10034,9,,31,electric,,undiscovered,,40,600,yellow,yellow,quadruped,100,0,medium-fast,190,10,50,35,55,40,50,50,90,112,-1,-1,-1,-1,-1,-1,8
 928,10036,207,,,electric,psychic,field,fairy,70,2100,brown,brown,bipedal-tailed,0,0,medium-fast,75,10,50,60,85,50,95,85,110,243,0,0,0,0,0,3,8
 929,10037,81,,202,ice,steel,field,,70,4000,white,white,bipedal-tailed,0,0,medium-fast,255,20,50,50,75,90,10,35,40,60,0,0,1,0,0,0,8
 930,10038,81,,202,ice,steel,field,,120,5500,blue,blue,bipedal-tailed,0,0,medium-fast,90,20,50,75,100,120,25,65,65,158,0,0,2,0,0,0,8

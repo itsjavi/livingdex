@@ -11,7 +11,7 @@
   "baseSpecies": "jellicent",
   "baseDataForm": "jellicent",
   "imgSprite": "female/jellicent",
-  "imgHome": "0501-0600/0593-f",
+  "imgHome": "0593-f",
   "isFemale": true,
   "isCosmetic": true,
   "isLegendary": false,

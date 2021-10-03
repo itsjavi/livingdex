@@ -11,7 +11,7 @@
   "baseSpecies": "rhydon",
   "baseDataForm": "rhydon",
   "imgSprite": "rhydon",
-  "imgHome": "0101-0200/0112-f",
+  "imgHome": "0112-f",
   "isFemale": true,
   "isCosmetic": true,
   "isLegendary": false,

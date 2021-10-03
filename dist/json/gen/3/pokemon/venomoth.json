@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "venomoth",
-  "imgHome": "0001-0100/0049",
+  "imgHome": "0049",
   "dataGen": 8,
   "type1": "bug",
   "type2": "poison",

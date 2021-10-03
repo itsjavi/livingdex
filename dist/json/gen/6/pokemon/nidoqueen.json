@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "nidoqueen",
-  "imgHome": "0001-0100/0031",
+  "imgHome": "0031",
   "dataGen": 8,
   "type1": "poison",
   "type2": "ground",

@@ -11,7 +11,7 @@
   "baseSpecies": "ledian",
   "baseDataForm": "ledian",
   "imgSprite": "ledian",
-  "imgHome": "0101-0200/0166-f",
+  "imgHome": "0166-f",
   "isFemale": true,
   "isCosmetic": true,
   "isLegendary": false,

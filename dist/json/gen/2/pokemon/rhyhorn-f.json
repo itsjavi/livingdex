@@ -11,7 +11,7 @@
   "baseSpecies": "rhyhorn",
   "baseDataForm": "rhyhorn",
   "imgSprite": "rhyhorn",
-  "imgHome": "0101-0200/0111-f",
+  "imgHome": "0111-f",
   "isFemale": true,
   "isCosmetic": true,
   "isLegendary": false,

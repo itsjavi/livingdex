@@ -11,7 +11,7 @@
   "baseSpecies": "hippowdon",
   "baseDataForm": "hippowdon",
   "imgSprite": "female/hippowdon",
-  "imgHome": "0401-0500/0450-f",
+  "imgHome": "0450-f",
   "isFemale": true,
   "isCosmetic": true,
   "isLegendary": false,

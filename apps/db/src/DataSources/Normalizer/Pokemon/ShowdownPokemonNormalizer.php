@@ -13,7 +13,6 @@ use App\DataSources\Normalizer\Region\RegionEnum;
 use App\Entity\LivingDex\Ability;
 use App\Repository\LivingDex\AbilityRepository;
 use App\Support\DexNumberGenMapper;
-use App\Support\RangeFolderCalculator;
 use App\Support\Serialization\StrFormat;
 use App\Support\Types\ArrayProxy;
 use Illuminate\Support\Arr;
@@ -25,7 +24,6 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
 
     private DexNumberGenMapper $dexNumberGenMapper;
     private DataSourceFileIo $localDataSource;
-    private RangeFolderCalculator $rangeFolderCalculator;
     private AbilityRepository $abilityRepository;
     private int $maxFormId = self::INITIAL_MAX_FORM_ID;
     private array $extraData;
@@ -33,12 +31,11 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
     public function __construct(
         DexNumberGenMapper $dexNumberGenMapper,
         DataSourceFileIo $dataListFileReader,
-        RangeFolderCalculator $rangeFolderCalculator,
         AbilityRepository $abilityRepository
-    ) {
+    )
+    {
         $this->dexNumberGenMapper = $dexNumberGenMapper;
         $this->localDataSource = $dataListFileReader;
-        $this->rangeFolderCalculator = $rangeFolderCalculator;
         $this->abilityRepository = $abilityRepository;
     }
 
@@ -172,7 +169,7 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
 
     /**
      * @param PokemonContainer $container
-     * @param Ability[]        $abilitiesBySlug
+     * @param Ability[] $abilitiesBySlug
      * @throws DataSourceException
      */
     private function normalizeData(PokemonContainer $container, array $abilitiesBySlug)
@@ -275,6 +272,16 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
     private function fixBaseForm(array $poke): array
     {
         $showdownKey = $poke['_alias'];
+        $capPikachus = [
+            'pikachuoriginal',
+            'pikachuhoenn',
+            'pikachusinnoh',
+            'pikachuunova',
+            'pikachukalos',
+            'pikachualola',
+            'pikachupartner',
+            'pikachuworld',
+        ];
 
         if ($showdownKey === 'alcremie') { // add missing default alcremie topping
             $poke['baseForme'] = 'Vanilla-Cream-Strawberry';
@@ -302,6 +309,11 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
             $poke['forme'] = 'Active';
 
             return $poke;
+        }
+
+        if (in_array($showdownKey, $capPikachus, true)) {
+            $poke['name'] .= '-Cap';
+            $poke['forme'] .= '-Cap';
         }
 
         return $poke;
@@ -406,9 +418,7 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
 
     private function getImgHomePath(int $num, string $slug, ?string $formSlug): string
     {
-        $defaultSprite = $this->rangeFolderCalculator->calculate($num, 4, 100) .
-            DIRECTORY_SEPARATOR .
-            StrFormat::zeroPadLeft($num, 4) . (empty($formSlug) ? '' : '-' . $formSlug);
+        $defaultSprite = StrFormat::zeroPadLeft($num, 4) . (empty($formSlug) ? '' : '-' . $formSlug);
 
         $override = $this->getExtraData($slug, 'img_home');
 

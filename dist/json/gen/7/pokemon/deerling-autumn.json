@@ -11,7 +11,7 @@
   "baseSpecies": "deerling",
   "baseDataForm": "deerling",
   "imgSprite": "deerling-autumn",
-  "imgHome": "0501-0600/0585-autumn",
+  "imgHome": "0585-autumn",
   "isFemale": false,
   "isCosmetic": true,
   "isLegendary": false,

@@ -11,7 +11,7 @@
   "baseSpecies": "piloswine",
   "baseDataForm": "piloswine",
   "imgSprite": "piloswine",
-  "imgHome": "0201-0300/0221-f",
+  "imgHome": "0221-f",
   "isFemale": true,
   "isCosmetic": true,
   "isLegendary": false,

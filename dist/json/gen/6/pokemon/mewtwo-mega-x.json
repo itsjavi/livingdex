@@ -11,7 +11,7 @@
   "baseSpecies": "mewtwo",
   "baseDataForm": null,
   "imgSprite": "mewtwo-mega-x",
-  "imgHome": "0101-0200/0150-mega-x",
+  "imgHome": "0150-mega-x",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "fighting",

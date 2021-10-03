@@ -11,7 +11,7 @@
   "baseSpecies": "vivillon",
   "baseDataForm": "vivillon",
   "imgSprite": "vivillon-high-plains",
-  "imgHome": "0601-0700/0666-high-plains",
+  "imgHome": "0666-high-plains",
   "isFemale": false,
   "isCosmetic": true,
   "isLegendary": false,

@@ -8,7 +8,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "bulbasaur",
-    "imgHome": "0001-0100/0001",
+    "imgHome": "0001",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -22,7 +22,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "ivysaur",
-    "imgHome": "0001-0100/0002",
+    "imgHome": "0002",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -38,7 +38,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "venusaur",
-    "imgHome": "0001-0100/0003",
+    "imgHome": "0003",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -52,7 +52,7 @@
     "forms": [],
     "baseSpecies": "venusaur",
     "imgSprite": "venusaur",
-    "imgHome": "0001-0100/0003-f",
+    "imgHome": "0003-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -66,7 +66,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "charmander",
-    "imgHome": "0001-0100/0004",
+    "imgHome": "0004",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -80,7 +80,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "charmeleon",
-    "imgHome": "0001-0100/0005",
+    "imgHome": "0005",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -94,7 +94,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "charizard",
-    "imgHome": "0001-0100/0006",
+    "imgHome": "0006",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -108,7 +108,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "squirtle",
-    "imgHome": "0001-0100/0007",
+    "imgHome": "0007",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -122,7 +122,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "wartortle",
-    "imgHome": "0001-0100/0008",
+    "imgHome": "0008",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -136,7 +136,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "blastoise",
-    "imgHome": "0001-0100/0009",
+    "imgHome": "0009",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -150,7 +150,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "caterpie",
-    "imgHome": "0001-0100/0010",
+    "imgHome": "0010",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -164,7 +164,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "metapod",
-    "imgHome": "0001-0100/0011",
+    "imgHome": "0011",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -180,7 +180,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "butterfree",
-    "imgHome": "0001-0100/0012",
+    "imgHome": "0012",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -194,7 +194,7 @@
     "forms": [],
     "baseSpecies": "butterfree",
     "imgSprite": "butterfree",
-    "imgHome": "0001-0100/0012-f",
+    "imgHome": "0012-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -208,7 +208,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "weedle",
-    "imgHome": "0001-0100/0013",
+    "imgHome": "0013",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -222,7 +222,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "kakuna",
-    "imgHome": "0001-0100/0014",
+    "imgHome": "0014",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -236,7 +236,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "beedrill",
-    "imgHome": "0001-0100/0015",
+    "imgHome": "0015",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -250,7 +250,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "pidgey",
-    "imgHome": "0001-0100/0016",
+    "imgHome": "0016",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -264,7 +264,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "pidgeotto",
-    "imgHome": "0001-0100/0017",
+    "imgHome": "0017",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -278,7 +278,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "pidgeot",
-    "imgHome": "0001-0100/0018",
+    "imgHome": "0018",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -294,7 +294,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "rattata",
-    "imgHome": "0001-0100/0019",
+    "imgHome": "0019",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -308,7 +308,7 @@
     "forms": [],
     "baseSpecies": "rattata",
     "imgSprite": "rattata",
-    "imgHome": "0001-0100/0019-f",
+    "imgHome": "0019-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -324,7 +324,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "raticate",
-    "imgHome": "0001-0100/0020",
+    "imgHome": "0020",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -338,7 +338,7 @@
     "forms": [],
     "baseSpecies": "raticate",
     "imgSprite": "raticate",
-    "imgHome": "0001-0100/0020-f",
+    "imgHome": "0020-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -352,7 +352,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "spearow",
-    "imgHome": "0001-0100/0021",
+    "imgHome": "0021",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -366,7 +366,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "fearow",
-    "imgHome": "0001-0100/0022",
+    "imgHome": "0022",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -380,7 +380,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "ekans",
-    "imgHome": "0001-0100/0023",
+    "imgHome": "0023",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -394,7 +394,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "arbok",
-    "imgHome": "0001-0100/0024",
+    "imgHome": "0024",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -410,7 +410,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "pikachu",
-    "imgHome": "0001-0100/0025",
+    "imgHome": "0025",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -424,7 +424,7 @@
     "forms": [],
     "baseSpecies": "pikachu",
     "imgSprite": "female/pikachu",
-    "imgHome": "0001-0100/0025-f",
+    "imgHome": "0025-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -440,7 +440,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "raichu",
-    "imgHome": "0001-0100/0026",
+    "imgHome": "0026",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -454,7 +454,7 @@
     "forms": [],
     "baseSpecies": "raichu",
     "imgSprite": "raichu",
-    "imgHome": "0001-0100/0026-f",
+    "imgHome": "0026-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -468,7 +468,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "sandshrew",
-    "imgHome": "0001-0100/0027",
+    "imgHome": "0027",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -482,7 +482,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "sandslash",
-    "imgHome": "0001-0100/0028",
+    "imgHome": "0028",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -496,7 +496,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "nidoran-f",
-    "imgHome": "0001-0100/0029",
+    "imgHome": "0029",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -510,7 +510,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "nidorina",
-    "imgHome": "0001-0100/0030",
+    "imgHome": "0030",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -524,7 +524,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "nidoqueen",
-    "imgHome": "0001-0100/0031",
+    "imgHome": "0031",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -538,7 +538,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "nidoran-m",
-    "imgHome": "0001-0100/0032",
+    "imgHome": "0032",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -552,7 +552,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "nidorino",
-    "imgHome": "0001-0100/0033",
+    "imgHome": "0033",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -566,7 +566,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "nidoking",
-    "imgHome": "0001-0100/0034",
+    "imgHome": "0034",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -580,7 +580,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "clefairy",
-    "imgHome": "0001-0100/0035",
+    "imgHome": "0035",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -594,7 +594,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "clefable",
-    "imgHome": "0001-0100/0036",
+    "imgHome": "0036",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -608,7 +608,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "vulpix",
-    "imgHome": "0001-0100/0037",
+    "imgHome": "0037",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -622,7 +622,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "ninetales",
-    "imgHome": "0001-0100/0038",
+    "imgHome": "0038",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -636,7 +636,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "jigglypuff",
-    "imgHome": "0001-0100/0039",
+    "imgHome": "0039",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -650,7 +650,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "wigglytuff",
-    "imgHome": "0001-0100/0040",
+    "imgHome": "0040",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -666,7 +666,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "zubat",
-    "imgHome": "0001-0100/0041",
+    "imgHome": "0041",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -680,7 +680,7 @@
     "forms": [],
     "baseSpecies": "zubat",
     "imgSprite": "zubat",
-    "imgHome": "0001-0100/0041-f",
+    "imgHome": "0041-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -696,7 +696,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "golbat",
-    "imgHome": "0001-0100/0042",
+    "imgHome": "0042",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -710,7 +710,7 @@
     "forms": [],
     "baseSpecies": "golbat",
     "imgSprite": "golbat",
-    "imgHome": "0001-0100/0042-f",
+    "imgHome": "0042-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -724,7 +724,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "oddish",
-    "imgHome": "0001-0100/0043",
+    "imgHome": "0043",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -740,7 +740,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "gloom",
-    "imgHome": "0001-0100/0044",
+    "imgHome": "0044",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -754,7 +754,7 @@
     "forms": [],
     "baseSpecies": "gloom",
     "imgSprite": "gloom",
-    "imgHome": "0001-0100/0044-f",
+    "imgHome": "0044-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -770,7 +770,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "vileplume",
-    "imgHome": "0001-0100/0045",
+    "imgHome": "0045",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -784,7 +784,7 @@
     "forms": [],
     "baseSpecies": "vileplume",
     "imgSprite": "vileplume",
-    "imgHome": "0001-0100/0045-f",
+    "imgHome": "0045-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -798,7 +798,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "paras",
-    "imgHome": "0001-0100/0046",
+    "imgHome": "0046",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -812,7 +812,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "parasect",
-    "imgHome": "0001-0100/0047",
+    "imgHome": "0047",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -826,7 +826,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "venonat",
-    "imgHome": "0001-0100/0048",
+    "imgHome": "0048",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -840,7 +840,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "venomoth",
-    "imgHome": "0001-0100/0049",
+    "imgHome": "0049",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -854,7 +854,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "diglett",
-    "imgHome": "0001-0100/0050",
+    "imgHome": "0050",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -868,7 +868,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "dugtrio",
-    "imgHome": "0001-0100/0051",
+    "imgHome": "0051",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -882,7 +882,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "meowth",
-    "imgHome": "0001-0100/0052",
+    "imgHome": "0052",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -896,7 +896,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "persian",
-    "imgHome": "0001-0100/0053",
+    "imgHome": "0053",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -910,7 +910,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "psyduck",
-    "imgHome": "0001-0100/0054",
+    "imgHome": "0054",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -924,7 +924,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "golduck",
-    "imgHome": "0001-0100/0055",
+    "imgHome": "0055",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -938,7 +938,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "mankey",
-    "imgHome": "0001-0100/0056",
+    "imgHome": "0056",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -952,7 +952,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "primeape",
-    "imgHome": "0001-0100/0057",
+    "imgHome": "0057",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -966,7 +966,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "growlithe",
-    "imgHome": "0001-0100/0058",
+    "imgHome": "0058",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -980,7 +980,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "arcanine",
-    "imgHome": "0001-0100/0059",
+    "imgHome": "0059",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -994,7 +994,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "poliwag",
-    "imgHome": "0001-0100/0060",
+    "imgHome": "0060",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1008,7 +1008,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "poliwhirl",
-    "imgHome": "0001-0100/0061",
+    "imgHome": "0061",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1022,7 +1022,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "poliwrath",
-    "imgHome": "0001-0100/0062",
+    "imgHome": "0062",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1036,7 +1036,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "abra",
-    "imgHome": "0001-0100/0063",
+    "imgHome": "0063",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1052,7 +1052,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "kadabra",
-    "imgHome": "0001-0100/0064",
+    "imgHome": "0064",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1066,7 +1066,7 @@
     "forms": [],
     "baseSpecies": "kadabra",
     "imgSprite": "kadabra",
-    "imgHome": "0001-0100/0064-f",
+    "imgHome": "0064-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -1082,7 +1082,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "alakazam",
-    "imgHome": "0001-0100/0065",
+    "imgHome": "0065",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1096,7 +1096,7 @@
     "forms": [],
     "baseSpecies": "alakazam",
     "imgSprite": "alakazam",
-    "imgHome": "0001-0100/0065-f",
+    "imgHome": "0065-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -1110,7 +1110,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "machop",
-    "imgHome": "0001-0100/0066",
+    "imgHome": "0066",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1124,7 +1124,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "machoke",
-    "imgHome": "0001-0100/0067",
+    "imgHome": "0067",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1138,7 +1138,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "machamp",
-    "imgHome": "0001-0100/0068",
+    "imgHome": "0068",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1152,7 +1152,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "bellsprout",
-    "imgHome": "0001-0100/0069",
+    "imgHome": "0069",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1166,7 +1166,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "weepinbell",
-    "imgHome": "0001-0100/0070",
+    "imgHome": "0070",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1180,7 +1180,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "victreebel",
-    "imgHome": "0001-0100/0071",
+    "imgHome": "0071",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1194,7 +1194,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "tentacool",
-    "imgHome": "0001-0100/0072",
+    "imgHome": "0072",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1208,7 +1208,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "tentacruel",
-    "imgHome": "0001-0100/0073",
+    "imgHome": "0073",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1222,7 +1222,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "geodude",
-    "imgHome": "0001-0100/0074",
+    "imgHome": "0074",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1236,7 +1236,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "graveler",
-    "imgHome": "0001-0100/0075",
+    "imgHome": "0075",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1250,7 +1250,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "golem",
-    "imgHome": "0001-0100/0076",
+    "imgHome": "0076",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1264,7 +1264,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "ponyta",
-    "imgHome": "0001-0100/0077",
+    "imgHome": "0077",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1278,7 +1278,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "rapidash",
-    "imgHome": "0001-0100/0078",
+    "imgHome": "0078",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1292,7 +1292,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "slowpoke",
-    "imgHome": "0001-0100/0079",
+    "imgHome": "0079",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1306,7 +1306,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "slowbro",
-    "imgHome": "0001-0100/0080",
+    "imgHome": "0080",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1320,7 +1320,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "magnemite",
-    "imgHome": "0001-0100/0081",
+    "imgHome": "0081",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1334,7 +1334,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "magneton",
-    "imgHome": "0001-0100/0082",
+    "imgHome": "0082",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1348,7 +1348,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "farfetchd",
-    "imgHome": "0001-0100/0083",
+    "imgHome": "0083",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1364,7 +1364,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "doduo",
-    "imgHome": "0001-0100/0084",
+    "imgHome": "0084",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1378,7 +1378,7 @@
     "forms": [],
     "baseSpecies": "doduo",
     "imgSprite": "doduo",
-    "imgHome": "0001-0100/0084-f",
+    "imgHome": "0084-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -1394,7 +1394,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "dodrio",
-    "imgHome": "0001-0100/0085",
+    "imgHome": "0085",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1408,7 +1408,7 @@
     "forms": [],
     "baseSpecies": "dodrio",
     "imgSprite": "dodrio",
-    "imgHome": "0001-0100/0085-f",
+    "imgHome": "0085-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -1422,7 +1422,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "seel",
-    "imgHome": "0001-0100/0086",
+    "imgHome": "0086",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1436,7 +1436,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "dewgong",
-    "imgHome": "0001-0100/0087",
+    "imgHome": "0087",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1450,7 +1450,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "grimer",
-    "imgHome": "0001-0100/0088",
+    "imgHome": "0088",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1464,7 +1464,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "muk",
-    "imgHome": "0001-0100/0089",
+    "imgHome": "0089",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1478,7 +1478,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "shellder",
-    "imgHome": "0001-0100/0090",
+    "imgHome": "0090",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1492,7 +1492,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "cloyster",
-    "imgHome": "0001-0100/0091",
+    "imgHome": "0091",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1506,7 +1506,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "gastly",
-    "imgHome": "0001-0100/0092",
+    "imgHome": "0092",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1520,7 +1520,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "haunter",
-    "imgHome": "0001-0100/0093",
+    "imgHome": "0093",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1534,7 +1534,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "gengar",
-    "imgHome": "0001-0100/0094",
+    "imgHome": "0094",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1548,7 +1548,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "onix",
-    "imgHome": "0001-0100/0095",
+    "imgHome": "0095",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1562,7 +1562,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "drowzee",
-    "imgHome": "0001-0100/0096",
+    "imgHome": "0096",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1578,7 +1578,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "hypno",
-    "imgHome": "0001-0100/0097",
+    "imgHome": "0097",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1592,7 +1592,7 @@
     "forms": [],
     "baseSpecies": "hypno",
     "imgSprite": "hypno",
-    "imgHome": "0001-0100/0097-f",
+    "imgHome": "0097-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -1606,7 +1606,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "krabby",
-    "imgHome": "0001-0100/0098",
+    "imgHome": "0098",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1620,7 +1620,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "kingler",
-    "imgHome": "0001-0100/0099",
+    "imgHome": "0099",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1634,7 +1634,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "voltorb",
-    "imgHome": "0001-0100/0100",
+    "imgHome": "0100",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1648,7 +1648,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "electrode",
-    "imgHome": "0101-0200/0101",
+    "imgHome": "0101",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1662,7 +1662,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "exeggcute",
-    "imgHome": "0101-0200/0102",
+    "imgHome": "0102",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1676,7 +1676,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "exeggutor",
-    "imgHome": "0101-0200/0103",
+    "imgHome": "0103",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1690,7 +1690,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "cubone",
-    "imgHome": "0101-0200/0104",
+    "imgHome": "0104",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1704,7 +1704,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "marowak",
-    "imgHome": "0101-0200/0105",
+    "imgHome": "0105",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1718,7 +1718,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "hitmonlee",
-    "imgHome": "0101-0200/0106",
+    "imgHome": "0106",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1732,7 +1732,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "hitmonchan",
-    "imgHome": "0101-0200/0107",
+    "imgHome": "0107",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1746,7 +1746,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "lickitung",
-    "imgHome": "0101-0200/0108",
+    "imgHome": "0108",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1760,7 +1760,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "koffing",
-    "imgHome": "0101-0200/0109",
+    "imgHome": "0109",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1774,7 +1774,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "weezing",
-    "imgHome": "0101-0200/0110",
+    "imgHome": "0110",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1790,7 +1790,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "rhyhorn",
-    "imgHome": "0101-0200/0111",
+    "imgHome": "0111",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1804,7 +1804,7 @@
     "forms": [],
     "baseSpecies": "rhyhorn",
     "imgSprite": "rhyhorn",
-    "imgHome": "0101-0200/0111-f",
+    "imgHome": "0111-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -1820,7 +1820,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "rhydon",
-    "imgHome": "0101-0200/0112",
+    "imgHome": "0112",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1834,7 +1834,7 @@
     "forms": [],
     "baseSpecies": "rhydon",
     "imgSprite": "rhydon",
-    "imgHome": "0101-0200/0112-f",
+    "imgHome": "0112-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -1848,7 +1848,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "chansey",
-    "imgHome": "0101-0200/0113",
+    "imgHome": "0113",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1862,7 +1862,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "tangela",
-    "imgHome": "0101-0200/0114",
+    "imgHome": "0114",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1876,7 +1876,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "kangaskhan",
-    "imgHome": "0101-0200/0115",
+    "imgHome": "0115",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1890,7 +1890,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "horsea",
-    "imgHome": "0101-0200/0116",
+    "imgHome": "0116",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1904,7 +1904,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "seadra",
-    "imgHome": "0101-0200/0117",
+    "imgHome": "0117",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1920,7 +1920,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "goldeen",
-    "imgHome": "0101-0200/0118",
+    "imgHome": "0118",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1934,7 +1934,7 @@
     "forms": [],
     "baseSpecies": "goldeen",
     "imgSprite": "goldeen",
-    "imgHome": "0101-0200/0118-f",
+    "imgHome": "0118-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -1950,7 +1950,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "seaking",
-    "imgHome": "0101-0200/0119",
+    "imgHome": "0119",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1964,7 +1964,7 @@
     "forms": [],
     "baseSpecies": "seaking",
     "imgSprite": "seaking",
-    "imgHome": "0101-0200/0119-f",
+    "imgHome": "0119-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -1978,7 +1978,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "staryu",
-    "imgHome": "0101-0200/0120",
+    "imgHome": "0120",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1992,7 +1992,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "starmie",
-    "imgHome": "0101-0200/0121",
+    "imgHome": "0121",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2006,7 +2006,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "mr-mime",
-    "imgHome": "0101-0200/0122",
+    "imgHome": "0122",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2022,7 +2022,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "scyther",
-    "imgHome": "0101-0200/0123",
+    "imgHome": "0123",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2036,7 +2036,7 @@
     "forms": [],
     "baseSpecies": "scyther",
     "imgSprite": "scyther",
-    "imgHome": "0101-0200/0123-f",
+    "imgHome": "0123-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -2050,7 +2050,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "jynx",
-    "imgHome": "0101-0200/0124",
+    "imgHome": "0124",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2064,7 +2064,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "electabuzz",
-    "imgHome": "0101-0200/0125",
+    "imgHome": "0125",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2078,7 +2078,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "magmar",
-    "imgHome": "0101-0200/0126",
+    "imgHome": "0126",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2092,7 +2092,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "pinsir",
-    "imgHome": "0101-0200/0127",
+    "imgHome": "0127",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2106,7 +2106,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "tauros",
-    "imgHome": "0101-0200/0128",
+    "imgHome": "0128",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2122,7 +2122,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "magikarp",
-    "imgHome": "0101-0200/0129",
+    "imgHome": "0129",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2136,7 +2136,7 @@
     "forms": [],
     "baseSpecies": "magikarp",
     "imgSprite": "magikarp",
-    "imgHome": "0101-0200/0129-f",
+    "imgHome": "0129-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -2152,7 +2152,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "gyarados",
-    "imgHome": "0101-0200/0130",
+    "imgHome": "0130",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2166,7 +2166,7 @@
     "forms": [],
     "baseSpecies": "gyarados",
     "imgSprite": "gyarados",
-    "imgHome": "0101-0200/0130-f",
+    "imgHome": "0130-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -2180,7 +2180,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "lapras",
-    "imgHome": "0101-0200/0131",
+    "imgHome": "0131",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2194,7 +2194,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "ditto",
-    "imgHome": "0101-0200/0132",
+    "imgHome": "0132",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2210,7 +2210,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "eevee",
-    "imgHome": "0101-0200/0133",
+    "imgHome": "0133",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2224,7 +2224,7 @@
     "forms": [],
     "baseSpecies": "eevee",
     "imgSprite": "eevee",
-    "imgHome": "0101-0200/0133-f",
+    "imgHome": "0133-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -2238,7 +2238,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "vaporeon",
-    "imgHome": "0101-0200/0134",
+    "imgHome": "0134",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2252,7 +2252,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "jolteon",
-    "imgHome": "0101-0200/0135",
+    "imgHome": "0135",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2266,7 +2266,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "flareon",
-    "imgHome": "0101-0200/0136",
+    "imgHome": "0136",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2280,7 +2280,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "porygon",
-    "imgHome": "0101-0200/0137",
+    "imgHome": "0137",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2294,7 +2294,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "omanyte",
-    "imgHome": "0101-0200/0138",
+    "imgHome": "0138",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2308,7 +2308,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "omastar",
-    "imgHome": "0101-0200/0139",
+    "imgHome": "0139",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2322,7 +2322,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "kabuto",
-    "imgHome": "0101-0200/0140",
+    "imgHome": "0140",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2336,7 +2336,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "kabutops",
-    "imgHome": "0101-0200/0141",
+    "imgHome": "0141",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2350,7 +2350,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "aerodactyl",
-    "imgHome": "0101-0200/0142",
+    "imgHome": "0142",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2364,7 +2364,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "snorlax",
-    "imgHome": "0101-0200/0143",
+    "imgHome": "0143",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2378,7 +2378,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "articuno",
-    "imgHome": "0101-0200/0144",
+    "imgHome": "0144",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2392,7 +2392,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "zapdos",
-    "imgHome": "0101-0200/0145",
+    "imgHome": "0145",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2406,7 +2406,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "moltres",
-    "imgHome": "0101-0200/0146",
+    "imgHome": "0146",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2420,7 +2420,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "dratini",
-    "imgHome": "0101-0200/0147",
+    "imgHome": "0147",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2434,7 +2434,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "dragonair",
-    "imgHome": "0101-0200/0148",
+    "imgHome": "0148",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2448,7 +2448,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "dragonite",
-    "imgHome": "0101-0200/0149",
+    "imgHome": "0149",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2462,7 +2462,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "mewtwo",
-    "imgHome": "0101-0200/0150",
+    "imgHome": "0150",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2476,7 +2476,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "mew",
-    "imgHome": "0101-0200/0151",
+    "imgHome": "0151",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2490,7 +2490,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "chikorita",
-    "imgHome": "0101-0200/0152",
+    "imgHome": "0152",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2504,7 +2504,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "bayleef",
-    "imgHome": "0101-0200/0153",
+    "imgHome": "0153",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2520,7 +2520,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "meganium",
-    "imgHome": "0101-0200/0154",
+    "imgHome": "0154",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2534,7 +2534,7 @@
     "forms": [],
     "baseSpecies": "meganium",
     "imgSprite": "meganium",
-    "imgHome": "0101-0200/0154-f",
+    "imgHome": "0154-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -2548,7 +2548,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "cyndaquil",
-    "imgHome": "0101-0200/0155",
+    "imgHome": "0155",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2562,7 +2562,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "quilava",
-    "imgHome": "0101-0200/0156",
+    "imgHome": "0156",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2576,7 +2576,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "typhlosion",
-    "imgHome": "0101-0200/0157",
+    "imgHome": "0157",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2590,7 +2590,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "totodile",
-    "imgHome": "0101-0200/0158",
+    "imgHome": "0158",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2604,7 +2604,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "croconaw",
-    "imgHome": "0101-0200/0159",
+    "imgHome": "0159",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2618,7 +2618,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "feraligatr",
-    "imgHome": "0101-0200/0160",
+    "imgHome": "0160",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2632,7 +2632,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "sentret",
-    "imgHome": "0101-0200/0161",
+    "imgHome": "0161",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2646,7 +2646,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "furret",
-    "imgHome": "0101-0200/0162",
+    "imgHome": "0162",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2660,7 +2660,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "hoothoot",
-    "imgHome": "0101-0200/0163",
+    "imgHome": "0163",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2674,7 +2674,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "noctowl",
-    "imgHome": "0101-0200/0164",
+    "imgHome": "0164",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2690,7 +2690,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "ledyba",
-    "imgHome": "0101-0200/0165",
+    "imgHome": "0165",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2704,7 +2704,7 @@
     "forms": [],
     "baseSpecies": "ledyba",
     "imgSprite": "ledyba",
-    "imgHome": "0101-0200/0165-f",
+    "imgHome": "0165-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -2720,7 +2720,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "ledian",
-    "imgHome": "0101-0200/0166",
+    "imgHome": "0166",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2734,7 +2734,7 @@
     "forms": [],
     "baseSpecies": "ledian",
     "imgSprite": "ledian",
-    "imgHome": "0101-0200/0166-f",
+    "imgHome": "0166-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -2748,7 +2748,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "spinarak",
-    "imgHome": "0101-0200/0167",
+    "imgHome": "0167",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2762,7 +2762,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "ariados",
-    "imgHome": "0101-0200/0168",
+    "imgHome": "0168",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2776,7 +2776,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "crobat",
-    "imgHome": "0101-0200/0169",
+    "imgHome": "0169",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2790,7 +2790,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "chinchou",
-    "imgHome": "0101-0200/0170",
+    "imgHome": "0170",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2804,7 +2804,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "lanturn",
-    "imgHome": "0101-0200/0171",
+    "imgHome": "0171",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2818,7 +2818,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "pichu",
-    "imgHome": "0101-0200/0172",
+    "imgHome": "0172",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2832,7 +2832,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "cleffa",
-    "imgHome": "0101-0200/0173",
+    "imgHome": "0173",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2846,7 +2846,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "igglybuff",
-    "imgHome": "0101-0200/0174",
+    "imgHome": "0174",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2860,7 +2860,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "togepi",
-    "imgHome": "0101-0200/0175",
+    "imgHome": "0175",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2874,7 +2874,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "togetic",
-    "imgHome": "0101-0200/0176",
+    "imgHome": "0176",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2888,7 +2888,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "natu",
-    "imgHome": "0101-0200/0177",
+    "imgHome": "0177",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2904,7 +2904,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "xatu",
-    "imgHome": "0101-0200/0178",
+    "imgHome": "0178",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2918,7 +2918,7 @@
     "forms": [],
     "baseSpecies": "xatu",
     "imgSprite": "xatu",
-    "imgHome": "0101-0200/0178-f",
+    "imgHome": "0178-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -2932,7 +2932,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "mareep",
-    "imgHome": "0101-0200/0179",
+    "imgHome": "0179",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2946,7 +2946,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "flaaffy",
-    "imgHome": "0101-0200/0180",
+    "imgHome": "0180",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2960,7 +2960,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "ampharos",
-    "imgHome": "0101-0200/0181",
+    "imgHome": "0181",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2974,7 +2974,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "bellossom",
-    "imgHome": "0101-0200/0182",
+    "imgHome": "0182",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2988,7 +2988,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "marill",
-    "imgHome": "0101-0200/0183",
+    "imgHome": "0183",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3002,7 +3002,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "azumarill",
-    "imgHome": "0101-0200/0184",
+    "imgHome": "0184",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3018,7 +3018,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "sudowoodo",
-    "imgHome": "0101-0200/0185",
+    "imgHome": "0185",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3032,7 +3032,7 @@
     "forms": [],
     "baseSpecies": "sudowoodo",
     "imgSprite": "sudowoodo",
-    "imgHome": "0101-0200/0185-f",
+    "imgHome": "0185-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3048,7 +3048,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "politoed",
-    "imgHome": "0101-0200/0186",
+    "imgHome": "0186",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3062,7 +3062,7 @@
     "forms": [],
     "baseSpecies": "politoed",
     "imgSprite": "politoed",
-    "imgHome": "0101-0200/0186-f",
+    "imgHome": "0186-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3076,7 +3076,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "hoppip",
-    "imgHome": "0101-0200/0187",
+    "imgHome": "0187",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3090,7 +3090,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "skiploom",
-    "imgHome": "0101-0200/0188",
+    "imgHome": "0188",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3104,7 +3104,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "jumpluff",
-    "imgHome": "0101-0200/0189",
+    "imgHome": "0189",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3120,7 +3120,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "aipom",
-    "imgHome": "0101-0200/0190",
+    "imgHome": "0190",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3134,7 +3134,7 @@
     "forms": [],
     "baseSpecies": "aipom",
     "imgSprite": "aipom",
-    "imgHome": "0101-0200/0190-f",
+    "imgHome": "0190-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3148,7 +3148,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "sunkern",
-    "imgHome": "0101-0200/0191",
+    "imgHome": "0191",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3162,7 +3162,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "sunflora",
-    "imgHome": "0101-0200/0192",
+    "imgHome": "0192",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3176,7 +3176,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "yanma",
-    "imgHome": "0101-0200/0193",
+    "imgHome": "0193",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3192,7 +3192,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "wooper",
-    "imgHome": "0101-0200/0194",
+    "imgHome": "0194",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3206,7 +3206,7 @@
     "forms": [],
     "baseSpecies": "wooper",
     "imgSprite": "wooper",
-    "imgHome": "0101-0200/0194-f",
+    "imgHome": "0194-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3222,7 +3222,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "quagsire",
-    "imgHome": "0101-0200/0195",
+    "imgHome": "0195",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3236,7 +3236,7 @@
     "forms": [],
     "baseSpecies": "quagsire",
     "imgSprite": "quagsire",
-    "imgHome": "0101-0200/0195-f",
+    "imgHome": "0195-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3250,7 +3250,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "espeon",
-    "imgHome": "0101-0200/0196",
+    "imgHome": "0196",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3264,7 +3264,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "umbreon",
-    "imgHome": "0101-0200/0197",
+    "imgHome": "0197",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3280,7 +3280,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "murkrow",
-    "imgHome": "0101-0200/0198",
+    "imgHome": "0198",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3294,7 +3294,7 @@
     "forms": [],
     "baseSpecies": "murkrow",
     "imgSprite": "murkrow",
-    "imgHome": "0101-0200/0198-f",
+    "imgHome": "0198-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3308,7 +3308,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "slowking",
-    "imgHome": "0101-0200/0199",
+    "imgHome": "0199",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3322,7 +3322,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "misdreavus",
-    "imgHome": "0101-0200/0200",
+    "imgHome": "0200",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3364,7 +3364,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "unown",
-    "imgHome": "0201-0300/0201",
+    "imgHome": "0201",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3378,7 +3378,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-b",
-    "imgHome": "0201-0300/0201-b",
+    "imgHome": "0201-b",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3392,7 +3392,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-c",
-    "imgHome": "0201-0300/0201-c",
+    "imgHome": "0201-c",
     "formOrder": 2,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3406,7 +3406,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-d",
-    "imgHome": "0201-0300/0201-d",
+    "imgHome": "0201-d",
     "formOrder": 3,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3420,7 +3420,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-e",
-    "imgHome": "0201-0300/0201-e",
+    "imgHome": "0201-e",
     "formOrder": 4,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3434,7 +3434,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-f",
-    "imgHome": "0201-0300/0201-f",
+    "imgHome": "0201-f",
     "formOrder": 5,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3448,7 +3448,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-g",
-    "imgHome": "0201-0300/0201-g",
+    "imgHome": "0201-g",
     "formOrder": 6,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3462,7 +3462,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-h",
-    "imgHome": "0201-0300/0201-h",
+    "imgHome": "0201-h",
     "formOrder": 7,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3476,7 +3476,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-i",
-    "imgHome": "0201-0300/0201-i",
+    "imgHome": "0201-i",
     "formOrder": 8,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3490,7 +3490,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-j",
-    "imgHome": "0201-0300/0201-j",
+    "imgHome": "0201-j",
     "formOrder": 9,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3504,7 +3504,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-k",
-    "imgHome": "0201-0300/0201-k",
+    "imgHome": "0201-k",
     "formOrder": 10,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3518,7 +3518,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-l",
-    "imgHome": "0201-0300/0201-l",
+    "imgHome": "0201-l",
     "formOrder": 11,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3532,7 +3532,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-m",
-    "imgHome": "0201-0300/0201-m",
+    "imgHome": "0201-m",
     "formOrder": 12,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3546,7 +3546,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-n",
-    "imgHome": "0201-0300/0201-n",
+    "imgHome": "0201-n",
     "formOrder": 13,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3560,7 +3560,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-o",
-    "imgHome": "0201-0300/0201-o",
+    "imgHome": "0201-o",
     "formOrder": 14,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3574,7 +3574,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-p",
-    "imgHome": "0201-0300/0201-p",
+    "imgHome": "0201-p",
     "formOrder": 15,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3588,7 +3588,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-q",
-    "imgHome": "0201-0300/0201-q",
+    "imgHome": "0201-q",
     "formOrder": 16,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3602,7 +3602,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-r",
-    "imgHome": "0201-0300/0201-r",
+    "imgHome": "0201-r",
     "formOrder": 17,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3616,7 +3616,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-s",
-    "imgHome": "0201-0300/0201-s",
+    "imgHome": "0201-s",
     "formOrder": 18,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3630,7 +3630,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-t",
-    "imgHome": "0201-0300/0201-t",
+    "imgHome": "0201-t",
     "formOrder": 19,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3644,7 +3644,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-u",
-    "imgHome": "0201-0300/0201-u",
+    "imgHome": "0201-u",
     "formOrder": 20,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3658,7 +3658,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-v",
-    "imgHome": "0201-0300/0201-v",
+    "imgHome": "0201-v",
     "formOrder": 21,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3672,7 +3672,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-w",
-    "imgHome": "0201-0300/0201-w",
+    "imgHome": "0201-w",
     "formOrder": 22,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3686,7 +3686,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-x",
-    "imgHome": "0201-0300/0201-x",
+    "imgHome": "0201-x",
     "formOrder": 23,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3700,7 +3700,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-y",
-    "imgHome": "0201-0300/0201-y",
+    "imgHome": "0201-y",
     "formOrder": 24,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3714,7 +3714,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-z",
-    "imgHome": "0201-0300/0201-z",
+    "imgHome": "0201-z",
     "formOrder": 25,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3728,7 +3728,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-exclamation",
-    "imgHome": "0201-0300/0201-exclamation",
+    "imgHome": "0201-exclamation",
     "formOrder": 26,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3742,7 +3742,7 @@
     "forms": [],
     "baseSpecies": "unown",
     "imgSprite": "unown-question",
-    "imgHome": "0201-0300/0201-question",
+    "imgHome": "0201-question",
     "formOrder": 27,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3758,7 +3758,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "wobbuffet",
-    "imgHome": "0201-0300/0202",
+    "imgHome": "0202",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3772,7 +3772,7 @@
     "forms": [],
     "baseSpecies": "wobbuffet",
     "imgSprite": "wobbuffet",
-    "imgHome": "0201-0300/0202-f",
+    "imgHome": "0202-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3788,7 +3788,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "girafarig",
-    "imgHome": "0201-0300/0203",
+    "imgHome": "0203",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3802,7 +3802,7 @@
     "forms": [],
     "baseSpecies": "girafarig",
     "imgSprite": "girafarig",
-    "imgHome": "0201-0300/0203-f",
+    "imgHome": "0203-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3816,7 +3816,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "pineco",
-    "imgHome": "0201-0300/0204",
+    "imgHome": "0204",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3830,7 +3830,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "forretress",
-    "imgHome": "0201-0300/0205",
+    "imgHome": "0205",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3844,7 +3844,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "dunsparce",
-    "imgHome": "0201-0300/0206",
+    "imgHome": "0206",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3860,7 +3860,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "gligar",
-    "imgHome": "0201-0300/0207",
+    "imgHome": "0207",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3874,7 +3874,7 @@
     "forms": [],
     "baseSpecies": "gligar",
     "imgSprite": "gligar",
-    "imgHome": "0201-0300/0207-f",
+    "imgHome": "0207-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3890,7 +3890,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "steelix",
-    "imgHome": "0201-0300/0208",
+    "imgHome": "0208",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3904,7 +3904,7 @@
     "forms": [],
     "baseSpecies": "steelix",
     "imgSprite": "steelix",
-    "imgHome": "0201-0300/0208-f",
+    "imgHome": "0208-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3918,7 +3918,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "snubbull",
-    "imgHome": "0201-0300/0209",
+    "imgHome": "0209",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3932,7 +3932,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "granbull",
-    "imgHome": "0201-0300/0210",
+    "imgHome": "0210",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3946,7 +3946,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "qwilfish",
-    "imgHome": "0201-0300/0211",
+    "imgHome": "0211",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3962,7 +3962,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "scizor",
-    "imgHome": "0201-0300/0212",
+    "imgHome": "0212",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -3976,7 +3976,7 @@
     "forms": [],
     "baseSpecies": "scizor",
     "imgSprite": "scizor",
-    "imgHome": "0201-0300/0212-f",
+    "imgHome": "0212-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -3990,7 +3990,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "shuckle",
-    "imgHome": "0201-0300/0213",
+    "imgHome": "0213",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4006,7 +4006,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "heracross",
-    "imgHome": "0201-0300/0214",
+    "imgHome": "0214",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4020,7 +4020,7 @@
     "forms": [],
     "baseSpecies": "heracross",
     "imgSprite": "heracross",
-    "imgHome": "0201-0300/0214-f",
+    "imgHome": "0214-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -4036,7 +4036,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "sneasel",
-    "imgHome": "0201-0300/0215",
+    "imgHome": "0215",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4050,7 +4050,7 @@
     "forms": [],
     "baseSpecies": "sneasel",
     "imgSprite": "sneasel",
-    "imgHome": "0201-0300/0215-f",
+    "imgHome": "0215-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -4064,7 +4064,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "teddiursa",
-    "imgHome": "0201-0300/0216",
+    "imgHome": "0216",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4080,7 +4080,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "ursaring",
-    "imgHome": "0201-0300/0217",
+    "imgHome": "0217",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4094,7 +4094,7 @@
     "forms": [],
     "baseSpecies": "ursaring",
     "imgSprite": "ursaring",
-    "imgHome": "0201-0300/0217-f",
+    "imgHome": "0217-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -4108,7 +4108,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "slugma",
-    "imgHome": "0201-0300/0218",
+    "imgHome": "0218",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4122,7 +4122,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "magcargo",
-    "imgHome": "0201-0300/0219",
+    "imgHome": "0219",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4136,7 +4136,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "swinub",
-    "imgHome": "0201-0300/0220",
+    "imgHome": "0220",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4152,7 +4152,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "piloswine",
-    "imgHome": "0201-0300/0221",
+    "imgHome": "0221",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4166,7 +4166,7 @@
     "forms": [],
     "baseSpecies": "piloswine",
     "imgSprite": "piloswine",
-    "imgHome": "0201-0300/0221-f",
+    "imgHome": "0221-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -4180,7 +4180,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "corsola",
-    "imgHome": "0201-0300/0222",
+    "imgHome": "0222",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4194,7 +4194,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "remoraid",
-    "imgHome": "0201-0300/0223",
+    "imgHome": "0223",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4210,7 +4210,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "octillery",
-    "imgHome": "0201-0300/0224",
+    "imgHome": "0224",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4224,7 +4224,7 @@
     "forms": [],
     "baseSpecies": "octillery",
     "imgSprite": "octillery",
-    "imgHome": "0201-0300/0224-f",
+    "imgHome": "0224-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -4238,7 +4238,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "delibird",
-    "imgHome": "0201-0300/0225",
+    "imgHome": "0225",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4252,7 +4252,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "mantine",
-    "imgHome": "0201-0300/0226",
+    "imgHome": "0226",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4266,7 +4266,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "skarmory",
-    "imgHome": "0201-0300/0227",
+    "imgHome": "0227",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4280,7 +4280,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "houndour",
-    "imgHome": "0201-0300/0228",
+    "imgHome": "0228",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4296,7 +4296,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "houndoom",
-    "imgHome": "0201-0300/0229",
+    "imgHome": "0229",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4310,7 +4310,7 @@
     "forms": [],
     "baseSpecies": "houndoom",
     "imgSprite": "houndoom",
-    "imgHome": "0201-0300/0229-f",
+    "imgHome": "0229-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -4324,7 +4324,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "kingdra",
-    "imgHome": "0201-0300/0230",
+    "imgHome": "0230",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4338,7 +4338,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "phanpy",
-    "imgHome": "0201-0300/0231",
+    "imgHome": "0231",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4354,7 +4354,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "donphan",
-    "imgHome": "0201-0300/0232",
+    "imgHome": "0232",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4368,7 +4368,7 @@
     "forms": [],
     "baseSpecies": "donphan",
     "imgSprite": "donphan",
-    "imgHome": "0201-0300/0232-f",
+    "imgHome": "0232-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -4382,7 +4382,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "porygon2",
-    "imgHome": "0201-0300/0233",
+    "imgHome": "0233",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4396,7 +4396,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "stantler",
-    "imgHome": "0201-0300/0234",
+    "imgHome": "0234",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4410,7 +4410,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "smeargle",
-    "imgHome": "0201-0300/0235",
+    "imgHome": "0235",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4424,7 +4424,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "tyrogue",
-    "imgHome": "0201-0300/0236",
+    "imgHome": "0236",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4438,7 +4438,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "hitmontop",
-    "imgHome": "0201-0300/0237",
+    "imgHome": "0237",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4452,7 +4452,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "smoochum",
-    "imgHome": "0201-0300/0238",
+    "imgHome": "0238",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4466,7 +4466,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "elekid",
-    "imgHome": "0201-0300/0239",
+    "imgHome": "0239",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4480,7 +4480,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "magby",
-    "imgHome": "0201-0300/0240",
+    "imgHome": "0240",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4494,7 +4494,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "miltank",
-    "imgHome": "0201-0300/0241",
+    "imgHome": "0241",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4508,7 +4508,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "blissey",
-    "imgHome": "0201-0300/0242",
+    "imgHome": "0242",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4522,7 +4522,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "raikou",
-    "imgHome": "0201-0300/0243",
+    "imgHome": "0243",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4536,7 +4536,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "entei",
-    "imgHome": "0201-0300/0244",
+    "imgHome": "0244",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4550,7 +4550,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "suicune",
-    "imgHome": "0201-0300/0245",
+    "imgHome": "0245",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4564,7 +4564,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "larvitar",
-    "imgHome": "0201-0300/0246",
+    "imgHome": "0246",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4578,7 +4578,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "pupitar",
-    "imgHome": "0201-0300/0247",
+    "imgHome": "0247",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4592,7 +4592,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "tyranitar",
-    "imgHome": "0201-0300/0248",
+    "imgHome": "0248",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4606,7 +4606,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "lugia",
-    "imgHome": "0201-0300/0249",
+    "imgHome": "0249",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4620,7 +4620,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "ho-oh",
-    "imgHome": "0201-0300/0250",
+    "imgHome": "0250",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4634,7 +4634,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "celebi",
-    "imgHome": "0201-0300/0251",
+    "imgHome": "0251",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4648,7 +4648,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "treecko",
-    "imgHome": "0201-0300/0252",
+    "imgHome": "0252",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4662,7 +4662,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "grovyle",
-    "imgHome": "0201-0300/0253",
+    "imgHome": "0253",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4676,7 +4676,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "sceptile",
-    "imgHome": "0201-0300/0254",
+    "imgHome": "0254",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4692,7 +4692,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "torchic",
-    "imgHome": "0201-0300/0255",
+    "imgHome": "0255",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4706,7 +4706,7 @@
     "forms": [],
     "baseSpecies": "torchic",
     "imgSprite": "torchic",
-    "imgHome": "0201-0300/0255-f",
+    "imgHome": "0255-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -4722,7 +4722,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "combusken",
-    "imgHome": "0201-0300/0256",
+    "imgHome": "0256",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4736,7 +4736,7 @@
     "forms": [],
     "baseSpecies": "combusken",
     "imgSprite": "combusken",
-    "imgHome": "0201-0300/0256-f",
+    "imgHome": "0256-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -4752,7 +4752,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "blaziken",
-    "imgHome": "0201-0300/0257",
+    "imgHome": "0257",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4766,7 +4766,7 @@
     "forms": [],
     "baseSpecies": "blaziken",
     "imgSprite": "blaziken",
-    "imgHome": "0201-0300/0257-f",
+    "imgHome": "0257-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -4780,7 +4780,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "mudkip",
-    "imgHome": "0201-0300/0258",
+    "imgHome": "0258",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4794,7 +4794,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "marshtomp",
-    "imgHome": "0201-0300/0259",
+    "imgHome": "0259",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4808,7 +4808,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "swampert",
-    "imgHome": "0201-0300/0260",
+    "imgHome": "0260",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4822,7 +4822,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "poochyena",
-    "imgHome": "0201-0300/0261",
+    "imgHome": "0261",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4836,7 +4836,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "mightyena",
-    "imgHome": "0201-0300/0262",
+    "imgHome": "0262",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4850,7 +4850,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "zigzagoon",
-    "imgHome": "0201-0300/0263",
+    "imgHome": "0263",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4864,7 +4864,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "linoone",
-    "imgHome": "0201-0300/0264",
+    "imgHome": "0264",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4878,7 +4878,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "wurmple",
-    "imgHome": "0201-0300/0265",
+    "imgHome": "0265",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4892,7 +4892,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "silcoon",
-    "imgHome": "0201-0300/0266",
+    "imgHome": "0266",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4908,7 +4908,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "beautifly",
-    "imgHome": "0201-0300/0267",
+    "imgHome": "0267",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4922,7 +4922,7 @@
     "forms": [],
     "baseSpecies": "beautifly",
     "imgSprite": "beautifly",
-    "imgHome": "0201-0300/0267-f",
+    "imgHome": "0267-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -4936,7 +4936,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "cascoon",
-    "imgHome": "0201-0300/0268",
+    "imgHome": "0268",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4952,7 +4952,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "dustox",
-    "imgHome": "0201-0300/0269",
+    "imgHome": "0269",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4966,7 +4966,7 @@
     "forms": [],
     "baseSpecies": "dustox",
     "imgSprite": "dustox",
-    "imgHome": "0201-0300/0269-f",
+    "imgHome": "0269-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -4980,7 +4980,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "lotad",
-    "imgHome": "0201-0300/0270",
+    "imgHome": "0270",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -4994,7 +4994,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "lombre",
-    "imgHome": "0201-0300/0271",
+    "imgHome": "0271",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5010,7 +5010,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "ludicolo",
-    "imgHome": "0201-0300/0272",
+    "imgHome": "0272",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5024,7 +5024,7 @@
     "forms": [],
     "baseSpecies": "ludicolo",
     "imgSprite": "ludicolo",
-    "imgHome": "0201-0300/0272-f",
+    "imgHome": "0272-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -5038,7 +5038,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "seedot",
-    "imgHome": "0201-0300/0273",
+    "imgHome": "0273",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5054,7 +5054,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "nuzleaf",
-    "imgHome": "0201-0300/0274",
+    "imgHome": "0274",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5068,7 +5068,7 @@
     "forms": [],
     "baseSpecies": "nuzleaf",
     "imgSprite": "nuzleaf",
-    "imgHome": "0201-0300/0274-f",
+    "imgHome": "0274-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -5084,7 +5084,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "shiftry",
-    "imgHome": "0201-0300/0275",
+    "imgHome": "0275",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5098,7 +5098,7 @@
     "forms": [],
     "baseSpecies": "shiftry",
     "imgSprite": "shiftry",
-    "imgHome": "0201-0300/0275-f",
+    "imgHome": "0275-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -5112,7 +5112,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "taillow",
-    "imgHome": "0201-0300/0276",
+    "imgHome": "0276",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5126,7 +5126,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "swellow",
-    "imgHome": "0201-0300/0277",
+    "imgHome": "0277",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5140,7 +5140,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "wingull",
-    "imgHome": "0201-0300/0278",
+    "imgHome": "0278",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5154,7 +5154,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "pelipper",
-    "imgHome": "0201-0300/0279",
+    "imgHome": "0279",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5168,7 +5168,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "ralts",
-    "imgHome": "0201-0300/0280",
+    "imgHome": "0280",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5182,7 +5182,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "kirlia",
-    "imgHome": "0201-0300/0281",
+    "imgHome": "0281",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5196,7 +5196,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "gardevoir",
-    "imgHome": "0201-0300/0282",
+    "imgHome": "0282",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5210,7 +5210,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "surskit",
-    "imgHome": "0201-0300/0283",
+    "imgHome": "0283",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5224,7 +5224,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "masquerain",
-    "imgHome": "0201-0300/0284",
+    "imgHome": "0284",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5238,7 +5238,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "shroomish",
-    "imgHome": "0201-0300/0285",
+    "imgHome": "0285",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5252,7 +5252,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "breloom",
-    "imgHome": "0201-0300/0286",
+    "imgHome": "0286",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5266,7 +5266,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "slakoth",
-    "imgHome": "0201-0300/0287",
+    "imgHome": "0287",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5280,7 +5280,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "vigoroth",
-    "imgHome": "0201-0300/0288",
+    "imgHome": "0288",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5294,7 +5294,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "slaking",
-    "imgHome": "0201-0300/0289",
+    "imgHome": "0289",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5308,7 +5308,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "nincada",
-    "imgHome": "0201-0300/0290",
+    "imgHome": "0290",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5322,7 +5322,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "ninjask",
-    "imgHome": "0201-0300/0291",
+    "imgHome": "0291",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5336,7 +5336,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "shedinja",
-    "imgHome": "0201-0300/0292",
+    "imgHome": "0292",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5350,7 +5350,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "whismur",
-    "imgHome": "0201-0300/0293",
+    "imgHome": "0293",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5364,7 +5364,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "loudred",
-    "imgHome": "0201-0300/0294",
+    "imgHome": "0294",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5378,7 +5378,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "exploud",
-    "imgHome": "0201-0300/0295",
+    "imgHome": "0295",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5392,7 +5392,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "makuhita",
-    "imgHome": "0201-0300/0296",
+    "imgHome": "0296",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5406,7 +5406,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "hariyama",
-    "imgHome": "0201-0300/0297",
+    "imgHome": "0297",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5420,7 +5420,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "azurill",
-    "imgHome": "0201-0300/0298",
+    "imgHome": "0298",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5434,7 +5434,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "nosepass",
-    "imgHome": "0201-0300/0299",
+    "imgHome": "0299",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5448,7 +5448,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "skitty",
-    "imgHome": "0201-0300/0300",
+    "imgHome": "0300",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5462,7 +5462,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "delcatty",
-    "imgHome": "0301-0400/0301",
+    "imgHome": "0301",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5476,7 +5476,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "sableye",
-    "imgHome": "0301-0400/0302",
+    "imgHome": "0302",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5490,7 +5490,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "mawile",
-    "imgHome": "0301-0400/0303",
+    "imgHome": "0303",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5504,7 +5504,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "aron",
-    "imgHome": "0301-0400/0304",
+    "imgHome": "0304",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5518,7 +5518,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "lairon",
-    "imgHome": "0301-0400/0305",
+    "imgHome": "0305",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5532,7 +5532,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "aggron",
-    "imgHome": "0301-0400/0306",
+    "imgHome": "0306",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5548,7 +5548,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "meditite",
-    "imgHome": "0301-0400/0307",
+    "imgHome": "0307",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5562,7 +5562,7 @@
     "forms": [],
     "baseSpecies": "meditite",
     "imgSprite": "meditite",
-    "imgHome": "0301-0400/0307-f",
+    "imgHome": "0307-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -5578,7 +5578,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "medicham",
-    "imgHome": "0301-0400/0308",
+    "imgHome": "0308",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5592,7 +5592,7 @@
     "forms": [],
     "baseSpecies": "medicham",
     "imgSprite": "medicham",
-    "imgHome": "0301-0400/0308-f",
+    "imgHome": "0308-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -5606,7 +5606,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "electrike",
-    "imgHome": "0301-0400/0309",
+    "imgHome": "0309",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5620,7 +5620,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "manectric",
-    "imgHome": "0301-0400/0310",
+    "imgHome": "0310",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5634,7 +5634,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "plusle",
-    "imgHome": "0301-0400/0311",
+    "imgHome": "0311",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5648,7 +5648,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "minun",
-    "imgHome": "0301-0400/0312",
+    "imgHome": "0312",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5662,7 +5662,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "volbeat",
-    "imgHome": "0301-0400/0313",
+    "imgHome": "0313",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5676,7 +5676,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "illumise",
-    "imgHome": "0301-0400/0314",
+    "imgHome": "0314",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5692,7 +5692,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "roselia",
-    "imgHome": "0301-0400/0315",
+    "imgHome": "0315",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5706,7 +5706,7 @@
     "forms": [],
     "baseSpecies": "roselia",
     "imgSprite": "roselia",
-    "imgHome": "0301-0400/0315-f",
+    "imgHome": "0315-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -5722,7 +5722,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "gulpin",
-    "imgHome": "0301-0400/0316",
+    "imgHome": "0316",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5736,7 +5736,7 @@
     "forms": [],
     "baseSpecies": "gulpin",
     "imgSprite": "gulpin",
-    "imgHome": "0301-0400/0316-f",
+    "imgHome": "0316-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -5752,7 +5752,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "swalot",
-    "imgHome": "0301-0400/0317",
+    "imgHome": "0317",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5766,7 +5766,7 @@
     "forms": [],
     "baseSpecies": "swalot",
     "imgSprite": "swalot",
-    "imgHome": "0301-0400/0317-f",
+    "imgHome": "0317-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -5780,7 +5780,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "carvanha",
-    "imgHome": "0301-0400/0318",
+    "imgHome": "0318",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5794,7 +5794,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "sharpedo",
-    "imgHome": "0301-0400/0319",
+    "imgHome": "0319",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5808,7 +5808,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "wailmer",
-    "imgHome": "0301-0400/0320",
+    "imgHome": "0320",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5822,7 +5822,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "wailord",
-    "imgHome": "0301-0400/0321",
+    "imgHome": "0321",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5838,7 +5838,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "numel",
-    "imgHome": "0301-0400/0322",
+    "imgHome": "0322",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5852,7 +5852,7 @@
     "forms": [],
     "baseSpecies": "numel",
     "imgSprite": "numel",
-    "imgHome": "0301-0400/0322-f",
+    "imgHome": "0322-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -5868,7 +5868,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "camerupt",
-    "imgHome": "0301-0400/0323",
+    "imgHome": "0323",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5882,7 +5882,7 @@
     "forms": [],
     "baseSpecies": "camerupt",
     "imgSprite": "camerupt",
-    "imgHome": "0301-0400/0323-f",
+    "imgHome": "0323-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -5896,7 +5896,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "torkoal",
-    "imgHome": "0301-0400/0324",
+    "imgHome": "0324",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5910,7 +5910,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "spoink",
-    "imgHome": "0301-0400/0325",
+    "imgHome": "0325",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5924,7 +5924,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "grumpig",
-    "imgHome": "0301-0400/0326",
+    "imgHome": "0326",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5938,7 +5938,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "spinda",
-    "imgHome": "0301-0400/0327",
+    "imgHome": "0327",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5952,7 +5952,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "trapinch",
-    "imgHome": "0301-0400/0328",
+    "imgHome": "0328",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5966,7 +5966,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "vibrava",
-    "imgHome": "0301-0400/0329",
+    "imgHome": "0329",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5980,7 +5980,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "flygon",
-    "imgHome": "0301-0400/0330",
+    "imgHome": "0330",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -5994,7 +5994,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "cacnea",
-    "imgHome": "0301-0400/0331",
+    "imgHome": "0331",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6010,7 +6010,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "cacturne",
-    "imgHome": "0301-0400/0332",
+    "imgHome": "0332",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6024,7 +6024,7 @@
     "forms": [],
     "baseSpecies": "cacturne",
     "imgSprite": "cacturne",
-    "imgHome": "0301-0400/0332-f",
+    "imgHome": "0332-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -6038,7 +6038,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "swablu",
-    "imgHome": "0301-0400/0333",
+    "imgHome": "0333",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6052,7 +6052,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "altaria",
-    "imgHome": "0301-0400/0334",
+    "imgHome": "0334",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6066,7 +6066,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "zangoose",
-    "imgHome": "0301-0400/0335",
+    "imgHome": "0335",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6080,7 +6080,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "seviper",
-    "imgHome": "0301-0400/0336",
+    "imgHome": "0336",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6094,7 +6094,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "lunatone",
-    "imgHome": "0301-0400/0337",
+    "imgHome": "0337",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6108,7 +6108,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "solrock",
-    "imgHome": "0301-0400/0338",
+    "imgHome": "0338",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6122,7 +6122,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "barboach",
-    "imgHome": "0301-0400/0339",
+    "imgHome": "0339",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6136,7 +6136,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "whiscash",
-    "imgHome": "0301-0400/0340",
+    "imgHome": "0340",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6150,7 +6150,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "corphish",
-    "imgHome": "0301-0400/0341",
+    "imgHome": "0341",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6164,7 +6164,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "crawdaunt",
-    "imgHome": "0301-0400/0342",
+    "imgHome": "0342",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6178,7 +6178,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "baltoy",
-    "imgHome": "0301-0400/0343",
+    "imgHome": "0343",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6192,7 +6192,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "claydol",
-    "imgHome": "0301-0400/0344",
+    "imgHome": "0344",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6206,7 +6206,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "lileep",
-    "imgHome": "0301-0400/0345",
+    "imgHome": "0345",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6220,7 +6220,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "cradily",
-    "imgHome": "0301-0400/0346",
+    "imgHome": "0346",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6234,7 +6234,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "anorith",
-    "imgHome": "0301-0400/0347",
+    "imgHome": "0347",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6248,7 +6248,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "armaldo",
-    "imgHome": "0301-0400/0348",
+    "imgHome": "0348",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6262,7 +6262,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "feebas",
-    "imgHome": "0301-0400/0349",
+    "imgHome": "0349",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6278,7 +6278,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "milotic",
-    "imgHome": "0301-0400/0350",
+    "imgHome": "0350",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6292,7 +6292,7 @@
     "forms": [],
     "baseSpecies": "milotic",
     "imgSprite": "milotic",
-    "imgHome": "0301-0400/0350-f",
+    "imgHome": "0350-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -6310,7 +6310,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "castform",
-    "imgHome": "0301-0400/0351",
+    "imgHome": "0351",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6324,7 +6324,7 @@
     "forms": [],
     "baseSpecies": "castform",
     "imgSprite": "castform-sunny",
-    "imgHome": "0301-0400/0351-sunny",
+    "imgHome": "0351-sunny",
     "formOrder": 1,
     "isCosmetic": false,
     "isHomeStorable": false
@@ -6338,7 +6338,7 @@
     "forms": [],
     "baseSpecies": "castform",
     "imgSprite": "castform-rainy",
-    "imgHome": "0301-0400/0351-rainy",
+    "imgHome": "0351-rainy",
     "formOrder": 2,
     "isCosmetic": false,
     "isHomeStorable": false
@@ -6352,7 +6352,7 @@
     "forms": [],
     "baseSpecies": "castform",
     "imgSprite": "castform-snowy",
-    "imgHome": "0301-0400/0351-snowy",
+    "imgHome": "0351-snowy",
     "formOrder": 3,
     "isCosmetic": false,
     "isHomeStorable": false
@@ -6366,7 +6366,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "kecleon",
-    "imgHome": "0301-0400/0352",
+    "imgHome": "0352",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6380,7 +6380,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "shuppet",
-    "imgHome": "0301-0400/0353",
+    "imgHome": "0353",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6394,7 +6394,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "banette",
-    "imgHome": "0301-0400/0354",
+    "imgHome": "0354",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6408,7 +6408,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "duskull",
-    "imgHome": "0301-0400/0355",
+    "imgHome": "0355",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6422,7 +6422,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "dusclops",
-    "imgHome": "0301-0400/0356",
+    "imgHome": "0356",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6436,7 +6436,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "tropius",
-    "imgHome": "0301-0400/0357",
+    "imgHome": "0357",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6450,7 +6450,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "chimecho",
-    "imgHome": "0301-0400/0358",
+    "imgHome": "0358",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6464,7 +6464,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "absol",
-    "imgHome": "0301-0400/0359",
+    "imgHome": "0359",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6478,7 +6478,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "wynaut",
-    "imgHome": "0301-0400/0360",
+    "imgHome": "0360",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6492,7 +6492,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "snorunt",
-    "imgHome": "0301-0400/0361",
+    "imgHome": "0361",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6506,7 +6506,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "glalie",
-    "imgHome": "0301-0400/0362",
+    "imgHome": "0362",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6520,7 +6520,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "spheal",
-    "imgHome": "0301-0400/0363",
+    "imgHome": "0363",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6534,7 +6534,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "sealeo",
-    "imgHome": "0301-0400/0364",
+    "imgHome": "0364",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6548,7 +6548,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "walrein",
-    "imgHome": "0301-0400/0365",
+    "imgHome": "0365",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6562,7 +6562,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "clamperl",
-    "imgHome": "0301-0400/0366",
+    "imgHome": "0366",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6576,7 +6576,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "huntail",
-    "imgHome": "0301-0400/0367",
+    "imgHome": "0367",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6590,7 +6590,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "gorebyss",
-    "imgHome": "0301-0400/0368",
+    "imgHome": "0368",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6606,7 +6606,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "relicanth",
-    "imgHome": "0301-0400/0369",
+    "imgHome": "0369",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6620,7 +6620,7 @@
     "forms": [],
     "baseSpecies": "relicanth",
     "imgSprite": "relicanth",
-    "imgHome": "0301-0400/0369-f",
+    "imgHome": "0369-f",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -6634,7 +6634,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "luvdisc",
-    "imgHome": "0301-0400/0370",
+    "imgHome": "0370",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6648,7 +6648,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "bagon",
-    "imgHome": "0301-0400/0371",
+    "imgHome": "0371",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6662,7 +6662,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "shelgon",
-    "imgHome": "0301-0400/0372",
+    "imgHome": "0372",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6676,7 +6676,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "salamence",
-    "imgHome": "0301-0400/0373",
+    "imgHome": "0373",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6690,7 +6690,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "beldum",
-    "imgHome": "0301-0400/0374",
+    "imgHome": "0374",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6704,7 +6704,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "metang",
-    "imgHome": "0301-0400/0375",
+    "imgHome": "0375",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6718,7 +6718,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "metagross",
-    "imgHome": "0301-0400/0376",
+    "imgHome": "0376",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6732,7 +6732,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "regirock",
-    "imgHome": "0301-0400/0377",
+    "imgHome": "0377",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6746,7 +6746,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "regice",
-    "imgHome": "0301-0400/0378",
+    "imgHome": "0378",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6760,7 +6760,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "registeel",
-    "imgHome": "0301-0400/0379",
+    "imgHome": "0379",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6774,7 +6774,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "latias",
-    "imgHome": "0301-0400/0380",
+    "imgHome": "0380",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6788,7 +6788,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "latios",
-    "imgHome": "0301-0400/0381",
+    "imgHome": "0381",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6802,7 +6802,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "kyogre",
-    "imgHome": "0301-0400/0382",
+    "imgHome": "0382",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6816,7 +6816,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "groudon",
-    "imgHome": "0301-0400/0383",
+    "imgHome": "0383",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6830,7 +6830,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "rayquaza",
-    "imgHome": "0301-0400/0384",
+    "imgHome": "0384",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6844,7 +6844,7 @@
     "forms": [],
     "baseSpecies": null,
     "imgSprite": "jirachi",
-    "imgHome": "0301-0400/0385",
+    "imgHome": "0385",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6862,7 +6862,7 @@
     ],
     "baseSpecies": null,
     "imgSprite": "deoxys",
-    "imgHome": "0301-0400/0386",
+    "imgHome": "0386",
     "formOrder": 0,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6876,7 +6876,7 @@
     "forms": [],
     "baseSpecies": "deoxys",
     "imgSprite": "deoxys-attack",
-    "imgHome": "0301-0400/0386-attack",
+    "imgHome": "0386-attack",
     "formOrder": 1,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6890,7 +6890,7 @@
     "forms": [],
     "baseSpecies": "deoxys",
     "imgSprite": "deoxys-defense",
-    "imgHome": "0301-0400/0386-defense",
+    "imgHome": "0386-defense",
     "formOrder": 2,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -6904,7 +6904,7 @@
     "forms": [],
     "baseSpecies": "deoxys",
     "imgSprite": "deoxys-speed",
-    "imgHome": "0301-0400/0386-speed",
+    "imgHome": "0386-speed",
     "formOrder": 3,
     "isCosmetic": false,
     "isHomeStorable": true

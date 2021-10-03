@@ -11,7 +11,7 @@
   "baseSpecies": "gastrodon",
   "baseDataForm": "gastrodon",
   "imgSprite": "gastrodon-east",
-  "imgHome": "0401-0500/0423-east",
+  "imgHome": "0423-east",
   "isFemale": false,
   "isCosmetic": true,
   "isLegendary": false,

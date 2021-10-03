@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "venonat",
-  "imgHome": "0001-0100/0048",
+  "imgHome": "0048",
   "dataGen": 8,
   "type1": "bug",
   "type2": "poison",

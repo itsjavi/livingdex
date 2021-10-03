@@ -11,7 +11,7 @@
   "baseSpecies": "raticate",
   "baseDataForm": "raticate",
   "imgSprite": "raticate",
-  "imgHome": "0001-0100/0020-f",
+  "imgHome": "0020-f",
   "isFemale": true,
   "isCosmetic": true,
   "isLegendary": false,

@@ -11,7 +11,7 @@
   "baseSpecies": "minior",
   "baseDataForm": "minior",
   "imgSprite": "minior-yellow",
-  "imgHome": "0701-0800/0774-yellow",
+  "imgHome": "0774-yellow",
   "isFemale": false,
   "isCosmetic": true,
   "isLegendary": false,

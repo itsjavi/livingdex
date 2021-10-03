@@ -11,7 +11,7 @@
   "baseSpecies": "torchic",
   "baseDataForm": "torchic",
   "imgSprite": "torchic",
-  "imgHome": "0201-0300/0255-f",
+  "imgHome": "0255-f",
   "isFemale": true,
   "isCosmetic": true,
   "isLegendary": false,

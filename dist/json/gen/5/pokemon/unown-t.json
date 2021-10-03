@@ -11,7 +11,7 @@
   "baseSpecies": "unown",
   "baseDataForm": "unown",
   "imgSprite": "unown-t",
-  "imgHome": "0201-0300/0201-t",
+  "imgHome": "0201-t",
   "isFemale": false,
   "isCosmetic": true,
   "isLegendary": false,

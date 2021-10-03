@@ -11,7 +11,7 @@
   "baseSpecies": "cramorant",
   "baseDataForm": null,
   "imgSprite": "cramorant-gulping",
-  "imgHome": "0801-0900/0845-gulping",
+  "imgHome": "0845-gulping",
   "dataGen": 8,
   "type1": "flying",
   "type2": "water",

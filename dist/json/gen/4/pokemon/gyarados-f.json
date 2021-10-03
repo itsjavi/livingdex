@@ -11,7 +11,7 @@
   "baseSpecies": "gyarados",
   "baseDataForm": "gyarados",
   "imgSprite": "gyarados",
-  "imgHome": "0101-0200/0130-f",
+  "imgHome": "0130-f",
   "isFemale": true,
   "isCosmetic": true,
   "isLegendary": false,

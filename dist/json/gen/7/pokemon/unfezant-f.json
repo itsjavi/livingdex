@@ -11,7 +11,7 @@
   "baseSpecies": "unfezant",
   "baseDataForm": "unfezant",
   "imgSprite": "female/unfezant",
-  "imgHome": "0501-0600/0521-f",
+  "imgHome": "0521-f",
   "isFemale": true,
   "isCosmetic": true,
   "isLegendary": false,

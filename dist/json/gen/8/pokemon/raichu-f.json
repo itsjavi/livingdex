@@ -11,7 +11,7 @@
   "baseSpecies": "raichu",
   "baseDataForm": "raichu",
   "imgSprite": "raichu",
-  "imgHome": "0001-0100/0026-f",
+  "imgHome": "0026-f",
   "isFemale": true,
   "isCosmetic": true,
   "isLegendary": false,

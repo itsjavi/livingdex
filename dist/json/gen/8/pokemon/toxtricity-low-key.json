@@ -11,7 +11,7 @@
   "baseSpecies": "toxtricity",
   "baseDataForm": null,
   "imgSprite": "toxtricity-low-key",
-  "imgHome": "0801-0900/0849-low-key",
+  "imgHome": "0849-low-key",
   "dataGen": 8,
   "type1": "electric",
   "type2": "poison",

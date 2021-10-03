@@ -11,7 +11,7 @@
   "baseSpecies": "aipom",
   "baseDataForm": "aipom",
   "imgSprite": "aipom",
-  "imgHome": "0101-0200/0190-f",
+  "imgHome": "0190-f",
   "isFemale": true,
   "isCosmetic": true,
   "isLegendary": false,

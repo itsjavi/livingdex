@@ -6,12 +6,12 @@
   "gen": 1,
   "forms": [
     "pikachu-f",
+    "pikachu-cosplay",
     "pikachu-rock-star",
     "pikachu-belle",
     "pikachu-pop-star",
     "pikachu-phd",
-    "pikachu-libre",
-    "pikachu-cosplay"
+    "pikachu-libre"
   ],
   "formName": null,
   "formSlug": null,
@@ -19,7 +19,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "pikachu",
-  "imgHome": "0001-0100/0025",
+  "imgHome": "0025",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,

@@ -11,7 +11,7 @@
   "baseSpecies": "pyroar",
   "baseDataForm": "pyroar",
   "imgSprite": "female/pyroar",
-  "imgHome": "0601-0700/0668-f",
+  "imgHome": "0668-f",
   "isFemale": true,
   "isCosmetic": true,
   "isLegendary": false,

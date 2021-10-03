@@ -11,7 +11,7 @@
   "baseSpecies": "shellos",
   "baseDataForm": "shellos",
   "imgSprite": "shellos-east",
-  "imgHome": "0401-0500/0422-east",
+  "imgHome": "0422-east",
   "isFemale": false,
   "isCosmetic": true,
   "isLegendary": false,
