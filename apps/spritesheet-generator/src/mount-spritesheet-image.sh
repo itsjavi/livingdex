@@ -6,8 +6,10 @@ IMG_TILE_SIZE=${3} # 2
 IMG_TILE_BORDER=${4} # 2
 IMG_DEST_FILE=${5}
 
-# montage regular/*.png -tile 4x2 -geometry 512x512+0+0 -background transparent pokemon-regular.png
-# montage regular/00*.png -geometry 512x512+0+0 -background transparent -border 2 -bordercolor transparent pokemon-regular.png
+if [[ -f "${IMG_DEST_FILE}" ]]; then
+  echo "${IMG_DEST_FILE} already exists. Skipping montage..."
+  exit
+fi
 
 echo "Mounting ${IMG_DEST_FILE} ..."
 montage "${IMG_DIR}"/*.png \
@@ -19,5 +21,3 @@ montage "${IMG_DIR}"/*.png \
   -interlace line \
   "${IMG_DEST_FILE}"
 
-echo "Optimizing ${IMG_DEST_FILE} ..."
-optipng "${IMG_DEST_FILE}"

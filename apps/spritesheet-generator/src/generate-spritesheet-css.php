@@ -166,6 +166,5 @@ file_put_contents($spriteSheetsDir . '/pokemon-home.html', $homeHtml);
 );
 file_put_contents($spriteSheetsDir . '/pokemon-menu.html', $menuHtml);
 
-
 // Merge CSS styles
 file_put_contents($spriteSheetsDir . '/spritesheet.css', $homeCss . PHP_EOL . $menuCss);
