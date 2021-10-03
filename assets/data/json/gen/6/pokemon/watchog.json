@@ -63,5 +63,6 @@
   "isHomeStorable": true,
   "showdownSlug": "watchog",
   "veekunSlug": "watchog",
-  "veekunFormId": 505
+  "veekunFormId": 505,
+  "title": "Watchog"
 }

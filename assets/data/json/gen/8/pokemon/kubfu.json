@@ -63,5 +63,6 @@
   "isHomeStorable": true,
   "showdownSlug": "kubfu",
   "veekunSlug": "kubfu",
-  "veekunFormId": 891
+  "veekunFormId": 891,
+  "title": "Kubfu"
 }

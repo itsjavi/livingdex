@@ -2,7 +2,7 @@
   "id": 669,
   "num": 669,
   "slug": "flabebe",
-  "name": "Flabe\u0301be\u0301",
+  "name": "Flabébé",
   "gen": 6,
   "forms": [
     "flabebe-blue",
@@ -68,5 +68,6 @@
   "isHomeStorable": true,
   "showdownSlug": "flabebe",
   "veekunSlug": "flabebe-red",
-  "veekunFormId": 669
+  "veekunFormId": 669,
+  "title": "Flabébé"
 }
