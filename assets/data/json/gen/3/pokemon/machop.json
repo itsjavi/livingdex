@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "machop",
-  "imgHome": "0001-0100/0066",
+  "imgHome": "0066",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "machop",
   "veekunSlug": "machop",
-  "veekunFormId": 66,
-  "title": "Machop"
+  "veekunFormId": 66
 }

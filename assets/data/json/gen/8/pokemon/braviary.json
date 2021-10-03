@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "braviary",
-  "imgHome": "0601-0700/0628",
+  "imgHome": "0628",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "braviary",
   "veekunSlug": "braviary",
-  "veekunFormId": 628,
-  "title": "Braviary"
+  "veekunFormId": 628
 }

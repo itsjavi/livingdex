@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "electabuzz",
-  "imgHome": "0101-0200/0125",
+  "imgHome": "0125",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "electabuzz",
   "veekunSlug": "electabuzz",
-  "veekunFormId": 125,
-  "title": "Electabuzz"
+  "veekunFormId": 125
 }

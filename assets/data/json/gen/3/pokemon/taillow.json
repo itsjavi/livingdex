@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "taillow",
-  "imgHome": "0201-0300/0276",
+  "imgHome": "0276",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "taillow",
   "veekunSlug": "taillow",
-  "veekunFormId": 276,
-  "title": "Taillow"
+  "veekunFormId": 276
 }

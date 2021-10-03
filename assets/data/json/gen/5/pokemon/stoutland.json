@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "stoutland",
-  "imgHome": "0501-0600/0508",
+  "imgHome": "0508",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "stoutland",
   "veekunSlug": "stoutland",
-  "veekunFormId": 508,
-  "title": "Stoutland"
+  "veekunFormId": 508
 }

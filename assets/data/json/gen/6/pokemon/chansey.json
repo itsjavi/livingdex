@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "chansey",
-  "imgHome": "0101-0200/0113",
+  "imgHome": "0113",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "chansey",
   "veekunSlug": "chansey",
-  "veekunFormId": 113,
-  "title": "Chansey"
+  "veekunFormId": 113
 }

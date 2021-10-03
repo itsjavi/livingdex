@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "spearow",
-  "imgHome": "0001-0100/0021",
+  "imgHome": "0021",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "spearow",
   "veekunSlug": "spearow",
-  "veekunFormId": 21,
-  "title": "Spearow"
+  "veekunFormId": 21
 }

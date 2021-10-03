@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "heatmor",
-  "imgHome": "0601-0700/0631",
+  "imgHome": "0631",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "heatmor",
   "veekunSlug": "heatmor",
-  "veekunFormId": 631,
-  "title": "Heatmor"
+  "veekunFormId": 631
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "cryogonal",
-  "imgHome": "0601-0700/0615",
+  "imgHome": "0615",
   "dataGen": 8,
   "type1": "ice",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cryogonal",
   "veekunSlug": "cryogonal",
-  "veekunFormId": 615,
-  "title": "Cryogonal"
+  "veekunFormId": 615
 }

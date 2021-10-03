@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "slaking",
-  "imgHome": "0201-0300/0289",
+  "imgHome": "0289",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "slaking",
   "veekunSlug": "slaking",
-  "veekunFormId": 289,
-  "title": "Slaking"
+  "veekunFormId": 289
 }

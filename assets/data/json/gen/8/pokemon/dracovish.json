@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "dracovish",
-  "imgHome": "0801-0900/0882",
+  "imgHome": "0882",
   "dataGen": 8,
   "type1": "water",
   "type2": "dragon",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dracovish",
   "veekunSlug": "dracovish",
-  "veekunFormId": 882,
-  "title": "Dracovish"
+  "veekunFormId": 882
 }

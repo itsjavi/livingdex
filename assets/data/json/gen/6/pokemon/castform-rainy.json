@@ -11,7 +11,7 @@
   "baseSpecies": "castform",
   "baseDataForm": null,
   "imgSprite": "castform-rainy",
-  "imgHome": "0301-0400/0351-rainy",
+  "imgHome": "0351-rainy",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "castformrainy",
   "veekunSlug": "castform-rainy",
-  "veekunFormId": 10029,
-  "title": "Castform (Rainy)"
+  "veekunFormId": 10029
 }

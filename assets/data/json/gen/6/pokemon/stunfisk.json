@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "stunfisk",
-  "imgHome": "0601-0700/0618",
+  "imgHome": "0618",
   "dataGen": 8,
   "type1": "ground",
   "type2": "electric",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "stunfisk",
   "veekunSlug": "stunfisk",
-  "veekunFormId": 618,
-  "title": "Stunfisk"
+  "veekunFormId": 618
 }

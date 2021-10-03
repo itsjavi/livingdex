@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "tyrantrum",
-  "imgHome": "0601-0700/0697",
+  "imgHome": "0697",
   "dataGen": 8,
   "type1": "rock",
   "type2": "dragon",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "tyrantrum",
   "veekunSlug": "tyrantrum",
-  "veekunFormId": 697,
-  "title": "Tyrantrum"
+  "veekunFormId": 697
 }

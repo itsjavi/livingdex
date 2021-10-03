@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "sawk",
-  "imgHome": "0501-0600/0539",
+  "imgHome": "0539",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "sawk",
   "veekunSlug": "sawk",
-  "veekunFormId": 539,
-  "title": "Sawk"
+  "veekunFormId": 539
 }

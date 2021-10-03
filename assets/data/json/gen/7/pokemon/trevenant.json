@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "trevenant",
-  "imgHome": "0701-0800/0709",
+  "imgHome": "0709",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "grass",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "trevenant",
   "veekunSlug": "trevenant",
-  "veekunFormId": 709,
-  "title": "Trevenant"
+  "veekunFormId": 709
 }

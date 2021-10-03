@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "cradily",
-  "imgHome": "0301-0400/0346",
+  "imgHome": "0346",
   "dataGen": 8,
   "type1": "rock",
   "type2": "grass",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cradily",
   "veekunSlug": "cradily",
-  "veekunFormId": 346,
-  "title": "Cradily"
+  "veekunFormId": 346
 }

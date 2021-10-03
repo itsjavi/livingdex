@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "stufful",
-  "imgHome": "0701-0800/0759",
+  "imgHome": "0759",
   "dataGen": 8,
   "type1": "normal",
   "type2": "fighting",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "stufful",
   "veekunSlug": "stufful",
-  "veekunFormId": 759,
-  "title": "Stufful"
+  "veekunFormId": 759
 }

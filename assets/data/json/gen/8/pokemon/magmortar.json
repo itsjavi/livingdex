@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "magmortar",
-  "imgHome": "0401-0500/0467",
+  "imgHome": "0467",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "magmortar",
   "veekunSlug": "magmortar",
-  "veekunFormId": 467,
-  "title": "Magmortar"
+  "veekunFormId": 467
 }

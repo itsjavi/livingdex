@@ -16,7 +16,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "genesect",
-  "imgHome": "0601-0700/0649",
+  "imgHome": "0649",
   "dataGen": 8,
   "type1": "bug",
   "type2": "steel",
@@ -68,6 +68,5 @@
   "isHomeStorable": true,
   "showdownSlug": "genesect",
   "veekunSlug": "genesect",
-  "veekunFormId": 649,
-  "title": "Genesect"
+  "veekunFormId": 649
 }

@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "hippopotas",
-  "imgHome": "0401-0500/0449",
+  "imgHome": "0449",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "hippopotas",
   "veekunSlug": "hippopotas",
-  "veekunFormId": 449,
-  "title": "Hippopotas"
+  "veekunFormId": 449
 }

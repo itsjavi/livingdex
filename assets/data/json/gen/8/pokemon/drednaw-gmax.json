@@ -11,7 +11,7 @@
   "baseSpecies": "drednaw",
   "baseDataForm": null,
   "imgSprite": "drednaw-gmax",
-  "imgHome": "0801-0900/0834-gmax",
+  "imgHome": "0834-gmax",
   "dataGen": 8,
   "type1": "water",
   "type2": "rock",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "drednawgmax",
   "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Drednaw (Gigantamax)"
+  "veekunFormId": null
 }

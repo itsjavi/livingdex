@@ -11,7 +11,7 @@
   "baseSpecies": "slowking",
   "baseDataForm": null,
   "imgSprite": "slowking-galar",
-  "imgHome": "0101-0200/0199-galar",
+  "imgHome": "0199-galar",
   "dataGen": 8,
   "type1": "poison",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "slowkinggalar",
   "veekunSlug": "slowking-galar",
-  "veekunFormId": 10331,
-  "title": "Slowking (Galar)"
+  "veekunFormId": 10331
 }

@@ -11,7 +11,7 @@
   "baseSpecies": "rotom",
   "baseDataForm": null,
   "imgSprite": "rotom-mow",
-  "imgHome": "0401-0500/0479-mow",
+  "imgHome": "0479-mow",
   "dataGen": 8,
   "type1": "electric",
   "type2": "grass",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "rotommow",
   "veekunSlug": "rotom-mow",
-  "veekunFormId": 10062,
-  "title": "Rotom (Mow)"
+  "veekunFormId": 10062
 }

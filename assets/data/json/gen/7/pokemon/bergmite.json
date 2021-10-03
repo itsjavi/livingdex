@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "bergmite",
-  "imgHome": "0701-0800/0712",
+  "imgHome": "0712",
   "dataGen": 8,
   "type1": "ice",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "bergmite",
   "veekunSlug": "bergmite",
-  "veekunFormId": 712,
-  "title": "Bergmite"
+  "veekunFormId": 712
 }

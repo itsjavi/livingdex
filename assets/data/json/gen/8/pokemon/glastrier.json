@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "glastrier",
-  "imgHome": "0801-0900/0896",
+  "imgHome": "0896",
   "dataGen": 8,
   "type1": "ice",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "glastrier",
   "veekunSlug": "glastrier",
-  "veekunFormId": 896,
-  "title": "Glastrier"
+  "veekunFormId": 896
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "klinklang",
-  "imgHome": "0601-0700/0601",
+  "imgHome": "0601",
   "dataGen": 8,
   "type1": "steel",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "klinklang",
   "veekunSlug": "klinklang",
-  "veekunFormId": 601,
-  "title": "Klinklang"
+  "veekunFormId": 601
 }

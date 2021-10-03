@@ -11,7 +11,7 @@
   "baseSpecies": "marowak",
   "baseDataForm": null,
   "imgSprite": "marowak-alola",
-  "imgHome": "0101-0200/0105-alola",
+  "imgHome": "0105-alola",
   "dataGen": 8,
   "type1": "fire",
   "type2": "ghost",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "marowakalola",
   "veekunSlug": "marowak-alola",
-  "veekunFormId": 10217,
-  "title": "Marowak (Alola)"
+  "veekunFormId": 10217
 }

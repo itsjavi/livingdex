@@ -11,7 +11,7 @@
   "baseSpecies": "altaria",
   "baseDataForm": null,
   "imgSprite": "altaria-mega",
-  "imgHome": "0301-0400/0334-mega",
+  "imgHome": "0334-mega",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "altariamega",
   "veekunSlug": "altaria-mega",
-  "veekunFormId": 10169,
-  "title": "Altaria (Mega)"
+  "veekunFormId": 10169
 }

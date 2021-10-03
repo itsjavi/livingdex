@@ -11,7 +11,7 @@
   "baseSpecies": "exeggutor",
   "baseDataForm": null,
   "imgSprite": "exeggutor-alola",
-  "imgHome": "0101-0200/0103-alola",
+  "imgHome": "0103-alola",
   "dataGen": 8,
   "type1": "grass",
   "type2": "dragon",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "exeggutoralola",
   "veekunSlug": "exeggutor-alola",
-  "veekunFormId": 10216,
-  "title": "Exeggutor (Alola)"
+  "veekunFormId": 10216
 }

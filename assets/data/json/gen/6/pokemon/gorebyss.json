@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "gorebyss",
-  "imgHome": "0301-0400/0368",
+  "imgHome": "0368",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gorebyss",
   "veekunSlug": "gorebyss",
-  "veekunFormId": 368,
-  "title": "Gorebyss"
+  "veekunFormId": 368
 }

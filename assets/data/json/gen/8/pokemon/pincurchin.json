@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "pincurchin",
-  "imgHome": "0801-0900/0871",
+  "imgHome": "0871",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "pincurchin",
   "veekunSlug": "pincurchin",
-  "veekunFormId": 871,
-  "title": "Pincurchin"
+  "veekunFormId": 871
 }

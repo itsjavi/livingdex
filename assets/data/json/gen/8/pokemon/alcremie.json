@@ -75,7 +75,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "alcremie",
-  "imgHome": "0801-0900/0869",
+  "imgHome": "0869",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -127,6 +127,5 @@
   "isHomeStorable": true,
   "showdownSlug": "alcremie",
   "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Alcremie"
+  "veekunFormId": null
 }

@@ -11,7 +11,7 @@
   "baseSpecies": "pikachu",
   "baseDataForm": null,
   "imgSprite": "pikachu-gmax",
-  "imgHome": "0001-0100/0025-gmax",
+  "imgHome": "0025-gmax",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "pikachugmax",
   "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Pikachu (Gigantamax)"
+  "veekunFormId": null
 }

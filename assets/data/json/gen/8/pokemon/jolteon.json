@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "jolteon",
-  "imgHome": "0101-0200/0135",
+  "imgHome": "0135",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "jolteon",
   "veekunSlug": "jolteon",
-  "veekunFormId": 135,
-  "title": "Jolteon"
+  "veekunFormId": 135
 }

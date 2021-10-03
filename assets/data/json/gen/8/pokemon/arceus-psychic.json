@@ -11,7 +11,7 @@
   "baseSpecies": "arceus",
   "baseDataForm": null,
   "imgSprite": "arceus-psychic",
-  "imgHome": "0401-0500/0493-psychic",
+  "imgHome": "0493-psychic",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "arceuspsychic",
   "veekunSlug": "arceus-psychic",
-  "veekunFormId": 10053,
-  "title": "Arceus (Psychic)"
+  "veekunFormId": 10053
 }

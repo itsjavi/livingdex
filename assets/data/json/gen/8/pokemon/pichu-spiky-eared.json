@@ -11,7 +11,7 @@
   "baseSpecies": "pichu",
   "baseDataForm": null,
   "imgSprite": "pichu-spiky-eared",
-  "imgHome": "unknown",
+  "imgHome": "0000-unknown",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "pichuspikyeared",
   "veekunSlug": "pichu-spiky-eared",
-  "veekunFormId": 10065,
-  "title": "Pichu (Spiky eared)"
+  "veekunFormId": 10065
 }

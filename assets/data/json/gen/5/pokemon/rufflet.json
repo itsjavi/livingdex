@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "rufflet",
-  "imgHome": "0601-0700/0627",
+  "imgHome": "0627",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "rufflet",
   "veekunSlug": "rufflet",
-  "veekunFormId": 627,
-  "title": "Rufflet"
+  "veekunFormId": 627
 }

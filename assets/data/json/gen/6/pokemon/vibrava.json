@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "vibrava",
-  "imgHome": "0301-0400/0329",
+  "imgHome": "0329",
   "dataGen": 8,
   "type1": "ground",
   "type2": "dragon",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "vibrava",
   "veekunSlug": "vibrava",
-  "veekunFormId": 329,
-  "title": "Vibrava"
+  "veekunFormId": 329
 }

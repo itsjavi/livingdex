@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "vanillite",
-  "imgHome": "0501-0600/0582",
+  "imgHome": "0582",
   "dataGen": 8,
   "type1": "ice",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "vanillite",
   "veekunSlug": "vanillite",
-  "veekunFormId": 582,
-  "title": "Vanillite"
+  "veekunFormId": 582
 }

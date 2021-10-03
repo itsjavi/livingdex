@@ -11,7 +11,7 @@
   "baseSpecies": "audino",
   "baseDataForm": null,
   "imgSprite": "audino-mega",
-  "imgHome": "0501-0600/0531-mega",
+  "imgHome": "0531-mega",
   "dataGen": 8,
   "type1": "normal",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "audinomega",
   "veekunSlug": "audino-mega",
-  "veekunFormId": 10171,
-  "title": "Audino (Mega)"
+  "veekunFormId": 10171
 }

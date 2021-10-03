@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "gliscor",
-  "imgHome": "0401-0500/0472",
+  "imgHome": "0472",
   "dataGen": 8,
   "type1": "ground",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gliscor",
   "veekunSlug": "gliscor",
-  "veekunFormId": 472,
-  "title": "Gliscor"
+  "veekunFormId": 472
 }

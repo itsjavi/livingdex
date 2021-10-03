@@ -11,7 +11,7 @@
   "baseSpecies": "darmanitan",
   "baseDataForm": null,
   "imgSprite": "darmanitan-galar",
-  "imgHome": "0501-0600/0555-galar",
+  "imgHome": "0555-galar",
   "dataGen": 8,
   "type1": "ice",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "darmanitangalar",
   "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Darmanitan (Galar)"
+  "veekunFormId": null
 }

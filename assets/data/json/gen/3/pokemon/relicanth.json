@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "relicanth",
-  "imgHome": "0301-0400/0369",
+  "imgHome": "0369",
   "dataGen": 8,
   "type1": "water",
   "type2": "rock",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "relicanth",
   "veekunSlug": "relicanth",
-  "veekunFormId": 369,
-  "title": "Relicanth"
+  "veekunFormId": 369
 }

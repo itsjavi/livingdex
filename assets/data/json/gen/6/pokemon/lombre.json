@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "lombre",
-  "imgHome": "0201-0300/0271",
+  "imgHome": "0271",
   "dataGen": 8,
   "type1": "water",
   "type2": "grass",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "lombre",
   "veekunSlug": "lombre",
-  "veekunFormId": 271,
-  "title": "Lombre"
+  "veekunFormId": 271
 }

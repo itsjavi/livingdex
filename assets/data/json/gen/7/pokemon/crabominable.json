@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "crabominable",
-  "imgHome": "0701-0800/0740",
+  "imgHome": "0740",
   "dataGen": 8,
   "type1": "fighting",
   "type2": "ice",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "crabominable",
   "veekunSlug": "crabominable",
-  "veekunFormId": 740,
-  "title": "Crabominable"
+  "veekunFormId": 740
 }

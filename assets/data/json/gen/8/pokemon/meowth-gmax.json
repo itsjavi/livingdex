@@ -11,7 +11,7 @@
   "baseSpecies": "meowth",
   "baseDataForm": null,
   "imgSprite": "meowth-gmax",
-  "imgHome": "0001-0100/0052-gmax",
+  "imgHome": "0052-gmax",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "meowthgmax",
   "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Meowth (Gigantamax)"
+  "veekunFormId": null
 }

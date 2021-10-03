@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "boltund",
-  "imgHome": "0801-0900/0836",
+  "imgHome": "0836",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "boltund",
   "veekunSlug": "boltund",
-  "veekunFormId": 836,
-  "title": "Boltund"
+  "veekunFormId": 836
 }

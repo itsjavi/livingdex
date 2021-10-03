@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "flapple",
-  "imgHome": "0801-0900/0841",
+  "imgHome": "0841",
   "dataGen": 8,
   "type1": "grass",
   "type2": "dragon",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "flapple",
   "veekunSlug": "flapple",
-  "veekunFormId": 841,
-  "title": "Flapple"
+  "veekunFormId": 841
 }

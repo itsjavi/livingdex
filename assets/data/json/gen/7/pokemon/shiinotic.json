@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "shiinotic",
-  "imgHome": "0701-0800/0756",
+  "imgHome": "0756",
   "dataGen": 8,
   "type1": "grass",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "shiinotic",
   "veekunSlug": "shiinotic",
-  "veekunFormId": 756,
-  "title": "Shiinotic"
+  "veekunFormId": 756
 }

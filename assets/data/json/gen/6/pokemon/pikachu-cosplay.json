@@ -7,11 +7,11 @@
   "forms": [],
   "formName": "Cosplay",
   "formSlug": "cosplay",
-  "formOrder": 16,
+  "formOrder": 2,
   "baseSpecies": "pikachu",
   "baseDataForm": null,
   "imgSprite": "pikachu-cosplay",
-  "imgHome": "unknown",
+  "imgHome": "0000-unknown",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "pikachucosplay",
   "veekunSlug": "pikachu-cosplay",
-  "veekunFormId": 10187,
-  "title": "Pikachu (Cosplay)"
+  "veekunFormId": 10187
 }

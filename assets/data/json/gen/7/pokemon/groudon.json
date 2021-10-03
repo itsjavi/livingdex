@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "groudon",
-  "imgHome": "0301-0400/0383",
+  "imgHome": "0383",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "groudon",
   "veekunSlug": "groudon",
-  "veekunFormId": 383,
-  "title": "Groudon"
+  "veekunFormId": 383
 }

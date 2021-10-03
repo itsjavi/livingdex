@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "espurr",
-  "imgHome": "0601-0700/0677",
+  "imgHome": "0677",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "espurr",
   "veekunSlug": "espurr",
-  "veekunFormId": 677,
-  "title": "Espurr"
+  "veekunFormId": 677
 }

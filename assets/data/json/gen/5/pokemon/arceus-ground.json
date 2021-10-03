@@ -11,7 +11,7 @@
   "baseSpecies": "arceus",
   "baseDataForm": null,
   "imgSprite": "arceus-ground",
-  "imgHome": "0401-0500/0493-ground",
+  "imgHome": "0493-ground",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "arceusground",
   "veekunSlug": "arceus-ground",
-  "veekunFormId": 10050,
-  "title": "Arceus (Ground)"
+  "veekunFormId": 10050
 }

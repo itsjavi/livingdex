@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "kadabra",
-  "imgHome": "0001-0100/0064",
+  "imgHome": "0064",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "kadabra",
   "veekunSlug": "kadabra",
-  "veekunFormId": 64,
-  "title": "Kadabra"
+  "veekunFormId": 64
 }

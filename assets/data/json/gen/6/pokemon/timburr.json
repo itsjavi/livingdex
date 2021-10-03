@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "timburr",
-  "imgHome": "0501-0600/0532",
+  "imgHome": "0532",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "timburr",
   "veekunSlug": "timburr",
-  "veekunFormId": 532,
-  "title": "Timburr"
+  "veekunFormId": 532
 }

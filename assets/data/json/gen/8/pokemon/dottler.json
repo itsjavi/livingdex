@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "dottler",
-  "imgHome": "0801-0900/0825",
+  "imgHome": "0825",
   "dataGen": 8,
   "type1": "bug",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dottler",
   "veekunSlug": "dottler",
-  "veekunFormId": 825,
-  "title": "Dottler"
+  "veekunFormId": 825
 }

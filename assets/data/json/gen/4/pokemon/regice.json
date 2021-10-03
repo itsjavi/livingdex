@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "regice",
-  "imgHome": "0301-0400/0378",
+  "imgHome": "0378",
   "dataGen": 8,
   "type1": "ice",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "regice",
   "veekunSlug": "regice",
-  "veekunFormId": 378,
-  "title": "Regice"
+  "veekunFormId": 378
 }

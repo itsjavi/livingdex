@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "diglett",
-  "imgHome": "0001-0100/0050",
+  "imgHome": "0050",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "diglett",
   "veekunSlug": "diglett",
-  "veekunFormId": 50,
-  "title": "Diglett"
+  "veekunFormId": 50
 }

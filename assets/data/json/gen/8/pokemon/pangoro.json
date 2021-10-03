@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "pangoro",
-  "imgHome": "0601-0700/0675",
+  "imgHome": "0675",
   "dataGen": 8,
   "type1": "fighting",
   "type2": "dark",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "pangoro",
   "veekunSlug": "pangoro",
-  "veekunFormId": 675,
-  "title": "Pangoro"
+  "veekunFormId": 675
 }

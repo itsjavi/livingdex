@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "amoonguss",
-  "imgHome": "0501-0600/0591",
+  "imgHome": "0591",
   "dataGen": 8,
   "type1": "grass",
   "type2": "poison",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "amoonguss",
   "veekunSlug": "amoonguss",
-  "veekunFormId": 591,
-  "title": "Amoonguss"
+  "veekunFormId": 591
 }

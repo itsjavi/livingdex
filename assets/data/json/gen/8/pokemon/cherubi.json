@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "cherubi",
-  "imgHome": "0401-0500/0420",
+  "imgHome": "0420",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cherubi",
   "veekunSlug": "cherubi",
-  "veekunFormId": 420,
-  "title": "Cherubi"
+  "veekunFormId": 420
 }

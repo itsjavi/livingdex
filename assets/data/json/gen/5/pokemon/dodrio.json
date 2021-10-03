@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "dodrio",
-  "imgHome": "0001-0100/0085",
+  "imgHome": "0085",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dodrio",
   "veekunSlug": "dodrio",
-  "veekunFormId": 85,
-  "title": "Dodrio"
+  "veekunFormId": 85
 }

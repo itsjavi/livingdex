@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "type-null",
-  "imgHome": "0701-0800/0772",
+  "imgHome": "0772",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "typenull",
   "veekunSlug": "type-null",
-  "veekunFormId": 772,
-  "title": "Type: Null"
+  "veekunFormId": 772
 }

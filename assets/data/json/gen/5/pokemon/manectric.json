@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "manectric",
-  "imgHome": "0301-0400/0310",
+  "imgHome": "0310",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "manectric",
   "veekunSlug": "manectric",
-  "veekunFormId": 310,
-  "title": "Manectric"
+  "veekunFormId": 310
 }

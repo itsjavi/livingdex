@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "goodra",
-  "imgHome": "0701-0800/0706",
+  "imgHome": "0706",
   "dataGen": 8,
   "type1": "dragon",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "goodra",
   "veekunSlug": "goodra",
-  "veekunFormId": 706,
-  "title": "Goodra"
+  "veekunFormId": 706
 }

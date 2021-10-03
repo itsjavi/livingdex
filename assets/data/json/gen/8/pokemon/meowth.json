@@ -15,7 +15,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "meowth",
-  "imgHome": "0001-0100/0052",
+  "imgHome": "0052",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -67,6 +67,5 @@
   "isHomeStorable": true,
   "showdownSlug": "meowth",
   "veekunSlug": "meowth",
-  "veekunFormId": 52,
-  "title": "Meowth"
+  "veekunFormId": 52
 }

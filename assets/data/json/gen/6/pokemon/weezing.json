@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "weezing",
-  "imgHome": "0101-0200/0110",
+  "imgHome": "0110",
   "dataGen": 8,
   "type1": "poison",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "weezing",
   "veekunSlug": "weezing",
-  "veekunFormId": 110,
-  "title": "Weezing"
+  "veekunFormId": 110
 }

@@ -11,7 +11,7 @@
   "baseSpecies": "tyranitar",
   "baseDataForm": null,
   "imgSprite": "tyranitar-mega",
-  "imgHome": "0201-0300/0248-mega",
+  "imgHome": "0248-mega",
   "dataGen": 8,
   "type1": "rock",
   "type2": "dark",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "tyranitarmega",
   "veekunSlug": "tyranitar-mega",
-  "veekunFormId": 10149,
-  "title": "Tyranitar (Mega)"
+  "veekunFormId": 10149
 }

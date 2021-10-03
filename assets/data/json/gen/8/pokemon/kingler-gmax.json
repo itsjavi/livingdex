@@ -11,7 +11,7 @@
   "baseSpecies": "kingler",
   "baseDataForm": null,
   "imgSprite": "kingler-gmax",
-  "imgHome": "0001-0100/0099-gmax",
+  "imgHome": "0099-gmax",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "kinglergmax",
   "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Kingler (Gigantamax)"
+  "veekunFormId": null
 }

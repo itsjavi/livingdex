@@ -11,7 +11,7 @@
   "baseSpecies": "deoxys",
   "baseDataForm": null,
   "imgSprite": "deoxys-defense",
-  "imgHome": "0301-0400/0386-defense",
+  "imgHome": "0386-defense",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "deoxysdefense",
   "veekunSlug": "deoxys-defense",
-  "veekunFormId": 10032,
-  "title": "Deoxys (Defense)"
+  "veekunFormId": 10032
 }

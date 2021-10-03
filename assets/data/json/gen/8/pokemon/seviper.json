@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "seviper",
-  "imgHome": "0301-0400/0336",
+  "imgHome": "0336",
   "dataGen": 8,
   "type1": "poison",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "seviper",
   "veekunSlug": "seviper",
-  "veekunFormId": 336,
-  "title": "Seviper"
+  "veekunFormId": 336
 }

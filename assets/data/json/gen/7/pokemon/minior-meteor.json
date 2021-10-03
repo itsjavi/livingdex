@@ -11,7 +11,7 @@
   "baseSpecies": "minior",
   "baseDataForm": null,
   "imgSprite": "minior",
-  "imgHome": "0701-0800/0774",
+  "imgHome": "0774",
   "dataGen": 8,
   "type1": "rock",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "miniormeteor",
   "veekunSlug": "minior-red-meteor",
-  "veekunFormId": 774,
-  "title": "Minior (Meteor)"
+  "veekunFormId": 774
 }

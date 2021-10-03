@@ -11,7 +11,7 @@
   "baseSpecies": "oricorio",
   "baseDataForm": null,
   "imgSprite": "oricorio-pau",
-  "imgHome": "0701-0800/0741-pau",
+  "imgHome": "0741-pau",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "oricoriopau",
   "veekunSlug": "oricorio-pau",
-  "veekunFormId": 10226,
-  "title": "Oricorio (Pa'u)"
+  "veekunFormId": 10226
 }

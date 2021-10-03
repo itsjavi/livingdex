@@ -11,7 +11,7 @@
   "baseSpecies": "coalossal",
   "baseDataForm": null,
   "imgSprite": "coalossal-gmax",
-  "imgHome": "0801-0900/0839-gmax",
+  "imgHome": "0839-gmax",
   "dataGen": 8,
   "type1": "rock",
   "type2": "fire",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "coalossalgmax",
   "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Coalossal (Gigantamax)"
+  "veekunFormId": null
 }

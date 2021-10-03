@@ -11,7 +11,7 @@
   "baseSpecies": "raichu",
   "baseDataForm": null,
   "imgSprite": "raichu-alola",
-  "imgHome": "0001-0100/0026-alola",
+  "imgHome": "0026-alola",
   "dataGen": 8,
   "type1": "electric",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "raichualola",
   "veekunSlug": "raichu-alola",
-  "veekunFormId": 10202,
-  "title": "Raichu (Alola)"
+  "veekunFormId": 10202
 }

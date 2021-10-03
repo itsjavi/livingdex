@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "metang",
-  "imgHome": "0301-0400/0375",
+  "imgHome": "0375",
   "dataGen": 8,
   "type1": "steel",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "metang",
   "veekunSlug": "metang",
-  "veekunFormId": 375,
-  "title": "Metang"
+  "veekunFormId": 375
 }

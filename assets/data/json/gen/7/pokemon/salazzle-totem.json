@@ -11,7 +11,7 @@
   "baseSpecies": "salazzle",
   "baseDataForm": null,
   "imgSprite": "salazzle",
-  "imgHome": "0701-0800/0758",
+  "imgHome": "0758",
   "dataGen": 8,
   "type1": "poison",
   "type2": "fire",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "salazzletotem",
   "veekunSlug": "salazzle-totem",
-  "veekunFormId": 10231,
-  "title": "Salazzle (Totem)"
+  "veekunFormId": 10231
 }

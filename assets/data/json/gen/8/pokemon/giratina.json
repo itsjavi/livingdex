@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "giratina",
-  "imgHome": "0401-0500/0487",
+  "imgHome": "0487",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "dragon",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "giratina",
   "veekunSlug": "giratina-altered",
-  "veekunFormId": 487,
-  "title": "Giratina"
+  "veekunFormId": 487
 }

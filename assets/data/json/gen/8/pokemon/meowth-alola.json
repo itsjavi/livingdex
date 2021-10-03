@@ -11,7 +11,7 @@
   "baseSpecies": "meowth",
   "baseDataForm": null,
   "imgSprite": "meowth-alola",
-  "imgHome": "0001-0100/0052-alola",
+  "imgHome": "0052-alola",
   "dataGen": 8,
   "type1": "dark",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "meowthalola",
   "veekunSlug": "meowth-alola",
-  "veekunFormId": 10209,
-  "title": "Meowth (Alola)"
+  "veekunFormId": 10209
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "dedenne",
-  "imgHome": "0701-0800/0702",
+  "imgHome": "0702",
   "dataGen": 8,
   "type1": "electric",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dedenne",
   "veekunSlug": "dedenne",
-  "veekunFormId": 702,
-  "title": "Dedenne"
+  "veekunFormId": 702
 }

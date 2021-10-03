@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "bayleef",
-  "imgHome": "0101-0200/0153",
+  "imgHome": "0153",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "bayleef",
   "veekunSlug": "bayleef",
-  "veekunFormId": 153,
-  "title": "Bayleef"
+  "veekunFormId": 153
 }

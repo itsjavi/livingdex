@@ -11,7 +11,7 @@
   "baseSpecies": "darmanitan",
   "baseDataForm": null,
   "imgSprite": "darmanitan-zen",
-  "imgHome": "0501-0600/0555-zen",
+  "imgHome": "0555-zen",
   "dataGen": 8,
   "type1": "fire",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "darmanitanzen",
   "veekunSlug": "darmanitan-zen",
-  "veekunFormId": 10067,
-  "title": "Darmanitan (Zen)"
+  "veekunFormId": 10067
 }

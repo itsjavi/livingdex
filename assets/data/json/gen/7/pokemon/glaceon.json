@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "glaceon",
-  "imgHome": "0401-0500/0471",
+  "imgHome": "0471",
   "dataGen": 8,
   "type1": "ice",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "glaceon",
   "veekunSlug": "glaceon",
-  "veekunFormId": 471,
-  "title": "Glaceon"
+  "veekunFormId": 471
 }

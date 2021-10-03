@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "blaziken",
-  "imgHome": "0201-0300/0257",
+  "imgHome": "0257",
   "dataGen": 8,
   "type1": "fire",
   "type2": "fighting",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "blaziken",
   "veekunSlug": "blaziken",
-  "veekunFormId": 257,
-  "title": "Blaziken"
+  "veekunFormId": 257
 }

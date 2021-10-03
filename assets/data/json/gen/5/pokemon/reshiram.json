@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "reshiram",
-  "imgHome": "0601-0700/0643",
+  "imgHome": "0643",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "fire",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "reshiram",
   "veekunSlug": "reshiram",
-  "veekunFormId": 643,
-  "title": "Reshiram"
+  "veekunFormId": 643
 }

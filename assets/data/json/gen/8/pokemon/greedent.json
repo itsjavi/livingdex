@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "greedent",
-  "imgHome": "0801-0900/0820",
+  "imgHome": "0820",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "greedent",
   "veekunSlug": "greedent",
-  "veekunFormId": 820,
-  "title": "Greedent"
+  "veekunFormId": 820
 }

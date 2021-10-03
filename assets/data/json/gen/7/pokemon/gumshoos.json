@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "gumshoos",
-  "imgHome": "0701-0800/0735",
+  "imgHome": "0735",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gumshoos",
   "veekunSlug": "gumshoos",
-  "veekunFormId": 735,
-  "title": "Gumshoos"
+  "veekunFormId": 735
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "kingdra",
-  "imgHome": "0201-0300/0230",
+  "imgHome": "0230",
   "dataGen": 8,
   "type1": "water",
   "type2": "dragon",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "kingdra",
   "veekunSlug": "kingdra",
-  "veekunFormId": 230,
-  "title": "Kingdra"
+  "veekunFormId": 230
 }

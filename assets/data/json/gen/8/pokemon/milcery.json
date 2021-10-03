@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "milcery",
-  "imgHome": "0801-0900/0868",
+  "imgHome": "0868",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "milcery",
   "veekunSlug": "milcery",
-  "veekunFormId": 868,
-  "title": "Milcery"
+  "veekunFormId": 868
 }

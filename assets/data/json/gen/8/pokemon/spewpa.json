@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "spewpa",
-  "imgHome": "0601-0700/0665",
+  "imgHome": "0665",
   "dataGen": 8,
   "type1": "bug",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "spewpa",
   "veekunSlug": "spewpa-icy-snow",
-  "veekunFormId": 665,
-  "title": "Spewpa"
+  "veekunFormId": 665
 }

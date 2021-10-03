@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "espeon",
-  "imgHome": "0101-0200/0196",
+  "imgHome": "0196",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "espeon",
   "veekunSlug": "espeon",
-  "veekunFormId": 196,
-  "title": "Espeon"
+  "veekunFormId": 196
 }

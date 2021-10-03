@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "komala",
-  "imgHome": "0701-0800/0775",
+  "imgHome": "0775",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "komala",
   "veekunSlug": "komala",
-  "veekunFormId": 775,
-  "title": "Komala"
+  "veekunFormId": 775
 }

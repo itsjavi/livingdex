@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "poliwag",
-  "imgHome": "0001-0100/0060",
+  "imgHome": "0060",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "poliwag",
   "veekunSlug": "poliwag",
-  "veekunFormId": 60,
-  "title": "Poliwag"
+  "veekunFormId": 60
 }

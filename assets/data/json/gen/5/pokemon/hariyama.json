@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "hariyama",
-  "imgHome": "0201-0300/0297",
+  "imgHome": "0297",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "hariyama",
   "veekunSlug": "hariyama",
-  "veekunFormId": 297,
-  "title": "Hariyama"
+  "veekunFormId": 297
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "archen",
-  "imgHome": "0501-0600/0566",
+  "imgHome": "0566",
   "dataGen": 8,
   "type1": "rock",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "archen",
   "veekunSlug": "archen",
-  "veekunFormId": 566,
-  "title": "Archen"
+  "veekunFormId": 566
 }

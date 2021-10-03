@@ -11,7 +11,7 @@
   "baseSpecies": "silvally",
   "baseDataForm": null,
   "imgSprite": "silvally-ground",
-  "imgHome": "0701-0800/0773-ground",
+  "imgHome": "0773-ground",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "silvallyground",
   "veekunSlug": "silvally-ground",
-  "veekunFormId": 10235,
-  "title": "Silvally (Ground)"
+  "veekunFormId": 10235
 }

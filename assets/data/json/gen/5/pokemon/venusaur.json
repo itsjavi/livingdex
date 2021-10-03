@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "venusaur",
-  "imgHome": "0001-0100/0003",
+  "imgHome": "0003",
   "dataGen": 8,
   "type1": "grass",
   "type2": "poison",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "venusaur",
   "veekunSlug": "venusaur",
-  "veekunFormId": 3,
-  "title": "Venusaur"
+  "veekunFormId": 3
 }

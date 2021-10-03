@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "cosmoem",
-  "imgHome": "0701-0800/0790",
+  "imgHome": "0790",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cosmoem",
   "veekunSlug": "cosmoem",
-  "veekunFormId": 790,
-  "title": "Cosmoem"
+  "veekunFormId": 790
 }

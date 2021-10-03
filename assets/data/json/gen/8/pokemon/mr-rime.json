@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "mr-rime",
-  "imgHome": "0801-0900/0866",
+  "imgHome": "0866",
   "dataGen": 8,
   "type1": "ice",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "mrrime",
   "veekunSlug": "mr-rime",
-  "veekunFormId": 866,
-  "title": "Mr. Rime"
+  "veekunFormId": 866
 }

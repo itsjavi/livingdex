@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "chimecho",
-  "imgHome": "0301-0400/0358",
+  "imgHome": "0358",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "chimecho",
   "veekunSlug": "chimecho",
-  "veekunFormId": 358,
-  "title": "Chimecho"
+  "veekunFormId": 358
 }

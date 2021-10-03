@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "poliwrath",
-  "imgHome": "0001-0100/0062",
+  "imgHome": "0062",
   "dataGen": 8,
   "type1": "water",
   "type2": "fighting",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "poliwrath",
   "veekunSlug": "poliwrath",
-  "veekunFormId": 62,
-  "title": "Poliwrath"
+  "veekunFormId": 62
 }

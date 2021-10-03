@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "sunkern",
-  "imgHome": "0101-0200/0191",
+  "imgHome": "0191",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "sunkern",
   "veekunSlug": "sunkern",
-  "veekunFormId": 191,
-  "title": "Sunkern"
+  "veekunFormId": 191
 }

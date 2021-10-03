@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "litten",
-  "imgHome": "0701-0800/0725",
+  "imgHome": "0725",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "litten",
   "veekunSlug": "litten",
-  "veekunFormId": 725,
-  "title": "Litten"
+  "veekunFormId": 725
 }

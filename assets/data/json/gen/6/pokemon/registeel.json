@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "registeel",
-  "imgHome": "0301-0400/0379",
+  "imgHome": "0379",
   "dataGen": 8,
   "type1": "steel",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "registeel",
   "veekunSlug": "registeel",
-  "veekunFormId": 379,
-  "title": "Registeel"
+  "veekunFormId": 379
 }

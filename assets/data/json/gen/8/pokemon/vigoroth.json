@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "vigoroth",
-  "imgHome": "0201-0300/0288",
+  "imgHome": "0288",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "vigoroth",
   "veekunSlug": "vigoroth",
-  "veekunFormId": 288,
-  "title": "Vigoroth"
+  "veekunFormId": 288
 }

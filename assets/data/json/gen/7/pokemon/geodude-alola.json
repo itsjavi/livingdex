@@ -11,7 +11,7 @@
   "baseSpecies": "geodude",
   "baseDataForm": null,
   "imgSprite": "geodude-alola",
-  "imgHome": "0001-0100/0074-alola",
+  "imgHome": "0074-alola",
   "dataGen": 8,
   "type1": "rock",
   "type2": "electric",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "geodudealola",
   "veekunSlug": "geodude-alola",
-  "veekunFormId": 10211,
-  "title": "Geodude (Alola)"
+  "veekunFormId": 10211
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "absol",
-  "imgHome": "0301-0400/0359",
+  "imgHome": "0359",
   "dataGen": 8,
   "type1": "dark",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "absol",
   "veekunSlug": "absol",
-  "veekunFormId": 359,
-  "title": "Absol"
+  "veekunFormId": 359
 }

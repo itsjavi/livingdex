@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "scolipede",
-  "imgHome": "0501-0600/0545",
+  "imgHome": "0545",
   "dataGen": 8,
   "type1": "bug",
   "type2": "poison",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "scolipede",
   "veekunSlug": "scolipede",
-  "veekunFormId": 545,
-  "title": "Scolipede"
+  "veekunFormId": 545
 }

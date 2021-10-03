@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "silicobra",
-  "imgHome": "0801-0900/0843",
+  "imgHome": "0843",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "silicobra",
   "veekunSlug": "silicobra",
-  "veekunFormId": 843,
-  "title": "Silicobra"
+  "veekunFormId": 843
 }

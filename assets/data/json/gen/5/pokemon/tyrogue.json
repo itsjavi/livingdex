@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "tyrogue",
-  "imgHome": "0201-0300/0236",
+  "imgHome": "0236",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "tyrogue",
   "veekunSlug": "tyrogue",
-  "veekunFormId": 236,
-  "title": "Tyrogue"
+  "veekunFormId": 236
 }

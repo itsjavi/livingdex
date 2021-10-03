@@ -11,7 +11,7 @@
   "baseSpecies": "groudon",
   "baseDataForm": null,
   "imgSprite": "groudon-primal",
-  "imgHome": "0301-0400/0383-primal",
+  "imgHome": "0383-primal",
   "dataGen": 8,
   "type1": "ground",
   "type2": "fire",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "groudonprimal",
   "veekunSlug": "groudon-primal",
-  "veekunFormId": 10180,
-  "title": "Groudon (Primal)"
+  "veekunFormId": 10180
 }

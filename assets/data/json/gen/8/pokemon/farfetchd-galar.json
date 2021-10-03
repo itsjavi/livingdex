@@ -2,7 +2,7 @@
   "id": 10063,
   "num": 83,
   "slug": "farfetchd-galar",
-  "name": "Farfetch’d-Galar",
+  "name": "Farfetch\u2019d-Galar",
   "gen": 8,
   "forms": [],
   "formName": "Galar",
@@ -11,7 +11,7 @@
   "baseSpecies": "farfetchd",
   "baseDataForm": null,
   "imgSprite": "farfetchd-galar",
-  "imgHome": "0001-0100/0083-galar",
+  "imgHome": "0083-galar",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "farfetchdgalar",
   "veekunSlug": "farfetchd-galar",
-  "veekunFormId": 10325,
-  "title": "Farfetch’d (Galar)"
+  "veekunFormId": 10325
 }

@@ -11,7 +11,7 @@
   "baseSpecies": "rotom",
   "baseDataForm": null,
   "imgSprite": "rotom-frost",
-  "imgHome": "0401-0500/0479-frost",
+  "imgHome": "0479-frost",
   "dataGen": 8,
   "type1": "electric",
   "type2": "ice",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "rotomfrost",
   "veekunSlug": "rotom-frost",
-  "veekunFormId": 10060,
-  "title": "Rotom (Frost)"
+  "veekunFormId": 10060
 }

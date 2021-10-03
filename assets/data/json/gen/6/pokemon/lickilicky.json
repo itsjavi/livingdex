@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "lickilicky",
-  "imgHome": "0401-0500/0463",
+  "imgHome": "0463",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "lickilicky",
   "veekunSlug": "lickilicky",
-  "veekunFormId": 463,
-  "title": "Lickilicky"
+  "veekunFormId": 463
 }

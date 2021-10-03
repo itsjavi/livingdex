@@ -11,7 +11,7 @@
   "baseSpecies": "arceus",
   "baseDataForm": null,
   "imgSprite": "arceus-grass",
-  "imgHome": "0401-0500/0493-grass",
+  "imgHome": "0493-grass",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "arceusgrass",
   "veekunSlug": "arceus-grass",
-  "veekunFormId": 10049,
-  "title": "Arceus (Grass)"
+  "veekunFormId": 10049
 }

@@ -11,7 +11,7 @@
   "baseSpecies": "abomasnow",
   "baseDataForm": null,
   "imgSprite": "abomasnow-mega",
-  "imgHome": "0401-0500/0460-mega",
+  "imgHome": "0460-mega",
   "dataGen": 8,
   "type1": "grass",
   "type2": "ice",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "abomasnowmega",
   "veekunSlug": "abomasnow-mega",
-  "veekunFormId": 10160,
-  "title": "Abomasnow (Mega)"
+  "veekunFormId": 10160
 }

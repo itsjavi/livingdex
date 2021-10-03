@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "dunsparce",
-  "imgHome": "0201-0300/0206",
+  "imgHome": "0206",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dunsparce",
   "veekunSlug": "dunsparce",
-  "veekunFormId": 206,
-  "title": "Dunsparce"
+  "veekunFormId": 206
 }

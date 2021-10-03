@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "beheeyem",
-  "imgHome": "0601-0700/0606",
+  "imgHome": "0606",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "beheeyem",
   "veekunSlug": "beheeyem",
-  "veekunFormId": 606,
-  "title": "Beheeyem"
+  "veekunFormId": 606
 }

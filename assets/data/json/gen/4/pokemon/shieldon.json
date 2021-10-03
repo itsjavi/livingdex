@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "shieldon",
-  "imgHome": "0401-0500/0410",
+  "imgHome": "0410",
   "dataGen": 8,
   "type1": "rock",
   "type2": "steel",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "shieldon",
   "veekunSlug": "shieldon",
-  "veekunFormId": 410,
-  "title": "Shieldon"
+  "veekunFormId": 410
 }

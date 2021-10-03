@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "aggron",
-  "imgHome": "0301-0400/0306",
+  "imgHome": "0306",
   "dataGen": 8,
   "type1": "steel",
   "type2": "rock",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "aggron",
   "veekunSlug": "aggron",
-  "veekunFormId": 306,
-  "title": "Aggron"
+  "veekunFormId": 306
 }

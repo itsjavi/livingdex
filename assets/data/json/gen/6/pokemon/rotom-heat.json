@@ -11,7 +11,7 @@
   "baseSpecies": "rotom",
   "baseDataForm": null,
   "imgSprite": "rotom-heat",
-  "imgHome": "0401-0500/0479-heat",
+  "imgHome": "0479-heat",
   "dataGen": 8,
   "type1": "electric",
   "type2": "fire",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "rotomheat",
   "veekunSlug": "rotom-heat",
-  "veekunFormId": 10058,
-  "title": "Rotom (Heat)"
+  "veekunFormId": 10058
 }

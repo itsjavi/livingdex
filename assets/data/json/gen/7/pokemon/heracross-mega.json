@@ -11,7 +11,7 @@
   "baseSpecies": "heracross",
   "baseDataForm": null,
   "imgSprite": "heracross-mega",
-  "imgHome": "0201-0300/0214-mega",
+  "imgHome": "0214-mega",
   "dataGen": 8,
   "type1": "bug",
   "type2": "fighting",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "heracrossmega",
   "veekunSlug": "heracross-mega",
-  "veekunFormId": 10147,
-  "title": "Heracross (Mega)"
+  "veekunFormId": 10147
 }

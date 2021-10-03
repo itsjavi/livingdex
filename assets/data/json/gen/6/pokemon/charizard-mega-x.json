@@ -11,7 +11,7 @@
   "baseSpecies": "charizard",
   "baseDataForm": null,
   "imgSprite": "charizard-mega-x",
-  "imgHome": "0001-0100/0006-mega-x",
+  "imgHome": "0006-mega-x",
   "dataGen": 8,
   "type1": "fire",
   "type2": "dragon",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "charizardmegax",
   "veekunSlug": "charizard-mega-x",
-  "veekunFormId": 10134,
-  "title": "Charizard (Mega X)"
+  "veekunFormId": 10134
 }

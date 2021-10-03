@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "drizzile",
-  "imgHome": "0801-0900/0817",
+  "imgHome": "0817",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "drizzile",
   "veekunSlug": "drizzile",
-  "veekunFormId": 817,
-  "title": "Drizzile"
+  "veekunFormId": 817
 }

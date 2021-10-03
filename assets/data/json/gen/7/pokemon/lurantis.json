@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "lurantis",
-  "imgHome": "0701-0800/0754",
+  "imgHome": "0754",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "lurantis",
   "veekunSlug": "lurantis",
-  "veekunFormId": 754,
-  "title": "Lurantis"
+  "veekunFormId": 754
 }

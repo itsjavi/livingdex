@@ -11,7 +11,7 @@
   "baseSpecies": "rotom",
   "baseDataForm": null,
   "imgSprite": "rotom-wash",
-  "imgHome": "0401-0500/0479-wash",
+  "imgHome": "0479-wash",
   "dataGen": 8,
   "type1": "electric",
   "type2": "water",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "rotomwash",
   "veekunSlug": "rotom-wash",
-  "veekunFormId": 10059,
-  "title": "Rotom (Wash)"
+  "veekunFormId": 10059
 }

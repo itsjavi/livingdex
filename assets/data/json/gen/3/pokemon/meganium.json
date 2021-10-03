@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "meganium",
-  "imgHome": "0101-0200/0154",
+  "imgHome": "0154",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "meganium",
   "veekunSlug": "meganium",
-  "veekunFormId": 154,
-  "title": "Meganium"
+  "veekunFormId": 154
 }

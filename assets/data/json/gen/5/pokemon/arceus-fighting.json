@@ -11,7 +11,7 @@
   "baseSpecies": "arceus",
   "baseDataForm": null,
   "imgSprite": "arceus-fighting",
-  "imgHome": "0401-0500/0493-fighting",
+  "imgHome": "0493-fighting",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "arceusfighting",
   "veekunSlug": "arceus-fighting",
-  "veekunFormId": 10045,
-  "title": "Arceus (Fighting)"
+  "veekunFormId": 10045
 }

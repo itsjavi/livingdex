@@ -11,7 +11,7 @@
   "baseSpecies": "dugtrio",
   "baseDataForm": null,
   "imgSprite": "dugtrio-alola",
-  "imgHome": "0001-0100/0051-alola",
+  "imgHome": "0051-alola",
   "dataGen": 8,
   "type1": "ground",
   "type2": "steel",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dugtrioalola",
   "veekunSlug": "dugtrio-alola",
-  "veekunFormId": 10208,
-  "title": "Dugtrio (Alola)"
+  "veekunFormId": 10208
 }

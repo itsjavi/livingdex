@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "celebi",
-  "imgHome": "0201-0300/0251",
+  "imgHome": "0251",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "grass",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "celebi",
   "veekunSlug": "celebi",
-  "veekunFormId": 251,
-  "title": "Celebi"
+  "veekunFormId": 251
 }

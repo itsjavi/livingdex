@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "joltik",
-  "imgHome": "0501-0600/0595",
+  "imgHome": "0595",
   "dataGen": 8,
   "type1": "bug",
   "type2": "electric",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "joltik",
   "veekunSlug": "joltik",
-  "veekunFormId": 595,
-  "title": "Joltik"
+  "veekunFormId": 595
 }

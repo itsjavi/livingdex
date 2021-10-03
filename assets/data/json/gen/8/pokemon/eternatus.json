@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "eternatus",
-  "imgHome": "0801-0900/0890",
+  "imgHome": "0890",
   "dataGen": 8,
   "type1": "poison",
   "type2": "dragon",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "eternatus",
   "veekunSlug": "eternatus",
-  "veekunFormId": 890,
-  "title": "Eternatus"
+  "veekunFormId": 890
 }

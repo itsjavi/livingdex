@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "solgaleo",
-  "imgHome": "0701-0800/0791",
+  "imgHome": "0791",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "steel",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "solgaleo",
   "veekunSlug": "solgaleo",
-  "veekunFormId": 791,
-  "title": "Solgaleo"
+  "veekunFormId": 791
 }

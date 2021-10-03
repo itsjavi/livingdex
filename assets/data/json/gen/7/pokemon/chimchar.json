@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "chimchar",
-  "imgHome": "0301-0400/0390",
+  "imgHome": "0390",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "chimchar",
   "veekunSlug": "chimchar",
-  "veekunFormId": 390,
-  "title": "Chimchar"
+  "veekunFormId": 390
 }

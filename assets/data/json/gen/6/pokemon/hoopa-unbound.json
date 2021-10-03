@@ -11,7 +11,7 @@
   "baseSpecies": "hoopa",
   "baseDataForm": null,
   "imgSprite": "hoopa-unbound",
-  "imgHome": "0701-0800/0720-unbound",
+  "imgHome": "0720-unbound",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "dark",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "hoopaunbound",
   "veekunSlug": "hoopa-unbound",
-  "veekunFormId": 10188,
-  "title": "Hoopa (Unbound)"
+  "veekunFormId": 10188
 }

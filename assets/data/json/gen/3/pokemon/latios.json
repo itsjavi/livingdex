@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "latios",
-  "imgHome": "0301-0400/0381",
+  "imgHome": "0381",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "latios",
   "veekunSlug": "latios",
-  "veekunFormId": 381,
-  "title": "Latios"
+  "veekunFormId": 381
 }

@@ -11,7 +11,7 @@
   "baseSpecies": "absol",
   "baseDataForm": null,
   "imgSprite": "absol-mega",
-  "imgHome": "0301-0400/0359-mega",
+  "imgHome": "0359-mega",
   "dataGen": 8,
   "type1": "dark",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "absolmega",
   "veekunSlug": "absol-mega",
-  "veekunFormId": 10157,
-  "title": "Absol (Mega)"
+  "veekunFormId": 10157
 }

@@ -2,7 +2,7 @@
   "id": 865,
   "num": 865,
   "slug": "sirfetchd",
-  "name": "Sirfetch’d",
+  "name": "Sirfetch\u2019d",
   "gen": 8,
   "forms": [],
   "formName": null,
@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "sirfetchd",
-  "imgHome": "0801-0900/0865",
+  "imgHome": "0865",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "sirfetchd",
   "veekunSlug": "sirfetchd",
-  "veekunFormId": 865,
-  "title": "Sirfetch’d"
+  "veekunFormId": 865
 }

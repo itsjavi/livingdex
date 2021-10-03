@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "clamperl",
-  "imgHome": "0301-0400/0366",
+  "imgHome": "0366",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "clamperl",
   "veekunSlug": "clamperl",
-  "veekunFormId": 366,
-  "title": "Clamperl"
+  "veekunFormId": 366
 }

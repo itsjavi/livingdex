@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "primeape",
-  "imgHome": "0001-0100/0057",
+  "imgHome": "0057",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "primeape",
   "veekunSlug": "primeape",
-  "veekunFormId": 57,
-  "title": "Primeape"
+  "veekunFormId": 57
 }

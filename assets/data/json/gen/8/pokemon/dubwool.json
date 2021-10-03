@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "dubwool",
-  "imgHome": "0801-0900/0832",
+  "imgHome": "0832",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dubwool",
   "veekunSlug": "dubwool",
-  "veekunFormId": 832,
-  "title": "Dubwool"
+  "veekunFormId": 832
 }

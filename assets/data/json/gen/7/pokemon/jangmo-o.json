@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "jangmo-o",
-  "imgHome": "0701-0800/0782",
+  "imgHome": "0782",
   "dataGen": 8,
   "type1": "dragon",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "jangmoo",
   "veekunSlug": "jangmo-o",
-  "veekunFormId": 782,
-  "title": "Jangmo (o)"
+  "veekunFormId": 782
 }

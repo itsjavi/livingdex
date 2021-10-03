@@ -11,7 +11,7 @@
   "baseSpecies": "arceus",
   "baseDataForm": null,
   "imgSprite": "arceus-rock",
-  "imgHome": "0401-0500/0493-rock",
+  "imgHome": "0493-rock",
   "dataGen": 8,
   "type1": "rock",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "arceusrock",
   "veekunSlug": "arceus-rock",
-  "veekunFormId": 10054,
-  "title": "Arceus (Rock)"
+  "veekunFormId": 10054
 }

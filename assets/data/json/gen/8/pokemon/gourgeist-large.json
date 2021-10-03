@@ -11,7 +11,7 @@
   "baseSpecies": "gourgeist",
   "baseDataForm": null,
   "imgSprite": "gourgeist-large",
-  "imgHome": "0701-0800/0711-large",
+  "imgHome": "0711-large",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "grass",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gourgeistlarge",
   "veekunSlug": "gourgeist-large",
-  "veekunFormId": 10130,
-  "title": "Gourgeist (Large)"
+  "veekunFormId": 10130
 }

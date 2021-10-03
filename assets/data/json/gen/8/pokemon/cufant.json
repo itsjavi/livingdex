@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "cufant",
-  "imgHome": "0801-0900/0878",
+  "imgHome": "0878",
   "dataGen": 8,
   "type1": "steel",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cufant",
   "veekunSlug": "cufant",
-  "veekunFormId": 878,
-  "title": "Cufant"
+  "veekunFormId": 878
 }

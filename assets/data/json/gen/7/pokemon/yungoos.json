@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "yungoos",
-  "imgHome": "0701-0800/0734",
+  "imgHome": "0734",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "yungoos",
   "veekunSlug": "yungoos",
-  "veekunFormId": 734,
-  "title": "Yungoos"
+  "veekunFormId": 734
 }

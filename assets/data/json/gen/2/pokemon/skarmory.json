@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "skarmory",
-  "imgHome": "0201-0300/0227",
+  "imgHome": "0227",
   "dataGen": 8,
   "type1": "steel",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "skarmory",
   "veekunSlug": "skarmory",
-  "veekunFormId": 227,
-  "title": "Skarmory"
+  "veekunFormId": 227
 }

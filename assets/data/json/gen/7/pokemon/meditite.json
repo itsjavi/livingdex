@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "meditite",
-  "imgHome": "0301-0400/0307",
+  "imgHome": "0307",
   "dataGen": 8,
   "type1": "fighting",
   "type2": "psychic",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "meditite",
   "veekunSlug": "meditite",
-  "veekunFormId": 307,
-  "title": "Meditite"
+  "veekunFormId": 307
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "cleffa",
-  "imgHome": "0101-0200/0173",
+  "imgHome": "0173",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cleffa",
   "veekunSlug": "cleffa",
-  "veekunFormId": 173,
-  "title": "Cleffa"
+  "veekunFormId": 173
 }

@@ -16,7 +16,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "florges",
-  "imgHome": "0601-0700/0671",
+  "imgHome": "0671",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -68,6 +68,5 @@
   "isHomeStorable": true,
   "showdownSlug": "florges",
   "veekunSlug": "florges-red",
-  "veekunFormId": 671,
-  "title": "Florges"
+  "veekunFormId": 671
 }

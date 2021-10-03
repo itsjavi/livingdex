@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "kangaskhan",
-  "imgHome": "0101-0200/0115",
+  "imgHome": "0115",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "kangaskhan",
   "veekunSlug": "kangaskhan",
-  "veekunFormId": 115,
-  "title": "Kangaskhan"
+  "veekunFormId": 115
 }

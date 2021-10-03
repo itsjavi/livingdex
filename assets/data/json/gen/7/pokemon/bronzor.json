@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "bronzor",
-  "imgHome": "0401-0500/0436",
+  "imgHome": "0436",
   "dataGen": 8,
   "type1": "steel",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "bronzor",
   "veekunSlug": "bronzor",
-  "veekunFormId": 436,
-  "title": "Bronzor"
+  "veekunFormId": 436
 }

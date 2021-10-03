@@ -11,7 +11,7 @@
   "baseSpecies": "meowth",
   "baseDataForm": null,
   "imgSprite": "meowth-galar",
-  "imgHome": "0001-0100/0052-galar",
+  "imgHome": "0052-galar",
   "dataGen": 8,
   "type1": "steel",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "meowthgalar",
   "veekunSlug": "meowth-galar",
-  "veekunFormId": 10320,
-  "title": "Meowth (Galar)"
+  "veekunFormId": 10320
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "skwovet",
-  "imgHome": "0801-0900/0819",
+  "imgHome": "0819",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "skwovet",
   "veekunSlug": "skwovet",
-  "veekunFormId": 819,
-  "title": "Skwovet"
+  "veekunFormId": 819
 }

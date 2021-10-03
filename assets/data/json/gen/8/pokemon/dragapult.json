@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "dragapult",
-  "imgHome": "0801-0900/0887",
+  "imgHome": "0887",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "ghost",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dragapult",
   "veekunSlug": "dragapult",
-  "veekunFormId": 887,
-  "title": "Dragapult"
+  "veekunFormId": 887
 }

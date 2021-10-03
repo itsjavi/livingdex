@@ -11,7 +11,7 @@
   "baseSpecies": "necrozma",
   "baseDataForm": null,
   "imgSprite": "necrozma-dawn",
-  "imgHome": "0701-0800/0800-dawn-wings",
+  "imgHome": "0800-dawn-wings",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "ghost",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "necrozmadawnwings",
   "veekunSlug": "necrozma-dawn",
-  "veekunFormId": 10315,
-  "title": "Necrozma (Dawn Wings)"
+  "veekunFormId": 10315
 }

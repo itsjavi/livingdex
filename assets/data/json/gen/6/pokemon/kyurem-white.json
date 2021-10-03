@@ -11,7 +11,7 @@
   "baseSpecies": "kyurem",
   "baseDataForm": null,
   "imgSprite": "kyurem-white",
-  "imgHome": "0601-0700/0646-white",
+  "imgHome": "0646-white",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "ice",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "kyuremwhite",
   "veekunSlug": "kyurem-white",
-  "veekunFormId": 10083,
-  "title": "Kyurem (White)"
+  "veekunFormId": 10083
 }

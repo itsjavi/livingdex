@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "primarina",
-  "imgHome": "0701-0800/0730",
+  "imgHome": "0730",
   "dataGen": 8,
   "type1": "water",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "primarina",
   "veekunSlug": "primarina",
-  "veekunFormId": 730,
-  "title": "Primarina"
+  "veekunFormId": 730
 }

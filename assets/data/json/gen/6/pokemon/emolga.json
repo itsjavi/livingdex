@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "emolga",
-  "imgHome": "0501-0600/0587",
+  "imgHome": "0587",
   "dataGen": 8,
   "type1": "electric",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "emolga",
   "veekunSlug": "emolga",
-  "veekunFormId": 587,
-  "title": "Emolga"
+  "veekunFormId": 587
 }

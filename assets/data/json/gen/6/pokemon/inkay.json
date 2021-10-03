@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "inkay",
-  "imgHome": "0601-0700/0686",
+  "imgHome": "0686",
   "dataGen": 8,
   "type1": "dark",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "inkay",
   "veekunSlug": "inkay",
-  "veekunFormId": 686,
-  "title": "Inkay"
+  "veekunFormId": 686
 }

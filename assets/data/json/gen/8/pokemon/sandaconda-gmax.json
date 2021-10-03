@@ -11,7 +11,7 @@
   "baseSpecies": "sandaconda",
   "baseDataForm": null,
   "imgSprite": "sandaconda-gmax",
-  "imgHome": "0801-0900/0844-gmax",
+  "imgHome": "0844-gmax",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "sandacondagmax",
   "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Sandaconda (Gigantamax)"
+  "veekunFormId": null
 }

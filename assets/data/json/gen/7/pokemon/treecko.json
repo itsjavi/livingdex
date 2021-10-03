@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "treecko",
-  "imgHome": "0201-0300/0252",
+  "imgHome": "0252",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "treecko",
   "veekunSlug": "treecko",
-  "veekunFormId": 252,
-  "title": "Treecko"
+  "veekunFormId": 252
 }

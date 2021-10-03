@@ -11,7 +11,7 @@
   "baseSpecies": "oricorio",
   "baseDataForm": null,
   "imgSprite": "oricorio-pom-pom",
-  "imgHome": "0701-0800/0741-pom-pom",
+  "imgHome": "0741-pom-pom",
   "dataGen": 8,
   "type1": "electric",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "oricoriopompom",
   "veekunSlug": "oricorio-pom-pom",
-  "veekunFormId": 10225,
-  "title": "Oricorio (Pom Pom)"
+  "veekunFormId": 10225
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "mismagius",
-  "imgHome": "0401-0500/0429",
+  "imgHome": "0429",
   "dataGen": 8,
   "type1": "ghost",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "mismagius",
   "veekunSlug": "mismagius",
-  "veekunFormId": 429,
-  "title": "Mismagius"
+  "veekunFormId": 429
 }

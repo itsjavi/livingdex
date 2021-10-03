@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "malamar",
-  "imgHome": "0601-0700/0687",
+  "imgHome": "0687",
   "dataGen": 8,
   "type1": "dark",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "malamar",
   "veekunSlug": "malamar",
-  "veekunFormId": 687,
-  "title": "Malamar"
+  "veekunFormId": 687
 }

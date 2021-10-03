@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "arctozolt",
-  "imgHome": "0801-0900/0881",
+  "imgHome": "0881",
   "dataGen": 8,
   "type1": "electric",
   "type2": "ice",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "arctozolt",
   "veekunSlug": "arctozolt",
-  "veekunFormId": 881,
-  "title": "Arctozolt"
+  "veekunFormId": 881
 }

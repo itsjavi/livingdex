@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "helioptile",
-  "imgHome": "0601-0700/0694",
+  "imgHome": "0694",
   "dataGen": 8,
   "type1": "electric",
   "type2": "normal",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "helioptile",
   "veekunSlug": "helioptile",
-  "veekunFormId": 694,
-  "title": "Helioptile"
+  "veekunFormId": 694
 }

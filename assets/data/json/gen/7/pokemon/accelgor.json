@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "accelgor",
-  "imgHome": "0601-0700/0617",
+  "imgHome": "0617",
   "dataGen": 8,
   "type1": "bug",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "accelgor",
   "veekunSlug": "accelgor",
-  "veekunFormId": 617,
-  "title": "Accelgor"
+  "veekunFormId": 617
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "exeggcute",
-  "imgHome": "0101-0200/0102",
+  "imgHome": "0102",
   "dataGen": 8,
   "type1": "grass",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "exeggcute",
   "veekunSlug": "exeggcute",
-  "veekunFormId": 102,
-  "title": "Exeggcute"
+  "veekunFormId": 102
 }

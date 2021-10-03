@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "dustox",
-  "imgHome": "0201-0300/0269",
+  "imgHome": "0269",
   "dataGen": 8,
   "type1": "bug",
   "type2": "poison",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dustox",
   "veekunSlug": "dustox",
-  "veekunFormId": 269,
-  "title": "Dustox"
+  "veekunFormId": 269
 }

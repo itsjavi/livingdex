@@ -11,7 +11,7 @@
   "baseSpecies": "grimmsnarl",
   "baseDataForm": null,
   "imgSprite": "grimmsnarl-gmax",
-  "imgHome": "0801-0900/0861-gmax",
+  "imgHome": "0861-gmax",
   "dataGen": 8,
   "type1": "dark",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "grimmsnarlgmax",
   "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Grimmsnarl (Gigantamax)"
+  "veekunFormId": null
 }

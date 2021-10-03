@@ -11,7 +11,7 @@
   "baseSpecies": "eevee",
   "baseDataForm": null,
   "imgSprite": "eevee-gmax",
-  "imgHome": "0101-0200/0133-gmax",
+  "imgHome": "0133-gmax",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "eeveegmax",
   "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Eevee (Gigantamax)"
+  "veekunFormId": null
 }

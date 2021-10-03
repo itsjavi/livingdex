@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "mightyena",
-  "imgHome": "0201-0300/0262",
+  "imgHome": "0262",
   "dataGen": 8,
   "type1": "dark",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "mightyena",
   "veekunSlug": "mightyena",
-  "veekunFormId": 262,
-  "title": "Mightyena"
+  "veekunFormId": 262
 }

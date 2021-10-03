@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "beautifly",
-  "imgHome": "0201-0300/0267",
+  "imgHome": "0267",
   "dataGen": 8,
   "type1": "bug",
   "type2": "flying",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "beautifly",
   "veekunSlug": "beautifly",
-  "veekunFormId": 267,
-  "title": "Beautifly"
+  "veekunFormId": 267
 }

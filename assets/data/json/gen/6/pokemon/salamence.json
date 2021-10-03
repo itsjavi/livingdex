@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "salamence",
-  "imgHome": "0301-0400/0373",
+  "imgHome": "0373",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "flying",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "salamence",
   "veekunSlug": "salamence",
-  "veekunFormId": 373,
-  "title": "Salamence"
+  "veekunFormId": 373
 }

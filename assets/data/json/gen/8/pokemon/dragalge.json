@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "dragalge",
-  "imgHome": "0601-0700/0691",
+  "imgHome": "0691",
   "dataGen": 8,
   "type1": "poison",
   "type2": "dragon",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dragalge",
   "veekunSlug": "dragalge",
-  "veekunFormId": 691,
-  "title": "Dragalge"
+  "veekunFormId": 691
 }

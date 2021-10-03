@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "toxapex",
-  "imgHome": "0701-0800/0748",
+  "imgHome": "0748",
   "dataGen": 8,
   "type1": "poison",
   "type2": "water",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "toxapex",
   "veekunSlug": "toxapex",
-  "veekunFormId": 748,
-  "title": "Toxapex"
+  "veekunFormId": 748
 }

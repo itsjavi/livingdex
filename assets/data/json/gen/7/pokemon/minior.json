@@ -19,7 +19,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "minior-red",
-  "imgHome": "0701-0800/0774-red",
+  "imgHome": "0774-red",
   "dataGen": 8,
   "type1": "rock",
   "type2": "flying",
@@ -71,6 +71,5 @@
   "isHomeStorable": true,
   "showdownSlug": "minior",
   "veekunSlug": "minior-red",
-  "veekunFormId": 10255,
-  "title": "Minior"
+  "veekunFormId": 10255
 }

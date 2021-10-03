@@ -11,7 +11,7 @@
   "baseSpecies": "gourgeist",
   "baseDataForm": null,
   "imgSprite": "gourgeist-small",
-  "imgHome": "0701-0800/0711-small",
+  "imgHome": "0711-small",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "grass",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gourgeistsmall",
   "veekunSlug": "gourgeist-small",
-  "veekunFormId": 10129,
-  "title": "Gourgeist (Small)"
+  "veekunFormId": 10129
 }

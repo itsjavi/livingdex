@@ -11,7 +11,7 @@
   "baseSpecies": "toxtricity",
   "baseDataForm": null,
   "imgSprite": "toxtricity-gmax",
-  "imgHome": "0801-0900/0849-gmax",
+  "imgHome": "0849-gmax",
   "dataGen": 8,
   "type1": "electric",
   "type2": "poison",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "toxtricitygmax",
   "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Toxtricity (Gigantamax)"
+  "veekunFormId": null
 }

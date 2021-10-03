@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "mesprit",
-  "imgHome": "0401-0500/0481",
+  "imgHome": "0481",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "mesprit",
   "veekunSlug": "mesprit",
-  "veekunFormId": 481,
-  "title": "Mesprit"
+  "veekunFormId": 481
 }

@@ -11,7 +11,7 @@
   "baseSpecies": "lopunny",
   "baseDataForm": null,
   "imgSprite": "lopunny-mega",
-  "imgHome": "0401-0500/0428-mega",
+  "imgHome": "0428-mega",
   "dataGen": 8,
   "type1": "normal",
   "type2": "fighting",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "lopunnymega",
   "veekunSlug": "lopunny-mega",
-  "veekunFormId": 10190,
-  "title": "Lopunny (Mega)"
+  "veekunFormId": 10190
 }

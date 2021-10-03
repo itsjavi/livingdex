@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "dhelmise",
-  "imgHome": "0701-0800/0781",
+  "imgHome": "0781",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "grass",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dhelmise",
   "veekunSlug": "dhelmise",
-  "veekunFormId": 781,
-  "title": "Dhelmise"
+  "veekunFormId": 781
 }

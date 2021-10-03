@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "ditto",
-  "imgHome": "0101-0200/0132",
+  "imgHome": "0132",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "ditto",
   "veekunSlug": "ditto",
-  "veekunFormId": 132,
-  "title": "Ditto"
+  "veekunFormId": 132
 }

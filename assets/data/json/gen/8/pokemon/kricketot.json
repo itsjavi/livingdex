@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "kricketot",
-  "imgHome": "0401-0500/0401",
+  "imgHome": "0401",
   "dataGen": 8,
   "type1": "bug",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "kricketot",
   "veekunSlug": "kricketot",
-  "veekunFormId": 401,
-  "title": "Kricketot"
+  "veekunFormId": 401
 }

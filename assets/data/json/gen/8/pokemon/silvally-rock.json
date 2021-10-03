@@ -11,7 +11,7 @@
   "baseSpecies": "silvally",
   "baseDataForm": null,
   "imgSprite": "silvally-rock",
-  "imgHome": "0701-0800/0773-rock",
+  "imgHome": "0773-rock",
   "dataGen": 8,
   "type1": "rock",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "silvallyrock",
   "veekunSlug": "silvally-rock",
-  "veekunFormId": 10236,
-  "title": "Silvally (Rock)"
+  "veekunFormId": 10236
 }

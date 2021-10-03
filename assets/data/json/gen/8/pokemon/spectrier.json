@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "spectrier",
-  "imgHome": "0801-0900/0897",
+  "imgHome": "0897",
   "dataGen": 8,
   "type1": "ghost",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "spectrier",
   "veekunSlug": "spectrier",
-  "veekunFormId": 897,
-  "title": "Spectrier"
+  "veekunFormId": 897
 }

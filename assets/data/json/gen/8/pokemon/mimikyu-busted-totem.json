@@ -11,7 +11,7 @@
   "baseSpecies": "mimikyu",
   "baseDataForm": null,
   "imgSprite": "mimikyu",
-  "imgHome": "0701-0800/0778-busted",
+  "imgHome": "0778-busted",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "mimikyubustedtotem",
   "veekunSlug": "mimikyu-totem-busted",
-  "veekunFormId": 10264,
-  "title": "Mimikyu (Busted Totem)"
+  "veekunFormId": 10264
 }

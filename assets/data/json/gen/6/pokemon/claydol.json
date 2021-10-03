@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "claydol",
-  "imgHome": "0301-0400/0344",
+  "imgHome": "0344",
   "dataGen": 8,
   "type1": "ground",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "claydol",
   "veekunSlug": "claydol",
-  "veekunFormId": 344,
-  "title": "Claydol"
+  "veekunFormId": 344
 }

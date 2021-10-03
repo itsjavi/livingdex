@@ -11,7 +11,7 @@
   "baseSpecies": "diglett",
   "baseDataForm": null,
   "imgSprite": "diglett-alola",
-  "imgHome": "0001-0100/0050-alola",
+  "imgHome": "0050-alola",
   "dataGen": 8,
   "type1": "ground",
   "type2": "steel",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "diglettalola",
   "veekunSlug": "diglett-alola",
-  "veekunFormId": 10207,
-  "title": "Diglett (Alola)"
+  "veekunFormId": 10207
 }

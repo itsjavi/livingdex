@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "ledian",
-  "imgHome": "0101-0200/0166",
+  "imgHome": "0166",
   "dataGen": 8,
   "type1": "bug",
   "type2": "flying",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "ledian",
   "veekunSlug": "ledian",
-  "veekunFormId": 166,
-  "title": "Ledian"
+  "veekunFormId": 166
 }

@@ -11,7 +11,7 @@
   "baseSpecies": "calyrex",
   "baseDataForm": null,
   "imgSprite": "calyrex-shadow-rider",
-  "imgHome": "0801-0900/0898-shadow",
+  "imgHome": "0898-shadow",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "ghost",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "calyrexshadow",
   "veekunSlug": "calyrex-shadow",
-  "veekunFormId": 10363,
-  "title": "Calyrex (Shadow)"
+  "veekunFormId": 10363
 }

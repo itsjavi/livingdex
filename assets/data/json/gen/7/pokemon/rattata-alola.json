@@ -11,7 +11,7 @@
   "baseSpecies": "rattata",
   "baseDataForm": null,
   "imgSprite": "rattata-alola",
-  "imgHome": "0001-0100/0019-alola",
+  "imgHome": "0019-alola",
   "dataGen": 8,
   "type1": "dark",
   "type2": "normal",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "rattataalola",
   "veekunSlug": "rattata-alola",
-  "veekunFormId": 10193,
-  "title": "Rattata (Alola)"
+  "veekunFormId": 10193
 }

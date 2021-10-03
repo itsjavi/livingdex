@@ -11,7 +11,7 @@
   "baseSpecies": "arceus",
   "baseDataForm": null,
   "imgSprite": "arceus-poison",
-  "imgHome": "0401-0500/0493-poison",
+  "imgHome": "0493-poison",
   "dataGen": 8,
   "type1": "poison",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "arceuspoison",
   "veekunSlug": "arceus-poison",
-  "veekunFormId": 10052,
-  "title": "Arceus (Poison)"
+  "veekunFormId": 10052
 }

@@ -11,7 +11,7 @@
   "baseSpecies": "darmanitan",
   "baseDataForm": null,
   "imgSprite": "darmanitan-galar-zen",
-  "imgHome": "0501-0600/0555-galar-zen",
+  "imgHome": "0555-galar-zen",
   "dataGen": 8,
   "type1": "ice",
   "type2": "fire",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "darmanitangalarzen",
   "veekunSlug": "darmanitan-galar-zen",
-  "veekunFormId": 10337,
-  "title": "Darmanitan (Galar Zen)"
+  "veekunFormId": 10337
 }

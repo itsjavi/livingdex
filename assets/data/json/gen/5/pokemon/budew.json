@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "budew",
-  "imgHome": "0401-0500/0406",
+  "imgHome": "0406",
   "dataGen": 8,
   "type1": "grass",
   "type2": "poison",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "budew",
   "veekunSlug": "budew",
-  "veekunFormId": 406,
-  "title": "Budew"
+  "veekunFormId": 406
 }

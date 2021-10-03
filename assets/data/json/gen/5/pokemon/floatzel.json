@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "floatzel",
-  "imgHome": "0401-0500/0419",
+  "imgHome": "0419",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "floatzel",
   "veekunSlug": "floatzel",
-  "veekunFormId": 419,
-  "title": "Floatzel"
+  "veekunFormId": 419
 }

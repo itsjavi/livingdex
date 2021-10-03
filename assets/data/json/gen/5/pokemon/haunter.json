@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "haunter",
-  "imgHome": "0001-0100/0093",
+  "imgHome": "0093",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "poison",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "haunter",
   "veekunSlug": "haunter",
-  "veekunFormId": 93,
-  "title": "Haunter"
+  "veekunFormId": 93
 }

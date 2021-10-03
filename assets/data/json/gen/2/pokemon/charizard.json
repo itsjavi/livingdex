@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "charizard",
-  "imgHome": "0001-0100/0006",
+  "imgHome": "0006",
   "dataGen": 8,
   "type1": "fire",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "charizard",
   "veekunSlug": "charizard",
-  "veekunFormId": 6,
-  "title": "Charizard"
+  "veekunFormId": 6
 }

@@ -11,7 +11,7 @@
   "baseSpecies": "slowbro",
   "baseDataForm": null,
   "imgSprite": "slowbro-mega",
-  "imgHome": "0001-0100/0080-mega",
+  "imgHome": "0080-mega",
   "dataGen": 8,
   "type1": "water",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "slowbromega",
   "veekunSlug": "slowbro-mega",
-  "veekunFormId": 10173,
-  "title": "Slowbro (Mega)"
+  "veekunFormId": 10173
 }

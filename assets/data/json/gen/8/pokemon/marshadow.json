@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "marshadow",
-  "imgHome": "0801-0900/0802",
+  "imgHome": "0802",
   "dataGen": 8,
   "type1": "fighting",
   "type2": "ghost",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "marshadow",
   "veekunSlug": "marshadow",
-  "veekunFormId": 802,
-  "title": "Marshadow"
+  "veekunFormId": 802
 }

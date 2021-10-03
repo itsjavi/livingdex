@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "azelf",
-  "imgHome": "0401-0500/0482",
+  "imgHome": "0482",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "azelf",
   "veekunSlug": "azelf",
-  "veekunFormId": 482,
-  "title": "Azelf"
+  "veekunFormId": 482
 }

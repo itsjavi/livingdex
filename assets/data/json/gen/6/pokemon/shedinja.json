@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "shedinja",
-  "imgHome": "0201-0300/0292",
+  "imgHome": "0292",
   "dataGen": 8,
   "type1": "bug",
   "type2": "ghost",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "shedinja",
   "veekunSlug": "shedinja",
-  "veekunFormId": 292,
-  "title": "Shedinja"
+  "veekunFormId": 292
 }

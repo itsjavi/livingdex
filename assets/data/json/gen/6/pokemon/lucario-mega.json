@@ -11,7 +11,7 @@
   "baseSpecies": "lucario",
   "baseDataForm": null,
   "imgSprite": "lucario-mega",
-  "imgHome": "0401-0500/0448-mega",
+  "imgHome": "0448-mega",
   "dataGen": 8,
   "type1": "fighting",
   "type2": "steel",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "lucariomega",
   "veekunSlug": "lucario-mega",
-  "veekunFormId": 10159,
-  "title": "Lucario (Mega)"
+  "veekunFormId": 10159
 }

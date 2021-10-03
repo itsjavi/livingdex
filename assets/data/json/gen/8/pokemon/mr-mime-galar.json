@@ -11,7 +11,7 @@
   "baseSpecies": "mr-mime",
   "baseDataForm": null,
   "imgSprite": "mr-mime-galar",
-  "imgHome": "0101-0200/0122-galar",
+  "imgHome": "0122-galar",
   "dataGen": 8,
   "type1": "ice",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "mrmimegalar",
   "veekunSlug": "mr-mime-galar",
-  "veekunFormId": 10327,
-  "title": "Mr. Mime (Galar)"
+  "veekunFormId": 10327
 }

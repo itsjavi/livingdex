@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "hattrem",
-  "imgHome": "0801-0900/0857",
+  "imgHome": "0857",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "hattrem",
   "veekunSlug": "hattrem",
-  "veekunFormId": 857,
-  "title": "Hattrem"
+  "veekunFormId": 857
 }

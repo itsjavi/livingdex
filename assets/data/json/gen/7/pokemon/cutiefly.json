@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "cutiefly",
-  "imgHome": "0701-0800/0742",
+  "imgHome": "0742",
   "dataGen": 8,
   "type1": "bug",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cutiefly",
   "veekunSlug": "cutiefly",
-  "veekunFormId": 742,
-  "title": "Cutiefly"
+  "veekunFormId": 742
 }

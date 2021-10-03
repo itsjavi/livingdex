@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "carbink",
-  "imgHome": "0701-0800/0703",
+  "imgHome": "0703",
   "dataGen": 8,
   "type1": "rock",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "carbink",
   "veekunSlug": "carbink",
-  "veekunFormId": 703,
-  "title": "Carbink"
+  "veekunFormId": 703
 }

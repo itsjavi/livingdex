@@ -11,7 +11,7 @@
   "baseSpecies": "silvally",
   "baseDataForm": null,
   "imgSprite": "silvally-fairy",
-  "imgHome": "0701-0800/0773-fairy",
+  "imgHome": "0773-fairy",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "silvallyfairy",
   "veekunSlug": "silvally-fairy",
-  "veekunFormId": 10248,
-  "title": "Silvally (Fairy)"
+  "veekunFormId": 10248
 }

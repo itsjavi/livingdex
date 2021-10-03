@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "tsareena",
-  "imgHome": "0701-0800/0763",
+  "imgHome": "0763",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "tsareena",
   "veekunSlug": "tsareena",
-  "veekunFormId": 763,
-  "title": "Tsareena"
+  "veekunFormId": 763
 }

@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "milotic",
-  "imgHome": "0301-0400/0350",
+  "imgHome": "0350",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "milotic",
   "veekunSlug": "milotic",
-  "veekunFormId": 350,
-  "title": "Milotic"
+  "veekunFormId": 350
 }

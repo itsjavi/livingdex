@@ -11,7 +11,7 @@
   "baseSpecies": "castform",
   "baseDataForm": null,
   "imgSprite": "castform-sunny",
-  "imgHome": "0301-0400/0351-sunny",
+  "imgHome": "0351-sunny",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "castformsunny",
   "veekunSlug": "castform-sunny",
-  "veekunFormId": 10028,
-  "title": "Castform (Sunny)"
+  "veekunFormId": 10028
 }

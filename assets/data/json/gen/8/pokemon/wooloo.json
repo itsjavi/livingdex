@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "wooloo",
-  "imgHome": "0801-0900/0831",
+  "imgHome": "0831",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "wooloo",
   "veekunSlug": "wooloo",
-  "veekunFormId": 831,
-  "title": "Wooloo"
+  "veekunFormId": 831
 }

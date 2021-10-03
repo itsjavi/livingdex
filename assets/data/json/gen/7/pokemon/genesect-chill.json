@@ -11,7 +11,7 @@
   "baseSpecies": "genesect",
   "baseDataForm": null,
   "imgSprite": "genesect-chill",
-  "imgHome": "0601-0700/0649-chill",
+  "imgHome": "0649-chill",
   "dataGen": 8,
   "type1": "bug",
   "type2": "steel",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "genesectchill",
   "veekunSlug": "genesect-chill",
-  "veekunFormId": 10078,
-  "title": "Genesect (Chill)"
+  "veekunFormId": 10078
 }

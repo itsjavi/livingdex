@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "wynaut",
-  "imgHome": "0301-0400/0360",
+  "imgHome": "0360",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "wynaut",
   "veekunSlug": "wynaut",
-  "veekunFormId": 360,
-  "title": "Wynaut"
+  "veekunFormId": 360
 }

@@ -11,7 +11,7 @@
   "baseSpecies": "arceus",
   "baseDataForm": null,
   "imgSprite": "arceus-fairy",
-  "imgHome": "0401-0500/0493-fairy",
+  "imgHome": "0493-fairy",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "arceusfairy",
   "veekunSlug": "arceus-fairy",
-  "veekunFormId": 10085,
-  "title": "Arceus (Fairy)"
+  "veekunFormId": 10085
 }

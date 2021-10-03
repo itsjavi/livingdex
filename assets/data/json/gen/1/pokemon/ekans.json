@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "ekans",
-  "imgHome": "0001-0100/0023",
+  "imgHome": "0023",
   "dataGen": 8,
   "type1": "poison",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "ekans",
   "veekunSlug": "ekans",
-  "veekunFormId": 23,
-  "title": "Ekans"
+  "veekunFormId": 23
 }

@@ -11,7 +11,7 @@
   "baseSpecies": "metagross",
   "baseDataForm": null,
   "imgSprite": "metagross-mega",
-  "imgHome": "0301-0400/0376-mega",
+  "imgHome": "0376-mega",
   "dataGen": 8,
   "type1": "steel",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "metagrossmega",
   "veekunSlug": "metagross-mega",
-  "veekunFormId": 10178,
-  "title": "Metagross (Mega)"
+  "veekunFormId": 10178
 }

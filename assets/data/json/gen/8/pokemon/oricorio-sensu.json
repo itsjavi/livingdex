@@ -11,7 +11,7 @@
   "baseSpecies": "oricorio",
   "baseDataForm": null,
   "imgSprite": "oricorio-sensu",
-  "imgHome": "0701-0800/0741-sensu",
+  "imgHome": "0741-sensu",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "oricoriosensu",
   "veekunSlug": "oricorio-sensu",
-  "veekunFormId": 10227,
-  "title": "Oricorio (Sensu)"
+  "veekunFormId": 10227
 }

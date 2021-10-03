@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "skiploom",
-  "imgHome": "0101-0200/0188",
+  "imgHome": "0188",
   "dataGen": 8,
   "type1": "grass",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "skiploom",
   "veekunSlug": "skiploom",
-  "veekunFormId": 188,
-  "title": "Skiploom"
+  "veekunFormId": 188
 }

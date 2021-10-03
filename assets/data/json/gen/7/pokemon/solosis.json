@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "solosis",
-  "imgHome": "0501-0600/0577",
+  "imgHome": "0577",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "solosis",
   "veekunSlug": "solosis",
-  "veekunFormId": 577,
-  "title": "Solosis"
+  "veekunFormId": 577
 }

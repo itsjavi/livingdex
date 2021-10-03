@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "carvanha",
-  "imgHome": "0301-0400/0318",
+  "imgHome": "0318",
   "dataGen": 8,
   "type1": "water",
   "type2": "dark",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "carvanha",
   "veekunSlug": "carvanha",
-  "veekunFormId": 318,
-  "title": "Carvanha"
+  "veekunFormId": 318
 }

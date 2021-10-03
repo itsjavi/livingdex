@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "ninjask",
-  "imgHome": "0201-0300/0291",
+  "imgHome": "0291",
   "dataGen": 8,
   "type1": "bug",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "ninjask",
   "veekunSlug": "ninjask",
-  "veekunFormId": 291,
-  "title": "Ninjask"
+  "veekunFormId": 291
 }

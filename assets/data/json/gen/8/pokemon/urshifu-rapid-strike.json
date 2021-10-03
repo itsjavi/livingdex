@@ -11,7 +11,7 @@
   "baseSpecies": "urshifu",
   "baseDataForm": null,
   "imgSprite": "urshifu",
-  "imgHome": "0801-0900/0892-rapid-strike",
+  "imgHome": "0892-rapid-strike",
   "dataGen": 8,
   "type1": "fighting",
   "type2": "water",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "urshifurapidstrike",
   "veekunSlug": "urshifu-rapid-strike",
-  "veekunFormId": 10360,
-  "title": "Urshifu (Rapid Strike)"
+  "veekunFormId": 10360
 }

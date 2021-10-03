@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "celesteela",
-  "imgHome": "0701-0800/0797",
+  "imgHome": "0797",
   "dataGen": 8,
   "type1": "steel",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "celesteela",
   "veekunSlug": "celesteela",
-  "veekunFormId": 797,
-  "title": "Celesteela"
+  "veekunFormId": 797
 }

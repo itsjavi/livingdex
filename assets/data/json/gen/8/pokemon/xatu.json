@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "xatu",
-  "imgHome": "0101-0200/0178",
+  "imgHome": "0178",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "flying",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "xatu",
   "veekunSlug": "xatu",
-  "veekunFormId": 178,
-  "title": "Xatu"
+  "veekunFormId": 178
 }

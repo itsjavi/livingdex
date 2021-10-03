@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "gastrodon",
-  "imgHome": "0401-0500/0423",
+  "imgHome": "0423",
   "dataGen": 8,
   "type1": "water",
   "type2": "ground",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gastrodon",
   "veekunSlug": "gastrodon-west",
-  "veekunFormId": 423,
-  "title": "Gastrodon"
+  "veekunFormId": 423
 }

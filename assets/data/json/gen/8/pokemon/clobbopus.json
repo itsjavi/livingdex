@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "clobbopus",
-  "imgHome": "0801-0900/0852",
+  "imgHome": "0852",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "clobbopus",
   "veekunSlug": "clobbopus",
-  "veekunFormId": 852,
-  "title": "Clobbopus"
+  "veekunFormId": 852
 }

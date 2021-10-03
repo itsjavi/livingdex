@@ -11,7 +11,7 @@
   "baseSpecies": "aggron",
   "baseDataForm": null,
   "imgSprite": "aggron-mega",
-  "imgHome": "0301-0400/0306-mega",
+  "imgHome": "0306-mega",
   "dataGen": 8,
   "type1": "steel",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "aggronmega",
   "veekunSlug": "aggron-mega",
-  "veekunFormId": 10153,
-  "title": "Aggron (Mega)"
+  "veekunFormId": 10153
 }

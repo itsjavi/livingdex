@@ -11,7 +11,7 @@
   "baseSpecies": "wormadam",
   "baseDataForm": null,
   "imgSprite": "wormadam-trash",
-  "imgHome": "0401-0500/0413-trash",
+  "imgHome": "0413-trash",
   "dataGen": 8,
   "type1": "bug",
   "type2": "steel",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "wormadamtrash",
   "veekunSlug": "wormadam-trash",
-  "veekunFormId": 10037,
-  "title": "Wormadam (Trash)"
+  "veekunFormId": 10037
 }

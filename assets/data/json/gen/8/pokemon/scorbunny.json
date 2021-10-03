@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "scorbunny",
-  "imgHome": "0801-0900/0813",
+  "imgHome": "0813",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "scorbunny",
   "veekunSlug": "scorbunny",
-  "veekunFormId": 813,
-  "title": "Scorbunny"
+  "veekunFormId": 813
 }

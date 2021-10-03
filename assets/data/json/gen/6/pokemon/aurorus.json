@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "aurorus",
-  "imgHome": "0601-0700/0699",
+  "imgHome": "0699",
   "dataGen": 8,
   "type1": "rock",
   "type2": "ice",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "aurorus",
   "veekunSlug": "aurorus",
-  "veekunFormId": 699,
-  "title": "Aurorus"
+  "veekunFormId": 699
 }

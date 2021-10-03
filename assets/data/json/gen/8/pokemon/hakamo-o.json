@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "hakamo-o",
-  "imgHome": "0701-0800/0783",
+  "imgHome": "0783",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "fighting",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "hakamoo",
   "veekunSlug": "hakamo-o",
-  "veekunFormId": 783,
-  "title": "Hakamo (o)"
+  "veekunFormId": 783
 }

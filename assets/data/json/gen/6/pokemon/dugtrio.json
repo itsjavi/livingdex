@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "dugtrio",
-  "imgHome": "0001-0100/0051",
+  "imgHome": "0051",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dugtrio",
   "veekunSlug": "dugtrio",
-  "veekunFormId": 51,
-  "title": "Dugtrio"
+  "veekunFormId": 51
 }

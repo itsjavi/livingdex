@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "arrokuda",
-  "imgHome": "0801-0900/0846",
+  "imgHome": "0846",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "arrokuda",
   "veekunSlug": "arrokuda",
-  "veekunFormId": 846,
-  "title": "Arrokuda"
+  "veekunFormId": 846
 }

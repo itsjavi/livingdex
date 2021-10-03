@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "cubchoo",
-  "imgHome": "0601-0700/0613",
+  "imgHome": "0613",
   "dataGen": 8,
   "type1": "ice",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cubchoo",
   "veekunSlug": "cubchoo",
-  "veekunFormId": 613,
-  "title": "Cubchoo"
+  "veekunFormId": 613
 }

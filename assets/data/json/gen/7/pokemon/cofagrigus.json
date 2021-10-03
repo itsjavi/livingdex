@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "cofagrigus",
-  "imgHome": "0501-0600/0563",
+  "imgHome": "0563",
   "dataGen": 8,
   "type1": "ghost",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cofagrigus",
   "veekunSlug": "cofagrigus",
-  "veekunFormId": 563,
-  "title": "Cofagrigus"
+  "veekunFormId": 563
 }

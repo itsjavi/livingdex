@@ -15,7 +15,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "necrozma",
-  "imgHome": "0701-0800/0800",
+  "imgHome": "0800",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -67,6 +67,5 @@
   "isHomeStorable": true,
   "showdownSlug": "necrozma",
   "veekunSlug": "necrozma",
-  "veekunFormId": 800,
-  "title": "Necrozma"
+  "veekunFormId": 800
 }

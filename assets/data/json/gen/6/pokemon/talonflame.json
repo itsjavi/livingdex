@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "talonflame",
-  "imgHome": "0601-0700/0663",
+  "imgHome": "0663",
   "dataGen": 8,
   "type1": "fire",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "talonflame",
   "veekunSlug": "talonflame",
-  "veekunFormId": 663,
-  "title": "Talonflame"
+  "veekunFormId": 663
 }

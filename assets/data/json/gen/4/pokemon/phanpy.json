@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "phanpy",
-  "imgHome": "0201-0300/0231",
+  "imgHome": "0231",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "phanpy",
   "veekunSlug": "phanpy",
-  "veekunFormId": 231,
-  "title": "Phanpy"
+  "veekunFormId": 231
 }

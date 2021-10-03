@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "tranquill",
-  "imgHome": "0501-0600/0520",
+  "imgHome": "0520",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "tranquill",
   "veekunSlug": "tranquill",
-  "veekunFormId": 520,
-  "title": "Tranquill"
+  "veekunFormId": 520
 }

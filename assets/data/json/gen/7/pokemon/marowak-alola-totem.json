@@ -11,7 +11,7 @@
   "baseSpecies": "marowak",
   "baseDataForm": null,
   "imgSprite": "marowak-alola",
-  "imgHome": "unknown",
+  "imgHome": "0105-alola",
   "dataGen": 8,
   "type1": "fire",
   "type2": "ghost",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "marowakalolatotem",
   "veekunSlug": "marowak-totem",
-  "veekunFormId": 10268,
-  "title": "Marowak (Alola Totem)"
+  "veekunFormId": 10268
 }

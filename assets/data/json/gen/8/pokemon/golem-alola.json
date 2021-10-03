@@ -11,7 +11,7 @@
   "baseSpecies": "golem",
   "baseDataForm": null,
   "imgSprite": "golem-alola",
-  "imgHome": "0001-0100/0076-alola",
+  "imgHome": "0076-alola",
   "dataGen": 8,
   "type1": "rock",
   "type2": "electric",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "golemalola",
   "veekunSlug": "golem-alola",
-  "veekunFormId": 10213,
-  "title": "Golem (Alola)"
+  "veekunFormId": 10213
 }

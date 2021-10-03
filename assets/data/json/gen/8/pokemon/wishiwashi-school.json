@@ -11,7 +11,7 @@
   "baseSpecies": "wishiwashi",
   "baseDataForm": null,
   "imgSprite": "wishiwashi-school",
-  "imgHome": "0701-0800/0746-school",
+  "imgHome": "0746-school",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "wishiwashischool",
   "veekunSlug": "wishiwashi-school",
-  "veekunFormId": 10229,
-  "title": "Wishiwashi (School)"
+  "veekunFormId": 10229
 }

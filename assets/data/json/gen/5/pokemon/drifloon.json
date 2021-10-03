@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "drifloon",
-  "imgHome": "0401-0500/0425",
+  "imgHome": "0425",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "drifloon",
   "veekunSlug": "drifloon",
-  "veekunFormId": 425,
-  "title": "Drifloon"
+  "veekunFormId": 425
 }

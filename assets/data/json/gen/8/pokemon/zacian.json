@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "zacian",
-  "imgHome": "0801-0900/0888",
+  "imgHome": "0888",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "zacian",
   "veekunSlug": "zacian",
-  "veekunFormId": 888,
-  "title": "Zacian"
+  "veekunFormId": 888
 }

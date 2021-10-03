@@ -11,7 +11,7 @@
   "baseSpecies": "araquanid",
   "baseDataForm": null,
   "imgSprite": "araquanid",
-  "imgHome": "0701-0800/0752",
+  "imgHome": "0752",
   "dataGen": 8,
   "type1": "water",
   "type2": "bug",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "araquanidtotem",
   "veekunSlug": "araquanid-totem",
-  "veekunFormId": 10312,
-  "title": "Araquanid (Totem)"
+  "veekunFormId": 10312
 }

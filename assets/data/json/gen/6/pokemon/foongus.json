@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "foongus",
-  "imgHome": "0501-0600/0590",
+  "imgHome": "0590",
   "dataGen": 8,
   "type1": "grass",
   "type2": "poison",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "foongus",
   "veekunSlug": "foongus",
-  "veekunFormId": 590,
-  "title": "Foongus"
+  "veekunFormId": 590
 }

@@ -11,7 +11,7 @@
   "baseSpecies": "weezing",
   "baseDataForm": null,
   "imgSprite": "weezing-galar",
-  "imgHome": "0101-0200/0110-galar",
+  "imgHome": "0110-galar",
   "dataGen": 8,
   "type1": "poison",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "weezinggalar",
   "veekunSlug": "weezing-galar",
-  "veekunFormId": 10326,
-  "title": "Weezing (Galar)"
+  "veekunFormId": 10326
 }

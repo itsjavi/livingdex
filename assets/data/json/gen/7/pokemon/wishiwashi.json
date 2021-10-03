@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "wishiwashi",
-  "imgHome": "0701-0800/0746",
+  "imgHome": "0746",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "wishiwashi",
   "veekunSlug": "wishiwashi-solo",
-  "veekunFormId": 746,
-  "title": "Wishiwashi"
+  "veekunFormId": 746
 }

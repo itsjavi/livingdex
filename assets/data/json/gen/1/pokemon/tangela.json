@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "tangela",
-  "imgHome": "0101-0200/0114",
+  "imgHome": "0114",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "tangela",
   "veekunSlug": "tangela",
-  "veekunFormId": 114,
-  "title": "Tangela"
+  "veekunFormId": 114
 }

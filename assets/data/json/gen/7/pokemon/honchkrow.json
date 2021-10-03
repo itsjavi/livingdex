@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "honchkrow",
-  "imgHome": "0401-0500/0430",
+  "imgHome": "0430",
   "dataGen": 8,
   "type1": "dark",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "honchkrow",
   "veekunSlug": "honchkrow",
-  "veekunFormId": 430,
-  "title": "Honchkrow"
+  "veekunFormId": 430
 }

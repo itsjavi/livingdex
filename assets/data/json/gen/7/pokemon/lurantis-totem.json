@@ -11,7 +11,7 @@
   "baseSpecies": "lurantis",
   "baseDataForm": null,
   "imgSprite": "lurantis",
-  "imgHome": "0701-0800/0754",
+  "imgHome": "0754",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "lurantistotem",
   "veekunSlug": "lurantis-totem",
-  "veekunFormId": 10230,
-  "title": "Lurantis (Totem)"
+  "veekunFormId": 10230
 }

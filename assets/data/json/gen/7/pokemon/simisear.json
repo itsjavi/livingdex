@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "simisear",
-  "imgHome": "0501-0600/0514",
+  "imgHome": "0514",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "simisear",
   "veekunSlug": "simisear",
-  "veekunFormId": 514,
-  "title": "Simisear"
+  "veekunFormId": 514
 }

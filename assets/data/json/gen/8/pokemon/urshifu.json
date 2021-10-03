@@ -15,7 +15,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "urshifu",
-  "imgHome": "0801-0900/0892",
+  "imgHome": "0892",
   "dataGen": 8,
   "type1": "fighting",
   "type2": "dark",
@@ -67,6 +67,5 @@
   "isHomeStorable": true,
   "showdownSlug": "urshifu",
   "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Urshifu"
+  "veekunFormId": null
 }

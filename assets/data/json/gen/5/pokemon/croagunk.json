@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "croagunk",
-  "imgHome": "0401-0500/0453",
+  "imgHome": "0453",
   "dataGen": 8,
   "type1": "poison",
   "type2": "fighting",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "croagunk",
   "veekunSlug": "croagunk",
-  "veekunFormId": 453,
-  "title": "Croagunk"
+  "veekunFormId": 453
 }

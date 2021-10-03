@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "poochyena",
-  "imgHome": "0201-0300/0261",
+  "imgHome": "0261",
   "dataGen": 8,
   "type1": "dark",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "poochyena",
   "veekunSlug": "poochyena",
-  "veekunFormId": 261,
-  "title": "Poochyena"
+  "veekunFormId": 261
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "torterra",
-  "imgHome": "0301-0400/0389",
+  "imgHome": "0389",
   "dataGen": 8,
   "type1": "grass",
   "type2": "ground",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "torterra",
   "veekunSlug": "torterra",
-  "veekunFormId": 389,
-  "title": "Torterra"
+  "veekunFormId": 389
 }

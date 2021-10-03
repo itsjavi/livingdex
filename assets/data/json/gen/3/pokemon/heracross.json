@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "heracross",
-  "imgHome": "0201-0300/0214",
+  "imgHome": "0214",
   "dataGen": 8,
   "type1": "bug",
   "type2": "fighting",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "heracross",
   "veekunSlug": "heracross",
-  "veekunFormId": 214,
-  "title": "Heracross"
+  "veekunFormId": 214
 }

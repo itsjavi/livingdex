@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "bellossom",
-  "imgHome": "0101-0200/0182",
+  "imgHome": "0182",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "bellossom",
   "veekunSlug": "bellossom",
-  "veekunFormId": 182,
-  "title": "Bellossom"
+  "veekunFormId": 182
 }

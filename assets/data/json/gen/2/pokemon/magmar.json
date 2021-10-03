@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "magmar",
-  "imgHome": "0101-0200/0126",
+  "imgHome": "0126",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "magmar",
   "veekunSlug": "magmar",
-  "veekunFormId": 126,
-  "title": "Magmar"
+  "veekunFormId": 126
 }

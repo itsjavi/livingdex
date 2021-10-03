@@ -39,7 +39,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "unown",
-  "imgHome": "0201-0300/0201",
+  "imgHome": "0201",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -91,6 +91,5 @@
   "isHomeStorable": true,
   "showdownSlug": "unown",
   "veekunSlug": "unown-a",
-  "veekunFormId": 201,
-  "title": "Unown"
+  "veekunFormId": 201
 }

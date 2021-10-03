@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "nickit",
-  "imgHome": "0801-0900/0827",
+  "imgHome": "0827",
   "dataGen": 8,
   "type1": "dark",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "nickit",
   "veekunSlug": "nickit",
-  "veekunFormId": 827,
-  "title": "Nickit"
+  "veekunFormId": 827
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "raboot",
-  "imgHome": "0801-0900/0814",
+  "imgHome": "0814",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "raboot",
   "veekunSlug": "raboot",
-  "veekunFormId": 814,
-  "title": "Raboot"
+  "veekunFormId": 814
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "azumarill",
-  "imgHome": "0101-0200/0184",
+  "imgHome": "0184",
   "dataGen": 8,
   "type1": "water",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "azumarill",
   "veekunSlug": "azumarill",
-  "veekunFormId": 184,
-  "title": "Azumarill"
+  "veekunFormId": 184
 }

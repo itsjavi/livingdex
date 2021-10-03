@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "bounsweet",
-  "imgHome": "0701-0800/0761",
+  "imgHome": "0761",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "bounsweet",
   "veekunSlug": "bounsweet",
-  "veekunFormId": 761,
-  "title": "Bounsweet"
+  "veekunFormId": 761
 }

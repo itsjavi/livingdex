@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "shuppet",
-  "imgHome": "0301-0400/0353",
+  "imgHome": "0353",
   "dataGen": 8,
   "type1": "ghost",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "shuppet",
   "veekunSlug": "shuppet",
-  "veekunFormId": 353,
-  "title": "Shuppet"
+  "veekunFormId": 353
 }

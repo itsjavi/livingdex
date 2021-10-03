@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "hatenna",
-  "imgHome": "0801-0900/0856",
+  "imgHome": "0856",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "hatenna",
   "veekunSlug": "hatenna",
-  "veekunFormId": 856,
-  "title": "Hatenna"
+  "veekunFormId": 856
 }

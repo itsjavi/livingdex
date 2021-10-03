@@ -11,7 +11,7 @@
   "baseSpecies": "mawile",
   "baseDataForm": null,
   "imgSprite": "mawile-mega",
-  "imgHome": "0301-0400/0303-mega",
+  "imgHome": "0303-mega",
   "dataGen": 8,
   "type1": "steel",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "mawilemega",
   "veekunSlug": "mawile-mega",
-  "veekunFormId": 10152,
-  "title": "Mawile (Mega)"
+  "veekunFormId": 10152
 }

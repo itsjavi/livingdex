@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "ducklett",
-  "imgHome": "0501-0600/0580",
+  "imgHome": "0580",
   "dataGen": 8,
   "type1": "water",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "ducklett",
   "veekunSlug": "ducklett",
-  "veekunFormId": 580,
-  "title": "Ducklett"
+  "veekunFormId": 580
 }

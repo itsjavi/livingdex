@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "stunky",
-  "imgHome": "0401-0500/0434",
+  "imgHome": "0434",
   "dataGen": 8,
   "type1": "poison",
   "type2": "dark",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "stunky",
   "veekunSlug": "stunky",
-  "veekunFormId": 434,
-  "title": "Stunky"
+  "veekunFormId": 434
 }

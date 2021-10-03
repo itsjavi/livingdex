@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "sceptile",
-  "imgHome": "0201-0300/0254",
+  "imgHome": "0254",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "sceptile",
   "veekunSlug": "sceptile",
-  "veekunFormId": 254,
-  "title": "Sceptile"
+  "veekunFormId": 254
 }

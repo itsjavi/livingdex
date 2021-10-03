@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "morgrem",
-  "imgHome": "0801-0900/0860",
+  "imgHome": "0860",
   "dataGen": 8,
   "type1": "dark",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "morgrem",
   "veekunSlug": "morgrem",
-  "veekunFormId": 860,
-  "title": "Morgrem"
+  "veekunFormId": 860
 }

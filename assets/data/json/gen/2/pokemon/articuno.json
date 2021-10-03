@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "articuno",
-  "imgHome": "0101-0200/0144",
+  "imgHome": "0144",
   "dataGen": 8,
   "type1": "ice",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "articuno",
   "veekunSlug": "articuno",
-  "veekunFormId": 144,
-  "title": "Articuno"
+  "veekunFormId": 144
 }

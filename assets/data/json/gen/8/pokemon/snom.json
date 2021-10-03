@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "snom",
-  "imgHome": "0801-0900/0872",
+  "imgHome": "0872",
   "dataGen": 8,
   "type1": "ice",
   "type2": "bug",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "snom",
   "veekunSlug": "snom",
-  "veekunFormId": 872,
-  "title": "Snom"
+  "veekunFormId": 872
 }

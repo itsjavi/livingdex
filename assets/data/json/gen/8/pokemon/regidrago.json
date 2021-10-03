@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "regidrago",
-  "imgHome": "0801-0900/0895",
+  "imgHome": "0895",
   "dataGen": 8,
   "type1": "dragon",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "regidrago",
   "veekunSlug": "regidrago",
-  "veekunFormId": 895,
-  "title": "Regidrago"
+  "veekunFormId": 895
 }

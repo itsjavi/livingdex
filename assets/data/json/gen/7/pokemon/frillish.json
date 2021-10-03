@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "frillish",
-  "imgHome": "0501-0600/0592",
+  "imgHome": "0592",
   "dataGen": 8,
   "type1": "water",
   "type2": "ghost",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "frillish",
   "veekunSlug": "frillish",
-  "veekunFormId": 592,
-  "title": "Frillish"
+  "veekunFormId": 592
 }

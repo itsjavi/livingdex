@@ -11,7 +11,7 @@
   "baseSpecies": "darumaka",
   "baseDataForm": null,
   "imgSprite": "darumaka-galar",
-  "imgHome": "0501-0600/0554-galar",
+  "imgHome": "0554-galar",
   "dataGen": 8,
   "type1": "ice",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "darumakagalar",
   "veekunSlug": "darumaka-galar",
-  "veekunFormId": 10335,
-  "title": "Darumaka (Galar)"
+  "veekunFormId": 10335
 }

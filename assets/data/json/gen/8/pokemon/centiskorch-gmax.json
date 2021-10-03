@@ -11,7 +11,7 @@
   "baseSpecies": "centiskorch",
   "baseDataForm": null,
   "imgSprite": "centiskorch-gmax",
-  "imgHome": "0801-0900/0851-gmax",
+  "imgHome": "0851-gmax",
   "dataGen": 8,
   "type1": "fire",
   "type2": "bug",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "centiskorchgmax",
   "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Centiskorch (Gigantamax)"
+  "veekunFormId": null
 }

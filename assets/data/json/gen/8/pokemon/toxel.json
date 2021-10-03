@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "toxel",
-  "imgHome": "0801-0900/0848",
+  "imgHome": "0848",
   "dataGen": 8,
   "type1": "electric",
   "type2": "poison",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "toxel",
   "veekunSlug": "toxel",
-  "veekunFormId": 848,
-  "title": "Toxel"
+  "veekunFormId": 848
 }

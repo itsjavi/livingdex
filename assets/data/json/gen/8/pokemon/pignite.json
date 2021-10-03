@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "pignite",
-  "imgHome": "0401-0500/0499",
+  "imgHome": "0499",
   "dataGen": 8,
   "type1": "fire",
   "type2": "fighting",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "pignite",
   "veekunSlug": "pignite",
-  "veekunFormId": 499,
-  "title": "Pignite"
+  "veekunFormId": 499
 }

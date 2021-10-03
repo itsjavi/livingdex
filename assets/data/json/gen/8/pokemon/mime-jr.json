@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "mime-jr",
-  "imgHome": "0401-0500/0439",
+  "imgHome": "0439",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "mimejr",
   "veekunSlug": "mime-jr",
-  "veekunFormId": 439,
-  "title": "Mime Jr."
+  "veekunFormId": 439
 }

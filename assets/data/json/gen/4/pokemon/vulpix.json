@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "vulpix",
-  "imgHome": "0001-0100/0037",
+  "imgHome": "0037",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "vulpix",
   "veekunSlug": "vulpix",
-  "veekunFormId": 37,
-  "title": "Vulpix"
+  "veekunFormId": 37
 }

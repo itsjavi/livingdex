@@ -11,7 +11,7 @@
   "baseSpecies": "wormadam",
   "baseDataForm": null,
   "imgSprite": "wormadam-sandy",
-  "imgHome": "0401-0500/0413-sandy",
+  "imgHome": "0413-sandy",
   "dataGen": 8,
   "type1": "bug",
   "type2": "ground",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "wormadamsandy",
   "veekunSlug": "wormadam-sandy",
-  "veekunFormId": 10036,
-  "title": "Wormadam (Sandy)"
+  "veekunFormId": 10036
 }

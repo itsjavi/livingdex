@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "petilil",
-  "imgHome": "0501-0600/0548",
+  "imgHome": "0548",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "petilil",
   "veekunSlug": "petilil",
-  "veekunFormId": 548,
-  "title": "Petilil"
+  "veekunFormId": 548
 }

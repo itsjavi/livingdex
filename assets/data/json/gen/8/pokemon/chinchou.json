@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "chinchou",
-  "imgHome": "0101-0200/0170",
+  "imgHome": "0170",
   "dataGen": 8,
   "type1": "water",
   "type2": "electric",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "chinchou",
   "veekunSlug": "chinchou",
-  "veekunFormId": 170,
-  "title": "Chinchou"
+  "veekunFormId": 170
 }

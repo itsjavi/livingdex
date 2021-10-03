@@ -11,7 +11,7 @@
   "baseSpecies": "urshifu",
   "baseDataForm": null,
   "imgSprite": "urshifu-gmax",
-  "imgHome": "0801-0900/0892-gmax",
+  "imgHome": "0892-gmax",
   "dataGen": 8,
   "type1": "fighting",
   "type2": "dark",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "urshifugmax",
   "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Urshifu (Gigantamax)"
+  "veekunFormId": null
 }

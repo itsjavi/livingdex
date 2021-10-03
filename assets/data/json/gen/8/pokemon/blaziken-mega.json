@@ -11,7 +11,7 @@
   "baseSpecies": "blaziken",
   "baseDataForm": null,
   "imgSprite": "blaziken-mega",
-  "imgHome": "0201-0300/0257-mega",
+  "imgHome": "0257-mega",
   "dataGen": 8,
   "type1": "fire",
   "type2": "fighting",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "blazikenmega",
   "veekunSlug": "blaziken-mega",
-  "veekunFormId": 10150,
-  "title": "Blaziken (Mega)"
+  "veekunFormId": 10150
 }

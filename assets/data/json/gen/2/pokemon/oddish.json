@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "oddish",
-  "imgHome": "0001-0100/0043",
+  "imgHome": "0043",
   "dataGen": 8,
   "type1": "grass",
   "type2": "poison",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "oddish",
   "veekunSlug": "oddish",
-  "veekunFormId": 43,
-  "title": "Oddish"
+  "veekunFormId": 43
 }

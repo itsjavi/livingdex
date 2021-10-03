@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "musharna",
-  "imgHome": "0501-0600/0518",
+  "imgHome": "0518",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "musharna",
   "veekunSlug": "musharna",
-  "veekunFormId": 518,
-  "title": "Musharna"
+  "veekunFormId": 518
 }

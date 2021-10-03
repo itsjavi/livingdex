@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "piloswine",
-  "imgHome": "0201-0300/0221",
+  "imgHome": "0221",
   "dataGen": 8,
   "type1": "ice",
   "type2": "ground",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "piloswine",
   "veekunSlug": "piloswine",
-  "veekunFormId": 221,
-  "title": "Piloswine"
+  "veekunFormId": 221
 }

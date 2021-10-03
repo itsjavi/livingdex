@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "impidimp",
-  "imgHome": "0801-0900/0859",
+  "imgHome": "0859",
   "dataGen": 8,
   "type1": "dark",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "impidimp",
   "veekunSlug": "impidimp",
-  "veekunFormId": 859,
-  "title": "Impidimp"
+  "veekunFormId": 859
 }

@@ -11,7 +11,7 @@
   "baseSpecies": "garchomp",
   "baseDataForm": null,
   "imgSprite": "garchomp-mega",
-  "imgHome": "0401-0500/0445-mega",
+  "imgHome": "0445-mega",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "ground",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "garchompmega",
   "veekunSlug": "garchomp-mega",
-  "veekunFormId": 10158,
-  "title": "Garchomp (Mega)"
+  "veekunFormId": 10158
 }

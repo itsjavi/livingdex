@@ -11,7 +11,7 @@
   "baseSpecies": "gallade",
   "baseDataForm": null,
   "imgSprite": "gallade-mega",
-  "imgHome": "0401-0500/0475-mega",
+  "imgHome": "0475-mega",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "fighting",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "gallademega",
   "veekunSlug": "gallade-mega",
-  "veekunFormId": 10170,
-  "title": "Gallade (Mega)"
+  "veekunFormId": 10170
 }

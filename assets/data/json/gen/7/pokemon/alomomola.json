@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "alomomola",
-  "imgHome": "0501-0600/0594",
+  "imgHome": "0594",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "alomomola",
   "veekunSlug": "alomomola",
-  "veekunFormId": 594,
-  "title": "Alomomola"
+  "veekunFormId": 594
 }

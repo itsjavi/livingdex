@@ -11,7 +11,7 @@
   "baseSpecies": "pumpkaboo",
   "baseDataForm": null,
   "imgSprite": "pumpkaboo-super",
-  "imgHome": "0701-0800/0710-super",
+  "imgHome": "0710-super",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "grass",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "pumpkaboosuper",
   "veekunSlug": "pumpkaboo-super",
-  "veekunFormId": 10128,
-  "title": "Pumpkaboo (Super)"
+  "veekunFormId": 10128
 }

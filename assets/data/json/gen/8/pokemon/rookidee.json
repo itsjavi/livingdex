@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "rookidee",
-  "imgHome": "0801-0900/0821",
+  "imgHome": "0821",
   "dataGen": 8,
   "type1": "flying",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "rookidee",
   "veekunSlug": "rookidee",
-  "veekunFormId": 821,
-  "title": "Rookidee"
+  "veekunFormId": 821
 }

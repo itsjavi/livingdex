@@ -11,7 +11,7 @@
   "baseSpecies": "silvally",
   "baseDataForm": null,
   "imgSprite": "silvally-poison",
-  "imgHome": "0701-0800/0773-poison",
+  "imgHome": "0773-poison",
   "dataGen": 8,
   "type1": "poison",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "silvallypoison",
   "veekunSlug": "silvally-poison",
-  "veekunFormId": 10234,
-  "title": "Silvally (Poison)"
+  "veekunFormId": 10234
 }

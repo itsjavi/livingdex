@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "marshtomp",
-  "imgHome": "0201-0300/0259",
+  "imgHome": "0259",
   "dataGen": 8,
   "type1": "water",
   "type2": "ground",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "marshtomp",
   "veekunSlug": "marshtomp",
-  "veekunFormId": 259,
-  "title": "Marshtomp"
+  "veekunFormId": 259
 }

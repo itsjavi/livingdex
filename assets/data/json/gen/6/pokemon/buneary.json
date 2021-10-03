@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "buneary",
-  "imgHome": "0401-0500/0427",
+  "imgHome": "0427",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "buneary",
   "veekunSlug": "buneary",
-  "veekunFormId": 427,
-  "title": "Buneary"
+  "veekunFormId": 427
 }

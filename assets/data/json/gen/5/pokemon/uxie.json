@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "uxie",
-  "imgHome": "0401-0500/0480",
+  "imgHome": "0480",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "uxie",
   "veekunSlug": "uxie",
-  "veekunFormId": 480,
-  "title": "Uxie"
+  "veekunFormId": 480
 }

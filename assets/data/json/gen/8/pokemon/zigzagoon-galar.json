@@ -11,7 +11,7 @@
   "baseSpecies": "zigzagoon",
   "baseDataForm": null,
   "imgSprite": "zigzagoon-galar",
-  "imgHome": "0201-0300/0263-galar",
+  "imgHome": "0263-galar",
   "dataGen": 8,
   "type1": "dark",
   "type2": "normal",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "zigzagoongalar",
   "veekunSlug": "zigzagoon-galar",
-  "veekunFormId": 10333,
-  "title": "Zigzagoon (Galar)"
+  "veekunFormId": 10333
 }

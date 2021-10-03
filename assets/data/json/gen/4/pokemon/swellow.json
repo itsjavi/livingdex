@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "swellow",
-  "imgHome": "0201-0300/0277",
+  "imgHome": "0277",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "swellow",
   "veekunSlug": "swellow",
-  "veekunFormId": 277,
-  "title": "Swellow"
+  "veekunFormId": 277
 }

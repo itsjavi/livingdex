@@ -11,7 +11,7 @@
   "baseSpecies": "duraludon",
   "baseDataForm": null,
   "imgSprite": "duraludon-gmax",
-  "imgHome": "0801-0900/0884-gmax",
+  "imgHome": "0884-gmax",
   "dataGen": 8,
   "type1": "steel",
   "type2": "dragon",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "duraludongmax",
   "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Duraludon (Gigantamax)"
+  "veekunFormId": null
 }

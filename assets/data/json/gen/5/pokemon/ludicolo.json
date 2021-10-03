@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "ludicolo",
-  "imgHome": "0201-0300/0272",
+  "imgHome": "0272",
   "dataGen": 8,
   "type1": "water",
   "type2": "grass",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "ludicolo",
   "veekunSlug": "ludicolo",
-  "veekunFormId": 272,
-  "title": "Ludicolo"
+  "veekunFormId": 272
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "boldore",
-  "imgHome": "0501-0600/0525",
+  "imgHome": "0525",
   "dataGen": 8,
   "type1": "rock",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "boldore",
   "veekunSlug": "boldore",
-  "veekunFormId": 525,
-  "title": "Boldore"
+  "veekunFormId": 525
 }

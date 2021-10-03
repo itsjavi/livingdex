@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "quilladin",
-  "imgHome": "0601-0700/0651",
+  "imgHome": "0651",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "quilladin",
   "veekunSlug": "quilladin",
-  "veekunFormId": 651,
-  "title": "Quilladin"
+  "veekunFormId": 651
 }

@@ -11,7 +11,7 @@
   "baseSpecies": "lycanroc",
   "baseDataForm": null,
   "imgSprite": "lycanroc-midnight",
-  "imgHome": "0701-0800/0745-midnight",
+  "imgHome": "0745-midnight",
   "dataGen": 8,
   "type1": "rock",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "lycanrocmidnight",
   "veekunSlug": "lycanroc-midnight",
-  "veekunFormId": 10228,
-  "title": "Lycanroc (Midnight)"
+  "veekunFormId": 10228
 }

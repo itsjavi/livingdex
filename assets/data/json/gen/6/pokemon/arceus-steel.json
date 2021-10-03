@@ -11,7 +11,7 @@
   "baseSpecies": "arceus",
   "baseDataForm": null,
   "imgSprite": "arceus-steel",
-  "imgHome": "0401-0500/0493-steel",
+  "imgHome": "0493-steel",
   "dataGen": 8,
   "type1": "steel",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "arceussteel",
   "veekunSlug": "arceus-steel",
-  "veekunFormId": 10055,
-  "title": "Arceus (Steel)"
+  "veekunFormId": 10055
 }

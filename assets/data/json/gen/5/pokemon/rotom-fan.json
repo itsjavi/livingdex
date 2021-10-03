@@ -11,7 +11,7 @@
   "baseSpecies": "rotom",
   "baseDataForm": null,
   "imgSprite": "rotom-fan",
-  "imgHome": "0401-0500/0479-fan",
+  "imgHome": "0479-fan",
   "dataGen": 8,
   "type1": "electric",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "rotomfan",
   "veekunSlug": "rotom-fan",
-  "veekunFormId": 10061,
-  "title": "Rotom (Fan)"
+  "veekunFormId": 10061
 }

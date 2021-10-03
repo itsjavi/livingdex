@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "lunatone",
-  "imgHome": "0301-0400/0337",
+  "imgHome": "0337",
   "dataGen": 8,
   "type1": "rock",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "lunatone",
   "veekunSlug": "lunatone",
-  "veekunFormId": 337,
-  "title": "Lunatone"
+  "veekunFormId": 337
 }

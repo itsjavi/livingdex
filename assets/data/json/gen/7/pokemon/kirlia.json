@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "kirlia",
-  "imgHome": "0201-0300/0281",
+  "imgHome": "0281",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "kirlia",
   "veekunSlug": "kirlia",
-  "veekunFormId": 281,
-  "title": "Kirlia"
+  "veekunFormId": 281
 }

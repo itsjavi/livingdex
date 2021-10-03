@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "feraligatr",
-  "imgHome": "0101-0200/0160",
+  "imgHome": "0160",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "feraligatr",
   "veekunSlug": "feraligatr",
-  "veekunFormId": 160,
-  "title": "Feraligatr"
+  "veekunFormId": 160
 }

@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "zamazenta",
-  "imgHome": "0801-0900/0889",
+  "imgHome": "0889",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "zamazenta",
   "veekunSlug": "zamazenta",
-  "veekunFormId": 889,
-  "title": "Zamazenta"
+  "veekunFormId": 889
 }

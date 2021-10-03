@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "rolycoly",
-  "imgHome": "0801-0900/0837",
+  "imgHome": "0837",
   "dataGen": 8,
   "type1": "rock",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "rolycoly",
   "veekunSlug": "rolycoly",
-  "veekunFormId": 837,
-  "title": "Rolycoly"
+  "veekunFormId": 837
 }

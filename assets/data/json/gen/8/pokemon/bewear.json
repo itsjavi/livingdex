@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "bewear",
-  "imgHome": "0701-0800/0760",
+  "imgHome": "0760",
   "dataGen": 8,
   "type1": "normal",
   "type2": "fighting",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "bewear",
   "veekunSlug": "bewear",
-  "veekunFormId": 760,
-  "title": "Bewear"
+  "veekunFormId": 760
 }

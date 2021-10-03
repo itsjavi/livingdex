@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "zubat",
-  "imgHome": "0001-0100/0041",
+  "imgHome": "0041",
   "dataGen": 8,
   "type1": "poison",
   "type2": "flying",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "zubat",
   "veekunSlug": "zubat",
-  "veekunFormId": 41,
-  "title": "Zubat"
+  "veekunFormId": 41
 }

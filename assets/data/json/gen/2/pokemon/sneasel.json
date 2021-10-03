@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "sneasel",
-  "imgHome": "0201-0300/0215",
+  "imgHome": "0215",
   "dataGen": 8,
   "type1": "dark",
   "type2": "ice",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "sneasel",
   "veekunSlug": "sneasel",
-  "veekunFormId": 215,
-  "title": "Sneasel"
+  "veekunFormId": 215
 }

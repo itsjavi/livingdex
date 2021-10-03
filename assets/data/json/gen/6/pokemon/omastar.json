@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "omastar",
-  "imgHome": "0101-0200/0139",
+  "imgHome": "0139",
   "dataGen": 8,
   "type1": "rock",
   "type2": "water",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "omastar",
   "veekunSlug": "omastar",
-  "veekunFormId": 139,
-  "title": "Omastar"
+  "veekunFormId": 139
 }

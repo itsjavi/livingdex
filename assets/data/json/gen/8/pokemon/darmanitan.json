@@ -15,7 +15,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "darmanitan",
-  "imgHome": "0501-0600/0555",
+  "imgHome": "0555",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -67,6 +67,5 @@
   "isHomeStorable": true,
   "showdownSlug": "darmanitan",
   "veekunSlug": "darmanitan-standard",
-  "veekunFormId": 555,
-  "title": "Darmanitan"
+  "veekunFormId": 555
 }

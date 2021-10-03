@@ -11,7 +11,7 @@
   "baseSpecies": "zacian",
   "baseDataForm": null,
   "imgSprite": "zacian-crowned",
-  "imgHome": "0801-0900/0888-crowned",
+  "imgHome": "0888-crowned",
   "dataGen": 8,
   "type1": "fairy",
   "type2": "steel",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "zaciancrowned",
   "veekunSlug": "zacian-crowned",
-  "veekunFormId": 10357,
-  "title": "Zacian (Crowned)"
+  "veekunFormId": 10357
 }

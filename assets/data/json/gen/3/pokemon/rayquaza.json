@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "rayquaza",
-  "imgHome": "0301-0400/0384",
+  "imgHome": "0384",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "rayquaza",
   "veekunSlug": "rayquaza",
-  "veekunFormId": 384,
-  "title": "Rayquaza"
+  "veekunFormId": 384
 }

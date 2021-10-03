@@ -15,7 +15,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "mimikyu",
-  "imgHome": "0701-0800/0778",
+  "imgHome": "0778",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "fairy",
@@ -67,6 +67,5 @@
   "isHomeStorable": true,
   "showdownSlug": "mimikyu",
   "veekunSlug": "mimikyu-disguised",
-  "veekunFormId": 778,
-  "title": "Mimikyu"
+  "veekunFormId": 778
 }

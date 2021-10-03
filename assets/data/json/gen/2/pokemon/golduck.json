@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "golduck",
-  "imgHome": "0001-0100/0055",
+  "imgHome": "0055",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "golduck",
   "veekunSlug": "golduck",
-  "veekunFormId": 55,
-  "title": "Golduck"
+  "veekunFormId": 55
 }

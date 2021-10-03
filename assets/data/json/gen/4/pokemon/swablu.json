@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "swablu",
-  "imgHome": "0301-0400/0333",
+  "imgHome": "0333",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "swablu",
   "veekunSlug": "swablu",
-  "veekunFormId": 333,
-  "title": "Swablu"
+  "veekunFormId": 333
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "cursola",
-  "imgHome": "0801-0900/0864",
+  "imgHome": "0864",
   "dataGen": 8,
   "type1": "ghost",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cursola",
   "veekunSlug": "cursola",
-  "veekunFormId": 864,
-  "title": "Cursola"
+  "veekunFormId": 864
 }

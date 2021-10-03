@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "clauncher",
-  "imgHome": "0601-0700/0692",
+  "imgHome": "0692",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "clauncher",
   "veekunSlug": "clauncher",
-  "veekunFormId": 692,
-  "title": "Clauncher"
+  "veekunFormId": 692
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "pidgeotto",
-  "imgHome": "0001-0100/0017",
+  "imgHome": "0017",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "pidgeotto",
   "veekunSlug": "pidgeotto",
-  "veekunFormId": 17,
-  "title": "Pidgeotto"
+  "veekunFormId": 17
 }

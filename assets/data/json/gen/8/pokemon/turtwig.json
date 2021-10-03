@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "turtwig",
-  "imgHome": "0301-0400/0387",
+  "imgHome": "0387",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "turtwig",
   "veekunSlug": "turtwig",
-  "veekunFormId": 387,
-  "title": "Turtwig"
+  "veekunFormId": 387
 }

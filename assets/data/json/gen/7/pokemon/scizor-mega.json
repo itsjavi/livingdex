@@ -11,7 +11,7 @@
   "baseSpecies": "scizor",
   "baseDataForm": null,
   "imgSprite": "scizor-mega",
-  "imgHome": "0201-0300/0212-mega",
+  "imgHome": "0212-mega",
   "dataGen": 8,
   "type1": "bug",
   "type2": "steel",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "scizormega",
   "veekunSlug": "scizor-mega",
-  "veekunFormId": 10146,
-  "title": "Scizor (Mega)"
+  "veekunFormId": 10146
 }

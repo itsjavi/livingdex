@@ -11,7 +11,7 @@
   "baseSpecies": "aerodactyl",
   "baseDataForm": null,
   "imgSprite": "aerodactyl-mega",
-  "imgHome": "0101-0200/0142-mega",
+  "imgHome": "0142-mega",
   "dataGen": 8,
   "type1": "rock",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "aerodactylmega",
   "veekunSlug": "aerodactyl-mega",
-  "veekunFormId": 10142,
-  "title": "Aerodactyl (Mega)"
+  "veekunFormId": 10142
 }

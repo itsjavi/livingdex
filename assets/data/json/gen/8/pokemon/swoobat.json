@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "swoobat",
-  "imgHome": "0501-0600/0528",
+  "imgHome": "0528",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "swoobat",
   "veekunSlug": "swoobat",
-  "veekunFormId": 528,
-  "title": "Swoobat"
+  "veekunFormId": 528
 }

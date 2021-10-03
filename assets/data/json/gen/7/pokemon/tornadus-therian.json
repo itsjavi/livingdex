@@ -11,7 +11,7 @@
   "baseSpecies": "tornadus",
   "baseDataForm": null,
   "imgSprite": "tornadus-therian",
-  "imgHome": "0601-0700/0641-therian",
+  "imgHome": "0641-therian",
   "dataGen": 8,
   "type1": "flying",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "tornadustherian",
   "veekunSlug": "tornadus-therian",
-  "veekunFormId": 10079,
-  "title": "Tornadus (Therian)"
+  "veekunFormId": 10079
 }

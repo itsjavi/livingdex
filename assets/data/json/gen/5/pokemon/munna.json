@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "munna",
-  "imgHome": "0501-0600/0517",
+  "imgHome": "0517",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "munna",
   "veekunSlug": "munna",
-  "veekunFormId": 517,
-  "title": "Munna"
+  "veekunFormId": 517
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "flareon",
-  "imgHome": "0101-0200/0136",
+  "imgHome": "0136",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "flareon",
   "veekunSlug": "flareon",
-  "veekunFormId": 136,
-  "title": "Flareon"
+  "veekunFormId": 136
 }

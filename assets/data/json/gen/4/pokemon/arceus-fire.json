@@ -11,7 +11,7 @@
   "baseSpecies": "arceus",
   "baseDataForm": null,
   "imgSprite": "arceus-fire",
-  "imgHome": "0401-0500/0493-fire",
+  "imgHome": "0493-fire",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "arceusfire",
   "veekunSlug": "arceus-fire",
-  "veekunFormId": 10046,
-  "title": "Arceus (Fire)"
+  "veekunFormId": 10046
 }

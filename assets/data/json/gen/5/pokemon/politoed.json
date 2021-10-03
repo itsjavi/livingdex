@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "politoed",
-  "imgHome": "0101-0200/0186",
+  "imgHome": "0186",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "politoed",
   "veekunSlug": "politoed",
-  "veekunFormId": 186,
-  "title": "Politoed"
+  "veekunFormId": 186
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "cosmog",
-  "imgHome": "0701-0800/0789",
+  "imgHome": "0789",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cosmog",
   "veekunSlug": "cosmog",
-  "veekunFormId": 789,
-  "title": "Cosmog"
+  "veekunFormId": 789
 }

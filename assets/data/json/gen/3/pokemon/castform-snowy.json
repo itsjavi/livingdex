@@ -11,7 +11,7 @@
   "baseSpecies": "castform",
   "baseDataForm": null,
   "imgSprite": "castform-snowy",
-  "imgHome": "0301-0400/0351-snowy",
+  "imgHome": "0351-snowy",
   "dataGen": 8,
   "type1": "ice",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "castformsnowy",
   "veekunSlug": "castform-snowy",
-  "veekunFormId": 10030,
-  "title": "Castform (Snowy)"
+  "veekunFormId": 10030
 }

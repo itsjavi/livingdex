@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "drakloak",
-  "imgHome": "0801-0900/0886",
+  "imgHome": "0886",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "ghost",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "drakloak",
   "veekunSlug": "drakloak",
-  "veekunFormId": 886,
-  "title": "Drakloak"
+  "veekunFormId": 886
 }

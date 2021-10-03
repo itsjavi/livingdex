@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "axew",
-  "imgHome": "0601-0700/0610",
+  "imgHome": "0610",
   "dataGen": 8,
   "type1": "dragon",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "axew",
   "veekunSlug": "axew",
-  "veekunFormId": 610,
-  "title": "Axew"
+  "veekunFormId": 610
 }

@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "orbeetle",
-  "imgHome": "0801-0900/0826",
+  "imgHome": "0826",
   "dataGen": 8,
   "type1": "bug",
   "type2": "psychic",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "orbeetle",
   "veekunSlug": "orbeetle",
-  "veekunFormId": 826,
-  "title": "Orbeetle"
+  "veekunFormId": 826
 }

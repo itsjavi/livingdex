@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "cobalion",
-  "imgHome": "0601-0700/0638",
+  "imgHome": "0638",
   "dataGen": 8,
   "type1": "steel",
   "type2": "fighting",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cobalion",
   "veekunSlug": "cobalion",
-  "veekunFormId": 638,
-  "title": "Cobalion"
+  "veekunFormId": 638
 }

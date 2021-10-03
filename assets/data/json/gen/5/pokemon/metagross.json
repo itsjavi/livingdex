@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "metagross",
-  "imgHome": "0301-0400/0376",
+  "imgHome": "0376",
   "dataGen": 8,
   "type1": "steel",
   "type2": "psychic",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "metagross",
   "veekunSlug": "metagross",
-  "veekunFormId": 376,
-  "title": "Metagross"
+  "veekunFormId": 376
 }

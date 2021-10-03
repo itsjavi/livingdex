@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "frogadier",
-  "imgHome": "0601-0700/0657",
+  "imgHome": "0657",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "frogadier",
   "veekunSlug": "frogadier",
-  "veekunFormId": 657,
-  "title": "Frogadier"
+  "veekunFormId": 657
 }

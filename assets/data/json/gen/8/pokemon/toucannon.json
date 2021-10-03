@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "toucannon",
-  "imgHome": "0701-0800/0733",
+  "imgHome": "0733",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "toucannon",
   "veekunSlug": "toucannon",
-  "veekunFormId": 733,
-  "title": "Toucannon"
+  "veekunFormId": 733
 }

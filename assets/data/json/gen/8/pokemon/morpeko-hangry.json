@@ -11,7 +11,7 @@
   "baseSpecies": "morpeko",
   "baseDataForm": null,
   "imgSprite": "morpeko-hangry",
-  "imgHome": "0801-0900/0877-hangry",
+  "imgHome": "0877-hangry",
   "dataGen": 8,
   "type1": "electric",
   "type2": "dark",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "morpekohangry",
   "veekunSlug": "morpeko-hangry",
-  "veekunFormId": 10356,
-  "title": "Morpeko (Hangry)"
+  "veekunFormId": 10356
 }

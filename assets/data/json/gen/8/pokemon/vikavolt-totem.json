@@ -11,7 +11,7 @@
   "baseSpecies": "vikavolt",
   "baseDataForm": null,
   "imgSprite": "vikavolt",
-  "imgHome": "0701-0800/0738",
+  "imgHome": "0738",
   "dataGen": 8,
   "type1": "bug",
   "type2": "electric",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "vikavolttotem",
   "veekunSlug": "vikavolt-totem",
-  "veekunFormId": 10224,
-  "title": "Vikavolt (Totem)"
+  "veekunFormId": 10224
 }

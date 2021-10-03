@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "minun",
-  "imgHome": "0301-0400/0312",
+  "imgHome": "0312",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "minun",
   "veekunSlug": "minun",
-  "veekunFormId": 312,
-  "title": "Minun"
+  "veekunFormId": 312
 }

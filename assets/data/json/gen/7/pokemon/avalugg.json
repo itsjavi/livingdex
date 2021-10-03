@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "avalugg",
-  "imgHome": "0701-0800/0713",
+  "imgHome": "0713",
   "dataGen": 8,
   "type1": "ice",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "avalugg",
   "veekunSlug": "avalugg",
-  "veekunFormId": 713,
-  "title": "Avalugg"
+  "veekunFormId": 713
 }

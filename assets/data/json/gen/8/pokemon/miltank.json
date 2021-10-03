@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "miltank",
-  "imgHome": "0201-0300/0241",
+  "imgHome": "0241",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "miltank",
   "veekunSlug": "miltank",
-  "veekunFormId": 241,
-  "title": "Miltank"
+  "veekunFormId": 241
 }

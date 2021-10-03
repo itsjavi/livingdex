@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "dracozolt",
-  "imgHome": "0801-0900/0880",
+  "imgHome": "0880",
   "dataGen": 8,
   "type1": "electric",
   "type2": "dragon",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dracozolt",
   "veekunSlug": "dracozolt",
-  "veekunFormId": 880,
-  "title": "Dracozolt"
+  "veekunFormId": 880
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "cloyster",
-  "imgHome": "0001-0100/0091",
+  "imgHome": "0091",
   "dataGen": 8,
   "type1": "water",
   "type2": "ice",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cloyster",
   "veekunSlug": "cloyster",
-  "veekunFormId": 91,
-  "title": "Cloyster"
+  "veekunFormId": 91
 }

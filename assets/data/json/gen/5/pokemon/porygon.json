@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "porygon",
-  "imgHome": "0101-0200/0137",
+  "imgHome": "0137",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "porygon",
   "veekunSlug": "porygon",
-  "veekunFormId": 137,
-  "title": "Porygon"
+  "veekunFormId": 137
 }

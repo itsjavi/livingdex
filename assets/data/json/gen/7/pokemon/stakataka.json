@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "stakataka",
-  "imgHome": "0801-0900/0805",
+  "imgHome": "0805",
   "dataGen": 8,
   "type1": "rock",
   "type2": "steel",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "stakataka",
   "veekunSlug": "stakataka",
-  "veekunFormId": 805,
-  "title": "Stakataka"
+  "veekunFormId": 805
 }

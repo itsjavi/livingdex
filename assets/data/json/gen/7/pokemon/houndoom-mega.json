@@ -11,7 +11,7 @@
   "baseSpecies": "houndoom",
   "baseDataForm": null,
   "imgSprite": "houndoom-mega",
-  "imgHome": "0201-0300/0229-mega",
+  "imgHome": "0229-mega",
   "dataGen": 8,
   "type1": "dark",
   "type2": "fire",
@@ -63,6 +63,5 @@
   "isHomeStorable": false,
   "showdownSlug": "houndoommega",
   "veekunSlug": "houndoom-mega",
-  "veekunFormId": 10148,
-  "title": "Houndoom (Mega)"
+  "veekunFormId": 10148
 }

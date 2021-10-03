@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "maractus",
-  "imgHome": "0501-0600/0556",
+  "imgHome": "0556",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "maractus",
   "veekunSlug": "maractus",
-  "veekunFormId": 556,
-  "title": "Maractus"
+  "veekunFormId": 556
 }

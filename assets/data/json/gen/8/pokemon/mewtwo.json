@@ -14,7 +14,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "mewtwo",
-  "imgHome": "0101-0200/0150",
+  "imgHome": "0150",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -66,6 +66,5 @@
   "isHomeStorable": true,
   "showdownSlug": "mewtwo",
   "veekunSlug": "mewtwo",
-  "veekunFormId": 150,
-  "title": "Mewtwo"
+  "veekunFormId": 150
 }

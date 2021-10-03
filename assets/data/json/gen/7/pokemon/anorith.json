@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "anorith",
-  "imgHome": "0301-0400/0347",
+  "imgHome": "0347",
   "dataGen": 8,
   "type1": "rock",
   "type2": "bug",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "anorith",
   "veekunSlug": "anorith",
-  "veekunFormId": 347,
-  "title": "Anorith"
+  "veekunFormId": 347
 }

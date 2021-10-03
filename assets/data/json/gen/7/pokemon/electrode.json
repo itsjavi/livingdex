@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "electrode",
-  "imgHome": "0101-0200/0101",
+  "imgHome": "0101",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "electrode",
   "veekunSlug": "electrode",
-  "veekunFormId": 101,
-  "title": "Electrode"
+  "veekunFormId": 101
 }

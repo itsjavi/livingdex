@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "mr-mime",
-  "imgHome": "0101-0200/0122",
+  "imgHome": "0122",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "fairy",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "mrmime",
   "veekunSlug": "mr-mime",
-  "veekunFormId": 122,
-  "title": "Mr. Mime"
+  "veekunFormId": 122
 }

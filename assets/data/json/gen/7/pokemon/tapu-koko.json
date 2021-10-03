@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "tapu-koko",
-  "imgHome": "0701-0800/0785",
+  "imgHome": "0785",
   "dataGen": 8,
   "type1": "electric",
   "type2": "fairy",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "tapukoko",
   "veekunSlug": "tapu-koko",
-  "veekunFormId": 785,
-  "title": "Tapu Koko"
+  "veekunFormId": 785
 }

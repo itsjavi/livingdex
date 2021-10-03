@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "sandshrew",
-  "imgHome": "0001-0100/0027",
+  "imgHome": "0027",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "sandshrew",
   "veekunSlug": "sandshrew",
-  "veekunFormId": 27,
-  "title": "Sandshrew"
+  "veekunFormId": 27
 }

@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "virizion",
-  "imgHome": "0601-0700/0640",
+  "imgHome": "0640",
   "dataGen": 8,
   "type1": "grass",
   "type2": "fighting",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "virizion",
   "veekunSlug": "virizion",
-  "veekunFormId": 640,
-  "title": "Virizion"
+  "veekunFormId": 640
 }

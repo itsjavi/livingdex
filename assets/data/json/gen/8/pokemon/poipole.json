@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "poipole",
-  "imgHome": "0801-0900/0803",
+  "imgHome": "0803",
   "dataGen": 8,
   "type1": "poison",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "poipole",
   "veekunSlug": "poipole",
-  "veekunFormId": 803,
-  "title": "Poipole"
+  "veekunFormId": 803
 }

@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "lumineon",
-  "imgHome": "0401-0500/0457",
+  "imgHome": "0457",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "lumineon",
   "veekunSlug": "lumineon",
-  "veekunFormId": 457,
-  "title": "Lumineon"
+  "veekunFormId": 457
 }

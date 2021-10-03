@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "spheal",
-  "imgHome": "0301-0400/0363",
+  "imgHome": "0363",
   "dataGen": 8,
   "type1": "ice",
   "type2": "water",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "spheal",
   "veekunSlug": "spheal",
-  "veekunFormId": 363,
-  "title": "Spheal"
+  "veekunFormId": 363
 }

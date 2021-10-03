@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "magikarp",
-  "imgHome": "0101-0200/0129",
+  "imgHome": "0129",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "magikarp",
   "veekunSlug": "magikarp",
-  "veekunFormId": 129,
-  "title": "Magikarp"
+  "veekunFormId": 129
 }

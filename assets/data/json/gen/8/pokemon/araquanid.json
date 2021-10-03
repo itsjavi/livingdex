@@ -13,7 +13,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "araquanid",
-  "imgHome": "0701-0800/0752",
+  "imgHome": "0752",
   "dataGen": 8,
   "type1": "water",
   "type2": "bug",
@@ -65,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "araquanid",
   "veekunSlug": "araquanid",
-  "veekunFormId": 752,
-  "title": "Araquanid"
+  "veekunFormId": 752
 }

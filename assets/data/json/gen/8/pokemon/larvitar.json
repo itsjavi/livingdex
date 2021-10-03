@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "larvitar",
-  "imgHome": "0201-0300/0246",
+  "imgHome": "0246",
   "dataGen": 8,
   "type1": "rock",
   "type2": "ground",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "larvitar",
   "veekunSlug": "larvitar",
-  "veekunFormId": 246,
-  "title": "Larvitar"
+  "veekunFormId": 246
 }

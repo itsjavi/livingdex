@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "monferno",
-  "imgHome": "0301-0400/0391",
+  "imgHome": "0391",
   "dataGen": 8,
   "type1": "fire",
   "type2": "fighting",
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "monferno",
   "veekunSlug": "monferno",
-  "veekunFormId": 391,
-  "title": "Monferno"
+  "veekunFormId": 391
 }

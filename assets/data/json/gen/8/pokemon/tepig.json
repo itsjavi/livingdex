@@ -11,7 +11,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "tepig",
-  "imgHome": "0401-0500/0498",
+  "imgHome": "0498",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "tepig",
   "veekunSlug": "tepig",
-  "veekunFormId": 498,
-  "title": "Tepig"
+  "veekunFormId": 498
 }

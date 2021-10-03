@@ -14,7 +14,7 @@
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "kyurem",
-  "imgHome": "0601-0700/0646",
+  "imgHome": "0646",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "ice",
@@ -66,6 +66,5 @@
   "isHomeStorable": true,
   "showdownSlug": "kyurem",
   "veekunSlug": "kyurem",
-  "veekunFormId": 646,
-  "title": "Kyurem"
+  "veekunFormId": 646
 }
