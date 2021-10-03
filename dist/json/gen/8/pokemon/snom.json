@@ -63,5 +63,6 @@
   "isHomeStorable": true,
   "showdownSlug": "snom",
   "veekunSlug": "snom",
-  "veekunFormId": 872
+  "veekunFormId": 872,
+  "title": "Snom"
 }

@@ -22,8 +22,8 @@ clear: # remove all generated data, except sources
 		apps/ui/build/* \
 		apps/ui/public/assets/*
 	##
-	docker-compose run --rm phpfpm composer dumpautoload
-	docker-compose run --rm phpfpm bin/console cache:clear
+	docker-compose run --rm --workdir=/usr/src/project/apps/db phpfpm composer dumpautoload
+	docker-compose run --rm --workdir=/usr/src/project/apps/db phpfpm bin/console cache:clear
 
 clear-sources:
 	rm -rf ./.sources/*

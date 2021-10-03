@@ -63,5 +63,6 @@
   "isHomeStorable": true,
   "showdownSlug": "registeel",
   "veekunSlug": "registeel",
-  "veekunFormId": 379
+  "veekunFormId": 379,
+  "title": "Registeel"
 }

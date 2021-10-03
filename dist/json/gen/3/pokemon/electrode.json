@@ -63,5 +63,6 @@
   "isHomeStorable": true,
   "showdownSlug": "electrode",
   "veekunSlug": "electrode",
-  "veekunFormId": 101
+  "veekunFormId": 101,
+  "title": "Electrode"
 }
