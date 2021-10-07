@@ -1,6 +1,0 @@
-# LivingDex is mainly a React JS project. Exclude certain extensions from Github language analysis to
-# detect the project as JavaScript. See: https://github.com/github/linguist/blob/master/docs/overrides.md
-*.php -linguist-vendored
-*.twig -linguist-vendored
-*.sh -linguist-vendored
-dist/* -linguist-documentation

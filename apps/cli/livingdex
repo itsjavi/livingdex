@@ -1002,11 +1002,11 @@ exit 0
 livingdex_install_command() {
   # :src/install_command.sh
   # Install dependencies
-  cd "${APPS_DIR}/ui"
+  cd "${UI_APP_DIR}"
   npm install
   cd -
   
-  cd "${APPS_DIR}/db"
+  cd "${DATAGEN_APP_DIR}"
   composer install
   cd -
   #---
@@ -1024,11 +1024,11 @@ livingdex_install_command() {
 livingdex_update_command() {
   # :src/update_command.sh
   # Install dependencies
-  cd "${APPS_DIR}/ui"
+  cd "${UI_APP_DIR}"
   npm update && npm upgrade
   cd -
   
-  cd "${APPS_DIR}/db"
+  cd "${DATAGEN_APP_DIR}"
   composer update
   cd -
   #---
@@ -1047,7 +1047,7 @@ livingdex_update_command() {
 livingdex_deploy_command() {
   # :src/deploy_command.sh
   
-  cd "${APPS_DIR}/ui"
+  cd "${UI_APP_DIR}"
   
   rm -rf public/assets/data/csv public/assets/data/pogo
   npm run deploy
@@ -1063,7 +1063,7 @@ livingdex_query_command() {
   
   sql=${args[sql]}
   
-  "${APPS_DIR}/db/bin/console" app:data:export -vvv --format=json "${sql}"
+  "${DATAGEN_APP_DIR}/bin/console" app:data:export -vvv --format=json "${sql}"
 }
 
 # :command.function

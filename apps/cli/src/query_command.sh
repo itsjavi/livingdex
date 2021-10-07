@@ -5,4 +5,4 @@
 
 sql=${args[sql]}
 
-"${APPS_DIR}/db/bin/console" app:data:export -vvv --format=json "${sql}"
+"${DATAGEN_APP_DIR}/bin/console" app:data:export -vvv --format=json "${sql}"

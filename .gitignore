@@ -1,11 +1,8 @@
 *.log
 .idea
-/build
-/tmp
-/assets/sources
-/data/sources
-/apps/ui/public/assets
-/apps/db/public/assets
+build
+tmp
+public/assets
 .megadown
 .sources
-TODO-dev.md
+TODO-*.md

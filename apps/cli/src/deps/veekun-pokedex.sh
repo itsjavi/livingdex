@@ -4,7 +4,7 @@ REPO="veekun-pokedex"
 REPO_FQN="itsjavi/${REPO}"
 SQLITE_FILE="${SOURCES_DIR}/pokedex.sqlite"
 SQLITE_FILE_ZIP="${REPO}/pokedex/data/pokedex.sqlite.zip"
-SQLITE_FILE_DEST="${APPS_DIR}/db/var/data/veekun-pokedex.sqlite"
+SQLITE_FILE_DEST="${DATAGEN_APP_DIR}/var/data/veekun-pokedex.sqlite"
 
 mkdir -p "${SOURCES_DIR}"
 cd "${SOURCES_DIR}"

@@ -1,9 +1,9 @@
 # Install dependencies
-cd "${APPS_DIR}/ui"
+cd "${UI_APP_DIR}"
 npm update && npm upgrade
 cd -
 
-cd "${APPS_DIR}/db"
+cd "${DATAGEN_APP_DIR}"
 composer update
 cd -
 #---
