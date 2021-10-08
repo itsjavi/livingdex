@@ -5,9 +5,9 @@
   "name": "Meowth",
   "gen": 1,
   "forms": [
+    "meowth-gmax",
     "meowth-alola",
-    "meowth-galar",
-    "meowth-gmax"
+    "meowth-galar"
   ],
   "formName": null,
   "formSlug": null,

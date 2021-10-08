@@ -5,17 +5,17 @@
   "name": "Minior",
   "gen": 7,
   "forms": [
+    "minior-meteor",
     "minior-orange",
     "minior-yellow",
     "minior-green",
     "minior-blue",
     "minior-indigo",
-    "minior-violet",
-    "minior-meteor"
+    "minior-violet"
   ],
   "formName": "Red",
   "formSlug": "red",
-  "formOrder": 0,
+  "formOrder": 1,
   "baseSpecies": null,
   "baseDataForm": null,
   "imgSprite": "minior-red",

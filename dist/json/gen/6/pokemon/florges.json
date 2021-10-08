@@ -5,10 +5,10 @@
   "name": "Florges",
   "gen": 6,
   "forms": [
-    "florges-blue",
+    "florges-yellow",
     "florges-orange",
-    "florges-white",
-    "florges-yellow"
+    "florges-blue",
+    "florges-white"
   ],
   "formName": "Red",
   "formSlug": "red",

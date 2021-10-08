@@ -13,6 +13,7 @@
     "pikachu-phd",
     "pikachu-libre",
     "pikachu-starter",
+    "pikachu-gmax",
     "pikachu-original-cap",
     "pikachu-hoenn-cap",
     "pikachu-sinnoh-cap",
@@ -20,8 +21,7 @@
     "pikachu-kalos-cap",
     "pikachu-alola-cap",
     "pikachu-partner-cap",
-    "pikachu-world-cap",
-    "pikachu-gmax"
+    "pikachu-world-cap"
   ],
   "formName": null,
   "formSlug": null,

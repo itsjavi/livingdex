@@ -7,7 +7,7 @@ default:
 	docker-compose run --rm pogo-dumper make
 	docker-compose run --rm data-generator make
 	docker-compose run --rm spritesheet-generator make
-	docker-compose run --rm ui make
+	docker-compose run --rm ui-dev make
 
 clear: # remove all generated data, except sources
 	docker-compose down --remove-orphans

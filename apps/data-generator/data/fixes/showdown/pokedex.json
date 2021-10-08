@@ -1,0 +1,137 @@
+{
+  "overrides": {
+    "pikachuoriginal": {
+      "name": "Pikachu-Original-Cap",
+      "forme": "Original-Cap"
+    },
+    "pikachuhoenn": {
+      "name": "Pikachu-Hoenn-Cap",
+      "forme": "Hoenn-Cap"
+    },
+    "pikachusinnoh": {
+      "name": "Pikachu-Sinnoh-Cap",
+      "forme": "Sinnoh-Cap"
+    },
+    "pikachuunova": {
+      "name": "Pikachu-Unova-Cap",
+      "forme": "Unova-Cap"
+    },
+    "pikachukalos": {
+      "name": "Pikachu-Kalos-Cap",
+      "forme": "Kalos-Cap"
+    },
+    "pikachualola": {
+      "name": "Pikachu-Alola-Cap",
+      "forme": "Alola-Cap"
+    },
+    "pikachupartner": {
+      "name": "Pikachu-Partner-Cap",
+      "forme": "Partner-Cap"
+    },
+    "pikachuworld": {
+      "name": "Pikachu-World-Cap",
+      "forme": "World-Cap"
+    },
+    "vivillon": {
+      "baseForme": "Icy Snow",
+      "cosmeticFormes": [
+        "Vivillon-Archipelago",
+        "Vivillon-Continental",
+        "Vivillon-Elegant",
+        "Vivillon-Garden",
+        "Vivillon-High Plains",
+        "Vivillon-Meadow",
+        "Vivillon-Jungle",
+        "Vivillon-Marine",
+        "Vivillon-Modern",
+        "Vivillon-Monsoon",
+        "Vivillon-Ocean",
+        "Vivillon-Polar",
+        "Vivillon-River",
+        "Vivillon-Sandstorm",
+        "Vivillon-Savanna",
+        "Vivillon-Sun",
+        "Vivillon-Tundra"
+      ]
+    },
+    "xerneas": {
+      "name": "Xerneas",
+      "baseForme": "Neutral",
+      "baseSpecies": null,
+      "forme": null
+    },
+    "xerneasneutral": {
+      "name": "Xerneas-Active",
+      "baseForme": null,
+      "baseSpecies": "Xerneas",
+      "forme": "Active"
+    },
+    "alcremie": {
+      "baseForme": "Vanilla-Cream-Strawberry",
+      "cosmeticFormes": [
+        "Alcremie-Vanilla-Cream-Berry",
+        "Alcremie-Vanilla-Cream-Love",
+        "Alcremie-Vanilla-Cream-Star",
+        "Alcremie-Vanilla-Cream-Clover",
+        "Alcremie-Vanilla-Cream-Flower",
+        "Alcremie-Vanilla-Cream-Ribbon",
+        "Alcremie-Ruby-Cream-Strawberry",
+        "Alcremie-Ruby-Cream-Berry",
+        "Alcremie-Ruby-Cream-Love",
+        "Alcremie-Ruby-Cream-Star",
+        "Alcremie-Ruby-Cream-Clover",
+        "Alcremie-Ruby-Cream-Flower",
+        "Alcremie-Ruby-Cream-Ribbon",
+        "Alcremie-Matcha-Cream-Strawberry",
+        "Alcremie-Matcha-Cream-Berry",
+        "Alcremie-Matcha-Cream-Love",
+        "Alcremie-Matcha-Cream-Star",
+        "Alcremie-Matcha-Cream-Clover",
+        "Alcremie-Matcha-Cream-Flower",
+        "Alcremie-Matcha-Cream-Ribbon",
+        "Alcremie-Mint-Cream-Strawberry",
+        "Alcremie-Mint-Cream-Berry",
+        "Alcremie-Mint-Cream-Love",
+        "Alcremie-Mint-Cream-Star",
+        "Alcremie-Mint-Cream-Clover",
+        "Alcremie-Mint-Cream-Flower",
+        "Alcremie-Mint-Cream-Ribbon",
+        "Alcremie-Lemon-Cream-Strawberry",
+        "Alcremie-Lemon-Cream-Berry",
+        "Alcremie-Lemon-Cream-Love",
+        "Alcremie-Lemon-Cream-Star",
+        "Alcremie-Lemon-Cream-Clover",
+        "Alcremie-Lemon-Cream-Flower",
+        "Alcremie-Lemon-Cream-Ribbon",
+        "Alcremie-Salted-Cream-Strawberry",
+        "Alcremie-Salted-Cream-Berry",
+        "Alcremie-Salted-Cream-Love",
+        "Alcremie-Salted-Cream-Star",
+        "Alcremie-Salted-Cream-Clover",
+        "Alcremie-Salted-Cream-Flower",
+        "Alcremie-Salted-Cream-Ribbon",
+        "Alcremie-Ruby-Swirl-Strawberry",
+        "Alcremie-Ruby-Swirl-Berry",
+        "Alcremie-Ruby-Swirl-Love",
+        "Alcremie-Ruby-Swirl-Star",
+        "Alcremie-Ruby-Swirl-Clover",
+        "Alcremie-Ruby-Swirl-Flower",
+        "Alcremie-Ruby-Swirl-Ribbon",
+        "Alcremie-Caramel-Swirl-Strawberry",
+        "Alcremie-Caramel-Swirl-Berry",
+        "Alcremie-Caramel-Swirl-Love",
+        "Alcremie-Caramel-Swirl-Star",
+        "Alcremie-Caramel-Swirl-Clover",
+        "Alcremie-Caramel-Swirl-Flower",
+        "Alcremie-Caramel-Swirl-Ribbon",
+        "Alcremie-Rainbow-Swirl-Strawberry",
+        "Alcremie-Rainbow-Swirl-Berry",
+        "Alcremie-Rainbow-Swirl-Love",
+        "Alcremie-Rainbow-Swirl-Star",
+        "Alcremie-Rainbow-Swirl-Clover",
+        "Alcremie-Rainbow-Swirl-Flower",
+        "Alcremie-Rainbow-Swirl-Ribbon"
+      ]
+    }
+  }
+}

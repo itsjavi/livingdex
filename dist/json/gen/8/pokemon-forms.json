@@ -35,8 +35,8 @@
     "gen": 1,
     "forms": [
       "venusaur-f",
-      "venusaur-mega",
-      "venusaur-gmax"
+      "venusaur-gmax",
+      "venusaur-mega"
     ],
     "baseSpecies": null,
     "imgSprite": "venusaur",
@@ -60,20 +60,6 @@
     "isHomeStorable": true
   },
   {
-    "id": 10002,
-    "num": 3,
-    "slug": "venusaur-mega",
-    "name": "Venusaur-Mega",
-    "gen": 6,
-    "forms": [],
-    "baseSpecies": "venusaur",
-    "imgSprite": "venusaur-mega",
-    "imgHome": "0003-mega",
-    "formOrder": 2,
-    "isCosmetic": false,
-    "isHomeStorable": false
-  },
-  {
     "id": 10003,
     "num": 3,
     "slug": "venusaur-gmax",
@@ -83,9 +69,23 @@
     "baseSpecies": "venusaur",
     "imgSprite": "venusaur-gmax",
     "imgHome": "0003-gmax",
-    "formOrder": 3,
+    "formOrder": 2,
     "isCosmetic": false,
     "isHomeStorable": true
+  },
+  {
+    "id": 10002,
+    "num": 3,
+    "slug": "venusaur-mega",
+    "name": "Venusaur-Mega",
+    "gen": 6,
+    "forms": [],
+    "baseSpecies": "venusaur",
+    "imgSprite": "venusaur-mega",
+    "imgHome": "0003-mega",
+    "formOrder": 3,
+    "isCosmetic": false,
+    "isHomeStorable": false
   },
   {
     "id": 4,
@@ -122,14 +122,28 @@
     "name": "Charizard",
     "gen": 1,
     "forms": [
+      "charizard-gmax",
       "charizard-mega-x",
-      "charizard-mega-y",
-      "charizard-gmax"
+      "charizard-mega-y"
     ],
     "baseSpecies": null,
     "imgSprite": "charizard",
     "imgHome": "0006",
     "formOrder": 0,
+    "isCosmetic": false,
+    "isHomeStorable": true
+  },
+  {
+    "id": 10006,
+    "num": 6,
+    "slug": "charizard-gmax",
+    "name": "Charizard-Gmax",
+    "gen": 8,
+    "forms": [],
+    "baseSpecies": "charizard",
+    "imgSprite": "charizard-gmax",
+    "imgHome": "0006-gmax",
+    "formOrder": 1,
     "isCosmetic": false,
     "isHomeStorable": true
   },
@@ -143,7 +157,7 @@
     "baseSpecies": "charizard",
     "imgSprite": "charizard-mega-x",
     "imgHome": "0006-mega-x",
-    "formOrder": 1,
+    "formOrder": 2,
     "isCosmetic": false,
     "isHomeStorable": false
   },
@@ -157,23 +171,9 @@
     "baseSpecies": "charizard",
     "imgSprite": "charizard-mega-y",
     "imgHome": "0006-mega-y",
-    "formOrder": 2,
-    "isCosmetic": false,
-    "isHomeStorable": false
-  },
-  {
-    "id": 10006,
-    "num": 6,
-    "slug": "charizard-gmax",
-    "name": "Charizard-Gmax",
-    "gen": 8,
-    "forms": [],
-    "baseSpecies": "charizard",
-    "imgSprite": "charizard-gmax",
-    "imgHome": "0006-gmax",
     "formOrder": 3,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": false
   },
   {
     "id": 7,
@@ -210,13 +210,27 @@
     "name": "Blastoise",
     "gen": 1,
     "forms": [
-      "blastoise-mega",
-      "blastoise-gmax"
+      "blastoise-gmax",
+      "blastoise-mega"
     ],
     "baseSpecies": null,
     "imgSprite": "blastoise",
     "imgHome": "0009",
     "formOrder": 0,
+    "isCosmetic": false,
+    "isHomeStorable": true
+  },
+  {
+    "id": 10008,
+    "num": 9,
+    "slug": "blastoise-gmax",
+    "name": "Blastoise-Gmax",
+    "gen": 8,
+    "forms": [],
+    "baseSpecies": "blastoise",
+    "imgSprite": "blastoise-gmax",
+    "imgHome": "0009-gmax",
+    "formOrder": 1,
     "isCosmetic": false,
     "isHomeStorable": true
   },
@@ -230,23 +244,9 @@
     "baseSpecies": "blastoise",
     "imgSprite": "blastoise-mega",
     "imgHome": "0009-mega",
-    "formOrder": 1,
-    "isCosmetic": false,
-    "isHomeStorable": false
-  },
-  {
-    "id": 10008,
-    "num": 9,
-    "slug": "blastoise-gmax",
-    "name": "Blastoise-Gmax",
-    "gen": 8,
-    "forms": [],
-    "baseSpecies": "blastoise",
-    "imgSprite": "blastoise-gmax",
-    "imgHome": "0009-gmax",
     "formOrder": 2,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": false
   },
   {
     "id": 10,
@@ -613,6 +613,7 @@
       "pikachu-phd",
       "pikachu-libre",
       "pikachu-starter",
+      "pikachu-gmax",
       "pikachu-original-cap",
       "pikachu-hoenn-cap",
       "pikachu-sinnoh-cap",
@@ -620,8 +621,7 @@
       "pikachu-kalos-cap",
       "pikachu-alola-cap",
       "pikachu-partner-cap",
-      "pikachu-world-cap",
-      "pikachu-gmax"
+      "pikachu-world-cap"
     ],
     "baseSpecies": null,
     "imgSprite": "pikachu",
@@ -743,6 +743,20 @@
     "isHomeStorable": false
   },
   {
+    "id": 10033,
+    "num": 25,
+    "slug": "pikachu-gmax",
+    "name": "Pikachu-Gmax",
+    "gen": 8,
+    "forms": [],
+    "baseSpecies": "pikachu",
+    "imgSprite": "pikachu-gmax",
+    "imgHome": "0025-gmax",
+    "formOrder": 9,
+    "isCosmetic": false,
+    "isHomeStorable": true
+  },
+  {
     "id": 10025,
     "num": 25,
     "slug": "pikachu-original-cap",
@@ -752,7 +766,7 @@
     "baseSpecies": "pikachu",
     "imgSprite": "pikachu-original-cap",
     "imgHome": "0025-original-cap",
-    "formOrder": 9,
+    "formOrder": 10,
     "isCosmetic": false,
     "isHomeStorable": true
   },
@@ -766,7 +780,7 @@
     "baseSpecies": "pikachu",
     "imgSprite": "pikachu-hoenn-cap",
     "imgHome": "0025-hoenn-cap",
-    "formOrder": 10,
+    "formOrder": 11,
     "isCosmetic": false,
     "isHomeStorable": true
   },
@@ -780,7 +794,7 @@
     "baseSpecies": "pikachu",
     "imgSprite": "pikachu-sinnoh-cap",
     "imgHome": "0025-sinnoh-cap",
-    "formOrder": 11,
+    "formOrder": 12,
     "isCosmetic": false,
     "isHomeStorable": true
   },
@@ -794,7 +808,7 @@
     "baseSpecies": "pikachu",
     "imgSprite": "pikachu-unova-cap",
     "imgHome": "0025-unova-cap",
-    "formOrder": 12,
+    "formOrder": 13,
     "isCosmetic": false,
     "isHomeStorable": true
   },
@@ -808,7 +822,7 @@
     "baseSpecies": "pikachu",
     "imgSprite": "pikachu-kalos-cap",
     "imgHome": "0025-kalos-cap",
-    "formOrder": 13,
+    "formOrder": 14,
     "isCosmetic": false,
     "isHomeStorable": true
   },
@@ -822,7 +836,7 @@
     "baseSpecies": "pikachu",
     "imgSprite": "pikachu-alola-cap",
     "imgHome": "0025-alola-cap",
-    "formOrder": 14,
+    "formOrder": 15,
     "isCosmetic": false,
     "isHomeStorable": true
   },
@@ -836,7 +850,7 @@
     "baseSpecies": "pikachu",
     "imgSprite": "pikachu-partner-cap",
     "imgHome": "0025-partner-cap",
-    "formOrder": 15,
+    "formOrder": 16,
     "isCosmetic": false,
     "isHomeStorable": true
   },
@@ -850,20 +864,6 @@
     "baseSpecies": "pikachu",
     "imgSprite": "pikachu-world-cap",
     "imgHome": "0025-world-cap",
-    "formOrder": 16,
-    "isCosmetic": false,
-    "isHomeStorable": true
-  },
-  {
-    "id": 10033,
-    "num": 25,
-    "slug": "pikachu-gmax",
-    "name": "Pikachu-Gmax",
-    "gen": 8,
-    "forms": [],
-    "baseSpecies": "pikachu",
-    "imgSprite": "pikachu-gmax",
-    "imgHome": "0025-gmax",
     "formOrder": 17,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -1430,42 +1430,14 @@
     "name": "Meowth",
     "gen": 1,
     "forms": [
+      "meowth-gmax",
       "meowth-alola",
-      "meowth-galar",
-      "meowth-gmax"
+      "meowth-galar"
     ],
     "baseSpecies": null,
     "imgSprite": "meowth",
     "imgHome": "0052",
     "formOrder": 0,
-    "isCosmetic": false,
-    "isHomeStorable": true
-  },
-  {
-    "id": 10047,
-    "num": 52,
-    "slug": "meowth-alola",
-    "name": "Meowth-Alola",
-    "gen": 7,
-    "forms": [],
-    "baseSpecies": "meowth",
-    "imgSprite": "meowth-alola",
-    "imgHome": "0052-alola",
-    "formOrder": 1,
-    "isCosmetic": false,
-    "isHomeStorable": true
-  },
-  {
-    "id": 10048,
-    "num": 52,
-    "slug": "meowth-galar",
-    "name": "Meowth-Galar",
-    "gen": 8,
-    "forms": [],
-    "baseSpecies": "meowth",
-    "imgSprite": "meowth-galar",
-    "imgHome": "0052-galar",
-    "formOrder": 2,
     "isCosmetic": false,
     "isHomeStorable": true
   },
@@ -1479,6 +1451,34 @@
     "baseSpecies": "meowth",
     "imgSprite": "meowth-gmax",
     "imgHome": "0052-gmax",
+    "formOrder": 1,
+    "isCosmetic": false,
+    "isHomeStorable": true
+  },
+  {
+    "id": 10047,
+    "num": 52,
+    "slug": "meowth-alola",
+    "name": "Meowth-Alola",
+    "gen": 7,
+    "forms": [],
+    "baseSpecies": "meowth",
+    "imgSprite": "meowth-alola",
+    "imgHome": "0052-alola",
+    "formOrder": 2,
+    "isCosmetic": false,
+    "isHomeStorable": true
+  },
+  {
+    "id": 10048,
+    "num": 52,
+    "slug": "meowth-galar",
+    "name": "Meowth-Galar",
+    "gen": 8,
+    "forms": [],
+    "baseSpecies": "meowth",
+    "imgSprite": "meowth-galar",
+    "imgHome": "0052-galar",
     "formOrder": 3,
     "isCosmetic": false,
     "isHomeStorable": true
@@ -2350,13 +2350,27 @@
     "name": "Gengar",
     "gen": 1,
     "forms": [
-      "gengar-mega",
-      "gengar-gmax"
+      "gengar-gmax",
+      "gengar-mega"
     ],
     "baseSpecies": null,
     "imgSprite": "gengar",
     "imgHome": "0094",
     "formOrder": 0,
+    "isCosmetic": false,
+    "isHomeStorable": true
+  },
+  {
+    "id": 10069,
+    "num": 94,
+    "slug": "gengar-gmax",
+    "name": "Gengar-Gmax",
+    "gen": 8,
+    "forms": [],
+    "baseSpecies": "gengar",
+    "imgSprite": "gengar-gmax",
+    "imgHome": "0094-gmax",
+    "formOrder": 1,
     "isCosmetic": false,
     "isHomeStorable": true
   },
@@ -2370,23 +2384,9 @@
     "baseSpecies": "gengar",
     "imgSprite": "gengar-mega",
     "imgHome": "0094-mega",
-    "formOrder": 1,
-    "isCosmetic": false,
-    "isHomeStorable": false
-  },
-  {
-    "id": 10069,
-    "num": 94,
-    "slug": "gengar-gmax",
-    "name": "Gengar-Gmax",
-    "gen": 8,
-    "forms": [],
-    "baseSpecies": "gengar",
-    "imgSprite": "gengar-gmax",
-    "imgHome": "0094-gmax",
     "formOrder": 2,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": false
   },
   {
     "id": 95,
@@ -3214,8 +3214,8 @@
     "gen": 1,
     "forms": [
       "eevee-f",
-      "eevee-starter",
-      "eevee-gmax"
+      "eevee-gmax",
+      "eevee-starter"
     ],
     "baseSpecies": null,
     "imgSprite": "eevee",
@@ -3239,20 +3239,6 @@
     "isHomeStorable": true
   },
   {
-    "id": 10089,
-    "num": 133,
-    "slug": "eevee-starter",
-    "name": "Eevee-Starter",
-    "gen": 7,
-    "forms": [],
-    "baseSpecies": "eevee",
-    "imgSprite": "eevee-starter",
-    "imgHome": "0000-unknown",
-    "formOrder": 2,
-    "isCosmetic": false,
-    "isHomeStorable": false
-  },
-  {
     "id": 10090,
     "num": 133,
     "slug": "eevee-gmax",
@@ -3262,9 +3248,23 @@
     "baseSpecies": "eevee",
     "imgSprite": "eevee-gmax",
     "imgHome": "0133-gmax",
-    "formOrder": 3,
+    "formOrder": 2,
     "isCosmetic": false,
     "isHomeStorable": true
+  },
+  {
+    "id": 10089,
+    "num": 133,
+    "slug": "eevee-starter",
+    "name": "Eevee-Starter",
+    "gen": 7,
+    "forms": [],
+    "baseSpecies": "eevee",
+    "imgSprite": "eevee-starter",
+    "imgHome": "0000-unknown",
+    "formOrder": 3,
+    "isCosmetic": false,
+    "isHomeStorable": false
   },
   {
     "id": 134,
@@ -14024,12 +14024,12 @@
     "name": "Vivillon",
     "gen": 6,
     "forms": [
-      "vivillon-meadow",
       "vivillon-polar",
       "vivillon-tundra",
       "vivillon-continental",
       "vivillon-garden",
       "vivillon-elegant",
+      "vivillon-meadow",
       "vivillon-modern",
       "vivillon-marine",
       "vivillon-archipelago",
@@ -14052,20 +14052,6 @@
     "isHomeStorable": true
   },
   {
-    "id": 10307,
-    "num": 666,
-    "slug": "vivillon-meadow",
-    "name": "Vivillon-Meadow",
-    "gen": 6,
-    "forms": [],
-    "baseSpecies": "vivillon",
-    "imgSprite": "vivillon",
-    "imgHome": "0666-meadow",
-    "formOrder": 1,
-    "isCosmetic": false,
-    "isHomeStorable": true
-  },
-  {
     "id": 10313,
     "num": 666,
     "slug": "vivillon-polar",
@@ -14075,7 +14061,7 @@
     "baseSpecies": "vivillon",
     "imgSprite": "vivillon-polar",
     "imgHome": "0666-polar",
-    "formOrder": 2,
+    "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
   },
@@ -14089,7 +14075,7 @@
     "baseSpecies": "vivillon",
     "imgSprite": "vivillon-tundra",
     "imgHome": "0666-tundra",
-    "formOrder": 3,
+    "formOrder": 2,
     "isCosmetic": true,
     "isHomeStorable": true
   },
@@ -14103,7 +14089,7 @@
     "baseSpecies": "vivillon",
     "imgSprite": "vivillon-continental",
     "imgHome": "0666-continental",
-    "formOrder": 4,
+    "formOrder": 3,
     "isCosmetic": true,
     "isHomeStorable": true
   },
@@ -14117,7 +14103,7 @@
     "baseSpecies": "vivillon",
     "imgSprite": "vivillon-garden",
     "imgHome": "0666-garden",
-    "formOrder": 5,
+    "formOrder": 4,
     "isCosmetic": true,
     "isHomeStorable": true
   },
@@ -14131,8 +14117,22 @@
     "baseSpecies": "vivillon",
     "imgSprite": "vivillon-elegant",
     "imgHome": "0666-elegant",
-    "formOrder": 6,
+    "formOrder": 5,
     "isCosmetic": true,
+    "isHomeStorable": true
+  },
+  {
+    "id": 10307,
+    "num": 666,
+    "slug": "vivillon-meadow",
+    "name": "Vivillon-Meadow",
+    "gen": 6,
+    "forms": [],
+    "baseSpecies": "vivillon",
+    "imgSprite": "vivillon",
+    "imgHome": "0666-meadow",
+    "formOrder": 6,
+    "isCosmetic": false,
     "isHomeStorable": true
   },
   {
@@ -14368,10 +14368,10 @@
     "name": "Flabe\u0301be\u0301",
     "gen": 6,
     "forms": [
-      "flabebe-blue",
+      "flabebe-yellow",
       "flabebe-orange",
-      "flabebe-white",
-      "flabebe-yellow"
+      "flabebe-blue",
+      "flabebe-white"
     ],
     "baseSpecies": null,
     "imgSprite": "flabebe",
@@ -14381,15 +14381,15 @@
     "isHomeStorable": true
   },
   {
-    "id": 10322,
+    "id": 10325,
     "num": 669,
-    "slug": "flabebe-blue",
-    "name": "Flabe\u0301be\u0301-Blue",
+    "slug": "flabebe-yellow",
+    "name": "Flabe\u0301be\u0301-Yellow",
     "gen": 6,
     "forms": [],
     "baseSpecies": "flabebe",
-    "imgSprite": "flabebe-blue",
-    "imgHome": "0669-blue",
+    "imgSprite": "flabebe-yellow",
+    "imgHome": "0669-yellow",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -14409,6 +14409,20 @@
     "isHomeStorable": true
   },
   {
+    "id": 10322,
+    "num": 669,
+    "slug": "flabebe-blue",
+    "name": "Flabe\u0301be\u0301-Blue",
+    "gen": 6,
+    "forms": [],
+    "baseSpecies": "flabebe",
+    "imgSprite": "flabebe-blue",
+    "imgHome": "0669-blue",
+    "formOrder": 3,
+    "isCosmetic": true,
+    "isHomeStorable": true
+  },
+  {
     "id": 10324,
     "num": 669,
     "slug": "flabebe-white",
@@ -14418,20 +14432,6 @@
     "baseSpecies": "flabebe",
     "imgSprite": "flabebe-white",
     "imgHome": "0669-white",
-    "formOrder": 3,
-    "isCosmetic": true,
-    "isHomeStorable": true
-  },
-  {
-    "id": 10325,
-    "num": 669,
-    "slug": "flabebe-yellow",
-    "name": "Flabe\u0301be\u0301-Yellow",
-    "gen": 6,
-    "forms": [],
-    "baseSpecies": "flabebe",
-    "imgSprite": "flabebe-yellow",
-    "imgHome": "0669-yellow",
     "formOrder": 4,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -14443,11 +14443,11 @@
     "name": "Floette",
     "gen": 6,
     "forms": [
-      "floette-blue",
-      "floette-orange",
-      "floette-white",
+      "floette-eternal",
       "floette-yellow",
-      "floette-eternal"
+      "floette-orange",
+      "floette-blue",
+      "floette-white"
     ],
     "baseSpecies": null,
     "imgSprite": "floette",
@@ -14457,16 +14457,30 @@
     "isHomeStorable": true
   },
   {
-    "id": 10326,
+    "id": 10330,
     "num": 670,
-    "slug": "floette-blue",
-    "name": "Floette-Blue",
+    "slug": "floette-eternal",
+    "name": "Floette-Eternal",
     "gen": 6,
     "forms": [],
     "baseSpecies": "floette",
-    "imgSprite": "floette-blue",
-    "imgHome": "0670-blue",
+    "imgSprite": "floette-eternal",
+    "imgHome": "0000-unknown",
     "formOrder": 1,
+    "isCosmetic": false,
+    "isHomeStorable": false
+  },
+  {
+    "id": 10329,
+    "num": 670,
+    "slug": "floette-yellow",
+    "name": "Floette-Yellow",
+    "gen": 6,
+    "forms": [],
+    "baseSpecies": "floette",
+    "imgSprite": "floette-yellow",
+    "imgHome": "0670-yellow",
+    "formOrder": 2,
     "isCosmetic": true,
     "isHomeStorable": true
   },
@@ -14480,7 +14494,21 @@
     "baseSpecies": "floette",
     "imgSprite": "floette-orange",
     "imgHome": "0670-orange",
-    "formOrder": 2,
+    "formOrder": 3,
+    "isCosmetic": true,
+    "isHomeStorable": true
+  },
+  {
+    "id": 10326,
+    "num": 670,
+    "slug": "floette-blue",
+    "name": "Floette-Blue",
+    "gen": 6,
+    "forms": [],
+    "baseSpecies": "floette",
+    "imgSprite": "floette-blue",
+    "imgHome": "0670-blue",
+    "formOrder": 4,
     "isCosmetic": true,
     "isHomeStorable": true
   },
@@ -14494,37 +14522,9 @@
     "baseSpecies": "floette",
     "imgSprite": "floette-white",
     "imgHome": "0670-white",
-    "formOrder": 3,
-    "isCosmetic": true,
-    "isHomeStorable": true
-  },
-  {
-    "id": 10329,
-    "num": 670,
-    "slug": "floette-yellow",
-    "name": "Floette-Yellow",
-    "gen": 6,
-    "forms": [],
-    "baseSpecies": "floette",
-    "imgSprite": "floette-yellow",
-    "imgHome": "0670-yellow",
-    "formOrder": 4,
-    "isCosmetic": true,
-    "isHomeStorable": true
-  },
-  {
-    "id": 10330,
-    "num": 670,
-    "slug": "floette-eternal",
-    "name": "Floette-Eternal",
-    "gen": 6,
-    "forms": [],
-    "baseSpecies": "floette",
-    "imgSprite": "floette-eternal",
-    "imgHome": "0000-unknown",
     "formOrder": 5,
-    "isCosmetic": false,
-    "isHomeStorable": false
+    "isCosmetic": true,
+    "isHomeStorable": true
   },
   {
     "id": 671,
@@ -14533,10 +14533,10 @@
     "name": "Florges",
     "gen": 6,
     "forms": [
-      "florges-blue",
+      "florges-yellow",
       "florges-orange",
-      "florges-white",
-      "florges-yellow"
+      "florges-blue",
+      "florges-white"
     ],
     "baseSpecies": null,
     "imgSprite": "florges",
@@ -14546,15 +14546,15 @@
     "isHomeStorable": true
   },
   {
-    "id": 10331,
+    "id": 10334,
     "num": 671,
-    "slug": "florges-blue",
-    "name": "Florges-Blue",
+    "slug": "florges-yellow",
+    "name": "Florges-Yellow",
     "gen": 6,
     "forms": [],
     "baseSpecies": "florges",
-    "imgSprite": "florges-blue",
-    "imgHome": "0671-blue",
+    "imgSprite": "florges-yellow",
+    "imgHome": "0671-yellow",
     "formOrder": 1,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -14574,6 +14574,20 @@
     "isHomeStorable": true
   },
   {
+    "id": 10331,
+    "num": 671,
+    "slug": "florges-blue",
+    "name": "Florges-Blue",
+    "gen": 6,
+    "forms": [],
+    "baseSpecies": "florges",
+    "imgSprite": "florges-blue",
+    "imgHome": "0671-blue",
+    "formOrder": 3,
+    "isCosmetic": true,
+    "isHomeStorable": true
+  },
+  {
     "id": 10333,
     "num": 671,
     "slug": "florges-white",
@@ -14583,20 +14597,6 @@
     "baseSpecies": "florges",
     "imgSprite": "florges-white",
     "imgHome": "0671-white",
-    "formOrder": 3,
-    "isCosmetic": true,
-    "isHomeStorable": true
-  },
-  {
-    "id": 10334,
-    "num": 671,
-    "slug": "florges-yellow",
-    "name": "Florges-Yellow",
-    "gen": 6,
-    "forms": [],
-    "baseSpecies": "florges",
-    "imgSprite": "florges-yellow",
-    "imgHome": "0671-yellow",
     "formOrder": 4,
     "isCosmetic": true,
     "isHomeStorable": true
@@ -16860,24 +16860,38 @@
     "isHomeStorable": false
   },
   {
+    "id": 10395,
+    "num": 774,
+    "slug": "minior-meteor",
+    "name": "Minior-Meteor",
+    "gen": 7,
+    "forms": [],
+    "baseSpecies": "minior",
+    "imgSprite": "minior",
+    "imgHome": "0774",
+    "formOrder": 0,
+    "isCosmetic": false,
+    "isHomeStorable": false
+  },
+  {
     "id": 774,
     "num": 774,
     "slug": "minior",
     "name": "Minior",
     "gen": 7,
     "forms": [
+      "minior-meteor",
       "minior-orange",
       "minior-yellow",
       "minior-green",
       "minior-blue",
       "minior-indigo",
-      "minior-violet",
-      "minior-meteor"
+      "minior-violet"
     ],
     "baseSpecies": null,
     "imgSprite": "minior-red",
     "imgHome": "0774-red",
-    "formOrder": 0,
+    "formOrder": 1,
     "isCosmetic": false,
     "isHomeStorable": true
   },
@@ -16891,7 +16905,7 @@
     "baseSpecies": "minior",
     "imgSprite": "minior-orange",
     "imgHome": "0774-orange",
-    "formOrder": 1,
+    "formOrder": 2,
     "isCosmetic": true,
     "isHomeStorable": true
   },
@@ -16905,7 +16919,7 @@
     "baseSpecies": "minior",
     "imgSprite": "minior-yellow",
     "imgHome": "0774-yellow",
-    "formOrder": 2,
+    "formOrder": 3,
     "isCosmetic": true,
     "isHomeStorable": true
   },
@@ -16919,7 +16933,7 @@
     "baseSpecies": "minior",
     "imgSprite": "minior-green",
     "imgHome": "0774-green",
-    "formOrder": 3,
+    "formOrder": 4,
     "isCosmetic": true,
     "isHomeStorable": true
   },
@@ -16933,7 +16947,7 @@
     "baseSpecies": "minior",
     "imgSprite": "minior-blue",
     "imgHome": "0774-blue",
-    "formOrder": 4,
+    "formOrder": 5,
     "isCosmetic": true,
     "isHomeStorable": true
   },
@@ -16947,7 +16961,7 @@
     "baseSpecies": "minior",
     "imgSprite": "minior-indigo",
     "imgHome": "0774-indigo",
-    "formOrder": 5,
+    "formOrder": 6,
     "isCosmetic": true,
     "isHomeStorable": true
   },
@@ -16961,23 +16975,9 @@
     "baseSpecies": "minior",
     "imgSprite": "minior-violet",
     "imgHome": "0774-violet",
-    "formOrder": 6,
+    "formOrder": 7,
     "isCosmetic": true,
     "isHomeStorable": true
-  },
-  {
-    "id": 10395,
-    "num": 774,
-    "slug": "minior-meteor",
-    "name": "Minior-Meteor",
-    "gen": 7,
-    "forms": [],
-    "baseSpecies": "minior",
-    "imgSprite": "minior",
-    "imgHome": "0774",
-    "formOrder": 7,
-    "isCosmetic": false,
-    "isHomeStorable": false
   },
   {
     "id": 775,
@@ -20171,28 +20171,14 @@
     "name": "Urshifu",
     "gen": 8,
     "forms": [
-      "urshifu-rapid-strike",
       "urshifu-gmax",
+      "urshifu-rapid-strike",
       "urshifu-rapid-strike-gmax"
     ],
     "baseSpecies": null,
     "imgSprite": "urshifu",
     "imgHome": "0892",
     "formOrder": 0,
-    "isCosmetic": false,
-    "isHomeStorable": true
-  },
-  {
-    "id": 10497,
-    "num": 892,
-    "slug": "urshifu-rapid-strike",
-    "name": "Urshifu-Rapid-Strike",
-    "gen": 8,
-    "forms": [],
-    "baseSpecies": "urshifu",
-    "imgSprite": "urshifu",
-    "imgHome": "0892-rapid-strike",
-    "formOrder": 1,
     "isCosmetic": false,
     "isHomeStorable": true
   },
@@ -20206,6 +20192,20 @@
     "baseSpecies": "urshifu",
     "imgSprite": "urshifu-gmax",
     "imgHome": "0892-gmax",
+    "formOrder": 1,
+    "isCosmetic": false,
+    "isHomeStorable": true
+  },
+  {
+    "id": 10497,
+    "num": 892,
+    "slug": "urshifu-rapid-strike",
+    "name": "Urshifu-Rapid-Strike",
+    "gen": 8,
+    "forms": [],
+    "baseSpecies": "urshifu",
+    "imgSprite": "urshifu",
+    "imgHome": "0892-rapid-strike",
     "formOrder": 2,
     "isCosmetic": false,
     "isHomeStorable": true

@@ -5,8 +5,8 @@
   "name": "Urshifu",
   "gen": 8,
   "forms": [
-    "urshifu-rapid-strike",
     "urshifu-gmax",
+    "urshifu-rapid-strike",
     "urshifu-rapid-strike-gmax"
   ],
   "formName": "Single-Strike",

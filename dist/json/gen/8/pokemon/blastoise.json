@@ -5,8 +5,8 @@
   "name": "Blastoise",
   "gen": 1,
   "forms": [
-    "blastoise-mega",
-    "blastoise-gmax"
+    "blastoise-gmax",
+    "blastoise-mega"
   ],
   "formName": null,
   "formSlug": null,

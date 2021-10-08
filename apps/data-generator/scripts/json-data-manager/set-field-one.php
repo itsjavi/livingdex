@@ -1,16 +1,11 @@
-<?php
+<?php // Given a pokemon slug and a field, sets the value for that entry.
 
 use App\Support\Serialization\Encoder\JsonEncoder;
 
-require __DIR__ . '/../../../vendor/autoload.php';
-
-/*
- * Quick maintenance tool for src/DataSources/Data/extras/pokemon.json
- * Given a pokemon slug and a field, sets the value for that entry.
- */
-
-$file = __DIR__ . '/../../../../../data/extras/pokemon.json';
+require __DIR__ . '/../../vendor/autoload.php';
+$file = __DIR__ . '/../../data/meta/pokemon.json';
 $json = file_get_contents($file);
+$data = JsonEncoder::decode($json);
 
 $pkmSlug = $argv[1] ?? null;
 $field = $argv[2] ?? null;
@@ -37,8 +32,6 @@ if (strtoupper($val) === 'FALSE') {
 } elseif (is_numeric($val)) {
     $val = (float)$val;
 }
-
-$data = JsonEncoder::decode($json);
 
 if (!array_key_exists($pkmSlug, $data)) {
     echo "Pokemon entry doesn't exist: {$pkmSlug}.";

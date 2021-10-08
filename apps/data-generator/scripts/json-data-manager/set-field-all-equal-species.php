@@ -1,18 +1,11 @@
-<?php
+<?php // Given a field, it makes it equal to the base_species, for the form entries
 
 use App\Support\Serialization\Encoder\JsonEncoder;
 
-require __DIR__ . '/../../../vendor/autoload.php';
-
-/*
- * Quick maintenance tool for src/DataSources/Data/extras/pokemon.json
- * Given a field, it makes it equal to the base_species, for the form entries
- */
-
-$file = __DIR__ . '/../../../../../data/extras/pokemon.json';
+require __DIR__ . '/../../vendor/autoload.php';
+$file = __DIR__ . '/../../data/meta/pokemon.json';
 $json = file_get_contents($file);
 $data = JsonEncoder::decode($json);
-
 
 $field = $argv[1] ?? null;
 if ($field === null) {

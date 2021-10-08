@@ -12,7 +12,7 @@ parameters:
     showdown_data_dir: '%sources_dir%/showdown-data/dist/data'
     pokesprite_dir: '%sources_dir%/msikma-pokesprite'
     home_images_dir: '%sources_dir%/livingdex-renders/images/home'
-    data_extras_dir: '%env(string:RESOURCES_DIR)%/data'
+    data_extras_dir: '%kernel.project_dir%/data'
     csv_data_dir: '%env(string:DIST_DIR)%/csv'
     json_data_dir: '%env(string:DIST_DIR)%/json'
     veekun_db_file: '%kernel.project_dir%/var/data/veekun-pokedex.sqlite'

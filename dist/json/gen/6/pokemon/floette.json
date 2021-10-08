@@ -5,11 +5,11 @@
   "name": "Floette",
   "gen": 6,
   "forms": [
-    "floette-blue",
-    "floette-orange",
-    "floette-white",
+    "floette-eternal",
     "floette-yellow",
-    "floette-eternal"
+    "floette-orange",
+    "floette-blue",
+    "floette-white"
   ],
   "formName": "Red",
   "formSlug": "red",

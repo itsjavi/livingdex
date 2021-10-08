@@ -7,7 +7,7 @@
   "forms": [],
   "formName": "Gmax",
   "formSlug": "gmax",
-  "formOrder": 2,
+  "formOrder": 1,
   "baseSpecies": "urshifu",
   "baseDataForm": null,
   "imgSprite": "urshifu-gmax",

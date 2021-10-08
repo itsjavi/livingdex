@@ -27,14 +27,9 @@ services:
   nginx:
     image: nginx:1.19-alpine
     restart: on-failure
-    command: /bin/bash -c "envsubst < /etc/nginx/conf.d/default.template > /etc/nginx/conf.d/default.conf && nginx -g 'daemon off;'"
-    environment:
-      - NGINX_ROOT_DIR=/usr/src/project/apps
-      - UI_APP_DIR=/usr/src/project/apps/livingdex-uibuild
-      - DATAGEN_APP_DIR=/usr/src/project/apps/data-generator/public
     volumes:
       - './:/usr/src/project'
-      - './resources/docker/nginx-default.template.conf:/etc/nginx/conf.d/default.template'
+      - './resources/docker/nginx-default.conf:/etc/nginx/conf.d/default.conf'
     ports:
       - '${NGINX_PORT}:80'
     depends_on:
@@ -79,7 +74,7 @@ services:
       - '~/.composer:/root/.config/composer'  # required to install private packages and use your auth.json in the container
       - '~/.ssh:/root/.ssh'                   # required to clone private repositories
 
-  ui:
+  ui-dev:
     build:
       context: .
       target: node

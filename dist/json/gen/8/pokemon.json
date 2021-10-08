@@ -23,8 +23,8 @@
     "gen": 1,
     "forms": [
       "venusaur-f",
-      "venusaur-mega",
-      "venusaur-gmax"
+      "venusaur-gmax",
+      "venusaur-mega"
     ]
   },
   {
@@ -50,9 +50,9 @@
     "name": "Charizard",
     "gen": 1,
     "forms": [
+      "charizard-gmax",
       "charizard-mega-x",
-      "charizard-mega-y",
-      "charizard-gmax"
+      "charizard-mega-y"
     ]
   },
   {
@@ -78,8 +78,8 @@
     "name": "Blastoise",
     "gen": 1,
     "forms": [
-      "blastoise-mega",
-      "blastoise-gmax"
+      "blastoise-gmax",
+      "blastoise-mega"
     ]
   },
   {
@@ -231,6 +231,7 @@
       "pikachu-phd",
       "pikachu-libre",
       "pikachu-starter",
+      "pikachu-gmax",
       "pikachu-original-cap",
       "pikachu-hoenn-cap",
       "pikachu-sinnoh-cap",
@@ -238,8 +239,7 @@
       "pikachu-kalos-cap",
       "pikachu-alola-cap",
       "pikachu-partner-cap",
-      "pikachu-world-cap",
-      "pikachu-gmax"
+      "pikachu-world-cap"
     ]
   },
   {
@@ -480,9 +480,9 @@
     "name": "Meowth",
     "gen": 1,
     "forms": [
+      "meowth-gmax",
       "meowth-alola",
-      "meowth-galar",
-      "meowth-gmax"
+      "meowth-galar"
     ]
   },
   {
@@ -854,8 +854,8 @@
     "name": "Gengar",
     "gen": 1,
     "forms": [
-      "gengar-mega",
-      "gengar-gmax"
+      "gengar-gmax",
+      "gengar-mega"
     ]
   },
   {
@@ -1204,8 +1204,8 @@
     "gen": 1,
     "forms": [
       "eevee-f",
-      "eevee-starter",
-      "eevee-gmax"
+      "eevee-gmax",
+      "eevee-starter"
     ]
   },
   {
@@ -5820,12 +5820,12 @@
     "name": "Vivillon",
     "gen": 6,
     "forms": [
-      "vivillon-meadow",
       "vivillon-polar",
       "vivillon-tundra",
       "vivillon-continental",
       "vivillon-garden",
       "vivillon-elegant",
+      "vivillon-meadow",
       "vivillon-modern",
       "vivillon-marine",
       "vivillon-archipelago",
@@ -5866,10 +5866,10 @@
     "name": "Flabe\u0301be\u0301",
     "gen": 6,
     "forms": [
-      "flabebe-blue",
+      "flabebe-yellow",
       "flabebe-orange",
-      "flabebe-white",
-      "flabebe-yellow"
+      "flabebe-blue",
+      "flabebe-white"
     ]
   },
   {
@@ -5879,11 +5879,11 @@
     "name": "Floette",
     "gen": 6,
     "forms": [
-      "floette-blue",
-      "floette-orange",
-      "floette-white",
+      "floette-eternal",
       "floette-yellow",
-      "floette-eternal"
+      "floette-orange",
+      "floette-blue",
+      "floette-white"
     ]
   },
   {
@@ -5893,10 +5893,10 @@
     "name": "Florges",
     "gen": 6,
     "forms": [
-      "florges-blue",
+      "florges-yellow",
       "florges-orange",
-      "florges-white",
-      "florges-yellow"
+      "florges-blue",
+      "florges-white"
     ]
   },
   {
@@ -6796,13 +6796,13 @@
     "name": "Minior",
     "gen": 7,
     "forms": [
+      "minior-meteor",
       "minior-orange",
       "minior-yellow",
       "minior-green",
       "minior-blue",
       "minior-indigo",
-      "minior-violet",
-      "minior-meteor"
+      "minior-violet"
     ]
   },
   {
@@ -7881,8 +7881,8 @@
     "name": "Urshifu",
     "gen": 8,
     "forms": [
-      "urshifu-rapid-strike",
       "urshifu-gmax",
+      "urshifu-rapid-strike",
       "urshifu-rapid-strike-gmax"
     ]
   },

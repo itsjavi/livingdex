@@ -5,10 +5,10 @@
   "name": "Flabébé",
   "gen": 6,
   "forms": [
-    "flabebe-blue",
+    "flabebe-yellow",
     "flabebe-orange",
-    "flabebe-white",
-    "flabebe-yellow"
+    "flabebe-blue",
+    "flabebe-white"
   ],
   "formName": "Red",
   "formSlug": "red",

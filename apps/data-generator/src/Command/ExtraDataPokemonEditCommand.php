@@ -18,7 +18,7 @@ use Symfony\Component\Console\Style\SymfonyStyle;
 
 class ExtraDataPokemonEditCommand extends Command
 {
-    private const FILENAME = 'pokemon.json';
+    private const FILENAME = 'meta/pokemon.json';
 
     private const ACTION_QUERY = 'q';
     private const ACTION_DELETE = 'd';
@@ -49,7 +49,7 @@ class ExtraDataPokemonEditCommand extends Command
     {
         $this
             ->setDescription(
-                'Command to maintain the DataSource/Data/extras/pokemon.json file'
+                'Command to maintain the data/meta/pokemon.json file'
             )
             ->addArgument(
                 'action',

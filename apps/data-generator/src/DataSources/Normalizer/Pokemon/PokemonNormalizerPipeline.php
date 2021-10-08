@@ -44,7 +44,7 @@ class PokemonNormalizerPipeline implements DataSourceNormalizerPipeline, LoggerA
                 $this->showdownPokemonNormalizer->normalize($entriesRaw)
             );
 
-        $extras = $this->localDataSource->getAll('pokemon.json');
+        $extras = $this->localDataSource->getAll('meta/pokemon.json');
 
         foreach ($entries as $k => $entry) {
             $this->addHomeStorability($entry);
@@ -58,7 +58,7 @@ class PokemonNormalizerPipeline implements DataSourceNormalizerPipeline, LoggerA
         $container->getEntity()->setIsHomeStorable(
             !$this->localDataSource->contains(
                 $container->getEntity()->getSlug(),
-                'pokemon-home-non-storable.json'
+                'meta/pokemon-home-non-storable.json'
             )
         );
     }

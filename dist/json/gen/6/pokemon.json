@@ -5720,12 +5720,12 @@
     "name": "Vivillon",
     "gen": 6,
     "forms": [
-      "vivillon-meadow",
       "vivillon-polar",
       "vivillon-tundra",
       "vivillon-continental",
       "vivillon-garden",
       "vivillon-elegant",
+      "vivillon-meadow",
       "vivillon-modern",
       "vivillon-marine",
       "vivillon-archipelago",
@@ -5766,10 +5766,10 @@
     "name": "Flabe\u0301be\u0301",
     "gen": 6,
     "forms": [
-      "flabebe-blue",
+      "flabebe-yellow",
       "flabebe-orange",
-      "flabebe-white",
-      "flabebe-yellow"
+      "flabebe-blue",
+      "flabebe-white"
     ]
   },
   {
@@ -5779,11 +5779,11 @@
     "name": "Floette",
     "gen": 6,
     "forms": [
-      "floette-blue",
-      "floette-orange",
-      "floette-white",
+      "floette-eternal",
       "floette-yellow",
-      "floette-eternal"
+      "floette-orange",
+      "floette-blue",
+      "floette-white"
     ]
   },
   {
@@ -5793,10 +5793,10 @@
     "name": "Florges",
     "gen": 6,
     "forms": [
-      "florges-blue",
+      "florges-yellow",
       "florges-orange",
-      "florges-white",
-      "florges-yellow"
+      "florges-blue",
+      "florges-white"
     ]
   },
   {

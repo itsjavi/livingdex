@@ -5,9 +5,9 @@
   "name": "Charizard",
   "gen": 1,
   "forms": [
+    "charizard-gmax",
     "charizard-mega-x",
-    "charizard-mega-y",
-    "charizard-gmax"
+    "charizard-mega-y"
   ],
   "formName": null,
   "formSlug": null,

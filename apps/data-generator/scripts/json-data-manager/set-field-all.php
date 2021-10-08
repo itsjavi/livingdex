@@ -1,16 +1,11 @@
-<?php
+<?php // Adds, updates or deletes a field in all objects at once.
 
 use App\Support\Serialization\Encoder\JsonEncoder;
 
-require __DIR__ . '/../../../vendor/autoload.php';
-
-/*
- * Quick maintenance tool for src/DataSources/Data/extras/pokemon.json
- * To add, update or delete a field in all objects at once.
- */
-
-$file = __DIR__ . '/../../../../../data/extras/pokemon.json';
+require __DIR__ . '/../../vendor/autoload.php';
+$file = __DIR__ . '/../../data/meta/pokemon.json';
 $json = file_get_contents($file);
+$data = JsonEncoder::decode($json);
 
 $field = $argv[1] ?? null;
 $val = $argv[2] ?? null;
@@ -31,8 +26,6 @@ if (strtoupper($val) === 'FALSE') {
 } elseif (is_numeric($val)) {
     $val = (float)$val;
 }
-
-$data = JsonEncoder::decode($json);
 
 foreach ($data as $k => $item) {
 //    if ($data[$k]['is_cosmetic'] === true && isset($data[$k]['base_species'])) {

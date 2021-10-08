@@ -48,7 +48,8 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
     {
         $containers = [];
         $containersById = [];
-        $this->extraData = $this->localDataSource->getAll('pokemon.json');
+        $entries = $this->applyFixes($entries);
+        $this->extraData = $this->localDataSource->getAll('meta/pokemon.json');
 
         // normalize array to container
         foreach ($entries as $alias => $entry) {
@@ -99,6 +100,19 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
         ksort($containersById);
 
         yield from $containersById;
+    }
+
+    private function applyFixes(array $data): array
+    {
+        $fixes = $this->localDataSource->getAll('fixes/showdown/pokedex.json');
+        $fixedData = $data;
+        foreach ($fixes['overrides'] as $showdownSlug => $override) {
+            if (!isset($data[$showdownSlug])) {
+                throw new DataSourceException("Entry for {$showdownSlug} not found in original Showdown data.");
+            }
+            $fixedData[$showdownSlug] = array_replace_recursive($data[$showdownSlug] ?? [], $override);
+        }
+        return $fixedData;
     }
 
     private function getExtraData(string $slug, string $path, $default = null)
@@ -241,8 +255,6 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
             return [];
         }
 
-        $poke = $this->fixBaseForm($poke);
-
         $poke['_slug'] = StrFormat::slug($poke['name']);
         $femaleForms = $this->expandFemaleCosmeticForms($poke);
         $cosmeticForms = $this->expandCosmeticForms($poke);
@@ -269,54 +281,44 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
         return $extraForms;
     }
 
-    private function fixBaseForm(array $poke): array
+    private function expandSpecialAbilityForms(array $poke): array
     {
-        $showdownKey = $poke['_alias'];
-        $capPikachus = [
-            'pikachuoriginal',
-            'pikachuhoenn',
-            'pikachusinnoh',
-            'pikachuunova',
-            'pikachukalos',
-            'pikachualola',
-            'pikachupartner',
-            'pikachuworld',
-        ];
+        $extraForms = [];
 
-        if ($showdownKey === 'alcremie') { // add missing default alcremie topping
-            $poke['baseForme'] = 'Vanilla-Cream-Strawberry';
-
-            return $poke;
+        // add special-ability pokes as separate form
+        if (isset($poke['abilities']['S'])) {
+            $spAbilityPoke = $poke;
+            $spAbilityPoke['baseSpecies'] = $poke['baseSpecies'] ?? $poke['name'];
+            $spAbilityPoke['name'] .= '-' . str_replace(' ', '-', $poke['abilities']['S']);
+            $spAbilityPoke['forme'] = str_replace($poke['name'] . '-', '', $spAbilityPoke['name']);
+            $spAbilityPoke['abilities'] = [
+                "0" => $poke['abilities']['S'],
+            ];
+            $extraForms[] = $spAbilityPoke;
         }
 
-        if ($showdownKey === 'vivillon') { // vivillon-icy-snow is base form
-            $poke['baseForme'] = 'Icy Snow';
-            $icyIndex = array_search('Vivillon-Icy Snow', $poke['cosmeticFormes'], true);
-            $poke['cosmeticFormes'][$icyIndex] = 'Vivillon-Meadow';
+        return $extraForms;
+    }
 
-            return $poke;
+    private function expandCosmeticForms(array $poke): array
+    {
+        $extraForms = [];
+        $subCosmeticForms = [''];
+        $cosmeticForms = $poke['cosmeticFormes'] ?? [];
+
+        foreach ($cosmeticForms as $cosmeticFormeFullName) {
+            foreach ($subCosmeticForms as $subCosmeticForme) {
+                $subCosmeticFormeFullName = $cosmeticFormeFullName . $subCosmeticForme;
+                $cosmeticPoke = $poke;
+                $cosmeticPoke['baseSpecies'] = $poke['baseSpecies'] ?? $poke['name'];
+                $cosmeticPoke['name'] = $subCosmeticFormeFullName;
+                $cosmeticPoke['forme'] = str_replace($poke['name'] . '-', '', $subCosmeticFormeFullName);
+                $cosmeticPoke['cosmeticFormes'] = [];
+                $extraForms[] = $cosmeticPoke;
+            }
         }
 
-        if ($showdownKey === 'xerneas') { // xerneas-neutral is base form
-            $poke['baseForme'] = 'Neutral';
-
-            return $poke;
-        }
-
-        if ($showdownKey === 'xerneasneutral') {
-            $poke['name'] = 'Xerneas-Active';
-            $poke['baseSpecies'] = 'Xerneas';
-            $poke['forme'] = 'Active';
-
-            return $poke;
-        }
-
-        if (in_array($showdownKey, $capPikachus, true)) {
-            $poke['name'] .= '-Cap';
-            $poke['forme'] .= '-Cap';
-        }
-
-        return $poke;
+        return $extraForms;
     }
 
     private function expandFemaleCosmeticForms(array $poke): array
@@ -341,69 +343,9 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
         return $extraForms;
     }
 
-    private function expandSpecialAbilityForms(array $poke): array
-    {
-        $extraForms = [];
-
-        // add special-ability pokes as separate form
-        if (isset($poke['abilities']['S'])) {
-            $spAbilityPoke = $poke;
-            $spAbilityPoke['baseSpecies'] = $poke['baseSpecies'] ?? $poke['name'];
-            $spAbilityPoke['name'] .= '-' . str_replace(' ', '-', $poke['abilities']['S']);
-            $spAbilityPoke['forme'] = str_replace($poke['name'] . '-', '', $spAbilityPoke['name']);
-            $spAbilityPoke['abilities'] = [
-                "0" => $poke['abilities']['S'],
-            ];
-            $extraForms[] = $spAbilityPoke;
-        }
-
-        return $extraForms;
-    }
-
-    private function expandCosmeticForms(array $poke): array
-    {
-        $showdownKey = $poke['_alias'];
-        $extraForms = [];
-        $subCosmeticForms = [''];
-
-        if ($showdownKey === 'alcremie') { // add Alcremie toppings as individual forms
-            $subCosmeticForms = [
-                '-Strawberry',
-                '-Berry',
-                '-Love',
-                '-Star',
-                '-Clover',
-                '-Flower',
-                '-Ribbon',
-            ];
-            array_unshift($poke['cosmeticFormes'], 'Alcremie-Vanilla-Cream');
-        }
-
-        $cosmeticForms = $poke['cosmeticFormes'] ?? [];
-
-        foreach ($cosmeticForms as $cosmeticFormeFullName) {
-            foreach ($subCosmeticForms as $subCosmeticForme) {
-                $subCosmeticFormeFullName = $cosmeticFormeFullName . $subCosmeticForme;
-
-                if (strtolower($subCosmeticFormeFullName) === 'alcremie-vanilla-cream-strawberry') {
-                    // skip alcremie base forme
-                    continue;
-                }
-                $cosmeticPoke = $poke;
-                $cosmeticPoke['baseSpecies'] = $poke['baseSpecies'] ?? $poke['name'];
-                $cosmeticPoke['name'] = $subCosmeticFormeFullName;
-                $cosmeticPoke['forme'] = str_replace($poke['name'] . '-', '', $subCosmeticFormeFullName);
-                $cosmeticPoke['cosmeticFormes'] = [];
-                $extraForms[] = $cosmeticPoke;
-            }
-        }
-
-        return $extraForms;
-    }
-
     private function getSortingOrder(string $slug, string $baseSpeciesSlug): int
     {
-        $speciesForms = $this->localDataSource->getValue($baseSpeciesSlug, 'pokemon-forms-sorting_order.json');
+        $speciesForms = $this->localDataSource->getValue($baseSpeciesSlug, 'meta/pokemon-forms-sorting_order.json');
         if ($speciesForms === null) {
             throw new DataSourceFileIoException("No FormsOrder entry for species '{$baseSpeciesSlug}' found.");
         }

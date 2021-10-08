@@ -5,12 +5,12 @@
   "name": "Vivillon",
   "gen": 6,
   "forms": [
-    "vivillon-meadow",
     "vivillon-polar",
     "vivillon-tundra",
     "vivillon-continental",
     "vivillon-garden",
     "vivillon-elegant",
+    "vivillon-meadow",
     "vivillon-modern",
     "vivillon-marine",
     "vivillon-archipelago",

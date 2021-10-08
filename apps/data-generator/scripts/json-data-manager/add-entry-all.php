@@ -1,16 +1,11 @@
-<?php
+<?php // Appends a new entry at the end.
 
 use App\Support\Serialization\Encoder\JsonEncoder;
 
-require __DIR__ . '/../../../vendor/autoload.php';
-
-/*
- * Quick maintenance tool for src/DataSources/Data/extras/pokemon.json
- * To append a new entry at the end.
- */
-
-$file = __DIR__ . '/../../../../../data/extras/pokemon.json';
+require __DIR__ . '/../../vendor/autoload.php';
+$file = __DIR__ . '/../../data/meta/pokemon.json';
 $json = file_get_contents($file);
+$data = JsonEncoder::decode($json);
 
 $newSlugs = $argv[1] ?? null;
 
@@ -42,7 +37,6 @@ function nullify_array(array $arr): array
     return $arr;
 }
 
-$data = JsonEncoder::decode($json);
 $template = nullify_array(current($data));
 
 $newSlugs = explode(',', $newSlugs);
