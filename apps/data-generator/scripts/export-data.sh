@@ -24,4 +24,3 @@ function table_export_json_all() {
 
 table_export_csv_all
 table_export_json_all
-node scripts/build-ui-pokemon-index.mjs || exit 1

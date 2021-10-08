@@ -36,10 +36,6 @@ class PokemonFixtures extends Fixture implements DependentFixtureInterface, Fixt
                 $manager->persist($entity->getBaseSpecies());
             }
 
-            if ($entity->getBaseDataForm()) {
-                $manager->persist($entity->getBaseDataForm());
-            }
-
             // add and persist data
             $data = $container->getData();
             if ($data !== null) {

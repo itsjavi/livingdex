@@ -6,35 +6,28 @@ namespace App\DataSources\Normalizer\Pokemon;
 
 use App\DataSources\DataSourceException;
 use App\DataSources\DataSourceFileIo;
-use App\DataSources\DataSourceFileIoException;
 use App\DataSources\Generation;
 use App\DataSources\Normalizer\DataSourceNormalizer;
-use App\DataSources\Normalizer\Region\RegionEnum;
 use App\Entity\LivingDex\Ability;
 use App\Repository\LivingDex\AbilityRepository;
-use App\Support\DexNumberGenMapper;
 use App\Support\Serialization\StrFormat;
 use App\Support\Types\ArrayProxy;
 use Illuminate\Support\Arr;
-use Illuminate\Support\Str;
 
 class ShowdownPokemonNormalizer implements DataSourceNormalizer
 {
     private const INITIAL_MAX_FORM_ID = 10000;
 
-    private DexNumberGenMapper $dexNumberGenMapper;
     private DataSourceFileIo $localDataSource;
     private AbilityRepository $abilityRepository;
     private int $maxFormId = self::INITIAL_MAX_FORM_ID;
     private array $extraData;
 
     public function __construct(
-        DexNumberGenMapper $dexNumberGenMapper,
         DataSourceFileIo $dataListFileReader,
         AbilityRepository $abilityRepository
     )
     {
-        $this->dexNumberGenMapper = $dexNumberGenMapper;
         $this->localDataSource = $dataListFileReader;
         $this->abilityRepository = $abilityRepository;
     }
@@ -73,9 +66,7 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
                 throw new DataSourceException("Base species entry not found for {$slug}");
             }
 
-            $container->getEntity()->setBaseSpecies($baseSpecies->getEntity())
-                ->setIsLegendary($baseSpecies->getEntity()->isLegendary())
-                ->setIsMythical($baseSpecies->getEntity()->isMythical());
+            $container->getEntity()->setBaseSpecies($baseSpecies->getEntity());
 
             $containersById[$container->getEntity()->getId()] = $container;
         }
@@ -88,10 +79,10 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
 
         // add data
         foreach ($containersById as $id => $container) {
-            $baseDataForm = $this->getExtraData($container->getSlug(), 'base_data_form');
+            $baseDataForm = $this->getExtraData($container->getSlug(), 'base_species');
             if ($baseDataForm !== null) {
                 $baseSpeciesId = $container->getEntity()->getBaseSpecies()->getId();
-                $container->getEntity()->setBaseDataForm($containersById[$baseSpeciesId]->getEntity());
+                $container->getEntity()->setBaseSpecies($containersById[$baseSpeciesId]->getEntity());
                 continue;
             }
             $this->normalizeData($container, $abilitiesBySlug);
@@ -106,7 +97,7 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
     {
         $fixes = $this->localDataSource->getAll('fixes/showdown/pokedex.json');
         $fixedData = $data;
-        foreach ($fixes['overrides'] as $showdownSlug => $override) {
+        foreach ($fixes as $showdownSlug => $override) {
             if (!isset($data[$showdownSlug])) {
                 throw new DataSourceException("Entry for {$showdownSlug} not found in original Showdown data.");
             }
@@ -117,12 +108,14 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
 
     private function getExtraData(string $slug, string $path, $default = null)
     {
-        $poke = $this->extraData[$slug] ?? null;
+        $slugPlain = StrFormat::plainSlug($slug);
+
+        $poke = $this->extraData[$slugPlain] ?? null;
         if ($poke === null) {
-            throw new DataSourceException("Extra data not found for {$slug}");
+            throw new DataSourceException("Extra data not found for {$slugPlain}");
         }
         if (!Arr::exists($poke, $path)) {
-            throw new DataSourceException("Extra data field not found: {$slug}.{$path}");
+            throw new DataSourceException("Extra data field not found: {$slugPlain}.{$path}");
         }
 
         return Arr::get($poke, $path, $default);
@@ -145,38 +138,17 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
             $id = $this->maxFormId;
         }
 
-        $isMega = Str::contains($formSlug, 'mega');
-        $isPrimal = Str::contains($formSlug, 'primal');
-        $isTotem = Str::contains($formSlug, 'totem');
-        $isGmax = Str::contains($formSlug, 'gmax');
-        $isRegional = Str::contains($formSlug, RegionEnum::ALL) && !in_array($formSlug, ['pikachu-hoenn']);
-
         $entity
             ->setId($id)
             ->setDexNum($dexNum)
-            ->setGen($this->getGeneration($data))
             ->setSlug($slug)
             ->setName($data['name'])
             ->setFormSlug($formSlug)
             ->setFormName($data['_formName'])
             ->setBaseSpecies(null)
-            ->setImgHome($this->getImgHomePath($dexNum, $slug, $formSlug))
-            ->setImgSprite($this->getImgSpritePath($dexNum, $slug, $formSlug))
             ->setShowdownSlug($data['_alias'])
             ->setVeekunSlug(null)
-            ->setVeekunFormId(null)
-            ->setSortingOrder($this->getSortingOrder($slug, $baseSpeciesSlug ?: $slug))
-            ->setIsLegendary($this->getExtraData($slug, 'is_legendary'))
-            ->setIsMythical($this->getExtraData($slug, 'is_mythical'))
-            ->setIsCosmetic($this->getExtraData($slug, 'is_cosmetic'))
-            ->setIsFemale($formSlug === 'f')
-            ->setIsFusion($this->getExtraData($slug, 'is_fusion'))
-            ->setIsMega($isMega)
-            ->setIsPrimal($isPrimal)
-            ->setIsRegional($isRegional)
-            ->setIsTotem($isTotem)
-            ->setIsGmax($isGmax)
-            ->setCanDynamax($this->getExtraData($slug, 'can_dynamax'));
+            ->setVeekunFormId(null);
 
         return $container;
     }
@@ -271,7 +243,7 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
 
             $baseSpeciesSlug = $this->getExtraData($slug, 'base_species', false);
             if ($baseSpeciesSlug === false) {
-                throw new DataSourceException("base-species-mapping entry not found for {$slug}");
+                throw new DataSourceException("base_species data not set for {$slug}");
             }
             $entry['_baseSpeciesSlug'] = $baseSpeciesSlug;
 
@@ -327,9 +299,9 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
 
         // add female cosmetic variant if isn't already in the dataset
         if (
-            array_key_exists($poke['_slug'] . '-f', $this->extraData)
+            array_key_exists($poke['_slug'] . 'f', $this->extraData)
             && $this->getExtraData($poke['_slug'], 'has_gender_diffs')
-            && $this->getExtraData($poke['_slug'] . '-f', 'is_cosmetic')
+            && $this->getExtraData($poke['_slug'] . 'f', 'is_cosmetic')
         ) {
             $femalePoke = $poke;
             $femalePoke['name'] .= '-F';
@@ -341,58 +313,6 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
         }
 
         return $extraForms;
-    }
-
-    private function getSortingOrder(string $slug, string $baseSpeciesSlug): int
-    {
-        $speciesForms = $this->localDataSource->getValue($baseSpeciesSlug, 'meta/pokemon-forms-sorting_order.json');
-        if ($speciesForms === null) {
-            throw new DataSourceFileIoException("No FormsOrder entry for species '{$baseSpeciesSlug}' found.");
-        }
-        $speciesForms = array_flip($speciesForms);
-        $order = $speciesForms[$slug] ?? null;
-        if ($order === null) {
-            throw new DataSourceFileIoException("No FormsOrder entry for form '{$baseSpeciesSlug}.{$slug}' found.");
-        }
-
-        return $order;
-    }
-
-    private function getImgHomePath(int $num, string $slug, ?string $formSlug): string
-    {
-        $defaultSprite = StrFormat::zeroPadLeft($num, 4) . (empty($formSlug) ? '' : '-' . $formSlug);
-
-        $override = $this->getExtraData($slug, 'img_home');
-
-        return $override ?: $defaultSprite;
-    }
-
-    private function getImgSpritePath(int $num, string $slug, ?string $formSlug): string
-    {
-        $override = $this->getExtraData($slug, 'img_sprite');
-
-        return $override ?: $slug;
-    }
-
-    private function getGeneration(array $poke): int
-    {
-        $formName = strtolower($poke['_formName'] ?: '');
-
-        if (Str::contains($formName, ['mega', 'primal'])) {
-            return 6;
-        }
-
-        if (Str::contains($formName, ['starter', 'power-construct', 'alola', 'totem'])) {
-            return 7;
-        }
-
-        if (Str::contains($formName, ['gmax', 'galar'])) {
-            return 8;
-        }
-
-        $gen = $poke['gen'] ?? 0;
-
-        return ($gen > 0) ? $gen : $this->dexNumberGenMapper->getGenerationByDexNum((int)$poke['num']);
     }
 
     private function getGenderRatio(array $poke): array

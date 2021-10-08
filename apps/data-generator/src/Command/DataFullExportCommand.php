@@ -41,7 +41,7 @@ class DataFullExportCommand extends Command
         $io = new SymfonyStyle($input, $output);
         $outputPath = $input->getArgument("output-dir");
 
-        $io->writeln("Generating Game entries...");
+        $io->writeln("Exporting Game entries...");
         $gameEntries = $this->createGameEntries();
         $this->writeData(array_values($gameEntries), "{$outputPath}/games.json");
 
@@ -53,7 +53,7 @@ class DataFullExportCommand extends Command
             ->getQuery()
             ->getResult();
 
-        $io->writeln("Generating Abilities index...");
+        $io->writeln("Exporting Abilities index...");
         $abilityEntries = $this->createAbilityEntries();
         foreach ($abilityEntries as $gen => $entries) {
             $genOutputPath = "{$outputPath}/gen/{$gen}";
@@ -61,7 +61,7 @@ class DataFullExportCommand extends Command
             $this->writeData(array_values($entries), "{$genOutputPath}/abilities.json");
         }
 
-        $io->writeln("Generating Pokemon species index...");
+        $io->writeln("Exporting Pokemon species index...");
         $pokemonIndex = $this->createPokemonIndex($pokemonCollection);
         foreach ($pokemonIndex as $gen => $pokemonList) {
             $genOutputPath = "{$outputPath}/gen/{$gen}";
@@ -69,7 +69,7 @@ class DataFullExportCommand extends Command
             $this->writeData(array_values($pokemonList), "{$genOutputPath}/pokemon.json");
         }
 
-        $io->writeln("Generating Pokemon entries...");
+        $io->writeln("Exporting Pokemon entries...");
         $pokemonIndexFull = $this->createPokemonIndex($pokemonCollection, true);
         foreach ($pokemonIndexFull as $gen => $pokemonListFull) {
             $genOutputPath = "{$outputPath}/gen/{$gen}";
@@ -182,8 +182,6 @@ class DataFullExportCommand extends Command
 
                 unset(
                     $pokeByGen['baseSpecies'],
-                    $pokeByGen['imgSprite'],
-                    $pokeByGen['imgHome'],
                     $pokeByGen['isCosmetic'],
                     $pokeByGen['isHomeStorable'],
                     $pokeByGen['formOrder']
@@ -195,9 +193,6 @@ class DataFullExportCommand extends Command
                         'formSlug' => $poke->getFormSlug(),
                         'formOrder' => $poke->getSortingOrder(),
                         'baseSpecies' => $poke->getBaseSpecies() ? $poke->getBaseSpecies()->getSlug() : null,
-                        'baseDataForm' => $poke->getBaseDataForm() ? $poke->getBaseDataForm()->getSlug() : null,
-                        'imgSprite' => $poke->getImgSprite(),
-                        'imgHome' => $poke->getImgHome(),
                     ]
                     + $datum[$gen]
                     + [
@@ -303,8 +298,6 @@ class DataFullExportCommand extends Command
 
             if ($withForms) {
                 $pokemonIndexEntry['baseSpecies'] = $poke->getBaseSpecies() ? $poke->getBaseSpecies()->getSlug() : null;
-                $pokemonIndexEntry['imgSprite'] = $poke->getImgSprite();
-                $pokemonIndexEntry['imgHome'] = $poke->getImgHome();
                 $pokemonIndexEntry['formOrder'] = $poke->getSortingOrder();
                 $pokemonIndexEntry['isCosmetic'] = $poke->isCosmetic();
                 $pokemonIndexEntry['isHomeStorable'] = $poke->isHomeStorable();

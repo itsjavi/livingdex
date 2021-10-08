@@ -6,8 +6,9 @@ namespace App\DataSources\Normalizer\Pokemon;
 
 use App\DataSources\Data\VeekunDataMapping;
 use App\DataSources\DataSourceException;
-use App\DataSources\Generation;
+use App\DataSources\DataSourceFileIo;
 use App\DataSources\Normalizer\DataSourceNormalizer;
+use App\Support\Serialization\StrFormat;
 use Doctrine\DBAL\Connection;
 use Generator;
 use Psr\Log\LoggerAwareInterface;
@@ -21,19 +22,22 @@ class VeekunPokemonNormalizer implements DataSourceNormalizer, LoggerAwareInterf
     use LoggerAwareTrait;
 
     private const VEEKUN_ID_FIX = [
-        'vivillon-meadow'   => 10086,
-        'xerneas-active'    => 10132,
+        'vivillon-meadow' => 10086,
+        'xerneas-active' => 10132,
         'minior-red-meteor' => 10255,
         'vivillon-icy-snow' => 666,
-        'xerneas-neutral'   => 716,
-        'minior-red'        => 774,
+        'xerneas-neutral' => 716,
+        'minior-red' => 774,
     ];
 
     private Connection $veekunConnection;
 
-    public function __construct(Connection $veekunConnection)
+    private DataSourceFileIo $dataListFileReader;
+
+    public function __construct(Connection $veekunConnection, DataSourceFileIo $dataListFileReader)
     {
         $this->veekunConnection = $veekunConnection;
+        $this->dataListFileReader = $dataListFileReader;
     }
 
     /**
@@ -69,10 +73,12 @@ class VeekunPokemonNormalizer implements DataSourceNormalizer, LoggerAwareInterf
             )->fetchAllAssociative()
         )->keyBy('identifier')->toArray();
 
+        $speciesFixes = $this->dataListFileReader->getAll('fixes/veekun/pokemon_species.json');
+
         foreach ($entries as $id => $container) {
             $entity = $container->getEntity();
 
-            if ($entity->getDexNum() > $veekunMaxPokemonSpeciesId || ($entity->getGen() > Generation::VEEKUN_MAX_GEN)) {
+            if ($entity->getDexNum() > $veekunMaxPokemonSpeciesId) {
                 yield $id => $container;
                 continue;
             }
@@ -88,7 +94,7 @@ class VeekunPokemonNormalizer implements DataSourceNormalizer, LoggerAwareInterf
             $veekunSubFormEntry = $veekunSubForms[$veekunFormSlug] ?? null;
 
             if ($veekunSubFormEntry === null) {
-                $this->logger->warning("Pokemon Sub-Form not found in veekun DB: {$slug} of gen {$entity->getGen()}");
+                $this->logger->warning("Pokemon Sub-Form not found in veekun DB: {$slug}");
                 yield $id => $container;
                 continue;
             }
@@ -103,12 +109,16 @@ class VeekunPokemonNormalizer implements DataSourceNormalizer, LoggerAwareInterf
                 throw new DataSourceException("Pokemon Species not found in veekun DB: {$slug}");
             }
 
+            $veekunSpeciesSlugPlain = StrFormat::plainSlug($veekunSpeciesEntry['identifier']);
+            $veekunSpeciesEntry = array_merge($veekunSpeciesEntry, $speciesFixes[$veekunSpeciesSlugPlain] ?? []);
+
             $stats = collect(
                 $this->veekunConnection->executeQuery(
                     "SELECT * FROM pokemon_stats WHERE pokemon_id = :pid",
                     ['pid' => $veekunFormEntry['id']]
                 )->fetchAllAssociative()
             )->keyBy('stat_id')->toArray();
+
             if (empty($stats)) {
                 throw new DataSourceException("No veekun stats found for {$slug}");
             }
@@ -122,11 +132,12 @@ class VeekunPokemonNormalizer implements DataSourceNormalizer, LoggerAwareInterf
                 continue;
             }
 
-            $dataEntity->setHatchCycles((int)$veekunSpeciesEntry['hatch_counter'])
+            $dataEntity
+                ->setHatchCycles((int)$veekunSpeciesEntry['hatch_counter'])
                 ->setCatchRate((int)$veekunSpeciesEntry['capture_rate'])
                 ->setBaseFriendship((int)$veekunSpeciesEntry['base_happiness'])
-                ->setShape(VeekunDataMapping::SHAPES[$veekunSpeciesEntry['shape_id']] ?? null)
-                ->setGrowthRate(VeekunDataMapping::GROWTH_RATES[$veekunSpeciesEntry['growth_rate_id']])
+                ->setShape($veekunSpeciesEntry['shape'] ?? VeekunDataMapping::SHAPES[$veekunSpeciesEntry['shape_id']])
+                ->setGrowthRate($veekunSpeciesEntry['growth_rate'] ?? VeekunDataMapping::GROWTH_RATES[$veekunSpeciesEntry['growth_rate_id']])
                 ->setYieldBaseExp((int)$veekunFormEntry['base_experience'])
                 ->setYieldHp((int)$stats[1]['effort'])
                 ->setYieldAttack((int)$stats[2]['effort'])

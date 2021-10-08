@@ -25,6 +25,11 @@ class Pokemon
     private ?int $dexNum;
 
     /**
+     * @ORM\Column(type="json", nullable=true)
+     */
+    private ?array $slugAliases = [];
+
+    /**
      * @ORM\Column(type="string", length=255, nullable=true)
      */
     private ?string $formSlug;
@@ -48,14 +53,9 @@ class Pokemon
     private Collection $children;
 
     /**
-     * @ORM\Column(type="string", length=255)
+     * @ORM\Column(type="string", length=40, nullable=true)
      */
-    private ?string $imgHome;
-
-    /**
-     * @ORM\Column(type="string", length=255)
-     */
-    private ?string $imgSprite;
+    private ?string $region;
 
     /**
      * @ORM\Column(type="string", length=255, nullable=true)
@@ -86,6 +86,11 @@ class Pokemon
      * @ORM\Column(type="boolean")
      */
     private ?bool $isCosmetic;
+
+    /**
+     * @ORM\Column(type="boolean")
+     */
+    private ?bool $hasGenderDiffs;
 
     /**
      * @ORM\Column(type="boolean")
@@ -126,6 +131,16 @@ class Pokemon
      * @ORM\Column(type="boolean")
      */
     private ?bool $canDynamax;
+
+    /**
+     * @ORM\Column(type="boolean")
+     */
+    private ?bool $isBattleOnly;
+
+    /**
+     * @ORM\Column(type="boolean")
+     */
+    private ?bool $isReversible;
 
     /**
      * @ORM\OneToMany(targetEntity=PokemonForm::class, mappedBy="basePokemon")
@@ -176,9 +191,9 @@ class Pokemon
     private ?bool $isHomeStorable;
 
     /**
-     * @ORM\ManyToOne(targetEntity=Pokemon::class)
+     * @ORM\Column(type="boolean")
      */
-    private ?Pokemon $baseDataForm = null;
+    private ?bool $isHomeRegistrable;
 
     public function __construct()
     {
@@ -254,26 +269,14 @@ class Pokemon
         return $this->children;
     }
 
-    public function getImgHome(): ?string
+    public function getRegion(): ?string
     {
-        return $this->imgHome;
+        return $this->region;
     }
 
-    public function setImgHome(string $imgHome): self
+    public function setRegion(?string $region): self
     {
-        $this->imgHome = $imgHome;
-
-        return $this;
-    }
-
-    public function getImgSprite(): ?string
-    {
-        return $this->imgSprite;
-    }
-
-    public function setImgSprite(string $imgSprite): self
-    {
-        $this->imgSprite = $imgSprite;
+        $this->region = $region;
 
         return $this;
     }
@@ -495,6 +498,18 @@ class Pokemon
         return $this;
     }
 
+    public function hasGenderDiffs(): ?bool
+    {
+        return $this->hasGenderDiffs;
+    }
+
+    public function setHasGenderDiffs(?bool $hasGenderDiffs): self
+    {
+        $this->hasGenderDiffs = $hasGenderDiffs;
+
+        return $this;
+    }
+
     public function isFemale(): ?bool
     {
         return $this->isFemale;
@@ -603,14 +618,50 @@ class Pokemon
         return $this;
     }
 
-    public function getBaseDataForm(): ?self
+    public function getSlugAliases(): ?array
     {
-        return $this->baseDataForm;
+        return $this->slugAliases;
     }
 
-    public function setBaseDataForm(?self $baseDataForm): self
+    public function setSlugAliases(?array $slugAliases): self
     {
-        $this->baseDataForm = $baseDataForm;
+        $this->slugAliases = $slugAliases;
+
+        return $this;
+    }
+
+    public function getIsBattleOnly(): ?bool
+    {
+        return $this->isBattleOnly;
+    }
+
+    public function setIsBattleOnly(?bool $isBattleOnly): self
+    {
+        $this->isBattleOnly = $isBattleOnly;
+
+        return $this;
+    }
+
+    public function getIsReversible(): ?bool
+    {
+        return $this->isReversible;
+    }
+
+    public function setIsReversible(?bool $isReversible): self
+    {
+        $this->isReversible = $isReversible;
+
+        return $this;
+    }
+
+    public function getIsHomeRegistrable(): ?bool
+    {
+        return $this->isHomeRegistrable;
+    }
+
+    public function setIsHomeRegistrable(?bool $isHomeRegistrable): self
+    {
+        $this->isHomeRegistrable = $isHomeRegistrable;
 
         return $this;
     }

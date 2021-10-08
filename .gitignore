@@ -6,3 +6,4 @@ public/assets
 .megadown
 .sources
 TODO-*.md
+*.bak.*
