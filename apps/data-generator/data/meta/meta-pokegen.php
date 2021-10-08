@@ -11,6 +11,8 @@ if (!file_exists(__DIR__ . '/pokemon.json')) {
     throw new \Exception('File does not exist: ' . __DIR__ . '/pokemon-legacy.json');
 }
 
+$showdownDex = JsonEncoder::decode(file_get_contents(getenv('SOURCES_DIR') . '/showdown-data/dist/data/pokedex.json'));
+$showdownDex = $showdownDex['Pokedex'];
 $extraData = JsonEncoder::decode(file_get_contents(__DIR__ . '/pokemon-legacy.json'));
 $dataExport = JsonEncoder::decode(file_get_contents(__DIR__ . '/livingdex-pokemon.json'));
 $sortedForms = JsonEncoder::decode(file_get_contents(__DIR__ . '/pokemon-forms-sorting_order.json'));
@@ -64,6 +66,10 @@ foreach ($extraData as $slug => $pkx) {
     $pk = $dataExportAssoc[$slugPlain];
     $formNameParts = explode('(', $pk['title'], 2);
     $formName = isset($formNameParts[1]) ? trim($formNameParts[1], '()') : null;
+
+    if ($formName === null) {
+        $formName = $showdownDex[$slugPlain]['baseForme'] ?? null;
+    }
 
     $output[$slugPlain] = [
         'name' => $pk['title'],

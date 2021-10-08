@@ -2130,9 +2130,9 @@
       "menu": "nidoran-m"
     },
     "form": {
-      "name": "M",
-      "slug": "m",
-      "slug_plain": "m",
+      "name": "Male",
+      "slug": "male",
+      "slug_plain": "male",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -9395,6 +9395,9 @@
       "menu": "unown"
     },
     "form": {
+      "name": "A",
+      "slug": "a",
+      "slug_plain": "a",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -17649,6 +17652,9 @@
       "menu": "deoxys"
     },
     "form": {
+      "name": "Normal",
+      "slug": "normal",
+      "slug_plain": "normal",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -18851,6 +18857,9 @@
       "menu": "burmy"
     },
     "form": {
+      "name": "Plant",
+      "slug": "plant",
+      "slug_plain": "plant",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -18946,6 +18955,9 @@
       "menu": "wormadam"
     },
     "form": {
+      "name": "Plant",
+      "slug": "plant",
+      "slug_plain": "plant",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -19368,6 +19380,9 @@
       "menu": "cherrim"
     },
     "form": {
+      "name": "Overcast",
+      "slug": "overcast",
+      "slug_plain": "overcast",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -19430,6 +19445,9 @@
       "menu": "shellos"
     },
     "form": {
+      "name": "West",
+      "slug": "west",
+      "slug_plain": "west",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -19491,6 +19509,9 @@
       "menu": "gastrodon"
     },
     "form": {
+      "name": "West",
+      "slug": "west",
+      "slug_plain": "west",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -22214,6 +22235,9 @@
       "menu": "giratina"
     },
     "form": {
+      "name": "Altered",
+      "slug": "altered",
+      "slug_plain": "altered",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -22400,6 +22424,9 @@
       "menu": "shaymin"
     },
     "form": {
+      "name": "Land",
+      "slug": "land",
+      "slug_plain": "land",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -22461,6 +22488,9 @@
       "menu": "arceus"
     },
     "form": {
+      "name": "Normal",
+      "slug": "normal",
+      "slug_plain": "normal",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -24722,6 +24752,9 @@
       "menu": "basculin"
     },
     "form": {
+      "name": "Red-Striped",
+      "slug": "red-striped",
+      "slug_plain": "redstriped",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -24932,6 +24965,9 @@
       "menu": "darmanitan"
     },
     "form": {
+      "name": "Standard",
+      "slug": "standard",
+      "slug_plain": "standard",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -25972,6 +26008,9 @@
       "menu": "deerling"
     },
     "form": {
+      "name": "Spring",
+      "slug": "spring",
+      "slug_plain": "spring",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -26097,6 +26136,9 @@
       "menu": "sawsbuck"
     },
     "form": {
+      "name": "Spring",
+      "slug": "spring",
+      "slug_plain": "spring",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -27886,6 +27928,9 @@
       "menu": "tornadus"
     },
     "form": {
+      "name": "Incarnate",
+      "slug": "incarnate",
+      "slug_plain": "incarnate",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -27953,6 +27998,9 @@
       "menu": "thundurus"
     },
     "form": {
+      "name": "Incarnate",
+      "slug": "incarnate",
+      "slug_plain": "incarnate",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -28078,6 +28126,9 @@
       "menu": "landorus"
     },
     "form": {
+      "name": "Incarnate",
+      "slug": "incarnate",
+      "slug_plain": "incarnate",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -28240,6 +28291,9 @@
       "menu": "keldeo"
     },
     "form": {
+      "name": "Ordinary",
+      "slug": "ordinary",
+      "slug_plain": "ordinary",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -28302,6 +28356,9 @@
       "menu": "meloetta"
     },
     "form": {
+      "name": "Aria",
+      "slug": "aria",
+      "slug_plain": "aria",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -29047,6 +29104,9 @@
       "menu": "vivillon-icy-snow"
     },
     "form": {
+      "name": "Meadow",
+      "slug": "meadow",
+      "slug_plain": "meadow",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -29773,6 +29833,9 @@
       "menu": "flabebe"
     },
     "form": {
+      "name": "Red",
+      "slug": "red",
+      "slug_plain": "red",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -29930,6 +29993,9 @@
       "menu": "floette"
     },
     "form": {
+      "name": "Red",
+      "slug": "red",
+      "slug_plain": "red",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -30118,6 +30184,9 @@
       "menu": "florges"
     },
     "form": {
+      "name": "Red",
+      "slug": "red",
+      "slug_plain": "red",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -30391,6 +30460,9 @@
       "menu": "furfrou"
     },
     "form": {
+      "name": "Natural",
+      "slug": "natural",
+      "slug_plain": "natural",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -30746,6 +30818,9 @@
       "menu": "meowstic"
     },
     "form": {
+      "name": "Male",
+      "slug": "male",
+      "slug_plain": "male",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": true,
@@ -30864,6 +30939,9 @@
       "menu": "aegislash"
     },
     "form": {
+      "name": "Shield",
+      "slug": "shield",
+      "slug_plain": "shield",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -31737,6 +31815,9 @@
       "menu": "pumpkaboo"
     },
     "form": {
+      "name": "Average",
+      "slug": "average",
+      "slug_plain": "average",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -31859,6 +31940,9 @@
       "menu": "gourgeist"
     },
     "form": {
+      "name": "Average",
+      "slug": "average",
+      "slug_plain": "average",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -32097,6 +32181,9 @@
       "menu": "xerneas"
     },
     "form": {
+      "name": "Active",
+      "slug": "active",
+      "slug_plain": "active",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -32187,6 +32274,9 @@
       "menu": "zygarde"
     },
     "form": {
+      "name": "50%",
+      "slug": "50",
+      "slug_plain": "50",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -32423,6 +32513,9 @@
       "menu": "hoopa"
     },
     "form": {
+      "name": "Confined",
+      "slug": "confined",
+      "slug_plain": "confined",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -33137,6 +33230,9 @@
       "menu": "oricorio"
     },
     "form": {
+      "name": "Baile",
+      "slug": "baile",
+      "slug_plain": "baile",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -33349,6 +33445,9 @@
       "menu": "rockruff"
     },
     "form": {
+      "name": "Midday",
+      "slug": "midday",
+      "slug_plain": "midday",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -33409,6 +33508,9 @@
       "menu": "lycanroc"
     },
     "form": {
+      "name": "Midday",
+      "slug": "midday",
+      "slug_plain": "midday",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -33509,6 +33611,9 @@
       "menu": "wishiwashi"
     },
     "form": {
+      "name": "Solo",
+      "slug": "solo",
+      "slug_plain": "solo",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -34999,6 +35104,9 @@
       "menu": "minior-red"
     },
     "form": {
+      "name": "Red Core",
+      "slug": "red-core",
+      "slug_plain": "redcore",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -35035,9 +35143,9 @@
       "menu": "minior-orange"
     },
     "form": {
-      "name": "Orange",
-      "slug": "orange",
-      "slug_plain": "orange",
+      "name": "Orange Core",
+      "slug": "orange-core",
+      "slug_plain": "orangecore",
       "is_form": true,
       "is_base_species": false,
       "base_species": "minior",
@@ -35371,6 +35479,9 @@
       "menu": "mimikyu"
     },
     "form": {
+      "name": "Disguised",
+      "slug": "disguised",
+      "slug_plain": "disguised",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -38618,6 +38729,9 @@
       "menu": "toxtricity"
     },
     "form": {
+      "name": "Amped",
+      "slug": "amped",
+      "slug_plain": "amped",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -38971,6 +39085,9 @@
       "menu": "sinistea"
     },
     "form": {
+      "name": "Phony",
+      "slug": "phony",
+      "slug_plain": "phony",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -39050,6 +39167,9 @@
       "menu": "polteageist"
     },
     "form": {
+      "name": "Phony",
+      "slug": "phony",
+      "slug_plain": "phony",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -39705,6 +39825,9 @@
       "menu": "alcremie"
     },
     "form": {
+      "name": "Vanilla Cream",
+      "slug": "vanilla-cream",
+      "slug_plain": "vanillacream",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -42595,6 +42718,9 @@
       "menu": "indeedee"
     },
     "form": {
+      "name": "Male",
+      "slug": "male",
+      "slug_plain": "male",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": true,
@@ -43214,6 +43340,9 @@
       "menu": "zacian"
     },
     "form": {
+      "name": "Hero",
+      "slug": "hero",
+      "slug_plain": "hero",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -43293,6 +43422,9 @@
       "menu": "zamazenta"
     },
     "form": {
+      "name": "Hero",
+      "slug": "hero",
+      "slug_plain": "hero",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
@@ -43489,6 +43621,9 @@
       "menu": "urshifu"
     },
     "form": {
+      "name": "Single-Strike",
+      "slug": "single-strike",
+      "slug_plain": "singlestrike",
       "is_form": false,
       "is_base_species": true,
       "has_gender_diffs": false,
