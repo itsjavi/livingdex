@@ -125,6 +125,11 @@ class Pokemon
     /**
      * @ORM\Column(type="boolean")
      */
+    private ?bool $isAbilityForm;
+
+    /**
+     * @ORM\Column(type="boolean")
+     */
     private ?bool $isGmax;
 
     /**
@@ -662,6 +667,18 @@ class Pokemon
     public function setIsHomeRegistrable(?bool $isHomeRegistrable): self
     {
         $this->isHomeRegistrable = $isHomeRegistrable;
+
+        return $this;
+    }
+
+    public function isAbilityForm(): ?bool
+    {
+        return $this->isAbilityForm;
+    }
+
+    public function setIsAbilityForm(?bool $isAbilityForm): self
+    {
+        $this->isAbilityForm = $isAbilityForm;
 
         return $this;
     }

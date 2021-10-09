@@ -61,6 +61,7 @@
   "isPrimal": false,
   "canDynamax": false,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "eternatus",

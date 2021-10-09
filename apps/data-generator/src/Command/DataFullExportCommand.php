@@ -184,6 +184,7 @@ class DataFullExportCommand extends Command
                     $pokeByGen['baseSpecies'],
                     $pokeByGen['isCosmetic'],
                     $pokeByGen['isHomeStorable'],
+                    $pokeByGen['isHomeRegistrable'],
                     $pokeByGen['formOrder']
                 );
 
@@ -209,6 +210,7 @@ class DataFullExportCommand extends Command
                         //'hasGmax' => $hasGmax,
                         'canDynamax' => $poke->canDynamax(),
                         'isTotem' => $poke->isTotem(),
+                        'isAbilityForm' => $poke->isAbilityForm(),
                         'isRegional' => $poke->isRegional(),
                         'isHomeStorable' => $poke->isHomeStorable(),
                         'isHomeRegistrable' => $poke->isHomeRegistrable(),

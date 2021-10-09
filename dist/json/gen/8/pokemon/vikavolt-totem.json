@@ -22,6 +22,7 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": true,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": false,
   "showdownSlug": "vikavolttotem",

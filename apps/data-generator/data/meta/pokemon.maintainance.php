@@ -50,6 +50,12 @@ foreach ($pokedex as $slug => $pk) {
 
 //    array_insert_between($pokedex[$slug], 'changes_from', ['base_forms' => $pk['changes_from']]);
 //    unset($pokedex[$slug]['changes_from']);
+
+//    array_insert_between(
+//        $pokedex[$slug],
+//        'base_species',
+//        ['is_ability_form' => stripos($pk['name'], ' Ability') !== false]
+//    );
 }
 
 save_json($pokedex, __DIR__ . '/pokemon.json');
