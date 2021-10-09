@@ -9,11 +9,10 @@
     "castform-rainy",
     "castform-snowy"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": null,
+  "formName": "Normal",
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
@@ -63,8 +62,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "castform",
   "veekunSlug": "castform",
   "veekunFormId": 351

@@ -7,7 +7,6 @@
   "forms": [
     "inteleon-gmax"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -61,8 +60,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "inteleon",
   "veekunSlug": "inteleon",
   "veekunFormId": 818

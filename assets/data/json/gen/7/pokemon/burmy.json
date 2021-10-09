@@ -8,11 +8,10 @@
     "burmy-sandy",
     "burmy-trash"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Plant",
+  "formName": "Plant Cloak",
   "formSlug": "plant",
   "formOrder": 0,
   "baseSpecies": null,
@@ -62,8 +61,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "burmy",
   "veekunSlug": "burmy-plant",
   "veekunFormId": 412

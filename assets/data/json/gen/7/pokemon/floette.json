@@ -11,11 +11,10 @@
     "floette-blue",
     "floette-white"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Red",
+  "formName": "Red Flower",
   "formSlug": "red",
   "formOrder": 0,
   "baseSpecies": null,
@@ -65,8 +64,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "floette",
   "veekunSlug": "floette-red",
   "veekunFormId": 670

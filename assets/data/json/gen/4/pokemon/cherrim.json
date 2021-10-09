@@ -7,11 +7,10 @@
   "forms": [
     "cherrim-sunshine"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Overcast",
+  "formName": "Overcast Form",
   "formSlug": "overcast",
   "formOrder": 0,
   "baseSpecies": null,
@@ -61,8 +60,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "cherrim",
   "veekunSlug": "cherrim-overcast",
   "veekunFormId": 421

@@ -9,11 +9,10 @@
     "darmanitan-galar",
     "darmanitan-galar-zen"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Standard",
+  "formName": "Standard Mode",
   "formSlug": "standard",
   "formOrder": 0,
   "baseSpecies": null,
@@ -63,8 +62,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "darmanitan",
   "veekunSlug": "darmanitan-standard",
   "veekunFormId": 555

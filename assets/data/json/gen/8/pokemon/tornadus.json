@@ -7,11 +7,10 @@
   "forms": [
     "tornadus-therian"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Incarnate",
+  "formName": "Incarnate Forme",
   "formSlug": "incarnate",
   "formOrder": 0,
   "baseSpecies": null,
@@ -61,8 +60,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "tornadus",
   "veekunSlug": "tornadus-incarnate",
   "veekunFormId": 641

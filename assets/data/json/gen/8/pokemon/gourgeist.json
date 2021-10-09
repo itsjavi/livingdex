@@ -9,11 +9,10 @@
     "gourgeist-large",
     "gourgeist-super"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Average",
+  "formName": "Average Size",
   "formSlug": "average",
   "formOrder": 0,
   "baseSpecies": null,
@@ -63,8 +62,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "gourgeist",
   "veekunSlug": "gourgeist-average",
   "veekunFormId": 711

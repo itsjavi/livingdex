@@ -8,7 +8,6 @@
     "rattata-f",
     "rattata-alola"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -62,8 +61,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "rattata",
   "veekunSlug": "rattata",
   "veekunFormId": 19

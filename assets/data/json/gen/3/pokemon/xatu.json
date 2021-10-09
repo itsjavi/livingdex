@@ -7,7 +7,6 @@
   "forms": [
     "xatu-f"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -61,8 +60,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "xatu",
   "veekunSlug": "xatu",
   "veekunFormId": 178

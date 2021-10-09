@@ -7,11 +7,10 @@
   "forms": [
     "meloetta-pirouette"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Aria",
+  "formName": "Aria Forme",
   "formSlug": "aria",
   "formOrder": 0,
   "baseSpecies": null,
@@ -61,8 +60,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "meloetta",
   "veekunSlug": "meloetta-aria",
   "veekunFormId": 648

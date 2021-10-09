@@ -13,11 +13,10 @@
     "minior-indigo",
     "minior-violet"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": true,
   "isReversible": true,
   "isGmax": false,
-  "formName": "Meteor",
+  "formName": "Meteor Form",
   "formSlug": "meteor",
   "formOrder": 0,
   "baseSpecies": null,
@@ -67,8 +66,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": false,
+  "isHomeRegistrable": true,
   "showdownSlug": "miniormeteor",
   "veekunSlug": "minior-red-meteor",
   "veekunFormId": 774

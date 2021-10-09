@@ -25,11 +25,10 @@
     "vivillon-fancy",
     "vivillon-pokeball"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Meadow",
+  "formName": "Icy Snow Pattern",
   "formSlug": "meadow",
   "formOrder": 0,
   "baseSpecies": null,
@@ -79,8 +78,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "vivillon",
   "veekunSlug": "vivillon-icy-snow",
   "veekunFormId": 10086

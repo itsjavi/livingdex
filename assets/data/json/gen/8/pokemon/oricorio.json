@@ -9,11 +9,10 @@
     "oricorio-pau",
     "oricorio-sensu"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Baile",
+  "formName": "Baile Style",
   "formSlug": "baile",
   "formOrder": 0,
   "baseSpecies": null,
@@ -63,8 +62,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "oricorio",
   "veekunSlug": "oricorio-baile",
   "veekunFormId": 741

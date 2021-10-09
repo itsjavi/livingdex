@@ -8,11 +8,10 @@
     "lycanroc-midnight",
     "lycanroc-dusk"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Midday",
+  "formName": "Midday Form",
   "formSlug": "midday",
   "formOrder": 0,
   "baseSpecies": null,
@@ -62,8 +61,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "lycanroc",
   "veekunSlug": "lycanroc-midday",
   "veekunFormId": 745

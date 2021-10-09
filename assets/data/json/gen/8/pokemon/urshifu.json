@@ -9,11 +9,10 @@
     "urshifu-rapid-strike",
     "urshifu-rapid-strike-gmax"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Single Strike",
+  "formName": "Single Strike Style",
   "formSlug": "single-strike",
   "formOrder": 0,
   "baseSpecies": null,
@@ -63,8 +62,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "urshifu",
   "veekunSlug": "urshifu-single-strike",
   "veekunFormId": 892

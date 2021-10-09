@@ -8,7 +8,6 @@
     "slowbro-mega",
     "slowbro-galar"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -62,8 +61,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "slowbro",
   "veekunSlug": "slowbro",
   "veekunFormId": 80

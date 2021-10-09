@@ -33,7 +33,6 @@
     "unown-exclamation",
     "unown-question"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -87,8 +86,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "unown",
   "veekunSlug": "unown-a",
   "veekunFormId": 201

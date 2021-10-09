@@ -5,7 +5,6 @@
   "name": "Alcremie (Lemon Cream Ribbon)",
   "gen": 8,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -22,8 +21,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "alcremie",
   "veekunSlug": "alcremie-lemon-cream",
   "veekunFormId": 10349

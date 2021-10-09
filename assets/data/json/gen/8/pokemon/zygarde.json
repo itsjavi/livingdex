@@ -10,11 +10,10 @@
     "zygarde-10-power-construct",
     "zygarde-complete"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": true,
   "isGmax": false,
-  "formName": "50%",
+  "formName": "50% Forme",
   "formSlug": "50",
   "formOrder": 0,
   "baseSpecies": null,
@@ -64,8 +63,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "zygarde",
   "veekunSlug": "zygarde-50",
   "veekunFormId": 718

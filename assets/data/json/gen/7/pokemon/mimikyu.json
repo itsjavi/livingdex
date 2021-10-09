@@ -9,11 +9,10 @@
     "mimikyu-totem",
     "mimikyu-busted-totem"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Disguised",
+  "formName": "Disguised Form",
   "formSlug": "disguised",
   "formOrder": 0,
   "baseSpecies": null,
@@ -63,8 +62,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "mimikyu",
   "veekunSlug": "mimikyu-disguised",
   "veekunFormId": 778

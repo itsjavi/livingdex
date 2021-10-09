@@ -7,11 +7,10 @@
   "forms": [
     "zacian-crowned"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Hero",
+  "formName": "Hero of Many Battles",
   "formSlug": "hero",
   "formOrder": 0,
   "baseSpecies": null,
@@ -61,8 +60,10 @@
   "isPrimal": false,
   "canDynamax": false,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "zacian",
   "veekunSlug": "zacian",
   "veekunFormId": 888

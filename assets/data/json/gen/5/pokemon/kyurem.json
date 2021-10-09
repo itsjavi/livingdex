@@ -8,7 +8,6 @@
     "kyurem-white",
     "kyurem-black"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -62,8 +61,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "kyurem",
   "veekunSlug": "kyurem",
   "veekunFormId": 646

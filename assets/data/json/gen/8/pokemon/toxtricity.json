@@ -9,11 +9,10 @@
     "toxtricity-gmax",
     "toxtricity-low-key-gmax"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Amped",
+  "formName": "Amped Form",
   "formSlug": "amped",
   "formOrder": 0,
   "baseSpecies": null,
@@ -63,8 +62,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "toxtricity",
   "veekunSlug": "toxtricity-amped",
   "veekunFormId": 849

@@ -7,11 +7,10 @@
   "forms": [
     "wishiwashi-school"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Solo",
+  "formName": "Solo Form",
   "formSlug": "solo",
   "formOrder": 0,
   "baseSpecies": null,
@@ -61,8 +60,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "wishiwashi",
   "veekunSlug": "wishiwashi-solo",
   "veekunFormId": 746

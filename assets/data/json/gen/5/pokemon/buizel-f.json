@@ -5,7 +5,6 @@
   "name": "Buizel (Female)",
   "gen": 4,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -22,8 +21,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": null,
   "veekunSlug": "buizel",
   "veekunFormId": 418

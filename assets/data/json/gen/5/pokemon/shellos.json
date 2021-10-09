@@ -7,11 +7,10 @@
   "forms": [
     "shellos-east"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "West",
+  "formName": "West Sea",
   "formSlug": "west",
   "formOrder": 0,
   "baseSpecies": null,
@@ -61,8 +60,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "shellos",
   "veekunSlug": "shellos-west",
   "veekunFormId": 422

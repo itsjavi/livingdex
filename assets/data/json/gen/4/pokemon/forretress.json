@@ -5,7 +5,6 @@
   "name": "Forretress",
   "gen": 2,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -59,8 +58,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "forretress",
   "veekunSlug": "forretress",
   "veekunFormId": 205

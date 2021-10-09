@@ -9,11 +9,10 @@
     "deerling-autumn",
     "deerling-winter"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Spring",
+  "formName": "Spring Form",
   "formSlug": "spring",
   "formOrder": 0,
   "baseSpecies": null,
@@ -63,8 +62,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "deerling",
   "veekunSlug": "deerling-spring",
   "veekunFormId": 585

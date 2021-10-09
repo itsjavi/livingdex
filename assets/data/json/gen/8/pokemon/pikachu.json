@@ -23,7 +23,6 @@
     "pikachu-partner-cap",
     "pikachu-world-cap"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -77,8 +76,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "pikachu",
   "veekunSlug": "pikachu",
   "veekunFormId": 25

@@ -69,11 +69,10 @@
     "alcremie-rainbow-swirl-ribbon",
     "alcremie-gmax"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Vanilla Cream",
+  "formName": "Vanilla Cream (Strawberry)",
   "formSlug": "vanilla-cream",
   "formOrder": 0,
   "baseSpecies": null,
@@ -123,8 +122,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "alcremie",
   "veekunSlug": "alcremie-vanilla-cream",
   "veekunFormId": 869

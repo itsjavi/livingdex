@@ -9,11 +9,10 @@
     "deoxys-defense",
     "deoxys-speed"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
-  "formName": "Normal",
+  "formName": "Normal Forme",
   "formSlug": "normal",
   "formOrder": 0,
   "baseSpecies": null,
@@ -63,8 +62,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "deoxys",
   "veekunSlug": "deoxys-normal",
   "veekunFormId": 386

@@ -5,7 +5,6 @@
   "name": "Exploud",
   "gen": 3,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -59,8 +58,10 @@
   "isPrimal": false,
   "canDynamax": true,
   "isTotem": false,
+  "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "exploud",
   "veekunSlug": "exploud",
   "veekunFormId": 295
