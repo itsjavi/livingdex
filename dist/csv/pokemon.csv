@@ -1285,13 +1285,13 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 10386,773,773,[],rock,Rock,alola,silvallyrock,silvally-rock,10236,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,7,"Silvally (Rock)",silvally-rock,5
 10387,773,773,[],steel,Steel,alola,silvallysteel,silvally-steel,10239,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,7,"Silvally (Steel)",silvally-steel,8
 10388,773,773,[],water,Water,alola,silvallywater,silvally-water,10241,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,7,"Silvally (Water)",silvally-water,10
-10389,774,774,"[""minior-red-core""]",red,"Red Core",alola,minior,minior-red,10255,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Red Core)",minior-red,1
-10390,10389,774,[],orange,Orange,alola,minior,minior-orange,10256,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Orange)",minior-orange,2
-10391,10389,774,[],yellow,Yellow,alola,minior,minior-yellow,10257,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Yellow)",minior-yellow,3
-10392,10389,774,[],green,Green,alola,minior,minior-green,10258,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Green)",minior-green,4
-10393,10389,774,[],blue,Blue,alola,minior,minior-blue,10259,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Blue)",minior-blue,5
-10394,10389,774,[],indigo,Indigo,alola,minior,minior-indigo,10260,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Indigo)",minior-indigo,6
-10395,10389,774,[],violet,Violet,alola,minior,minior-violet,10261,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Violet)",minior-violet,7
+10389,774,774,[],red,"Red Core",alola,minior,minior-red,10255,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Red Core)",minior-red,1
+10390,774,774,[],orange,Orange,alola,minior,minior-orange,10256,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Orange)",minior-orange,2
+10391,774,774,[],yellow,Yellow,alola,minior,minior-yellow,10257,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Yellow)",minior-yellow,3
+10392,774,774,[],green,Green,alola,minior,minior-green,10258,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Green)",minior-green,4
+10393,774,774,[],blue,Blue,alola,minior,minior-blue,10259,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Blue)",minior-blue,5
+10394,774,774,[],indigo,Indigo,alola,minior,minior-indigo,10260,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Indigo)",minior-indigo,6
+10395,774,774,[],violet,Violet,alola,minior,minior-violet,10261,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Violet)",minior-violet,7
 10396,777,777,[],totem,Totem,alola,togedemarutotem,togedemaru-totem,10313,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,7,"Togedemaru (Totem)",togedemaru-totem,1
 10397,778,778,[],busted,Busted,alola,mimikyubusted,mimikyu-busted,10262,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,7,"Mimikyu (Busted)",mimikyu-busted,1
 10398,778,778,[],totem,Totem,alola,mimikyutotem,mimikyu-totem-disguised,10263,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,7,"Mimikyu (Totem)",mimikyu-totem,2

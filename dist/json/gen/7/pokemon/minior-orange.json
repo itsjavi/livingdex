@@ -12,7 +12,7 @@
   "formName": "Orange",
   "formSlug": "orange",
   "formOrder": 2,
-  "baseSpecies": "minior-red",
+  "baseSpecies": "minior",
   "isFemale": false,
   "isCosmetic": true,
   "isLegendary": false,

@@ -12,7 +12,7 @@
   "formName": "Indigo",
   "formSlug": "indigo",
   "formOrder": 6,
-  "baseSpecies": "minior-red",
+  "baseSpecies": "minior",
   "isFemale": false,
   "isCosmetic": true,
   "isLegendary": false,

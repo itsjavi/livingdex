@@ -5,7 +5,13 @@
   "name": "Minior",
   "gen": 7,
   "forms": [
-    "minior-red"
+    "minior-red",
+    "minior-orange",
+    "minior-yellow",
+    "minior-green",
+    "minior-blue",
+    "minior-indigo",
+    "minior-violet"
   ],
   "isHomeRegistrable": true,
   "isBattleOnly": true,

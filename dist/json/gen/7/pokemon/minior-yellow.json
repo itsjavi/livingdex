@@ -12,7 +12,7 @@
   "formName": "Yellow",
   "formSlug": "yellow",
   "formOrder": 3,
-  "baseSpecies": "minior-red",
+  "baseSpecies": "minior",
   "isFemale": false,
   "isCosmetic": true,
   "isLegendary": false,

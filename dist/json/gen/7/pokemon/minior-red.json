@@ -4,14 +4,7 @@
   "slug": "minior-red",
   "name": "Minior (Red Core)",
   "gen": 7,
-  "forms": [
-    "minior-orange",
-    "minior-yellow",
-    "minior-green",
-    "minior-blue",
-    "minior-indigo",
-    "minior-violet"
-  ],
+  "forms": [],
   "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
