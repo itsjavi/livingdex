@@ -37,8 +37,8 @@ declare module LivingDex {
     title: string;
     gen: number;
     forms: string[];
-    imgSprite: string;
-    imgHome: string;
+    //imgSprite: string;
+    //imgHome: string;
     baseSpecies: string | PokemonListItem;
     formOrder: number;
 
@@ -64,8 +64,8 @@ declare module LivingDex {
     formSlug: string;
     formOrder: number;
     baseSpecies: string | PokemonDetails;
-    imgSprite: string;
-    imgHome: string;
+    //imgSprite: string;
+    //imgHome: string;
     dataGen: number;
     type1: string;
     type2?: any;

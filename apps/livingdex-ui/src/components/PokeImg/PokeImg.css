@@ -9,3 +9,7 @@
 .pkm-wrapper .pkm {
   image-rendering: optimizespeed;
 }
+
+.pkm-2x {
+  zoom: 2;
+}

@@ -1,16 +1,17 @@
-import { Layout } from "../../components/Layout/Layout"
+import {Layout} from "../../components/Layout/Layout"
 import styles from "./PokedexPage.module.css"
-import React, { useState } from "react"
+import React, {useState} from "react"
 import usePokemonList from "../../hooks/usePokemonList"
 import useQueryOptions from "../../hooks/useQueryOptions"
-import { useHistory } from "react-router-dom"
-import { PokeImg } from "../../components/PokeImg/PokeImg"
+import {useHistory} from "react-router-dom"
+import {PokeImg} from "../../components/PokeImg/PokeImg"
 
 function PokedexPage() {
   const history = useHistory()
   const q = useQueryOptions(true)
+  q.onlyHomeStorable = false
   const [listOptions] = useState(q)
-  const { pokemon, loading } = usePokemonList(listOptions)
+  const {pokemon, loading} = usePokemonList(listOptions)
 
   let items = []
   let title = <span>Living Dex</span>
@@ -23,7 +24,13 @@ function PokedexPage() {
       history.push("/pokemon/" + e.currentTarget.dataset.slug)
     }
 
+    let total = 0
     for (const pkm of pokemon) {
+      if (pkm.baseSpecies !== null) {
+        continue
+      }
+      total++
+
       let img = PokeImg(pkm.slug, pkm.name, q.viewShiny)
 
       let dataAttrs = {
@@ -40,7 +47,7 @@ function PokedexPage() {
         </div>,
       )
     }
-    subtitle = "National Pokédex (" + pokemon.length + " Pokémon)"
+    subtitle = "National Pokédex (" + total + " Pokémon)"
   }
 
   return (

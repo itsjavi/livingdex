@@ -1,7 +1,6 @@
 import React from "react"
 import styles from "./Layout.module.css"
-import { LayoutHeader } from "../LayoutHeader/LayoutHeader"
-//import { LayoutFooter } from "../LayoutFooter/LayoutFooter"
+import {LayoutHeader} from "../LayoutHeader/LayoutHeader"
 import PropTypes from "prop-types"
 
 function Layout(props) {
@@ -14,7 +13,8 @@ function Layout(props) {
         </div>
       </div>
       {/*<LayoutFooter actions={props.footerActions}>*/}
-      {/*  {props.footer}*/}
+      {/*  /!*{props.footer}*!/*/}
+      {/*  <Panel header={"Test"}>Test</Panel>*/}
       {/*</LayoutFooter>*/}
     </div>
   )

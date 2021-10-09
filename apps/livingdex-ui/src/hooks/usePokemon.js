@@ -11,8 +11,8 @@ function fetchPokemon(slug) {
   return api.getPokemon(slug, false)
     .then((resp) => {
       resp.dexNum = resp.num
-      resp.file = resp.imgHome + ".png"
-      resp.fileBaseName = resp.imgHome.split("/").pop()
+      //resp.file = resp.imgHome + ".png"
+      //resp.fileBaseName = resp.imgHome.split("/").pop()
 
       let promise = Promise.resolve(resp)
 

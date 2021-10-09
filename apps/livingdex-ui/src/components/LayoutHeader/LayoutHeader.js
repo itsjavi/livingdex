@@ -34,13 +34,13 @@ function LayoutHeader(props) {
               <i className="icon-books"/>
               <span>Pokédex</span>
             </NavLink>
-            <a href="https://github.com/itsjavi/livingdex" target="_blank" rel="noreferrer">
+            <a href="https://github.com/itsjavi/livingdex#pok%C3%A9mon-living-dex" target="_blank" rel="noreferrer">
               <i className="icon-github" title="Github"/>
               <span>Github</span>
             </a>
-            <a href="https://blog.itsjavi.com/" target="_blank" rel="noreferrer">
-              <small>Created by <b>@itsjavi</b></small>
-            </a>
+            {/*<a href="https://blog.itsjavi.com/" target="_blank">*/}
+            {/*  <small>Created by <b>@itsjavi</b></small>*/}
+            {/*</a>*/}
           </nav>
         </div>
       </div>

@@ -143,4 +143,4 @@ class PokeApi {
 }
 
 export default PokeApi
-export { PokeApi, PokeApiMaxGen }
+export { PokeApi, PokeApiMaxGen, PokeApiDefaultBaseUrl }

@@ -51,28 +51,29 @@ function usePokemonList(initialOptions) {
         .then(function(apiResponse) {
           let pokedex = []
           let idx = 0
-          // TODO: stop using PokemonListItemSimple, use regular one
-          let getObj = (pkm) => {
-            return {
-              //...pkm,
-              id: pkm.id,
-                dexNum: pkm.num,
-              tabIndex: idx,
-              // file: pkm.imgHome + ".png",
-              file: pkm.imgHome + ".png",
-              fileBaseName: pkm.imgHome.split("/").pop(),
-              slug: pkm.slug,
-              name: pkm.name,
-              isCosmetic: pkm.isCosmetic,
-              baseSpecies: pkm.baseSpecies,
-            }
-          }
+          // TODO: stop using PokemonListItemSimple, use regular one:
+          // let getObj = (pkm) => {
+          //   return {
+          //     //...pkm,
+          //     id: pkm.id,
+          //       dexNum: pkm.num,
+          //     tabIndex: idx,
+          //     // file: pkm.imgHome + ".png",
+          //     file: pkm.imgHome + ".png",
+          //     fileBaseName: pkm.imgHome.split("/").pop(),
+          //     slug: pkm.slug,
+          //     name: pkm.name,
+          //     isCosmetic: pkm.isCosmetic,
+          //     baseSpecies: pkm.baseSpecies,
+          //   }
+          // }
 
           for (let slug in apiResponse) {
             let pkm = apiResponse[slug]
             if (shouldSkip(options, pkm)) {
               continue
             }
+            pkm.tabIndex = idx
             // if (pkm.baseSpecies !== null) {
             //   continue
             // }
