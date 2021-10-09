@@ -62,9 +62,9 @@ function usePokemonList(initialOptions) {
               file: pkm.imgHome + ".png",
               fileBaseName: pkm.imgHome.split("/").pop(),
               slug: pkm.slug,
-              name: pkm.title,
+              name: pkm.name,
               isCosmetic: pkm.isCosmetic,
-              baseDataForm: pkm.baseDataForm,
+              baseSpecies: pkm.baseSpecies,
             }
           }
 

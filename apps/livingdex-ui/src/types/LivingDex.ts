@@ -26,7 +26,7 @@ declare module LivingDex {
     slug: string;
     name: string;
     isCosmetic: string;
-    baseDataForm: string;
+    baseSpecies: string | PokemonListItemSimple;
   }
 
   export interface PokemonListItem {
@@ -39,8 +39,7 @@ declare module LivingDex {
     forms: string[];
     imgSprite: string;
     imgHome: string;
-    baseSpecies: string;
-    baseDataForm: string;
+    baseSpecies: string | PokemonListItem;
     formOrder: number;
 
     isCosmetic: boolean;
@@ -64,8 +63,7 @@ declare module LivingDex {
     formName: string;
     formSlug: string;
     formOrder: number;
-    baseSpecies: string;
-    baseDataForm?: any;
+    baseSpecies: string | PokemonDetails;
     imgSprite: string;
     imgHome: string;
     dataGen: number;

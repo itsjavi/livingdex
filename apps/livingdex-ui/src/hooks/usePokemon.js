@@ -27,17 +27,6 @@ function fetchPokemon(slug) {
         })
       }
 
-      if (resp.baseDataForm !== null) {
-        promise = promise.then((resolvedResp) => {
-          return fetchPokemon(resp.baseDataForm)
-            .then((baseDataResp) => {
-              resolvedResp.baseDataForm = baseDataResp
-
-              return resolvedResp
-            })
-        })
-      }
-
       return promise
     })
 }

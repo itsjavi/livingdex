@@ -23,7 +23,7 @@ function PokemonDetailsPage() {
     </div>
   }
 
-  subtitle = pokemon.title
+  subtitle = pokemon.name
 
   let img = PokeImg(pokemon.slug, pokemon.name, q.viewShiny)
 
@@ -39,10 +39,10 @@ function PokemonDetailsPage() {
       </span>
   }
 
-  if (pokemon.baseDataForm) {
+  if (pokemon.baseSpecies) {
     baseDataForm = <span>
-        <Link to={"/pokemon/" + pokemon.baseDataForm.slug}>
-          {PokeImg(pokemon.baseDataForm.slug, pokemon.baseDataForm.name, q.viewShiny)}
+        <Link to={"/pokemon/" + pokemon.baseSpecies.slug}>
+          {PokeImg(pokemon.baseSpecies.slug, pokemon.baseSpecies.name, q.viewShiny)}
         </Link>
         <span>{" // "}</span>
       </span>
@@ -60,7 +60,7 @@ function PokemonDetailsPage() {
   //       <Link to={"/pokemon/" + formSlug}>
   //         {CreateImage(
   //           BaseHomeRenderPath + "/regular/" + CalcImageSrc(),
-  //           pokemon.baseDataForm.title,
+  //           pokemon.baseDataForm.name,
   //         )}
   //       </Link>
   //       <span>{" // "}</span>
