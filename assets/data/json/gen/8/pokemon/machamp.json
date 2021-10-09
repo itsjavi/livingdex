@@ -7,13 +7,14 @@
   "forms": [
     "machamp-gmax"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "machamp",
-  "imgHome": "0068",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "machamp",
   "veekunSlug": "machamp",
-  "veekunFormId": 68,
-  "title": "Machamp"
+  "veekunFormId": 68
 }

@@ -7,13 +7,14 @@
   "forms": [
     "lapras-gmax"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "lapras",
-  "imgHome": "0131",
   "dataGen": 8,
   "type1": "water",
   "type2": "ice",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "lapras",
   "veekunSlug": "lapras",
-  "veekunFormId": 131,
-  "title": "Lapras"
+  "veekunFormId": 131
 }

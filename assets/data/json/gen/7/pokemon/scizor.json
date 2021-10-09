@@ -8,13 +8,14 @@
     "scizor-f",
     "scizor-mega"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "scizor",
-  "imgHome": "0212",
   "dataGen": 8,
   "type1": "bug",
   "type2": "steel",
@@ -59,13 +60,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "scizor",
   "veekunSlug": "scizor",
-  "veekunFormId": 212,
-  "title": "Scizor"
+  "veekunFormId": 212
 }

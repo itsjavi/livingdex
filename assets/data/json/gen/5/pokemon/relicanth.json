@@ -7,13 +7,14 @@
   "forms": [
     "relicanth-f"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "relicanth",
-  "imgHome": "0369",
   "dataGen": 8,
   "type1": "water",
   "type2": "rock",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "relicanth",
   "veekunSlug": "relicanth",
-  "veekunFormId": 369,
-  "title": "Relicanth"
+  "veekunFormId": 369
 }

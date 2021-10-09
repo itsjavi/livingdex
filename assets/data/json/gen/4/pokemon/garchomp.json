@@ -7,13 +7,14 @@
   "forms": [
     "garchomp-f"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "garchomp",
-  "imgHome": "0445",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "ground",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "garchomp",
   "veekunSlug": "garchomp",
-  "veekunFormId": 445,
-  "title": "Garchomp"
+  "veekunFormId": 445
 }

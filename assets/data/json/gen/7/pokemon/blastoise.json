@@ -7,13 +7,14 @@
   "forms": [
     "blastoise-mega"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "blastoise",
-  "imgHome": "0009",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "blastoise",
   "veekunSlug": "blastoise",
-  "veekunFormId": 9,
-  "title": "Blastoise"
+  "veekunFormId": 9
 }

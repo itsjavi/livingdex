@@ -7,13 +7,14 @@
   "forms": [
     "mawile-mega"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "mawile",
-  "imgHome": "0303",
   "dataGen": 8,
   "type1": "steel",
   "type2": "fairy",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "mawile",
   "veekunSlug": "mawile",
-  "veekunFormId": 303,
-  "title": "Mawile"
+  "veekunFormId": 303
 }

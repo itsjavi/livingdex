@@ -7,13 +7,14 @@
   "forms": [
     "gastrodon-east"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "West",
   "formSlug": "west",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "gastrodon",
-  "imgHome": "0423",
   "dataGen": 8,
   "type1": "water",
   "type2": "ground",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "gastrodon",
   "veekunSlug": "gastrodon-west",
-  "veekunFormId": 423,
-  "title": "Gastrodon"
+  "veekunFormId": 423
 }

@@ -8,13 +8,14 @@
     "wormadam-sandy",
     "wormadam-trash"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Plant",
   "formSlug": "plant",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "wormadam",
-  "imgHome": "0413",
   "dataGen": 8,
   "type1": "bug",
   "type2": "grass",
@@ -59,13 +60,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "wormadam",
   "veekunSlug": "wormadam-plant",
-  "veekunFormId": 413,
-  "title": "Wormadam"
+  "veekunFormId": 413
 }

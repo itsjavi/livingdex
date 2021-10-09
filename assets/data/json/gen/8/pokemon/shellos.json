@@ -7,13 +7,14 @@
   "forms": [
     "shellos-east"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "West",
   "formSlug": "west",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "shellos",
-  "imgHome": "0422",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "shellos",
   "veekunSlug": "shellos-west",
-  "veekunFormId": 422,
-  "title": "Shellos"
+  "veekunFormId": 422
 }

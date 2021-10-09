@@ -7,13 +7,14 @@
   "forms": [
     "raichu-f"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "raichu",
-  "imgHome": "0026",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "raichu",
   "veekunSlug": "raichu",
-  "veekunFormId": 26,
-  "title": "Raichu"
+  "veekunFormId": 26
 }

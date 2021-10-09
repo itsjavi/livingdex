@@ -9,13 +9,14 @@
     "mimikyu-totem",
     "mimikyu-busted-totem"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Disguised",
   "formSlug": "disguised",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "mimikyu",
-  "imgHome": "0778",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "fairy",
@@ -60,13 +61,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "mimikyu",
   "veekunSlug": "mimikyu-disguised",
-  "veekunFormId": 778,
-  "title": "Mimikyu"
+  "veekunFormId": 778
 }

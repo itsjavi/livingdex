@@ -7,13 +7,14 @@
   "forms": [
     "kadabra-f"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "kadabra",
-  "imgHome": "0064",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "kadabra",
   "veekunSlug": "kadabra",
-  "veekunFormId": 64,
-  "title": "Kadabra"
+  "veekunFormId": 64
 }

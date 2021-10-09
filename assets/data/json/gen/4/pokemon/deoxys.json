@@ -9,13 +9,14 @@
     "deoxys-defense",
     "deoxys-speed"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Normal",
   "formSlug": "normal",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "deoxys",
-  "imgHome": "0386",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -60,13 +61,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "deoxys",
   "veekunSlug": "deoxys-normal",
-  "veekunFormId": 386,
-  "title": "Deoxys"
+  "veekunFormId": 386
 }

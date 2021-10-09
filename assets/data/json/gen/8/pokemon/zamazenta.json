@@ -7,13 +7,14 @@
   "forms": [
     "zamazenta-crowned"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Hero",
   "formSlug": "hero",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "zamazenta",
-  "imgHome": "0889",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -43,12 +44,12 @@
   },
   "baseStatsTotal": 670,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 3
   },
   "yieldBaseExp": 335,
   "isFemale": false,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": false,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "zamazenta",
   "veekunSlug": "zamazenta",
-  "veekunFormId": 889,
-  "title": "Zamazenta"
+  "veekunFormId": 889
 }

@@ -9,13 +9,14 @@
     "raticate-alola",
     "raticate-alola-totem"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "raticate",
-  "imgHome": "0020",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -60,13 +61,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "raticate",
   "veekunSlug": "raticate",
-  "veekunFormId": 20,
-  "title": "Raticate"
+  "veekunFormId": 20
 }

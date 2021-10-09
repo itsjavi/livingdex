@@ -7,13 +7,14 @@
   "forms": [
     "lurantis-totem"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "lurantis",
-  "imgHome": "0754",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "lurantis",
   "veekunSlug": "lurantis",
-  "veekunFormId": 754,
-  "title": "Lurantis"
+  "veekunFormId": 754
 }

@@ -8,13 +8,14 @@
     "venusaur-f",
     "venusaur-mega"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "venusaur",
-  "imgHome": "0003",
   "dataGen": 8,
   "type1": "grass",
   "type2": "poison",
@@ -59,13 +60,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "venusaur",
   "veekunSlug": "venusaur",
-  "veekunFormId": 3,
-  "title": "Venusaur"
+  "veekunFormId": 3
 }

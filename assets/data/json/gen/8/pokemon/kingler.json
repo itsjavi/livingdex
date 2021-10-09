@@ -7,13 +7,14 @@
   "forms": [
     "kingler-gmax"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "kingler",
-  "imgHome": "0099",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "kingler",
   "veekunSlug": "kingler",
-  "veekunFormId": 99,
-  "title": "Kingler"
+  "veekunFormId": 99
 }

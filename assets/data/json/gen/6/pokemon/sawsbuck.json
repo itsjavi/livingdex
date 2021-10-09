@@ -9,13 +9,14 @@
     "sawsbuck-autumn",
     "sawsbuck-winter"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Spring",
   "formSlug": "spring",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "sawsbuck",
-  "imgHome": "0586",
   "dataGen": 8,
   "type1": "normal",
   "type2": "grass",
@@ -60,13 +61,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "sawsbuck",
   "veekunSlug": "sawsbuck-spring",
-  "veekunFormId": 586,
-  "title": "Sawsbuck"
+  "veekunFormId": 586
 }

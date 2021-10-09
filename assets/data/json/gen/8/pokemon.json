@@ -23,8 +23,8 @@
     "gen": 1,
     "forms": [
       "venusaur-f",
-      "venusaur-mega",
-      "venusaur-gmax"
+      "venusaur-gmax",
+      "venusaur-mega"
     ]
   },
   {
@@ -50,9 +50,9 @@
     "name": "Charizard",
     "gen": 1,
     "forms": [
+      "charizard-gmax",
       "charizard-mega-x",
-      "charizard-mega-y",
-      "charizard-gmax"
+      "charizard-mega-y"
     ]
   },
   {
@@ -78,8 +78,8 @@
     "name": "Blastoise",
     "gen": 1,
     "forms": [
-      "blastoise-mega",
-      "blastoise-gmax"
+      "blastoise-gmax",
+      "blastoise-mega"
     ]
   },
   {
@@ -231,6 +231,7 @@
       "pikachu-phd",
       "pikachu-libre",
       "pikachu-starter",
+      "pikachu-gmax",
       "pikachu-original-cap",
       "pikachu-hoenn-cap",
       "pikachu-sinnoh-cap",
@@ -238,8 +239,7 @@
       "pikachu-kalos-cap",
       "pikachu-alola-cap",
       "pikachu-partner-cap",
-      "pikachu-world-cap",
-      "pikachu-gmax"
+      "pikachu-world-cap"
     ]
   },
   {
@@ -276,8 +276,8 @@
   {
     "id": 29,
     "num": 29,
-    "slug": "nidoran-f",
-    "name": "Nidoran-F",
+    "slug": "nidoranf",
+    "name": "Nidoran\u2640",
     "gen": 1,
     "forms": []
   },
@@ -300,8 +300,8 @@
   {
     "id": 32,
     "num": 32,
-    "slug": "nidoran-m",
-    "name": "Nidoran-M",
+    "slug": "nidoranm",
+    "name": "Nidoran\u2642",
     "gen": 1,
     "forms": []
   },
@@ -480,9 +480,9 @@
     "name": "Meowth",
     "gen": 1,
     "forms": [
+      "meowth-gmax",
       "meowth-alola",
-      "meowth-galar",
-      "meowth-gmax"
+      "meowth-galar"
     ]
   },
   {
@@ -854,8 +854,8 @@
     "name": "Gengar",
     "gen": 1,
     "forms": [
-      "gengar-mega",
-      "gengar-gmax"
+      "gengar-gmax",
+      "gengar-mega"
     ]
   },
   {
@@ -1098,11 +1098,11 @@
   {
     "id": 122,
     "num": 122,
-    "slug": "mr-mime",
+    "slug": "mrmime",
     "name": "Mr. Mime",
     "gen": 1,
     "forms": [
-      "mr-mime-galar"
+      "mrmime-galar"
     ]
   },
   {
@@ -1204,8 +1204,8 @@
     "gen": 1,
     "forms": [
       "eevee-f",
-      "eevee-starter",
-      "eevee-gmax"
+      "eevee-gmax",
+      "eevee-starter"
     ]
   },
   {
@@ -2238,7 +2238,7 @@
   {
     "id": 250,
     "num": 250,
-    "slug": "ho-oh",
+    "slug": "hooh",
     "name": "Ho-Oh",
     "gen": 2,
     "forms": []
@@ -3885,7 +3885,7 @@
   {
     "id": 439,
     "num": 439,
-    "slug": "mime-jr",
+    "slug": "mimejr",
     "name": "Mime Jr.",
     "gen": 4,
     "forms": []
@@ -4199,7 +4199,7 @@
   {
     "id": 474,
     "num": 474,
-    "slug": "porygon-z",
+    "slug": "porygonz",
     "name": "Porygon-Z",
     "gen": 4,
     "forms": []
@@ -5820,12 +5820,12 @@
     "name": "Vivillon",
     "gen": 6,
     "forms": [
-      "vivillon-meadow",
       "vivillon-polar",
       "vivillon-tundra",
       "vivillon-continental",
       "vivillon-garden",
       "vivillon-elegant",
+      "vivillon-meadow",
       "vivillon-modern",
       "vivillon-marine",
       "vivillon-archipelago",
@@ -5866,10 +5866,10 @@
     "name": "Flabe\u0301be\u0301",
     "gen": 6,
     "forms": [
-      "flabebe-blue",
+      "flabebe-yellow",
       "flabebe-orange",
-      "flabebe-white",
-      "flabebe-yellow"
+      "flabebe-blue",
+      "flabebe-white"
     ]
   },
   {
@@ -5879,11 +5879,11 @@
     "name": "Floette",
     "gen": 6,
     "forms": [
-      "floette-blue",
-      "floette-orange",
-      "floette-white",
+      "floette-eternal",
       "floette-yellow",
-      "floette-eternal"
+      "floette-orange",
+      "floette-blue",
+      "floette-white"
     ]
   },
   {
@@ -5893,10 +5893,10 @@
     "name": "Florges",
     "gen": 6,
     "forms": [
-      "florges-blue",
+      "florges-yellow",
       "florges-orange",
-      "florges-white",
-      "florges-yellow"
+      "florges-blue",
+      "florges-white"
     ]
   },
   {
@@ -6758,7 +6758,7 @@
   {
     "id": 772,
     "num": 772,
-    "slug": "type-null",
+    "slug": "typenull",
     "name": "Type: Null",
     "gen": 7,
     "forms": []
@@ -6796,13 +6796,13 @@
     "name": "Minior",
     "gen": 7,
     "forms": [
+      "minior-red",
       "minior-orange",
       "minior-yellow",
       "minior-green",
       "minior-blue",
       "minior-indigo",
-      "minior-violet",
-      "minior-meteor"
+      "minior-violet"
     ]
   },
   {
@@ -6870,7 +6870,7 @@
   {
     "id": 782,
     "num": 782,
-    "slug": "jangmo-o",
+    "slug": "jangmoo",
     "name": "Jangmo-o",
     "gen": 7,
     "forms": []
@@ -6878,7 +6878,7 @@
   {
     "id": 783,
     "num": 783,
-    "slug": "hakamo-o",
+    "slug": "hakamoo",
     "name": "Hakamo-o",
     "gen": 7,
     "forms": []
@@ -6886,17 +6886,17 @@
   {
     "id": 784,
     "num": 784,
-    "slug": "kommo-o",
+    "slug": "kommoo",
     "name": "Kommo-o",
     "gen": 7,
     "forms": [
-      "kommo-o-totem"
+      "kommoo-totem"
     ]
   },
   {
     "id": 785,
     "num": 785,
-    "slug": "tapu-koko",
+    "slug": "tapukoko",
     "name": "Tapu Koko",
     "gen": 7,
     "forms": []
@@ -6904,7 +6904,7 @@
   {
     "id": 786,
     "num": 786,
-    "slug": "tapu-lele",
+    "slug": "tapulele",
     "name": "Tapu Lele",
     "gen": 7,
     "forms": []
@@ -6912,7 +6912,7 @@
   {
     "id": 787,
     "num": 787,
-    "slug": "tapu-bulu",
+    "slug": "tapubulu",
     "name": "Tapu Bulu",
     "gen": 7,
     "forms": []
@@ -6920,7 +6920,7 @@
   {
     "id": 788,
     "num": 788,
-    "slug": "tapu-fini",
+    "slug": "tapufini",
     "name": "Tapu Fini",
     "gen": 7,
     "forms": []
@@ -7589,7 +7589,7 @@
   {
     "id": 866,
     "num": 866,
-    "slug": "mr-rime",
+    "slug": "mrrime",
     "name": "Mr. Rime",
     "gen": 8,
     "forms": []
@@ -7881,8 +7881,8 @@
     "name": "Urshifu",
     "gen": 8,
     "forms": [
-      "urshifu-rapid-strike",
       "urshifu-gmax",
+      "urshifu-rapid-strike",
       "urshifu-rapid-strike-gmax"
     ]
   },

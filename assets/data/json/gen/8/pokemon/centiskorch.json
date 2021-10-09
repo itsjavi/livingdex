@@ -7,13 +7,14 @@
   "forms": [
     "centiskorch-gmax"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "centiskorch",
-  "imgHome": "0851",
   "dataGen": 8,
   "type1": "fire",
   "type2": "bug",
@@ -43,12 +44,12 @@
   },
   "baseStatsTotal": 525,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
   },
   "yieldBaseExp": 184,
   "isFemale": false,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "centiskorch",
   "veekunSlug": "centiskorch",
-  "veekunFormId": 851,
-  "title": "Centiskorch"
+  "veekunFormId": 851
 }

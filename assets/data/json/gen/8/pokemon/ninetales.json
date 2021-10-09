@@ -7,13 +7,14 @@
   "forms": [
     "ninetales-alola"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "ninetales",
-  "imgHome": "0038",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "ninetales",
   "veekunSlug": "ninetales",
-  "veekunFormId": 38,
-  "title": "Ninetales"
+  "veekunFormId": 38
 }

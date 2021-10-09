@@ -7,13 +7,14 @@
   "forms": [
     "araquanid-totem"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "araquanid",
-  "imgHome": "0752",
   "dataGen": 8,
   "type1": "water",
   "type2": "bug",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "araquanid",
   "veekunSlug": "araquanid",
-  "veekunFormId": 752,
-  "title": "Araquanid"
+  "veekunFormId": 752
 }

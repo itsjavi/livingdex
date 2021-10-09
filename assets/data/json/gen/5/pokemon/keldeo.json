@@ -7,13 +7,14 @@
   "forms": [
     "keldeo-resolute"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Ordinary",
   "formSlug": "ordinary",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "keldeo",
-  "imgHome": "0647",
   "dataGen": 8,
   "type1": "water",
   "type2": "fighting",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "keldeo",
   "veekunSlug": "keldeo-ordinary",
-  "veekunFormId": 647,
-  "title": "Keldeo"
+  "veekunFormId": 647
 }

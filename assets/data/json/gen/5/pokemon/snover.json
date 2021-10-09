@@ -7,13 +7,14 @@
   "forms": [
     "snover-f"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "snover",
-  "imgHome": "0459",
   "dataGen": 8,
   "type1": "grass",
   "type2": "ice",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "snover",
   "veekunSlug": "snover",
-  "veekunFormId": 459,
-  "title": "Snover"
+  "veekunFormId": 459
 }

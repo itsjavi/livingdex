@@ -7,13 +7,14 @@
   "forms": [
     "golbat-f"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "golbat",
-  "imgHome": "0042",
   "dataGen": 8,
   "type1": "poison",
   "type2": "flying",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "golbat",
   "veekunSlug": "golbat",
-  "veekunFormId": 42,
-  "title": "Golbat"
+  "veekunFormId": 42
 }

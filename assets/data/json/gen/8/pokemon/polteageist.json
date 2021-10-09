@@ -7,13 +7,14 @@
   "forms": [
     "polteageist-antique"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Phony",
   "formSlug": "phony",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "polteageist",
-  "imgHome": "0855",
   "dataGen": 8,
   "type1": "ghost",
   "type2": null,
@@ -30,9 +31,9 @@
   "maleRatio": 0,
   "femaleRatio": 0,
   "growthRate": "medium-fast",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 60,
+  "hatchCycles": 20,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 60,
     "atk": 65,
@@ -43,14 +44,14 @@
   },
   "baseStatsTotal": 508,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 2,
+    "spd": 0,
+    "spe": 0
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 178,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "polteageist",
-  "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Polteageist"
+  "veekunSlug": "polteageist-phony",
+  "veekunFormId": 855
 }

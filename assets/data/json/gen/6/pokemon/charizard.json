@@ -8,13 +8,14 @@
     "charizard-mega-x",
     "charizard-mega-y"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "charizard",
-  "imgHome": "0006",
   "dataGen": 8,
   "type1": "fire",
   "type2": "flying",
@@ -59,13 +60,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "charizard",
   "veekunSlug": "charizard",
-  "veekunFormId": 6,
-  "title": "Charizard"
+  "veekunFormId": 6
 }

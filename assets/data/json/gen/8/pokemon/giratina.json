@@ -7,13 +7,14 @@
   "forms": [
     "giratina-origin"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Altered",
   "formSlug": "altered",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "giratina",
-  "imgHome": "0487",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "dragon",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "giratina",
   "veekunSlug": "giratina-altered",
-  "veekunFormId": 487,
-  "title": "Giratina"
+  "veekunFormId": 487
 }

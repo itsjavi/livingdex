@@ -7,13 +7,14 @@
   "forms": [
     "geodude-alola"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "geodude",
-  "imgHome": "0074",
   "dataGen": 8,
   "type1": "rock",
   "type2": "ground",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "geodude",
   "veekunSlug": "geodude",
-  "veekunFormId": 74,
-  "title": "Geodude"
+  "veekunFormId": 74
 }

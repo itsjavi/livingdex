@@ -5,19 +5,20 @@
   "name": "Floette",
   "gen": 6,
   "forms": [
-    "floette-blue",
-    "floette-orange",
-    "floette-white",
+    "floette-eternal",
     "floette-yellow",
-    "floette-eternal"
+    "floette-orange",
+    "floette-blue",
+    "floette-white"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Red",
   "formSlug": "red",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "floette",
-  "imgHome": "0670",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -62,13 +63,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "floette",
   "veekunSlug": "floette-red",
-  "veekunFormId": 670,
-  "title": "Floette"
+  "veekunFormId": 670
 }

@@ -7,13 +7,14 @@
   "forms": [
     "tornadus-therian"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Incarnate",
   "formSlug": "incarnate",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "tornadus",
-  "imgHome": "0641",
   "dataGen": 8,
   "type1": "flying",
   "type2": null,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "tornadus",
   "veekunSlug": "tornadus-incarnate",
-  "veekunFormId": 641,
-  "title": "Tornadus"
+  "veekunFormId": 641
 }

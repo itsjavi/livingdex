@@ -7,13 +7,14 @@
   "forms": [
     "aegislash-blade"
   ],
-  "formName": "Shield",
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
+  "formName": "Shield Forme",
   "formSlug": "shield",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "aegislash",
-  "imgHome": "0681",
   "dataGen": 8,
   "type1": "steel",
   "type2": "ghost",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "aegislash",
   "veekunSlug": "aegislash-shield",
-  "veekunFormId": 681,
-  "title": "Aegislash"
+  "veekunFormId": 681
 }

@@ -7,13 +7,14 @@
   "forms": [
     "basculin-blue-striped"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Red-Striped",
   "formSlug": "red-striped",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "basculin",
-  "imgHome": "0550",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "basculin",
   "veekunSlug": "basculin-red-striped",
-  "veekunFormId": 550,
-  "title": "Basculin"
+  "veekunFormId": 550
 }

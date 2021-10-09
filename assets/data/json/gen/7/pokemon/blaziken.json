@@ -8,13 +8,14 @@
     "blaziken-f",
     "blaziken-mega"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "blaziken",
-  "imgHome": "0257",
   "dataGen": 8,
   "type1": "fire",
   "type2": "fighting",
@@ -59,13 +60,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "blaziken",
   "veekunSlug": "blaziken",
-  "veekunFormId": 257,
-  "title": "Blaziken"
+  "veekunFormId": 257
 }

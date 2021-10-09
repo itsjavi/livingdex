@@ -5,18 +5,19 @@
   "name": "Florges",
   "gen": 6,
   "forms": [
-    "florges-blue",
+    "florges-yellow",
     "florges-orange",
-    "florges-white",
-    "florges-yellow"
+    "florges-blue",
+    "florges-white"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Red",
   "formSlug": "red",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "florges",
-  "imgHome": "0671",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -61,13 +62,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "florges",
   "veekunSlug": "florges-red",
-  "veekunFormId": 671,
-  "title": "Florges"
+  "veekunFormId": 671
 }

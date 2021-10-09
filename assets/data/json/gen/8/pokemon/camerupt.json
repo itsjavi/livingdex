@@ -8,13 +8,14 @@
     "camerupt-f",
     "camerupt-mega"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "camerupt",
-  "imgHome": "0323",
   "dataGen": 8,
   "type1": "fire",
   "type2": "ground",
@@ -59,13 +60,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "camerupt",
   "veekunSlug": "camerupt",
-  "veekunFormId": 323,
-  "title": "Camerupt"
+  "veekunFormId": 323
 }

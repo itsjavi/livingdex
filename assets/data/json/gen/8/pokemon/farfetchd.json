@@ -2,18 +2,19 @@
   "id": 83,
   "num": 83,
   "slug": "farfetchd",
-  "name": "Farfetch’d",
+  "name": "Farfetch\u2019d",
   "gen": 1,
   "forms": [
     "farfetchd-galar"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "farfetchd",
-  "imgHome": "0083",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "farfetchd",
   "veekunSlug": "farfetchd",
-  "veekunFormId": 83,
-  "title": "Farfetch’d"
+  "veekunFormId": 83
 }

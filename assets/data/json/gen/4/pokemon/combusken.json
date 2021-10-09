@@ -7,13 +7,14 @@
   "forms": [
     "combusken-f"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "combusken",
-  "imgHome": "0256",
   "dataGen": 8,
   "type1": "fire",
   "type2": "fighting",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "combusken",
   "veekunSlug": "combusken",
-  "veekunFormId": 256,
-  "title": "Combusken"
+  "veekunFormId": 256
 }

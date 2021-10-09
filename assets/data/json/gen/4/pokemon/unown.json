@@ -33,13 +33,14 @@
     "unown-exclamation",
     "unown-question"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "A",
   "formSlug": "a",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "unown",
-  "imgHome": "0201",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -84,13 +85,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "unown",
   "veekunSlug": "unown-a",
-  "veekunFormId": 201,
-  "title": "Unown"
+  "veekunFormId": 201
 }

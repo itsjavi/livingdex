@@ -7,13 +7,14 @@
   "forms": [
     "xatu-f"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "xatu",
-  "imgHome": "0178",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "flying",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "xatu",
   "veekunSlug": "xatu",
-  "veekunFormId": 178,
-  "title": "Xatu"
+  "veekunFormId": 178
 }

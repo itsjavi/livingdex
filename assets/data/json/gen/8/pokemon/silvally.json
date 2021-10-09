@@ -23,13 +23,14 @@
     "silvally-dark",
     "silvally-fairy"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "silvally",
-  "imgHome": "0773",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -74,13 +75,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "silvally",
   "veekunSlug": "silvally-normal",
-  "veekunFormId": 773,
-  "title": "Silvally"
+  "veekunFormId": 773
 }

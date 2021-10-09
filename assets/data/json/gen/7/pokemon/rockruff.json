@@ -7,13 +7,14 @@
   "forms": [
     "rockruff-own-tempo"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Midday",
   "formSlug": "midday",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "rockruff",
-  "imgHome": "0744",
   "dataGen": 8,
   "type1": "rock",
   "type2": null,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "rockruff",
   "veekunSlug": "rockruff",
-  "veekunFormId": 744,
-  "title": "Rockruff"
+  "veekunFormId": 744
 }

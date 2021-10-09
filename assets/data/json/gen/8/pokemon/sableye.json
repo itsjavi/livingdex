@@ -7,13 +7,14 @@
   "forms": [
     "sableye-mega"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "sableye",
-  "imgHome": "0302",
   "dataGen": 8,
   "type1": "dark",
   "type2": "ghost",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "sableye",
   "veekunSlug": "sableye",
-  "veekunFormId": 302,
-  "title": "Sableye"
+  "veekunFormId": 302
 }

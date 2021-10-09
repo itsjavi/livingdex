@@ -7,13 +7,14 @@
   "forms": [
     "melmetal-gmax"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "melmetal",
-  "imgHome": "0809",
   "dataGen": 8,
   "type1": "steel",
   "type2": null,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "melmetal",
   "veekunSlug": "melmetal",
-  "veekunFormId": 809,
-  "title": "Melmetal"
+  "veekunFormId": 809
 }

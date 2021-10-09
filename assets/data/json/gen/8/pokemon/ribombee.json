@@ -7,13 +7,14 @@
   "forms": [
     "ribombee-totem"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "ribombee",
-  "imgHome": "0743",
   "dataGen": 8,
   "type1": "bug",
   "type2": "fairy",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "ribombee",
   "veekunSlug": "ribombee",
-  "veekunFormId": 743,
-  "title": "Ribombee"
+  "veekunFormId": 743
 }

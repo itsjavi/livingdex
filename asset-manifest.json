@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/livingdex/static/css/main.6bb37704.chunk.css",
-    "main.js": "/livingdex/static/js/main.36f3bab6.chunk.js",
-    "main.js.map": "/livingdex/static/js/main.36f3bab6.chunk.js.map",
+    "main.css": "/livingdex/static/css/main.4670fe61.chunk.css",
+    "main.js": "/livingdex/static/js/main.166dc285.chunk.js",
+    "main.js.map": "/livingdex/static/js/main.166dc285.chunk.js.map",
     "runtime-main.js": "/livingdex/static/js/runtime-main.bd692309.js",
     "runtime-main.js.map": "/livingdex/static/js/runtime-main.bd692309.js.map",
-    "static/js/2.ee8f6a4a.chunk.js": "/livingdex/static/js/2.ee8f6a4a.chunk.js",
-    "static/js/2.ee8f6a4a.chunk.js.map": "/livingdex/static/js/2.ee8f6a4a.chunk.js.map",
+    "static/js/2.403c3bb3.chunk.js": "/livingdex/static/js/2.403c3bb3.chunk.js",
+    "static/js/2.403c3bb3.chunk.js.map": "/livingdex/static/js/2.403c3bb3.chunk.js.map",
     "index.html": "/livingdex/index.html",
-    "static/css/main.6bb37704.chunk.css.map": "/livingdex/static/css/main.6bb37704.chunk.css.map",
-    "static/js/2.ee8f6a4a.chunk.js.LICENSE.txt": "/livingdex/static/js/2.ee8f6a4a.chunk.js.LICENSE.txt",
+    "static/css/main.4670fe61.chunk.css.map": "/livingdex/static/css/main.4670fe61.chunk.css.map",
+    "static/js/2.403c3bb3.chunk.js.LICENSE.txt": "/livingdex/static/js/2.403c3bb3.chunk.js.LICENSE.txt",
     "static/media/box-icon.c2afa28f.svg": "/livingdex/static/media/box-icon.c2afa28f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bd692309.js",
-    "static/js/2.ee8f6a4a.chunk.js",
-    "static/css/main.6bb37704.chunk.css",
-    "static/js/main.36f3bab6.chunk.js"
+    "static/js/2.403c3bb3.chunk.js",
+    "static/css/main.4670fe61.chunk.css",
+    "static/js/main.166dc285.chunk.js"
   ]
 }

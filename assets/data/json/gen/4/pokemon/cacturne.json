@@ -7,13 +7,14 @@
   "forms": [
     "cacturne-f"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "cacturne",
-  "imgHome": "0332",
   "dataGen": 8,
   "type1": "grass",
   "type2": "dark",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "cacturne",
   "veekunSlug": "cacturne",
-  "veekunFormId": 332,
-  "title": "Cacturne"
+  "veekunFormId": 332
 }

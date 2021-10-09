@@ -7,13 +7,14 @@
   "forms": [
     "roserade-f"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "roserade",
-  "imgHome": "0407",
   "dataGen": 8,
   "type1": "grass",
   "type2": "poison",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "roserade",
   "veekunSlug": "roserade",
-  "veekunFormId": 407,
-  "title": "Roserade"
+  "veekunFormId": 407
 }

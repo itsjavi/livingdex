@@ -7,13 +7,14 @@
   "forms": [
     "gallade-mega"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "gallade",
-  "imgHome": "0475",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "fighting",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "gallade",
   "veekunSlug": "gallade",
-  "veekunFormId": 475,
-  "title": "Gallade"
+  "veekunFormId": 475
 }

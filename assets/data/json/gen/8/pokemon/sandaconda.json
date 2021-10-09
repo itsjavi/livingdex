@@ -7,13 +7,14 @@
   "forms": [
     "sandaconda-gmax"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "sandaconda",
-  "imgHome": "0844",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -43,12 +44,12 @@
   },
   "baseStatsTotal": 510,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
   },
   "yieldBaseExp": 179,
   "isFemale": false,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "sandaconda",
   "veekunSlug": "sandaconda",
-  "veekunFormId": 844,
-  "title": "Sandaconda"
+  "veekunFormId": 844
 }

@@ -7,11 +7,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "bulbasaur",
-    "imgHome": "0001",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 2,
@@ -21,11 +23,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "ivysaur",
-    "imgHome": "0002",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 3,
@@ -37,25 +41,29 @@
       "venusaur-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "venusaur",
-    "imgHome": "0003",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10001,
     "num": 3,
     "slug": "venusaur-f",
-    "name": "Venusaur-F",
+    "name": "Venusaur (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "venusaur",
-    "imgSprite": "venusaur",
-    "imgHome": "0003-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 4,
@@ -65,11 +73,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "charmander",
-    "imgHome": "0004",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 5,
@@ -79,11 +89,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "charmeleon",
-    "imgHome": "0005",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 6,
@@ -93,11 +105,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "charizard",
-    "imgHome": "0006",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 7,
@@ -107,11 +121,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "squirtle",
-    "imgHome": "0007",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 8,
@@ -121,11 +137,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "wartortle",
-    "imgHome": "0008",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 9,
@@ -135,11 +153,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "blastoise",
-    "imgHome": "0009",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10,
@@ -149,11 +169,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "caterpie",
-    "imgHome": "0010",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 11,
@@ -163,11 +185,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "metapod",
-    "imgHome": "0011",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 12,
@@ -179,25 +203,29 @@
       "butterfree-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "butterfree",
-    "imgHome": "0012",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10009,
     "num": 12,
     "slug": "butterfree-f",
-    "name": "Butterfree-F",
+    "name": "Butterfree (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "butterfree",
-    "imgSprite": "butterfree",
-    "imgHome": "0012-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 13,
@@ -207,11 +235,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "weedle",
-    "imgHome": "0013",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 14,
@@ -221,11 +251,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "kakuna",
-    "imgHome": "0014",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 15,
@@ -235,11 +267,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "beedrill",
-    "imgHome": "0015",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 16,
@@ -249,11 +283,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "pidgey",
-    "imgHome": "0016",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 17,
@@ -263,11 +299,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "pidgeotto",
-    "imgHome": "0017",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 18,
@@ -277,11 +315,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "pidgeot",
-    "imgHome": "0018",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 19,
@@ -293,25 +333,29 @@
       "rattata-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "rattata",
-    "imgHome": "0019",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10013,
     "num": 19,
     "slug": "rattata-f",
-    "name": "Rattata-F",
+    "name": "Rattata (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "rattata",
-    "imgSprite": "rattata",
-    "imgHome": "0019-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 20,
@@ -323,25 +367,29 @@
       "raticate-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "raticate",
-    "imgHome": "0020",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10015,
     "num": 20,
     "slug": "raticate-f",
-    "name": "Raticate-F",
+    "name": "Raticate (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "raticate",
-    "imgSprite": "raticate",
-    "imgHome": "0020-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 21,
@@ -351,11 +399,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "spearow",
-    "imgHome": "0021",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 22,
@@ -365,11 +415,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "fearow",
-    "imgHome": "0022",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 23,
@@ -379,11 +431,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "ekans",
-    "imgHome": "0023",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 24,
@@ -393,11 +447,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "arbok",
-    "imgHome": "0024",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 25,
@@ -409,25 +465,29 @@
       "pikachu-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "pikachu",
-    "imgHome": "0025",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10018,
     "num": 25,
     "slug": "pikachu-f",
-    "name": "Pikachu-F",
+    "name": "Pikachu (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "pikachu",
-    "imgSprite": "female/pikachu",
-    "imgHome": "0025-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 26,
@@ -439,25 +499,29 @@
       "raichu-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "raichu",
-    "imgHome": "0026",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10035,
     "num": 26,
     "slug": "raichu-f",
-    "name": "Raichu-F",
+    "name": "Raichu (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "raichu",
-    "imgSprite": "raichu",
-    "imgHome": "0026-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 27,
@@ -467,11 +531,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "sandshrew",
-    "imgHome": "0027",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 28,
@@ -481,25 +547,29 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "sandslash",
-    "imgHome": "0028",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 29,
     "num": 29,
-    "slug": "nidoran-f",
-    "name": "Nidoran-F",
+    "slug": "nidoranf",
+    "name": "Nidoran\u2640",
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "nidoran-f",
-    "imgHome": "0029",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 30,
@@ -509,11 +579,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "nidorina",
-    "imgHome": "0030",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 31,
@@ -523,25 +595,29 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "nidoqueen",
-    "imgHome": "0031",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 32,
     "num": 32,
-    "slug": "nidoran-m",
-    "name": "Nidoran-M",
+    "slug": "nidoranm",
+    "name": "Nidoran\u2642",
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "nidoran-m",
-    "imgHome": "0032",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 33,
@@ -551,11 +627,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "nidorino",
-    "imgHome": "0033",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 34,
@@ -565,11 +643,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "nidoking",
-    "imgHome": "0034",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 35,
@@ -579,11 +659,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "clefairy",
-    "imgHome": "0035",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 36,
@@ -593,11 +675,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "clefable",
-    "imgHome": "0036",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 37,
@@ -607,11 +691,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "vulpix",
-    "imgHome": "0037",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 38,
@@ -621,11 +707,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "ninetales",
-    "imgHome": "0038",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 39,
@@ -635,11 +723,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "jigglypuff",
-    "imgHome": "0039",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 40,
@@ -649,11 +739,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "wigglytuff",
-    "imgHome": "0040",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 41,
@@ -665,25 +757,29 @@
       "zubat-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "zubat",
-    "imgHome": "0041",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10041,
     "num": 41,
     "slug": "zubat-f",
-    "name": "Zubat-F",
+    "name": "Zubat (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "zubat",
-    "imgSprite": "zubat",
-    "imgHome": "0041-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 42,
@@ -695,25 +791,29 @@
       "golbat-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "golbat",
-    "imgHome": "0042",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10042,
     "num": 42,
     "slug": "golbat-f",
-    "name": "Golbat-F",
+    "name": "Golbat (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "golbat",
-    "imgSprite": "golbat",
-    "imgHome": "0042-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 43,
@@ -723,11 +823,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "oddish",
-    "imgHome": "0043",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 44,
@@ -739,25 +841,29 @@
       "gloom-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "gloom",
-    "imgHome": "0044",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10043,
     "num": 44,
     "slug": "gloom-f",
-    "name": "Gloom-F",
+    "name": "Gloom (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "gloom",
-    "imgSprite": "gloom",
-    "imgHome": "0044-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 45,
@@ -769,25 +875,29 @@
       "vileplume-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "vileplume",
-    "imgHome": "0045",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10044,
     "num": 45,
     "slug": "vileplume-f",
-    "name": "Vileplume-F",
+    "name": "Vileplume (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "vileplume",
-    "imgSprite": "vileplume",
-    "imgHome": "0045-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 46,
@@ -797,11 +907,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "paras",
-    "imgHome": "0046",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 47,
@@ -811,11 +923,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "parasect",
-    "imgHome": "0047",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 48,
@@ -825,11 +939,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "venonat",
-    "imgHome": "0048",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 49,
@@ -839,11 +955,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "venomoth",
-    "imgHome": "0049",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 50,
@@ -853,11 +971,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "diglett",
-    "imgHome": "0050",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 51,
@@ -867,11 +987,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "dugtrio",
-    "imgHome": "0051",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 52,
@@ -881,11 +1003,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "meowth",
-    "imgHome": "0052",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 53,
@@ -895,11 +1019,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "persian",
-    "imgHome": "0053",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 54,
@@ -909,11 +1035,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "psyduck",
-    "imgHome": "0054",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 55,
@@ -923,11 +1051,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "golduck",
-    "imgHome": "0055",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 56,
@@ -937,11 +1067,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "mankey",
-    "imgHome": "0056",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 57,
@@ -951,11 +1083,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "primeape",
-    "imgHome": "0057",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 58,
@@ -965,11 +1099,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "growlithe",
-    "imgHome": "0058",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 59,
@@ -979,11 +1115,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "arcanine",
-    "imgHome": "0059",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 60,
@@ -993,11 +1131,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "poliwag",
-    "imgHome": "0060",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 61,
@@ -1007,11 +1147,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "poliwhirl",
-    "imgHome": "0061",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 62,
@@ -1021,11 +1163,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "poliwrath",
-    "imgHome": "0062",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 63,
@@ -1035,11 +1179,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "abra",
-    "imgHome": "0063",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 64,
@@ -1051,25 +1197,29 @@
       "kadabra-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "kadabra",
-    "imgHome": "0064",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10051,
     "num": 64,
     "slug": "kadabra-f",
-    "name": "Kadabra-F",
+    "name": "Kadabra (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "kadabra",
-    "imgSprite": "kadabra",
-    "imgHome": "0064-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 65,
@@ -1081,25 +1231,29 @@
       "alakazam-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "alakazam",
-    "imgHome": "0065",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10052,
     "num": 65,
     "slug": "alakazam-f",
-    "name": "Alakazam-F",
+    "name": "Alakazam (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "alakazam",
-    "imgSprite": "alakazam",
-    "imgHome": "0065-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 66,
@@ -1109,11 +1263,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "machop",
-    "imgHome": "0066",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 67,
@@ -1123,11 +1279,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "machoke",
-    "imgHome": "0067",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 68,
@@ -1137,11 +1295,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "machamp",
-    "imgHome": "0068",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 69,
@@ -1151,11 +1311,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "bellsprout",
-    "imgHome": "0069",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 70,
@@ -1165,11 +1327,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "weepinbell",
-    "imgHome": "0070",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 71,
@@ -1179,11 +1343,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "victreebel",
-    "imgHome": "0071",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 72,
@@ -1193,11 +1359,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "tentacool",
-    "imgHome": "0072",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 73,
@@ -1207,11 +1375,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "tentacruel",
-    "imgHome": "0073",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 74,
@@ -1221,11 +1391,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "geodude",
-    "imgHome": "0074",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 75,
@@ -1235,11 +1407,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "graveler",
-    "imgHome": "0075",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 76,
@@ -1249,11 +1423,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "golem",
-    "imgHome": "0076",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 77,
@@ -1263,11 +1439,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "ponyta",
-    "imgHome": "0077",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 78,
@@ -1277,11 +1455,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "rapidash",
-    "imgHome": "0078",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 79,
@@ -1291,11 +1471,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "slowpoke",
-    "imgHome": "0079",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 80,
@@ -1305,11 +1487,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "slowbro",
-    "imgHome": "0080",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 81,
@@ -1319,11 +1503,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "magnemite",
-    "imgHome": "0081",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 82,
@@ -1333,11 +1519,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "magneton",
-    "imgHome": "0082",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 83,
@@ -1347,11 +1535,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "farfetchd",
-    "imgHome": "0083",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 84,
@@ -1363,25 +1553,29 @@
       "doduo-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "doduo",
-    "imgHome": "0084",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10064,
     "num": 84,
     "slug": "doduo-f",
-    "name": "Doduo-F",
+    "name": "Doduo (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "doduo",
-    "imgSprite": "doduo",
-    "imgHome": "0084-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 85,
@@ -1393,25 +1587,29 @@
       "dodrio-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "dodrio",
-    "imgHome": "0085",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10065,
     "num": 85,
     "slug": "dodrio-f",
-    "name": "Dodrio-F",
+    "name": "Dodrio (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "dodrio",
-    "imgSprite": "dodrio",
-    "imgHome": "0085-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 86,
@@ -1421,11 +1619,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "seel",
-    "imgHome": "0086",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 87,
@@ -1435,11 +1635,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "dewgong",
-    "imgHome": "0087",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 88,
@@ -1449,11 +1651,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "grimer",
-    "imgHome": "0088",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 89,
@@ -1463,11 +1667,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "muk",
-    "imgHome": "0089",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 90,
@@ -1477,11 +1683,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "shellder",
-    "imgHome": "0090",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 91,
@@ -1491,11 +1699,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "cloyster",
-    "imgHome": "0091",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 92,
@@ -1505,11 +1715,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "gastly",
-    "imgHome": "0092",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 93,
@@ -1519,11 +1731,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "haunter",
-    "imgHome": "0093",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 94,
@@ -1533,11 +1747,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "gengar",
-    "imgHome": "0094",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 95,
@@ -1547,11 +1763,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "onix",
-    "imgHome": "0095",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 96,
@@ -1561,11 +1779,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "drowzee",
-    "imgHome": "0096",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 97,
@@ -1577,25 +1797,29 @@
       "hypno-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "hypno",
-    "imgHome": "0097",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10070,
     "num": 97,
     "slug": "hypno-f",
-    "name": "Hypno-F",
+    "name": "Hypno (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "hypno",
-    "imgSprite": "hypno",
-    "imgHome": "0097-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 98,
@@ -1605,11 +1829,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "krabby",
-    "imgHome": "0098",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 99,
@@ -1619,11 +1845,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "kingler",
-    "imgHome": "0099",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 100,
@@ -1633,11 +1861,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "voltorb",
-    "imgHome": "0100",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 101,
@@ -1647,11 +1877,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "electrode",
-    "imgHome": "0101",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 102,
@@ -1661,11 +1893,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "exeggcute",
-    "imgHome": "0102",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 103,
@@ -1675,11 +1909,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "exeggutor",
-    "imgHome": "0103",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 104,
@@ -1689,11 +1925,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "cubone",
-    "imgHome": "0104",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 105,
@@ -1703,11 +1941,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "marowak",
-    "imgHome": "0105",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 106,
@@ -1717,11 +1957,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "hitmonlee",
-    "imgHome": "0106",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 107,
@@ -1731,11 +1973,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "hitmonchan",
-    "imgHome": "0107",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 108,
@@ -1745,11 +1989,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "lickitung",
-    "imgHome": "0108",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 109,
@@ -1759,11 +2005,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "koffing",
-    "imgHome": "0109",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 110,
@@ -1773,11 +2021,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "weezing",
-    "imgHome": "0110",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 111,
@@ -1789,25 +2039,29 @@
       "rhyhorn-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "rhyhorn",
-    "imgHome": "0111",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10076,
     "num": 111,
     "slug": "rhyhorn-f",
-    "name": "Rhyhorn-F",
+    "name": "Rhyhorn (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "rhyhorn",
-    "imgSprite": "rhyhorn",
-    "imgHome": "0111-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 112,
@@ -1819,25 +2073,29 @@
       "rhydon-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "rhydon",
-    "imgHome": "0112",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10077,
     "num": 112,
     "slug": "rhydon-f",
-    "name": "Rhydon-F",
+    "name": "Rhydon (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "rhydon",
-    "imgSprite": "rhydon",
-    "imgHome": "0112-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 113,
@@ -1847,11 +2105,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "chansey",
-    "imgHome": "0113",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 114,
@@ -1861,11 +2121,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "tangela",
-    "imgHome": "0114",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 115,
@@ -1875,11 +2137,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "kangaskhan",
-    "imgHome": "0115",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 116,
@@ -1889,11 +2153,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "horsea",
-    "imgHome": "0116",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 117,
@@ -1903,11 +2169,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "seadra",
-    "imgHome": "0117",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 118,
@@ -1919,25 +2187,29 @@
       "goldeen-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "goldeen",
-    "imgHome": "0118",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10079,
     "num": 118,
     "slug": "goldeen-f",
-    "name": "Goldeen-F",
+    "name": "Goldeen (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "goldeen",
-    "imgSprite": "goldeen",
-    "imgHome": "0118-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 119,
@@ -1949,25 +2221,29 @@
       "seaking-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "seaking",
-    "imgHome": "0119",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10080,
     "num": 119,
     "slug": "seaking-f",
-    "name": "Seaking-F",
+    "name": "Seaking (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "seaking",
-    "imgSprite": "seaking",
-    "imgHome": "0119-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 120,
@@ -1977,11 +2253,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "staryu",
-    "imgHome": "0120",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 121,
@@ -1991,25 +2269,29 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "starmie",
-    "imgHome": "0121",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 122,
     "num": 122,
-    "slug": "mr-mime",
+    "slug": "mrmime",
     "name": "Mr. Mime",
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "mr-mime",
-    "imgHome": "0122",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 123,
@@ -2021,25 +2303,29 @@
       "scyther-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "scyther",
-    "imgHome": "0123",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10082,
     "num": 123,
     "slug": "scyther-f",
-    "name": "Scyther-F",
+    "name": "Scyther (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "scyther",
-    "imgSprite": "scyther",
-    "imgHome": "0123-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 124,
@@ -2049,11 +2335,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "jynx",
-    "imgHome": "0124",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 125,
@@ -2063,11 +2351,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "electabuzz",
-    "imgHome": "0125",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 126,
@@ -2077,11 +2367,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "magmar",
-    "imgHome": "0126",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 127,
@@ -2091,11 +2383,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "pinsir",
-    "imgHome": "0127",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 128,
@@ -2105,11 +2399,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "tauros",
-    "imgHome": "0128",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 129,
@@ -2121,25 +2417,29 @@
       "magikarp-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "magikarp",
-    "imgHome": "0129",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10084,
     "num": 129,
     "slug": "magikarp-f",
-    "name": "Magikarp-F",
+    "name": "Magikarp (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "magikarp",
-    "imgSprite": "magikarp",
-    "imgHome": "0129-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 130,
@@ -2151,25 +2451,29 @@
       "gyarados-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "gyarados",
-    "imgHome": "0130",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10085,
     "num": 130,
     "slug": "gyarados-f",
-    "name": "Gyarados-F",
+    "name": "Gyarados (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "gyarados",
-    "imgSprite": "gyarados",
-    "imgHome": "0130-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 131,
@@ -2179,11 +2483,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "lapras",
-    "imgHome": "0131",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 132,
@@ -2193,11 +2499,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "ditto",
-    "imgHome": "0132",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 133,
@@ -2209,25 +2517,29 @@
       "eevee-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "eevee",
-    "imgHome": "0133",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10088,
     "num": 133,
     "slug": "eevee-f",
-    "name": "Eevee-F",
+    "name": "Eevee (Female)",
     "gen": 1,
     "forms": [],
     "baseSpecies": "eevee",
-    "imgSprite": "eevee",
-    "imgHome": "0133-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 134,
@@ -2237,11 +2549,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "vaporeon",
-    "imgHome": "0134",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 135,
@@ -2251,11 +2565,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "jolteon",
-    "imgHome": "0135",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 136,
@@ -2265,11 +2581,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "flareon",
-    "imgHome": "0136",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 137,
@@ -2279,11 +2597,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "porygon",
-    "imgHome": "0137",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 138,
@@ -2293,11 +2613,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "omanyte",
-    "imgHome": "0138",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 139,
@@ -2307,11 +2629,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "omastar",
-    "imgHome": "0139",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 140,
@@ -2321,11 +2645,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "kabuto",
-    "imgHome": "0140",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 141,
@@ -2335,11 +2661,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "kabutops",
-    "imgHome": "0141",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 142,
@@ -2349,11 +2677,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "aerodactyl",
-    "imgHome": "0142",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 143,
@@ -2363,11 +2693,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "snorlax",
-    "imgHome": "0143",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 144,
@@ -2377,11 +2709,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "articuno",
-    "imgHome": "0144",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 145,
@@ -2391,11 +2725,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "zapdos",
-    "imgHome": "0145",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 146,
@@ -2405,11 +2741,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "moltres",
-    "imgHome": "0146",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 147,
@@ -2419,11 +2757,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "dratini",
-    "imgHome": "0147",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 148,
@@ -2433,11 +2773,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "dragonair",
-    "imgHome": "0148",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 149,
@@ -2447,11 +2789,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "dragonite",
-    "imgHome": "0149",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 150,
@@ -2461,11 +2805,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "mewtwo",
-    "imgHome": "0150",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 151,
@@ -2475,11 +2821,13 @@
     "gen": 1,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "mew",
-    "imgHome": "0151",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 152,
@@ -2489,11 +2837,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "chikorita",
-    "imgHome": "0152",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 153,
@@ -2503,11 +2853,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "bayleef",
-    "imgHome": "0153",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 154,
@@ -2519,25 +2871,29 @@
       "meganium-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "meganium",
-    "imgHome": "0154",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10098,
     "num": 154,
     "slug": "meganium-f",
-    "name": "Meganium-F",
+    "name": "Meganium (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "meganium",
-    "imgSprite": "meganium",
-    "imgHome": "0154-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 155,
@@ -2547,11 +2903,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "cyndaquil",
-    "imgHome": "0155",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 156,
@@ -2561,11 +2919,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "quilava",
-    "imgHome": "0156",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 157,
@@ -2575,11 +2935,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "typhlosion",
-    "imgHome": "0157",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 158,
@@ -2589,11 +2951,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "totodile",
-    "imgHome": "0158",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 159,
@@ -2603,11 +2967,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "croconaw",
-    "imgHome": "0159",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 160,
@@ -2617,11 +2983,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "feraligatr",
-    "imgHome": "0160",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 161,
@@ -2631,11 +2999,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "sentret",
-    "imgHome": "0161",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 162,
@@ -2645,11 +3015,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "furret",
-    "imgHome": "0162",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 163,
@@ -2659,11 +3031,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "hoothoot",
-    "imgHome": "0163",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 164,
@@ -2673,11 +3047,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "noctowl",
-    "imgHome": "0164",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 165,
@@ -2689,25 +3065,29 @@
       "ledyba-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "ledyba",
-    "imgHome": "0165",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10099,
     "num": 165,
     "slug": "ledyba-f",
-    "name": "Ledyba-F",
+    "name": "Ledyba (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "ledyba",
-    "imgSprite": "ledyba",
-    "imgHome": "0165-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 166,
@@ -2719,25 +3099,29 @@
       "ledian-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "ledian",
-    "imgHome": "0166",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10100,
     "num": 166,
     "slug": "ledian-f",
-    "name": "Ledian-F",
+    "name": "Ledian (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "ledian",
-    "imgSprite": "ledian",
-    "imgHome": "0166-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 167,
@@ -2747,11 +3131,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "spinarak",
-    "imgHome": "0167",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 168,
@@ -2761,11 +3147,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "ariados",
-    "imgHome": "0168",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 169,
@@ -2775,11 +3163,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "crobat",
-    "imgHome": "0169",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 170,
@@ -2789,11 +3179,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "chinchou",
-    "imgHome": "0170",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 171,
@@ -2803,11 +3195,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "lanturn",
-    "imgHome": "0171",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 172,
@@ -2817,11 +3211,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "pichu",
-    "imgHome": "0172",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 173,
@@ -2831,11 +3227,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "cleffa",
-    "imgHome": "0173",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 174,
@@ -2845,11 +3243,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "igglybuff",
-    "imgHome": "0174",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 175,
@@ -2859,11 +3259,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "togepi",
-    "imgHome": "0175",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 176,
@@ -2873,11 +3275,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "togetic",
-    "imgHome": "0176",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 177,
@@ -2887,11 +3291,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "natu",
-    "imgHome": "0177",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 178,
@@ -2903,25 +3309,29 @@
       "xatu-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "xatu",
-    "imgHome": "0178",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10102,
     "num": 178,
     "slug": "xatu-f",
-    "name": "Xatu-F",
+    "name": "Xatu (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "xatu",
-    "imgSprite": "xatu",
-    "imgHome": "0178-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 179,
@@ -2931,11 +3341,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "mareep",
-    "imgHome": "0179",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 180,
@@ -2945,11 +3357,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "flaaffy",
-    "imgHome": "0180",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 181,
@@ -2959,11 +3373,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "ampharos",
-    "imgHome": "0181",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 182,
@@ -2973,11 +3389,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "bellossom",
-    "imgHome": "0182",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 183,
@@ -2987,11 +3405,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "marill",
-    "imgHome": "0183",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 184,
@@ -3001,11 +3421,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "azumarill",
-    "imgHome": "0184",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 185,
@@ -3017,25 +3439,29 @@
       "sudowoodo-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "sudowoodo",
-    "imgHome": "0185",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10104,
     "num": 185,
     "slug": "sudowoodo-f",
-    "name": "Sudowoodo-F",
+    "name": "Sudowoodo (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "sudowoodo",
-    "imgSprite": "sudowoodo",
-    "imgHome": "0185-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 186,
@@ -3047,25 +3473,29 @@
       "politoed-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "politoed",
-    "imgHome": "0186",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10105,
     "num": 186,
     "slug": "politoed-f",
-    "name": "Politoed-F",
+    "name": "Politoed (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "politoed",
-    "imgSprite": "politoed",
-    "imgHome": "0186-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 187,
@@ -3075,11 +3505,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "hoppip",
-    "imgHome": "0187",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 188,
@@ -3089,11 +3521,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "skiploom",
-    "imgHome": "0188",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 189,
@@ -3103,11 +3537,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "jumpluff",
-    "imgHome": "0189",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 190,
@@ -3119,25 +3555,29 @@
       "aipom-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "aipom",
-    "imgHome": "0190",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10106,
     "num": 190,
     "slug": "aipom-f",
-    "name": "Aipom-F",
+    "name": "Aipom (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "aipom",
-    "imgSprite": "aipom",
-    "imgHome": "0190-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 191,
@@ -3147,11 +3587,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "sunkern",
-    "imgHome": "0191",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 192,
@@ -3161,11 +3603,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "sunflora",
-    "imgHome": "0192",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 193,
@@ -3175,11 +3619,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "yanma",
-    "imgHome": "0193",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 194,
@@ -3191,25 +3637,29 @@
       "wooper-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "wooper",
-    "imgHome": "0194",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10107,
     "num": 194,
     "slug": "wooper-f",
-    "name": "Wooper-F",
+    "name": "Wooper (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "wooper",
-    "imgSprite": "wooper",
-    "imgHome": "0194-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 195,
@@ -3221,25 +3671,29 @@
       "quagsire-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "quagsire",
-    "imgHome": "0195",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10108,
     "num": 195,
     "slug": "quagsire-f",
-    "name": "Quagsire-F",
+    "name": "Quagsire (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "quagsire",
-    "imgSprite": "quagsire",
-    "imgHome": "0195-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 196,
@@ -3249,11 +3703,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "espeon",
-    "imgHome": "0196",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 197,
@@ -3263,11 +3719,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "umbreon",
-    "imgHome": "0197",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 198,
@@ -3279,25 +3737,29 @@
       "murkrow-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "murkrow",
-    "imgHome": "0198",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10109,
     "num": 198,
     "slug": "murkrow-f",
-    "name": "Murkrow-F",
+    "name": "Murkrow (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "murkrow",
-    "imgSprite": "murkrow",
-    "imgHome": "0198-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 199,
@@ -3307,11 +3769,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "slowking",
-    "imgHome": "0199",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 200,
@@ -3321,11 +3785,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "misdreavus",
-    "imgHome": "0200",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 201,
@@ -3363,389 +3829,445 @@
       "unown-question"
     ],
     "baseSpecies": null,
-    "imgSprite": "unown",
-    "imgHome": "0201",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10111,
     "num": 201,
     "slug": "unown-b",
-    "name": "Unown-B",
+    "name": "Unown (B)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-b",
-    "imgHome": "0201-b",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10112,
     "num": 201,
     "slug": "unown-c",
-    "name": "Unown-C",
+    "name": "Unown (C)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-c",
-    "imgHome": "0201-c",
     "formOrder": 2,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10113,
     "num": 201,
     "slug": "unown-d",
-    "name": "Unown-D",
+    "name": "Unown (D)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-d",
-    "imgHome": "0201-d",
     "formOrder": 3,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10114,
     "num": 201,
     "slug": "unown-e",
-    "name": "Unown-E",
+    "name": "Unown (E)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-e",
-    "imgHome": "0201-e",
     "formOrder": 4,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10115,
     "num": 201,
     "slug": "unown-f",
-    "name": "Unown-F",
+    "name": "Unown (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-f",
-    "imgHome": "0201-f",
     "formOrder": 5,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10116,
     "num": 201,
     "slug": "unown-g",
-    "name": "Unown-G",
+    "name": "Unown (G)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-g",
-    "imgHome": "0201-g",
     "formOrder": 6,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10117,
     "num": 201,
     "slug": "unown-h",
-    "name": "Unown-H",
+    "name": "Unown (H)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-h",
-    "imgHome": "0201-h",
     "formOrder": 7,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10118,
     "num": 201,
     "slug": "unown-i",
-    "name": "Unown-I",
+    "name": "Unown (I)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-i",
-    "imgHome": "0201-i",
     "formOrder": 8,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10119,
     "num": 201,
     "slug": "unown-j",
-    "name": "Unown-J",
+    "name": "Unown (J)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-j",
-    "imgHome": "0201-j",
     "formOrder": 9,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10120,
     "num": 201,
     "slug": "unown-k",
-    "name": "Unown-K",
+    "name": "Unown (K)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-k",
-    "imgHome": "0201-k",
     "formOrder": 10,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10121,
     "num": 201,
     "slug": "unown-l",
-    "name": "Unown-L",
+    "name": "Unown (L)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-l",
-    "imgHome": "0201-l",
     "formOrder": 11,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10122,
     "num": 201,
     "slug": "unown-m",
-    "name": "Unown-M",
+    "name": "Unown (M)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-m",
-    "imgHome": "0201-m",
     "formOrder": 12,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10123,
     "num": 201,
     "slug": "unown-n",
-    "name": "Unown-N",
+    "name": "Unown (N)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-n",
-    "imgHome": "0201-n",
     "formOrder": 13,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10124,
     "num": 201,
     "slug": "unown-o",
-    "name": "Unown-O",
+    "name": "Unown (O)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-o",
-    "imgHome": "0201-o",
     "formOrder": 14,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10125,
     "num": 201,
     "slug": "unown-p",
-    "name": "Unown-P",
+    "name": "Unown (P)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-p",
-    "imgHome": "0201-p",
     "formOrder": 15,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10126,
     "num": 201,
     "slug": "unown-q",
-    "name": "Unown-Q",
+    "name": "Unown (Q)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-q",
-    "imgHome": "0201-q",
     "formOrder": 16,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10127,
     "num": 201,
     "slug": "unown-r",
-    "name": "Unown-R",
+    "name": "Unown (R)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-r",
-    "imgHome": "0201-r",
     "formOrder": 17,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10128,
     "num": 201,
     "slug": "unown-s",
-    "name": "Unown-S",
+    "name": "Unown (S)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-s",
-    "imgHome": "0201-s",
     "formOrder": 18,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10129,
     "num": 201,
     "slug": "unown-t",
-    "name": "Unown-T",
+    "name": "Unown (T)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-t",
-    "imgHome": "0201-t",
     "formOrder": 19,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10130,
     "num": 201,
     "slug": "unown-u",
-    "name": "Unown-U",
+    "name": "Unown (U)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-u",
-    "imgHome": "0201-u",
     "formOrder": 20,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10131,
     "num": 201,
     "slug": "unown-v",
-    "name": "Unown-V",
+    "name": "Unown (V)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-v",
-    "imgHome": "0201-v",
     "formOrder": 21,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10132,
     "num": 201,
     "slug": "unown-w",
-    "name": "Unown-W",
+    "name": "Unown (W)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-w",
-    "imgHome": "0201-w",
     "formOrder": 22,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10133,
     "num": 201,
     "slug": "unown-x",
-    "name": "Unown-X",
+    "name": "Unown (X)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-x",
-    "imgHome": "0201-x",
     "formOrder": 23,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10134,
     "num": 201,
     "slug": "unown-y",
-    "name": "Unown-Y",
+    "name": "Unown (Y)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-y",
-    "imgHome": "0201-y",
     "formOrder": 24,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10135,
     "num": 201,
     "slug": "unown-z",
-    "name": "Unown-Z",
+    "name": "Unown (Z)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-z",
-    "imgHome": "0201-z",
     "formOrder": 25,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10136,
     "num": 201,
     "slug": "unown-exclamation",
-    "name": "Unown-Exclamation",
+    "name": "Unown (Exclamation)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-exclamation",
-    "imgHome": "0201-exclamation",
     "formOrder": 26,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10137,
     "num": 201,
     "slug": "unown-question",
-    "name": "Unown-Question",
+    "name": "Unown (Question)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "unown",
-    "imgSprite": "unown-question",
-    "imgHome": "0201-question",
     "formOrder": 27,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 202,
@@ -3757,25 +4279,29 @@
       "wobbuffet-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "wobbuffet",
-    "imgHome": "0202",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10138,
     "num": 202,
     "slug": "wobbuffet-f",
-    "name": "Wobbuffet-F",
+    "name": "Wobbuffet (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "wobbuffet",
-    "imgSprite": "wobbuffet",
-    "imgHome": "0202-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 203,
@@ -3787,25 +4313,29 @@
       "girafarig-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "girafarig",
-    "imgHome": "0203",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10139,
     "num": 203,
     "slug": "girafarig-f",
-    "name": "Girafarig-F",
+    "name": "Girafarig (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "girafarig",
-    "imgSprite": "girafarig",
-    "imgHome": "0203-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 204,
@@ -3815,11 +4345,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "pineco",
-    "imgHome": "0204",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 205,
@@ -3829,11 +4361,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "forretress",
-    "imgHome": "0205",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 206,
@@ -3843,11 +4377,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "dunsparce",
-    "imgHome": "0206",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 207,
@@ -3859,25 +4395,29 @@
       "gligar-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "gligar",
-    "imgHome": "0207",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10140,
     "num": 207,
     "slug": "gligar-f",
-    "name": "Gligar-F",
+    "name": "Gligar (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "gligar",
-    "imgSprite": "gligar",
-    "imgHome": "0207-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 208,
@@ -3889,25 +4429,29 @@
       "steelix-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "steelix",
-    "imgHome": "0208",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10141,
     "num": 208,
     "slug": "steelix-f",
-    "name": "Steelix-F",
+    "name": "Steelix (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "steelix",
-    "imgSprite": "steelix",
-    "imgHome": "0208-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 209,
@@ -3917,11 +4461,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "snubbull",
-    "imgHome": "0209",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 210,
@@ -3931,11 +4477,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "granbull",
-    "imgHome": "0210",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 211,
@@ -3945,11 +4493,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "qwilfish",
-    "imgHome": "0211",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 212,
@@ -3961,25 +4511,29 @@
       "scizor-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "scizor",
-    "imgHome": "0212",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10143,
     "num": 212,
     "slug": "scizor-f",
-    "name": "Scizor-F",
+    "name": "Scizor (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "scizor",
-    "imgSprite": "scizor",
-    "imgHome": "0212-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 213,
@@ -3989,11 +4543,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "shuckle",
-    "imgHome": "0213",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 214,
@@ -4005,25 +4561,29 @@
       "heracross-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "heracross",
-    "imgHome": "0214",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10145,
     "num": 214,
     "slug": "heracross-f",
-    "name": "Heracross-F",
+    "name": "Heracross (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "heracross",
-    "imgSprite": "heracross",
-    "imgHome": "0214-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 215,
@@ -4035,25 +4595,29 @@
       "sneasel-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "sneasel",
-    "imgHome": "0215",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10147,
     "num": 215,
     "slug": "sneasel-f",
-    "name": "Sneasel-F",
+    "name": "Sneasel (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "sneasel",
-    "imgSprite": "sneasel",
-    "imgHome": "0215-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 216,
@@ -4063,11 +4627,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "teddiursa",
-    "imgHome": "0216",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 217,
@@ -4079,25 +4645,29 @@
       "ursaring-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "ursaring",
-    "imgHome": "0217",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10148,
     "num": 217,
     "slug": "ursaring-f",
-    "name": "Ursaring-F",
+    "name": "Ursaring (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "ursaring",
-    "imgSprite": "ursaring",
-    "imgHome": "0217-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 218,
@@ -4107,11 +4677,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "slugma",
-    "imgHome": "0218",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 219,
@@ -4121,11 +4693,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "magcargo",
-    "imgHome": "0219",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 220,
@@ -4135,11 +4709,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "swinub",
-    "imgHome": "0220",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 221,
@@ -4151,25 +4727,29 @@
       "piloswine-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "piloswine",
-    "imgHome": "0221",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10149,
     "num": 221,
     "slug": "piloswine-f",
-    "name": "Piloswine-F",
+    "name": "Piloswine (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "piloswine",
-    "imgSprite": "piloswine",
-    "imgHome": "0221-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 222,
@@ -4179,11 +4759,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "corsola",
-    "imgHome": "0222",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 223,
@@ -4193,11 +4775,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "remoraid",
-    "imgHome": "0223",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 224,
@@ -4209,25 +4793,29 @@
       "octillery-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "octillery",
-    "imgHome": "0224",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10151,
     "num": 224,
     "slug": "octillery-f",
-    "name": "Octillery-F",
+    "name": "Octillery (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "octillery",
-    "imgSprite": "octillery",
-    "imgHome": "0224-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 225,
@@ -4237,11 +4825,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "delibird",
-    "imgHome": "0225",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 226,
@@ -4251,11 +4841,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "mantine",
-    "imgHome": "0226",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 227,
@@ -4265,11 +4857,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "skarmory",
-    "imgHome": "0227",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 228,
@@ -4279,11 +4873,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "houndour",
-    "imgHome": "0228",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 229,
@@ -4295,25 +4891,29 @@
       "houndoom-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "houndoom",
-    "imgHome": "0229",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10152,
     "num": 229,
     "slug": "houndoom-f",
-    "name": "Houndoom-F",
+    "name": "Houndoom (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "houndoom",
-    "imgSprite": "houndoom",
-    "imgHome": "0229-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 230,
@@ -4323,11 +4923,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "kingdra",
-    "imgHome": "0230",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 231,
@@ -4337,11 +4939,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "phanpy",
-    "imgHome": "0231",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 232,
@@ -4353,25 +4957,29 @@
       "donphan-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "donphan",
-    "imgHome": "0232",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10154,
     "num": 232,
     "slug": "donphan-f",
-    "name": "Donphan-F",
+    "name": "Donphan (Female)",
     "gen": 2,
     "forms": [],
     "baseSpecies": "donphan",
-    "imgSprite": "donphan",
-    "imgHome": "0232-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 233,
@@ -4381,11 +4989,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "porygon2",
-    "imgHome": "0233",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 234,
@@ -4395,11 +5005,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "stantler",
-    "imgHome": "0234",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 235,
@@ -4409,11 +5021,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "smeargle",
-    "imgHome": "0235",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 236,
@@ -4423,11 +5037,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "tyrogue",
-    "imgHome": "0236",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 237,
@@ -4437,11 +5053,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "hitmontop",
-    "imgHome": "0237",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 238,
@@ -4451,11 +5069,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "smoochum",
-    "imgHome": "0238",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 239,
@@ -4465,11 +5085,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "elekid",
-    "imgHome": "0239",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 240,
@@ -4479,11 +5101,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "magby",
-    "imgHome": "0240",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 241,
@@ -4493,11 +5117,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "miltank",
-    "imgHome": "0241",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 242,
@@ -4507,11 +5133,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "blissey",
-    "imgHome": "0242",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 243,
@@ -4521,11 +5149,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "raikou",
-    "imgHome": "0243",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 244,
@@ -4535,11 +5165,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "entei",
-    "imgHome": "0244",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 245,
@@ -4549,11 +5181,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "suicune",
-    "imgHome": "0245",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 246,
@@ -4563,11 +5197,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "larvitar",
-    "imgHome": "0246",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 247,
@@ -4577,11 +5213,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "pupitar",
-    "imgHome": "0247",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 248,
@@ -4591,11 +5229,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "tyranitar",
-    "imgHome": "0248",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 249,
@@ -4605,25 +5245,29 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "lugia",
-    "imgHome": "0249",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 250,
     "num": 250,
-    "slug": "ho-oh",
+    "slug": "hooh",
     "name": "Ho-Oh",
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "ho-oh",
-    "imgHome": "0250",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 251,
@@ -4633,11 +5277,13 @@
     "gen": 2,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "celebi",
-    "imgHome": "0251",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 252,
@@ -4647,11 +5293,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "treecko",
-    "imgHome": "0252",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 253,
@@ -4661,11 +5309,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "grovyle",
-    "imgHome": "0253",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 254,
@@ -4675,11 +5325,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "sceptile",
-    "imgHome": "0254",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 255,
@@ -4691,25 +5343,29 @@
       "torchic-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "torchic",
-    "imgHome": "0255",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10157,
     "num": 255,
     "slug": "torchic-f",
-    "name": "Torchic-F",
+    "name": "Torchic (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "torchic",
-    "imgSprite": "torchic",
-    "imgHome": "0255-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 256,
@@ -4721,25 +5377,29 @@
       "combusken-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "combusken",
-    "imgHome": "0256",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10158,
     "num": 256,
     "slug": "combusken-f",
-    "name": "Combusken-F",
+    "name": "Combusken (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "combusken",
-    "imgSprite": "combusken",
-    "imgHome": "0256-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 257,
@@ -4751,25 +5411,29 @@
       "blaziken-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "blaziken",
-    "imgHome": "0257",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10159,
     "num": 257,
     "slug": "blaziken-f",
-    "name": "Blaziken-F",
+    "name": "Blaziken (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "blaziken",
-    "imgSprite": "blaziken",
-    "imgHome": "0257-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 258,
@@ -4779,11 +5443,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "mudkip",
-    "imgHome": "0258",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 259,
@@ -4793,11 +5459,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "marshtomp",
-    "imgHome": "0259",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 260,
@@ -4807,11 +5475,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "swampert",
-    "imgHome": "0260",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 261,
@@ -4821,11 +5491,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "poochyena",
-    "imgHome": "0261",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 262,
@@ -4835,11 +5507,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "mightyena",
-    "imgHome": "0262",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 263,
@@ -4849,11 +5523,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "zigzagoon",
-    "imgHome": "0263",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 264,
@@ -4863,11 +5539,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "linoone",
-    "imgHome": "0264",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 265,
@@ -4877,11 +5555,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "wurmple",
-    "imgHome": "0265",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 266,
@@ -4891,11 +5571,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "silcoon",
-    "imgHome": "0266",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 267,
@@ -4907,25 +5589,29 @@
       "beautifly-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "beautifly",
-    "imgHome": "0267",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10164,
     "num": 267,
     "slug": "beautifly-f",
-    "name": "Beautifly-F",
+    "name": "Beautifly (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "beautifly",
-    "imgSprite": "beautifly",
-    "imgHome": "0267-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 268,
@@ -4935,11 +5621,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "cascoon",
-    "imgHome": "0268",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 269,
@@ -4951,25 +5639,29 @@
       "dustox-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "dustox",
-    "imgHome": "0269",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10165,
     "num": 269,
     "slug": "dustox-f",
-    "name": "Dustox-F",
+    "name": "Dustox (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "dustox",
-    "imgSprite": "dustox",
-    "imgHome": "0269-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 270,
@@ -4979,11 +5671,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "lotad",
-    "imgHome": "0270",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 271,
@@ -4993,11 +5687,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "lombre",
-    "imgHome": "0271",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 272,
@@ -5009,25 +5705,29 @@
       "ludicolo-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "ludicolo",
-    "imgHome": "0272",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10166,
     "num": 272,
     "slug": "ludicolo-f",
-    "name": "Ludicolo-F",
+    "name": "Ludicolo (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "ludicolo",
-    "imgSprite": "ludicolo",
-    "imgHome": "0272-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 273,
@@ -5037,11 +5737,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "seedot",
-    "imgHome": "0273",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 274,
@@ -5053,25 +5755,29 @@
       "nuzleaf-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "nuzleaf",
-    "imgHome": "0274",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10167,
     "num": 274,
     "slug": "nuzleaf-f",
-    "name": "Nuzleaf-F",
+    "name": "Nuzleaf (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "nuzleaf",
-    "imgSprite": "nuzleaf",
-    "imgHome": "0274-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 275,
@@ -5083,25 +5789,29 @@
       "shiftry-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "shiftry",
-    "imgHome": "0275",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10168,
     "num": 275,
     "slug": "shiftry-f",
-    "name": "Shiftry-F",
+    "name": "Shiftry (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "shiftry",
-    "imgSprite": "shiftry",
-    "imgHome": "0275-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 276,
@@ -5111,11 +5821,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "taillow",
-    "imgHome": "0276",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 277,
@@ -5125,11 +5837,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "swellow",
-    "imgHome": "0277",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 278,
@@ -5139,11 +5853,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "wingull",
-    "imgHome": "0278",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 279,
@@ -5153,11 +5869,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "pelipper",
-    "imgHome": "0279",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 280,
@@ -5167,11 +5885,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "ralts",
-    "imgHome": "0280",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 281,
@@ -5181,11 +5901,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "kirlia",
-    "imgHome": "0281",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 282,
@@ -5195,11 +5917,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "gardevoir",
-    "imgHome": "0282",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 283,
@@ -5209,11 +5933,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "surskit",
-    "imgHome": "0283",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 284,
@@ -5223,11 +5949,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "masquerain",
-    "imgHome": "0284",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 285,
@@ -5237,11 +5965,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "shroomish",
-    "imgHome": "0285",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 286,
@@ -5251,11 +5981,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "breloom",
-    "imgHome": "0286",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 287,
@@ -5265,11 +5997,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "slakoth",
-    "imgHome": "0287",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 288,
@@ -5279,11 +6013,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "vigoroth",
-    "imgHome": "0288",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 289,
@@ -5293,11 +6029,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "slaking",
-    "imgHome": "0289",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 290,
@@ -5307,11 +6045,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "nincada",
-    "imgHome": "0290",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 291,
@@ -5321,11 +6061,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "ninjask",
-    "imgHome": "0291",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 292,
@@ -5335,11 +6077,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "shedinja",
-    "imgHome": "0292",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 293,
@@ -5349,11 +6093,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "whismur",
-    "imgHome": "0293",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 294,
@@ -5363,11 +6109,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "loudred",
-    "imgHome": "0294",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 295,
@@ -5377,11 +6125,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "exploud",
-    "imgHome": "0295",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 296,
@@ -5391,11 +6141,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "makuhita",
-    "imgHome": "0296",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 297,
@@ -5405,11 +6157,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "hariyama",
-    "imgHome": "0297",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 298,
@@ -5419,11 +6173,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "azurill",
-    "imgHome": "0298",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 299,
@@ -5433,11 +6189,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "nosepass",
-    "imgHome": "0299",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 300,
@@ -5447,11 +6205,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "skitty",
-    "imgHome": "0300",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 301,
@@ -5461,11 +6221,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "delcatty",
-    "imgHome": "0301",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 302,
@@ -5475,11 +6237,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "sableye",
-    "imgHome": "0302",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 303,
@@ -5489,11 +6253,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "mawile",
-    "imgHome": "0303",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 304,
@@ -5503,11 +6269,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "aron",
-    "imgHome": "0304",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 305,
@@ -5517,11 +6285,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "lairon",
-    "imgHome": "0305",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 306,
@@ -5531,11 +6301,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "aggron",
-    "imgHome": "0306",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 307,
@@ -5547,25 +6319,29 @@
       "meditite-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "meditite",
-    "imgHome": "0307",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10173,
     "num": 307,
     "slug": "meditite-f",
-    "name": "Meditite-F",
+    "name": "Meditite (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "meditite",
-    "imgSprite": "meditite",
-    "imgHome": "0307-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 308,
@@ -5577,25 +6353,29 @@
       "medicham-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "medicham",
-    "imgHome": "0308",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10174,
     "num": 308,
     "slug": "medicham-f",
-    "name": "Medicham-F",
+    "name": "Medicham (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "medicham",
-    "imgSprite": "medicham",
-    "imgHome": "0308-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 309,
@@ -5605,11 +6385,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "electrike",
-    "imgHome": "0309",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 310,
@@ -5619,11 +6401,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "manectric",
-    "imgHome": "0310",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 311,
@@ -5633,11 +6417,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "plusle",
-    "imgHome": "0311",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 312,
@@ -5647,11 +6433,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "minun",
-    "imgHome": "0312",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 313,
@@ -5661,11 +6449,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "volbeat",
-    "imgHome": "0313",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 314,
@@ -5675,11 +6465,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "illumise",
-    "imgHome": "0314",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 315,
@@ -5691,25 +6483,29 @@
       "roselia-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "roselia",
-    "imgHome": "0315",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10177,
     "num": 315,
     "slug": "roselia-f",
-    "name": "Roselia-F",
+    "name": "Roselia (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "roselia",
-    "imgSprite": "roselia",
-    "imgHome": "0315-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 316,
@@ -5721,25 +6517,29 @@
       "gulpin-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "gulpin",
-    "imgHome": "0316",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10178,
     "num": 316,
     "slug": "gulpin-f",
-    "name": "Gulpin-F",
+    "name": "Gulpin (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "gulpin",
-    "imgSprite": "gulpin",
-    "imgHome": "0316-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 317,
@@ -5751,25 +6551,29 @@
       "swalot-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "swalot",
-    "imgHome": "0317",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10179,
     "num": 317,
     "slug": "swalot-f",
-    "name": "Swalot-F",
+    "name": "Swalot (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "swalot",
-    "imgSprite": "swalot",
-    "imgHome": "0317-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 318,
@@ -5779,11 +6583,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "carvanha",
-    "imgHome": "0318",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 319,
@@ -5793,11 +6599,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "sharpedo",
-    "imgHome": "0319",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 320,
@@ -5807,11 +6615,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "wailmer",
-    "imgHome": "0320",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 321,
@@ -5821,11 +6631,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "wailord",
-    "imgHome": "0321",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 322,
@@ -5837,25 +6649,29 @@
       "numel-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "numel",
-    "imgHome": "0322",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10181,
     "num": 322,
     "slug": "numel-f",
-    "name": "Numel-F",
+    "name": "Numel (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "numel",
-    "imgSprite": "numel",
-    "imgHome": "0322-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 323,
@@ -5867,25 +6683,29 @@
       "camerupt-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "camerupt",
-    "imgHome": "0323",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10182,
     "num": 323,
     "slug": "camerupt-f",
-    "name": "Camerupt-F",
+    "name": "Camerupt (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "camerupt",
-    "imgSprite": "camerupt",
-    "imgHome": "0323-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 324,
@@ -5895,11 +6715,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "torkoal",
-    "imgHome": "0324",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 325,
@@ -5909,11 +6731,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "spoink",
-    "imgHome": "0325",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 326,
@@ -5923,11 +6747,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "grumpig",
-    "imgHome": "0326",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 327,
@@ -5937,11 +6763,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "spinda",
-    "imgHome": "0327",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 328,
@@ -5951,11 +6779,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "trapinch",
-    "imgHome": "0328",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 329,
@@ -5965,11 +6795,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "vibrava",
-    "imgHome": "0329",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 330,
@@ -5979,11 +6811,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "flygon",
-    "imgHome": "0330",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 331,
@@ -5993,11 +6827,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "cacnea",
-    "imgHome": "0331",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 332,
@@ -6009,25 +6845,29 @@
       "cacturne-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "cacturne",
-    "imgHome": "0332",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10184,
     "num": 332,
     "slug": "cacturne-f",
-    "name": "Cacturne-F",
+    "name": "Cacturne (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "cacturne",
-    "imgSprite": "cacturne",
-    "imgHome": "0332-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 333,
@@ -6037,11 +6877,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "swablu",
-    "imgHome": "0333",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 334,
@@ -6051,11 +6893,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "altaria",
-    "imgHome": "0334",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 335,
@@ -6065,11 +6909,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "zangoose",
-    "imgHome": "0335",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 336,
@@ -6079,11 +6925,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "seviper",
-    "imgHome": "0336",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 337,
@@ -6093,11 +6941,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "lunatone",
-    "imgHome": "0337",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 338,
@@ -6107,11 +6957,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "solrock",
-    "imgHome": "0338",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 339,
@@ -6121,11 +6973,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "barboach",
-    "imgHome": "0339",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 340,
@@ -6135,11 +6989,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "whiscash",
-    "imgHome": "0340",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 341,
@@ -6149,11 +7005,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "corphish",
-    "imgHome": "0341",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 342,
@@ -6163,11 +7021,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "crawdaunt",
-    "imgHome": "0342",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 343,
@@ -6177,11 +7037,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "baltoy",
-    "imgHome": "0343",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 344,
@@ -6191,11 +7053,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "claydol",
-    "imgHome": "0344",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 345,
@@ -6205,11 +7069,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "lileep",
-    "imgHome": "0345",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 346,
@@ -6219,11 +7085,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "cradily",
-    "imgHome": "0346",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 347,
@@ -6233,11 +7101,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "anorith",
-    "imgHome": "0347",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 348,
@@ -6247,11 +7117,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "armaldo",
-    "imgHome": "0348",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 349,
@@ -6261,11 +7133,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "feebas",
-    "imgHome": "0349",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 350,
@@ -6277,25 +7151,29 @@
       "milotic-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "milotic",
-    "imgHome": "0350",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10186,
     "num": 350,
     "slug": "milotic-f",
-    "name": "Milotic-F",
+    "name": "Milotic (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "milotic",
-    "imgSprite": "milotic",
-    "imgHome": "0350-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 351,
@@ -6309,53 +7187,61 @@
       "castform-snowy"
     ],
     "baseSpecies": null,
-    "imgSprite": "castform",
-    "imgHome": "0351",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10187,
     "num": 351,
     "slug": "castform-sunny",
-    "name": "Castform-Sunny",
+    "name": "Castform (Sunny)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "castform",
-    "imgSprite": "castform-sunny",
-    "imgHome": "0351-sunny",
     "formOrder": 1,
     "isCosmetic": false,
-    "isHomeStorable": false
+    "isHomeStorable": false,
+    "isHomeRegistrable": true,
+    "isBattleOnly": true,
+    "isReversible": true,
+    "isGmax": false
   },
   {
     "id": 10188,
     "num": 351,
     "slug": "castform-rainy",
-    "name": "Castform-Rainy",
+    "name": "Castform (Rainy)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "castform",
-    "imgSprite": "castform-rainy",
-    "imgHome": "0351-rainy",
     "formOrder": 2,
     "isCosmetic": false,
-    "isHomeStorable": false
+    "isHomeStorable": false,
+    "isHomeRegistrable": true,
+    "isBattleOnly": true,
+    "isReversible": true,
+    "isGmax": false
   },
   {
     "id": 10189,
     "num": 351,
     "slug": "castform-snowy",
-    "name": "Castform-Snowy",
+    "name": "Castform (Snowy)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "castform",
-    "imgSprite": "castform-snowy",
-    "imgHome": "0351-snowy",
     "formOrder": 3,
     "isCosmetic": false,
-    "isHomeStorable": false
+    "isHomeStorable": false,
+    "isHomeRegistrable": true,
+    "isBattleOnly": true,
+    "isReversible": true,
+    "isGmax": false
   },
   {
     "id": 352,
@@ -6365,11 +7251,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "kecleon",
-    "imgHome": "0352",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 353,
@@ -6379,11 +7267,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "shuppet",
-    "imgHome": "0353",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 354,
@@ -6393,11 +7283,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "banette",
-    "imgHome": "0354",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 355,
@@ -6407,11 +7299,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "duskull",
-    "imgHome": "0355",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 356,
@@ -6421,11 +7315,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "dusclops",
-    "imgHome": "0356",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 357,
@@ -6435,11 +7331,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "tropius",
-    "imgHome": "0357",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 358,
@@ -6449,11 +7347,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "chimecho",
-    "imgHome": "0358",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 359,
@@ -6463,11 +7363,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "absol",
-    "imgHome": "0359",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 360,
@@ -6477,11 +7379,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "wynaut",
-    "imgHome": "0360",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 361,
@@ -6491,11 +7395,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "snorunt",
-    "imgHome": "0361",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 362,
@@ -6505,11 +7411,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "glalie",
-    "imgHome": "0362",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 363,
@@ -6519,11 +7427,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "spheal",
-    "imgHome": "0363",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 364,
@@ -6533,11 +7443,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "sealeo",
-    "imgHome": "0364",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 365,
@@ -6547,11 +7459,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "walrein",
-    "imgHome": "0365",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 366,
@@ -6561,11 +7475,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "clamperl",
-    "imgHome": "0366",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 367,
@@ -6575,11 +7491,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "huntail",
-    "imgHome": "0367",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 368,
@@ -6589,11 +7507,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "gorebyss",
-    "imgHome": "0368",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 369,
@@ -6605,25 +7525,29 @@
       "relicanth-f"
     ],
     "baseSpecies": null,
-    "imgSprite": "relicanth",
-    "imgHome": "0369",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10193,
     "num": 369,
     "slug": "relicanth-f",
-    "name": "Relicanth-F",
+    "name": "Relicanth (Female)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "relicanth",
-    "imgSprite": "relicanth",
-    "imgHome": "0369-f",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 370,
@@ -6633,11 +7557,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "luvdisc",
-    "imgHome": "0370",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 371,
@@ -6647,11 +7573,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "bagon",
-    "imgHome": "0371",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 372,
@@ -6661,11 +7589,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "shelgon",
-    "imgHome": "0372",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 373,
@@ -6675,11 +7605,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "salamence",
-    "imgHome": "0373",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 374,
@@ -6689,11 +7621,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "beldum",
-    "imgHome": "0374",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 375,
@@ -6703,11 +7637,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "metang",
-    "imgHome": "0375",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 376,
@@ -6717,11 +7653,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "metagross",
-    "imgHome": "0376",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 377,
@@ -6731,11 +7669,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "regirock",
-    "imgHome": "0377",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 378,
@@ -6745,11 +7685,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "regice",
-    "imgHome": "0378",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 379,
@@ -6759,11 +7701,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "registeel",
-    "imgHome": "0379",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 380,
@@ -6773,11 +7717,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "latias",
-    "imgHome": "0380",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 381,
@@ -6787,11 +7733,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "latios",
-    "imgHome": "0381",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 382,
@@ -6801,11 +7749,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "kyogre",
-    "imgHome": "0382",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 383,
@@ -6815,11 +7765,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "groudon",
-    "imgHome": "0383",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 384,
@@ -6829,11 +7781,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "rayquaza",
-    "imgHome": "0384",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 385,
@@ -6843,11 +7797,13 @@
     "gen": 3,
     "forms": [],
     "baseSpecies": null,
-    "imgSprite": "jirachi",
-    "imgHome": "0385",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 386,
@@ -6861,52 +7817,60 @@
       "deoxys-speed"
     ],
     "baseSpecies": null,
-    "imgSprite": "deoxys",
-    "imgHome": "0386",
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10201,
     "num": 386,
     "slug": "deoxys-attack",
-    "name": "Deoxys-Attack",
+    "name": "Deoxys (Attack)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "deoxys",
-    "imgSprite": "deoxys-attack",
-    "imgHome": "0386-attack",
     "formOrder": 1,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": true,
+    "isGmax": false
   },
   {
     "id": 10202,
     "num": 386,
     "slug": "deoxys-defense",
-    "name": "Deoxys-Defense",
+    "name": "Deoxys (Defense)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "deoxys",
-    "imgSprite": "deoxys-defense",
-    "imgHome": "0386-defense",
     "formOrder": 2,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": true,
+    "isGmax": false
   },
   {
     "id": 10203,
     "num": 386,
     "slug": "deoxys-speed",
-    "name": "Deoxys-Speed",
+    "name": "Deoxys (Speed)",
     "gen": 3,
     "forms": [],
     "baseSpecies": "deoxys",
-    "imgSprite": "deoxys-speed",
-    "imgHome": "0386-speed",
     "formOrder": 3,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": true,
+    "isGmax": false
   }
 ]

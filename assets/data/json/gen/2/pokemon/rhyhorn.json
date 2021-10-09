@@ -7,13 +7,14 @@
   "forms": [
     "rhyhorn-f"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "rhyhorn",
-  "imgHome": "0111",
   "dataGen": 8,
   "type1": "ground",
   "type2": "rock",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "rhyhorn",
   "veekunSlug": "rhyhorn",
-  "veekunFormId": 111,
-  "title": "Rhyhorn"
+  "veekunFormId": 111
 }

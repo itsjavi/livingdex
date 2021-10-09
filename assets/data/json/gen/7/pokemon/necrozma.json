@@ -9,13 +9,14 @@
     "necrozma-dawn-wings",
     "necrozma-ultra"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "necrozma",
-  "imgHome": "0800",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -60,13 +61,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "necrozma",
   "veekunSlug": "necrozma",
-  "veekunFormId": 800,
-  "title": "Necrozma"
+  "veekunFormId": 800
 }

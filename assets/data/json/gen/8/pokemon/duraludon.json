@@ -7,13 +7,14 @@
   "forms": [
     "duraludon-gmax"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "duraludon",
-  "imgHome": "0884",
   "dataGen": 8,
   "type1": "steel",
   "type2": "dragon",
@@ -43,12 +44,12 @@
   },
   "baseStatsTotal": 535,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 2,
+    "spd": 0,
+    "spe": 0
   },
   "yieldBaseExp": 187,
   "isFemale": false,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "duraludon",
   "veekunSlug": "duraludon",
-  "veekunFormId": 884,
-  "title": "Duraludon"
+  "veekunFormId": 884
 }

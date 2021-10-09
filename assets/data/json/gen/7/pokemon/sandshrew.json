@@ -7,13 +7,14 @@
   "forms": [
     "sandshrew-alola"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "sandshrew",
-  "imgHome": "0027",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "sandshrew",
   "veekunSlug": "sandshrew",
-  "veekunFormId": 27,
-  "title": "Sandshrew"
+  "veekunFormId": 27
 }

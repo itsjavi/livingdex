@@ -5,17 +5,18 @@
   "name": "Meowth",
   "gen": 1,
   "forms": [
+    "meowth-gmax",
     "meowth-alola",
-    "meowth-galar",
-    "meowth-gmax"
+    "meowth-galar"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "meowth",
-  "imgHome": "0052",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -60,13 +61,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "meowth",
   "veekunSlug": "meowth",
-  "veekunFormId": 52,
-  "title": "Meowth"
+  "veekunFormId": 52
 }

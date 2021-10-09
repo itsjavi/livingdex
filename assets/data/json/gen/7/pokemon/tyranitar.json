@@ -7,13 +7,14 @@
   "forms": [
     "tyranitar-mega"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "tyranitar",
-  "imgHome": "0248",
   "dataGen": 8,
   "type1": "rock",
   "type2": "dark",
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "tyranitar",
   "veekunSlug": "tyranitar",
-  "veekunFormId": 248,
-  "title": "Tyranitar"
+  "veekunFormId": 248
 }

@@ -7,13 +7,14 @@
   "forms": [
     "zarude-dada"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "zarude",
-  "imgHome": "0893",
   "dataGen": 8,
   "type1": "dark",
   "type2": "grass",
@@ -43,12 +44,12 @@
   },
   "baseStatsTotal": 600,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 3,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
   },
   "yieldBaseExp": 300,
   "isFemale": false,
@@ -58,13 +59,11 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "zarude",
   "veekunSlug": "zarude",
-  "veekunFormId": 893,
-  "title": "Zarude"
+  "veekunFormId": 893
 }
