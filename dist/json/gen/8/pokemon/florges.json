@@ -10,6 +10,10 @@
     "florges-blue",
     "florges-white"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Red",
   "formSlug": "red",
   "formOrder": 0,
@@ -58,7 +62,6 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,

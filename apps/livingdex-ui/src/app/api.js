@@ -40,7 +40,7 @@ class PokeApi {
    * @returns {Promise<PokemonListItem[]>}
    */
   async getPokemonList() {
-    return this._getJson(`gen/${this.generation}/livingdex-pokemon`)
+    return this._getJson(`gen/${this.generation}/pokemon-forms`)
   }
 
   async getPokemon(slug, withLearnset = false) {

@@ -8,6 +8,10 @@
     "wormadam-sandy",
     "wormadam-trash"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Plant",
   "formSlug": "plant",
   "formOrder": 0,
@@ -56,7 +60,6 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,

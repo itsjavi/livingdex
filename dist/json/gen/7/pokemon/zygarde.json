@@ -10,6 +10,10 @@
     "zygarde-10-power-construct",
     "zygarde-complete"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": true,
+  "isGmax": false,
   "formName": "50%",
   "formSlug": "50",
   "formOrder": 0,
@@ -58,7 +62,6 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,

@@ -9,7 +9,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 2,
@@ -21,7 +25,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 3,
@@ -35,7 +43,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10001,
@@ -47,7 +59,11 @@
     "baseSpecies": "venusaur",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 4,
@@ -59,7 +75,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 5,
@@ -71,7 +91,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 6,
@@ -83,7 +107,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 7,
@@ -95,7 +123,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 8,
@@ -107,7 +139,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 9,
@@ -119,7 +155,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10,
@@ -131,7 +171,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 11,
@@ -143,7 +187,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 12,
@@ -157,7 +205,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10009,
@@ -169,7 +221,11 @@
     "baseSpecies": "butterfree",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 13,
@@ -181,7 +237,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 14,
@@ -193,7 +253,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 15,
@@ -205,7 +269,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 16,
@@ -217,7 +285,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 17,
@@ -229,7 +301,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 18,
@@ -241,7 +317,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 19,
@@ -255,7 +335,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10013,
@@ -267,7 +351,11 @@
     "baseSpecies": "rattata",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 20,
@@ -281,7 +369,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10015,
@@ -293,7 +385,11 @@
     "baseSpecies": "raticate",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 21,
@@ -305,7 +401,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 22,
@@ -317,7 +417,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 23,
@@ -329,7 +433,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 24,
@@ -341,7 +449,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 25,
@@ -355,7 +467,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10018,
@@ -367,7 +483,11 @@
     "baseSpecies": "pikachu",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 26,
@@ -381,7 +501,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10035,
@@ -393,7 +517,11 @@
     "baseSpecies": "raichu",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 27,
@@ -405,7 +533,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 28,
@@ -417,7 +549,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 29,
@@ -429,7 +565,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 30,
@@ -441,7 +581,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 31,
@@ -453,7 +597,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 32,
@@ -465,7 +613,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 33,
@@ -477,7 +629,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 34,
@@ -489,7 +645,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 35,
@@ -501,7 +661,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 36,
@@ -513,7 +677,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 37,
@@ -525,7 +693,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 38,
@@ -537,7 +709,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 39,
@@ -549,7 +725,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 40,
@@ -561,7 +741,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 41,
@@ -575,7 +759,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10041,
@@ -587,7 +775,11 @@
     "baseSpecies": "zubat",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 42,
@@ -601,7 +793,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10042,
@@ -613,7 +809,11 @@
     "baseSpecies": "golbat",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 43,
@@ -625,7 +825,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 44,
@@ -639,7 +843,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10043,
@@ -651,7 +859,11 @@
     "baseSpecies": "gloom",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 45,
@@ -665,7 +877,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10044,
@@ -677,7 +893,11 @@
     "baseSpecies": "vileplume",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 46,
@@ -689,7 +909,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 47,
@@ -701,7 +925,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 48,
@@ -713,7 +941,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 49,
@@ -725,7 +957,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 50,
@@ -737,7 +973,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 51,
@@ -749,7 +989,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 52,
@@ -761,7 +1005,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 53,
@@ -773,7 +1021,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 54,
@@ -785,7 +1037,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 55,
@@ -797,7 +1053,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 56,
@@ -809,7 +1069,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 57,
@@ -821,7 +1085,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 58,
@@ -833,7 +1101,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 59,
@@ -845,7 +1117,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 60,
@@ -857,7 +1133,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 61,
@@ -869,7 +1149,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 62,
@@ -881,7 +1165,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 63,
@@ -893,7 +1181,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 64,
@@ -907,7 +1199,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10051,
@@ -919,7 +1215,11 @@
     "baseSpecies": "kadabra",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 65,
@@ -933,7 +1233,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10052,
@@ -945,7 +1249,11 @@
     "baseSpecies": "alakazam",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 66,
@@ -957,7 +1265,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 67,
@@ -969,7 +1281,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 68,
@@ -981,7 +1297,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 69,
@@ -993,7 +1313,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 70,
@@ -1005,7 +1329,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 71,
@@ -1017,7 +1345,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 72,
@@ -1029,7 +1361,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 73,
@@ -1041,7 +1377,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 74,
@@ -1053,7 +1393,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 75,
@@ -1065,7 +1409,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 76,
@@ -1077,7 +1425,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 77,
@@ -1089,7 +1441,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 78,
@@ -1101,7 +1457,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 79,
@@ -1113,7 +1473,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 80,
@@ -1125,7 +1489,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 81,
@@ -1137,7 +1505,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 82,
@@ -1149,7 +1521,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 83,
@@ -1161,7 +1537,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 84,
@@ -1175,7 +1555,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10064,
@@ -1187,7 +1571,11 @@
     "baseSpecies": "doduo",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 85,
@@ -1201,7 +1589,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10065,
@@ -1213,7 +1605,11 @@
     "baseSpecies": "dodrio",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 86,
@@ -1225,7 +1621,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 87,
@@ -1237,7 +1637,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 88,
@@ -1249,7 +1653,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 89,
@@ -1261,7 +1669,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 90,
@@ -1273,7 +1685,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 91,
@@ -1285,7 +1701,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 92,
@@ -1297,7 +1717,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 93,
@@ -1309,7 +1733,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 94,
@@ -1321,7 +1749,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 95,
@@ -1333,7 +1765,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 96,
@@ -1345,7 +1781,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 97,
@@ -1359,7 +1799,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10070,
@@ -1371,7 +1815,11 @@
     "baseSpecies": "hypno",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 98,
@@ -1383,7 +1831,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 99,
@@ -1395,7 +1847,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 100,
@@ -1407,7 +1863,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 101,
@@ -1419,7 +1879,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 102,
@@ -1431,7 +1895,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 103,
@@ -1443,7 +1911,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 104,
@@ -1455,7 +1927,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 105,
@@ -1467,7 +1943,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 106,
@@ -1479,7 +1959,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 107,
@@ -1491,7 +1975,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 108,
@@ -1503,7 +1991,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 109,
@@ -1515,7 +2007,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 110,
@@ -1527,7 +2023,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 111,
@@ -1541,7 +2041,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10076,
@@ -1553,7 +2057,11 @@
     "baseSpecies": "rhyhorn",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 112,
@@ -1567,7 +2075,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10077,
@@ -1579,7 +2091,11 @@
     "baseSpecies": "rhydon",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 113,
@@ -1591,7 +2107,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 114,
@@ -1603,7 +2123,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 115,
@@ -1615,7 +2139,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 116,
@@ -1627,7 +2155,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 117,
@@ -1639,7 +2171,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 118,
@@ -1653,7 +2189,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10079,
@@ -1665,7 +2205,11 @@
     "baseSpecies": "goldeen",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 119,
@@ -1679,7 +2223,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10080,
@@ -1691,7 +2239,11 @@
     "baseSpecies": "seaking",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 120,
@@ -1703,7 +2255,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 121,
@@ -1715,7 +2271,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 122,
@@ -1727,7 +2287,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 123,
@@ -1741,7 +2305,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10082,
@@ -1753,7 +2321,11 @@
     "baseSpecies": "scyther",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 124,
@@ -1765,7 +2337,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 125,
@@ -1777,7 +2353,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 126,
@@ -1789,7 +2369,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 127,
@@ -1801,7 +2385,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 128,
@@ -1813,7 +2401,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 129,
@@ -1827,7 +2419,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10084,
@@ -1839,7 +2435,11 @@
     "baseSpecies": "magikarp",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 130,
@@ -1853,7 +2453,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10085,
@@ -1865,7 +2469,11 @@
     "baseSpecies": "gyarados",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 131,
@@ -1877,7 +2485,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 132,
@@ -1889,7 +2501,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 133,
@@ -1903,7 +2519,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10088,
@@ -1915,7 +2535,11 @@
     "baseSpecies": "eevee",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 134,
@@ -1927,7 +2551,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 135,
@@ -1939,7 +2567,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 136,
@@ -1951,7 +2583,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 137,
@@ -1963,7 +2599,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 138,
@@ -1975,7 +2615,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 139,
@@ -1987,7 +2631,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 140,
@@ -1999,7 +2647,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 141,
@@ -2011,7 +2663,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 142,
@@ -2023,7 +2679,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 143,
@@ -2035,7 +2695,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 144,
@@ -2047,7 +2711,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 145,
@@ -2059,7 +2727,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 146,
@@ -2071,7 +2743,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 147,
@@ -2083,7 +2759,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 148,
@@ -2095,7 +2775,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 149,
@@ -2107,7 +2791,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 150,
@@ -2119,7 +2807,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 151,
@@ -2131,7 +2823,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 152,
@@ -2143,7 +2839,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 153,
@@ -2155,7 +2855,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 154,
@@ -2169,7 +2873,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10098,
@@ -2181,7 +2889,11 @@
     "baseSpecies": "meganium",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 155,
@@ -2193,7 +2905,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 156,
@@ -2205,7 +2921,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 157,
@@ -2217,7 +2937,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 158,
@@ -2229,7 +2953,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 159,
@@ -2241,7 +2969,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 160,
@@ -2253,7 +2985,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 161,
@@ -2265,7 +3001,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 162,
@@ -2277,7 +3017,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 163,
@@ -2289,7 +3033,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 164,
@@ -2301,7 +3049,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 165,
@@ -2315,7 +3067,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10099,
@@ -2327,7 +3083,11 @@
     "baseSpecies": "ledyba",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 166,
@@ -2341,7 +3101,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10100,
@@ -2353,7 +3117,11 @@
     "baseSpecies": "ledian",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 167,
@@ -2365,7 +3133,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 168,
@@ -2377,7 +3149,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 169,
@@ -2389,7 +3165,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 170,
@@ -2401,7 +3181,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 171,
@@ -2413,7 +3197,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 172,
@@ -2425,7 +3213,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 173,
@@ -2437,7 +3229,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 174,
@@ -2449,7 +3245,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 175,
@@ -2461,7 +3261,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 176,
@@ -2473,7 +3277,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 177,
@@ -2485,7 +3293,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 178,
@@ -2499,7 +3311,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10102,
@@ -2511,7 +3327,11 @@
     "baseSpecies": "xatu",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 179,
@@ -2523,7 +3343,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 180,
@@ -2535,7 +3359,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 181,
@@ -2547,7 +3375,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 182,
@@ -2559,7 +3391,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 183,
@@ -2571,7 +3407,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 184,
@@ -2583,7 +3423,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 185,
@@ -2597,7 +3441,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10104,
@@ -2609,7 +3457,11 @@
     "baseSpecies": "sudowoodo",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 186,
@@ -2623,7 +3475,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10105,
@@ -2635,7 +3491,11 @@
     "baseSpecies": "politoed",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 187,
@@ -2647,7 +3507,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 188,
@@ -2659,7 +3523,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 189,
@@ -2671,7 +3539,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 190,
@@ -2685,7 +3557,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10106,
@@ -2697,7 +3573,11 @@
     "baseSpecies": "aipom",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 191,
@@ -2709,7 +3589,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 192,
@@ -2721,7 +3605,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 193,
@@ -2733,7 +3621,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 194,
@@ -2747,7 +3639,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10107,
@@ -2759,7 +3655,11 @@
     "baseSpecies": "wooper",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 195,
@@ -2773,7 +3673,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10108,
@@ -2785,7 +3689,11 @@
     "baseSpecies": "quagsire",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 196,
@@ -2797,7 +3705,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 197,
@@ -2809,7 +3721,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 198,
@@ -2823,7 +3739,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10109,
@@ -2835,7 +3755,11 @@
     "baseSpecies": "murkrow",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 199,
@@ -2847,7 +3771,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 200,
@@ -2859,7 +3787,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 201,
@@ -2899,7 +3831,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10111,
@@ -2911,7 +3847,11 @@
     "baseSpecies": "unown",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10112,
@@ -2923,7 +3863,11 @@
     "baseSpecies": "unown",
     "formOrder": 2,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10113,
@@ -2935,7 +3879,11 @@
     "baseSpecies": "unown",
     "formOrder": 3,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10114,
@@ -2947,7 +3895,11 @@
     "baseSpecies": "unown",
     "formOrder": 4,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10115,
@@ -2959,7 +3911,11 @@
     "baseSpecies": "unown",
     "formOrder": 5,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10116,
@@ -2971,7 +3927,11 @@
     "baseSpecies": "unown",
     "formOrder": 6,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10117,
@@ -2983,7 +3943,11 @@
     "baseSpecies": "unown",
     "formOrder": 7,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10118,
@@ -2995,7 +3959,11 @@
     "baseSpecies": "unown",
     "formOrder": 8,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10119,
@@ -3007,7 +3975,11 @@
     "baseSpecies": "unown",
     "formOrder": 9,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10120,
@@ -3019,7 +3991,11 @@
     "baseSpecies": "unown",
     "formOrder": 10,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10121,
@@ -3031,7 +4007,11 @@
     "baseSpecies": "unown",
     "formOrder": 11,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10122,
@@ -3043,7 +4023,11 @@
     "baseSpecies": "unown",
     "formOrder": 12,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10123,
@@ -3055,7 +4039,11 @@
     "baseSpecies": "unown",
     "formOrder": 13,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10124,
@@ -3067,7 +4055,11 @@
     "baseSpecies": "unown",
     "formOrder": 14,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10125,
@@ -3079,7 +4071,11 @@
     "baseSpecies": "unown",
     "formOrder": 15,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10126,
@@ -3091,7 +4087,11 @@
     "baseSpecies": "unown",
     "formOrder": 16,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10127,
@@ -3103,7 +4103,11 @@
     "baseSpecies": "unown",
     "formOrder": 17,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10128,
@@ -3115,7 +4119,11 @@
     "baseSpecies": "unown",
     "formOrder": 18,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10129,
@@ -3127,7 +4135,11 @@
     "baseSpecies": "unown",
     "formOrder": 19,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10130,
@@ -3139,7 +4151,11 @@
     "baseSpecies": "unown",
     "formOrder": 20,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10131,
@@ -3151,7 +4167,11 @@
     "baseSpecies": "unown",
     "formOrder": 21,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10132,
@@ -3163,7 +4183,11 @@
     "baseSpecies": "unown",
     "formOrder": 22,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10133,
@@ -3175,7 +4199,11 @@
     "baseSpecies": "unown",
     "formOrder": 23,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10134,
@@ -3187,7 +4215,11 @@
     "baseSpecies": "unown",
     "formOrder": 24,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10135,
@@ -3199,7 +4231,11 @@
     "baseSpecies": "unown",
     "formOrder": 25,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10136,
@@ -3211,7 +4247,11 @@
     "baseSpecies": "unown",
     "formOrder": 26,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10137,
@@ -3223,7 +4263,11 @@
     "baseSpecies": "unown",
     "formOrder": 27,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 202,
@@ -3237,7 +4281,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10138,
@@ -3249,7 +4297,11 @@
     "baseSpecies": "wobbuffet",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 203,
@@ -3263,7 +4315,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10139,
@@ -3275,7 +4331,11 @@
     "baseSpecies": "girafarig",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 204,
@@ -3287,7 +4347,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 205,
@@ -3299,7 +4363,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 206,
@@ -3311,7 +4379,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 207,
@@ -3325,7 +4397,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10140,
@@ -3337,7 +4413,11 @@
     "baseSpecies": "gligar",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 208,
@@ -3351,7 +4431,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10141,
@@ -3363,7 +4447,11 @@
     "baseSpecies": "steelix",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 209,
@@ -3375,7 +4463,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 210,
@@ -3387,7 +4479,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 211,
@@ -3399,7 +4495,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 212,
@@ -3413,7 +4513,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10143,
@@ -3425,7 +4529,11 @@
     "baseSpecies": "scizor",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 213,
@@ -3437,7 +4545,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 214,
@@ -3451,7 +4563,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10145,
@@ -3463,7 +4579,11 @@
     "baseSpecies": "heracross",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 215,
@@ -3477,7 +4597,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10147,
@@ -3489,7 +4613,11 @@
     "baseSpecies": "sneasel",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 216,
@@ -3501,7 +4629,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 217,
@@ -3515,7 +4647,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10148,
@@ -3527,7 +4663,11 @@
     "baseSpecies": "ursaring",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 218,
@@ -3539,7 +4679,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 219,
@@ -3551,7 +4695,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 220,
@@ -3563,7 +4711,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 221,
@@ -3577,7 +4729,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10149,
@@ -3589,7 +4745,11 @@
     "baseSpecies": "piloswine",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 222,
@@ -3601,7 +4761,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 223,
@@ -3613,7 +4777,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 224,
@@ -3627,7 +4795,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10151,
@@ -3639,7 +4811,11 @@
     "baseSpecies": "octillery",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 225,
@@ -3651,7 +4827,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 226,
@@ -3663,7 +4843,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 227,
@@ -3675,7 +4859,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 228,
@@ -3687,7 +4875,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 229,
@@ -3701,7 +4893,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10152,
@@ -3713,7 +4909,11 @@
     "baseSpecies": "houndoom",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 230,
@@ -3725,7 +4925,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 231,
@@ -3737,7 +4941,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 232,
@@ -3751,7 +4959,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 10154,
@@ -3763,7 +4975,11 @@
     "baseSpecies": "donphan",
     "formOrder": 1,
     "isCosmetic": true,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 233,
@@ -3775,7 +4991,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 234,
@@ -3787,7 +5007,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 235,
@@ -3799,7 +5023,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 236,
@@ -3811,7 +5039,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 237,
@@ -3823,7 +5055,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 238,
@@ -3835,7 +5071,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 239,
@@ -3847,7 +5087,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 240,
@@ -3859,7 +5103,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 241,
@@ -3871,7 +5119,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 242,
@@ -3883,7 +5135,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 243,
@@ -3895,7 +5151,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 244,
@@ -3907,7 +5167,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 245,
@@ -3919,7 +5183,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 246,
@@ -3931,7 +5199,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 247,
@@ -3943,7 +5215,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 248,
@@ -3955,7 +5231,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 249,
@@ -3967,7 +5247,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 250,
@@ -3979,7 +5263,11 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   },
   {
     "id": 251,
@@ -3991,6 +5279,10 @@
     "baseSpecies": null,
     "formOrder": 0,
     "isCosmetic": false,
-    "isHomeStorable": true
+    "isHomeStorable": true,
+    "isHomeRegistrable": true,
+    "isBattleOnly": false,
+    "isReversible": false,
+    "isGmax": false
   }
 ]

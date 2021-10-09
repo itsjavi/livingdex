@@ -9,6 +9,10 @@
     "toxtricity-gmax",
     "toxtricity-low-key-gmax"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Amped",
   "formSlug": "amped",
   "formOrder": 0,
@@ -57,7 +61,6 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,

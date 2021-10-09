@@ -11,6 +11,10 @@
     "rotom-fan",
     "rotom-mow"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
@@ -59,7 +63,6 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,

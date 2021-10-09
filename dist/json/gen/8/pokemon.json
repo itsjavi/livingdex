@@ -6793,16 +6793,10 @@
     "id": 774,
     "num": 774,
     "slug": "minior",
-    "name": "Minior (Red)",
+    "name": "Minior",
     "gen": 7,
     "forms": [
-      "minior-meteor",
-      "minior-orange",
-      "minior-yellow",
-      "minior-green",
-      "minior-blue",
-      "minior-indigo",
-      "minior-violet"
+      "minior-red"
     ]
   },
   {

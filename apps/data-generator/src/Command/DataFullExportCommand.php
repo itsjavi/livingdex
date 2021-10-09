@@ -165,7 +165,7 @@ class DataFullExportCommand extends Command
     }
 
     /**
-     * @param array $pokemonIndex
+     * @param array     $pokemonIndex
      * @param Pokemon[] $pokemonCollection
      * @return array
      */
@@ -211,6 +211,9 @@ class DataFullExportCommand extends Command
                         'isTotem' => $poke->isTotem(),
                         'isRegional' => $poke->isRegional(),
                         'isHomeStorable' => $poke->isHomeStorable(),
+                        'isHomeRegistrable' => $poke->isHomeRegistrable(),
+                        'isBattleOnly' => $poke->isBattleOnly(),
+                        'isReversible' => $poke->isReversible(),
                         //'games' => $games,
                         'showdownSlug' => $poke->getShowdownSlug(),
                         'veekunSlug' => $poke->getVeekunSlug(),
@@ -273,7 +276,7 @@ class DataFullExportCommand extends Command
 
     /**
      * @param Pokemon[] $pokemonCollection
-     * @param bool $withForms
+     * @param bool      $withForms
      * @return array
      */
     private function createPokemonIndex(iterable $pokemonCollection, bool $withForms = false): array
@@ -301,6 +304,10 @@ class DataFullExportCommand extends Command
                 $pokemonIndexEntry['formOrder'] = $poke->getSortingOrder();
                 $pokemonIndexEntry['isCosmetic'] = $poke->isCosmetic();
                 $pokemonIndexEntry['isHomeStorable'] = $poke->isHomeStorable();
+                $pokemonIndexEntry['isHomeRegistrable'] = $poke->isHomeRegistrable();
+                $pokemonIndexEntry['isBattleOnly'] = $poke->isBattleOnly();
+                $pokemonIndexEntry['isReversible'] = $poke->isReversible();
+                $pokemonIndexEntry['isGmax'] = $poke->isGmax();
             }
 
             for ($gen = $poke->getGen(); $gen <= Generation::MAX_GEN; $gen++) {

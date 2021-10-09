@@ -630,7 +630,7 @@ class Pokemon
         return $this;
     }
 
-    public function getIsBattleOnly(): ?bool
+    public function isBattleOnly(): ?bool
     {
         return $this->isBattleOnly;
     }
@@ -642,7 +642,7 @@ class Pokemon
         return $this;
     }
 
-    public function getIsReversible(): ?bool
+    public function isReversible(): ?bool
     {
         return $this->isReversible;
     }
@@ -654,7 +654,7 @@ class Pokemon
         return $this;
     }
 
-    public function getIsHomeRegistrable(): ?bool
+    public function isHomeRegistrable(): ?bool
     {
         return $this->isHomeRegistrable;
     }

@@ -251,7 +251,7 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
             if ($baseSpeciesSlug === false) {
                 throw new DataSourceException("base_species data not set for {$slug}");
             }
-            $entry['_baseSpeciesSlug'] = $baseSpeciesSlug;
+            $entry['_baseSpeciesSlug'] = $baseSpeciesSlug ? StrFormat::plainSlug($baseSpeciesSlug) : $baseSpeciesSlug;
 
             $extraForms[$k] = $entry;
         }

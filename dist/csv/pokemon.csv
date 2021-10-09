@@ -772,7 +772,7 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 771,,771,[],,,alola,pyukumuku,pyukumuku,771,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,Pyukumuku,pyukumuku,0
 772,,772,[],,,alola,typenull,type-null,772,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Type: Null",typenull,0
 773,,773,[],,,alola,silvally,silvally-normal,773,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,Silvally,silvally,0
-774,,774,"[""minior-red""]",red,Red,alola,minior,minior-red,10255,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Red)",minior,1
+774,,774,"[""minior-meteor""]",meteor,Meteor,alola,miniormeteor,minior-red-meteor,774,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,7,Minior,minior,0
 775,,775,[],,,alola,komala,komala,775,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,Komala,komala,0
 776,,776,[],,,alola,turtonator,turtonator,776,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,Turtonator,turtonator,0
 777,,777,[],,,alola,togedemaru,togedemaru,777,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,Togedemaru,togedemaru,0
@@ -899,14 +899,14 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 898,,898,[],,,galar,calyrex,calyrex,898,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Calyrex,calyrex,0
 10001,3,3,[],f,Female,kanto,,venusaur,3,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,"Venusaur (Female)",venusaur-f,1
 10002,3,3,[],mega,Mega,kalos,venusaurmega,venusaur-mega,10133,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,6,"Venusaur (Mega)",venusaur-mega,3
-10003,3,3,[],gmax,Gigantamax,galar,venusaurgmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Venusaur (Gigantamax)",venusaur-gmax,2
+10003,3,3,[],gmax,Gigantamax,galar,venusaurgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Venusaur (Gigantamax)",venusaur-gmax,2
 10004,6,6,[],mega-x,"Mega X",kalos,charizardmegax,charizard-mega-x,10134,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,6,"Charizard (Mega X)",charizard-mega-x,2
 10005,6,6,[],mega-y,"Mega Y",kalos,charizardmegay,charizard-mega-y,10135,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,6,"Charizard (Mega Y)",charizard-mega-y,3
-10006,6,6,[],gmax,Gigantamax,galar,charizardgmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Charizard (Gigantamax)",charizard-gmax,1
+10006,6,6,[],gmax,Gigantamax,galar,charizardgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Charizard (Gigantamax)",charizard-gmax,1
 10007,9,9,[],mega,Mega,kalos,blastoisemega,blastoise-mega,10136,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,6,"Blastoise (Mega)",blastoise-mega,2
-10008,9,9,[],gmax,Gigantamax,galar,blastoisegmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Blastoise (Gigantamax)",blastoise-gmax,1
+10008,9,9,[],gmax,Gigantamax,galar,blastoisegmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Blastoise (Gigantamax)",blastoise-gmax,1
 10009,12,12,[],f,Female,kanto,,butterfree,12,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,"Butterfree (Female)",butterfree-f,1
-10010,12,12,[],gmax,Gigantamax,galar,butterfreegmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Butterfree (Gigantamax)",butterfree-gmax,2
+10010,12,12,[],gmax,Gigantamax,galar,butterfreegmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Butterfree (Gigantamax)",butterfree-gmax,2
 10011,15,15,[],mega,Mega,kalos,beedrillmega,beedrill-mega,10192,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,6,"Beedrill (Mega)",beedrill-mega,1
 10012,18,18,[],mega,Mega,kalos,pidgeotmega,pidgeot-mega,10175,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,6,"Pidgeot (Mega)",pidgeot-mega,1
 10013,19,19,[],f,Female,kanto,,rattata,19,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,"Rattata (Female)",rattata-f,1
@@ -929,7 +929,7 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 10030,25,25,[],alola-cap,"Alola Cap",alola,pikachualola,pikachu-alola-cap,10201,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,7,"Pikachu (Alola Cap)",pikachu-alola-cap,15
 10031,25,25,[],partner-cap,"Partner Cap",alola,pikachupartner,pikachu-partner-cap,10267,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Pikachu (Partner Cap)",pikachu-partner-cap,16
 10032,25,25,[],starter,Starter,alola,pikachustarter,pikachu-starter,10317,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,"Pikachu (Starter)",pikachu-starter,8
-10033,25,25,[],gmax,Gigantamax,galar,pikachugmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Pikachu (Gigantamax)",pikachu-gmax,9
+10033,25,25,[],gmax,Gigantamax,galar,pikachugmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Pikachu (Gigantamax)",pikachu-gmax,9
 10034,25,25,[],world-cap,"World Cap",galar,pikachuworld,pikachu-world-cap,10319,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Pikachu (World Cap)",pikachu-world-cap,17
 10035,26,26,[],f,Female,kanto,,raichu,26,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,"Raichu (Female)",raichu-f,1
 10036,26,26,[],alola,Alola,alola,raichualola,raichu-alola,10202,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,7,"Alolan Raichu",raichu-alola,2
@@ -945,12 +945,12 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 10046,51,51,[],alola,Alola,alola,dugtrioalola,dugtrio-alola,10208,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,7,"Alolan Dugtrio",dugtrio-alola,1
 10047,52,52,[],alola,Alola,alola,meowthalola,meowth-alola,10209,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,7,"Alolan Meowth",meowth-alola,2
 10048,52,52,[],galar,Galar,galar,meowthgalar,meowth-galar,10320,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,8,"Galarian Meowth",meowth-galar,3
-10049,52,52,[],gmax,Gigantamax,galar,meowthgmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Meowth (Gigantamax)",meowth-gmax,1
+10049,52,52,[],gmax,Gigantamax,galar,meowthgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Meowth (Gigantamax)",meowth-gmax,1
 10050,53,53,[],alola,Alola,alola,persianalola,persian-alola,10210,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,7,"Alolan Persian",persian-alola,1
 10051,64,64,[],f,Female,kanto,,kadabra,64,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,"Kadabra (Female)",kadabra-f,1
 10052,65,65,[],f,Female,kanto,,alakazam,65,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,"Alakazam (Female)",alakazam-f,1
 10053,65,65,[],mega,Mega,kalos,alakazammega,alakazam-mega,10137,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,6,"Alakazam (Mega)",alakazam-mega,2
-10054,68,68,[],gmax,Gigantamax,galar,machampgmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Machamp (Gigantamax)",machamp-gmax,1
+10054,68,68,[],gmax,Gigantamax,galar,machampgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Machamp (Gigantamax)",machamp-gmax,1
 10055,74,74,[],alola,Alola,alola,geodudealola,geodude-alola,10211,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,7,"Alolan Geodude",geodude-alola,1
 10056,75,75,[],alola,Alola,alola,graveleralola,graveler-alola,10212,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,7,"Alolan Graveler",graveler-alola,1
 10057,76,76,[],alola,Alola,alola,golemalola,golem-alola,10213,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,7,"Alolan Golem",golem-alola,1
@@ -965,9 +965,9 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 10066,88,88,[],alola,Alola,alola,grimeralola,grimer-alola,10214,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,7,"Alolan Grimer",grimer-alola,1
 10067,89,89,[],alola,Alola,alola,mukalola,muk-alola,10215,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,7,"Alolan Muk",muk-alola,1
 10068,94,94,[],mega,Mega,kalos,gengarmega,gengar-mega,10138,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,6,"Gengar (Mega)",gengar-mega,2
-10069,94,94,[],gmax,Gigantamax,galar,gengargmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Gengar (Gigantamax)",gengar-gmax,1
+10069,94,94,[],gmax,Gigantamax,galar,gengargmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Gengar (Gigantamax)",gengar-gmax,1
 10070,97,97,[],f,Female,kanto,,hypno,97,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,"Hypno (Female)",hypno-f,1
-10071,99,99,[],gmax,Gigantamax,galar,kinglergmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Kingler (Gigantamax)",kingler-gmax,1
+10071,99,99,[],gmax,Gigantamax,galar,kinglergmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Kingler (Gigantamax)",kingler-gmax,1
 10072,103,103,[],alola,Alola,alola,exeggutoralola,exeggutor-alola,10216,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,7,"Alolan Exeggutor",exeggutor-alola,1
 10073,105,105,[],alola,Alola,alola,marowakalola,marowak-alola,10217,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,7,"Alolan Marowak",marowak-alola,1
 10074,105,105,[],alola-totem,"Alola Totem",alola,marowakalolatotem,marowak-totem,10268,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,7,"Alolan Marowak (Totem)",marowak-alola-totem,2
@@ -983,12 +983,12 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 10084,129,129,[],f,Female,kanto,,magikarp,129,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,"Magikarp (Female)",magikarp-f,1
 10085,130,130,[],f,Female,kanto,,gyarados,130,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,"Gyarados (Female)",gyarados-f,1
 10086,130,130,[],mega,Mega,kalos,gyaradosmega,gyarados-mega,10141,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,6,"Gyarados (Mega)",gyarados-mega,2
-10087,131,131,[],gmax,Gigantamax,galar,laprasgmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Lapras (Gigantamax)",lapras-gmax,1
+10087,131,131,[],gmax,Gigantamax,galar,laprasgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Lapras (Gigantamax)",lapras-gmax,1
 10088,133,133,[],f,Female,kanto,,eevee,133,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,"Eevee (Female)",eevee-f,1
 10089,133,133,[],starter,Starter,alola,eeveestarter,eevee-starter,10318,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,"Eevee (Starter)",eevee-starter,3
-10090,133,133,[],gmax,Gigantamax,galar,eeveegmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Eevee (Gigantamax)",eevee-gmax,2
+10090,133,133,[],gmax,Gigantamax,galar,eeveegmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Eevee (Gigantamax)",eevee-gmax,2
 10091,142,142,[],mega,Mega,kalos,aerodactylmega,aerodactyl-mega,10142,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,6,"Aerodactyl (Mega)",aerodactyl-mega,1
-10092,143,143,[],gmax,Gigantamax,galar,snorlaxgmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Snorlax (Gigantamax)",snorlax-gmax,1
+10092,143,143,[],gmax,Gigantamax,galar,snorlaxgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Snorlax (Gigantamax)",snorlax-gmax,1
 10093,144,144,[],galar,Galar,galar,articunogalar,articuno-galar,10328,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,8,"Galarian Articuno",articuno-galar,1
 10094,145,145,[],galar,Galar,galar,zapdosgalar,zapdos-galar,10329,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,8,"Galarian Zapdos",zapdos-galar,1
 10095,146,146,[],galar,Galar,galar,moltresgalar,moltres-galar,10330,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,8,"Galarian Moltres",moltres-galar,1
@@ -1175,7 +1175,7 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 10276,555,555,[],galar,Galar,galar,darmanitangalar,darmanitan-galar-standard,10336,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,8,"Galarian Darmanitan",darmanitan-galar,2
 10277,555,555,[],galar-zen,"Galar Zen",galar,darmanitangalarzen,darmanitan-galar-zen,10337,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,8,"Galarian Darmanitan (Zen)",darmanitan-galar-zen,3
 10278,562,562,[],galar,Galar,galar,yamaskgalar,yamask-galar,10338,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,8,"Galarian Yamask",yamask-galar,1
-10279,569,569,[],gmax,Gigantamax,galar,garbodorgmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Garbodor (Gigantamax)",garbodor-gmax,1
+10279,569,569,[],gmax,Gigantamax,galar,garbodorgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Garbodor (Gigantamax)",garbodor-gmax,1
 10280,585,585,[],summer,Summer,unova,deerling,deerling-summer,10068,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,5,"Deerling (Summer)",deerling-summer,1
 10281,585,585,[],autumn,Autumn,unova,deerling,deerling-autumn,10069,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,5,"Deerling (Autumn)",deerling-autumn,2
 10282,585,585,[],winter,Winter,unova,deerling,deerling-winter,10070,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,5,"Deerling (Winter)",deerling-winter,3
@@ -1285,13 +1285,13 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 10386,773,773,[],rock,Rock,alola,silvallyrock,silvally-rock,10236,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,7,"Silvally (Rock)",silvally-rock,5
 10387,773,773,[],steel,Steel,alola,silvallysteel,silvally-steel,10239,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,7,"Silvally (Steel)",silvally-steel,8
 10388,773,773,[],water,Water,alola,silvallywater,silvally-water,10241,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,7,"Silvally (Water)",silvally-water,10
-10389,774,774,[],orange,Orange,alola,minior,minior-orange,10256,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Orange)",minior-orange,2
-10390,774,774,[],yellow,Yellow,alola,minior,minior-yellow,10257,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Yellow)",minior-yellow,3
-10391,774,774,[],green,Green,alola,minior,minior-green,10258,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Green)",minior-green,4
-10392,774,774,[],blue,Blue,alola,minior,minior-blue,10259,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Blue)",minior-blue,5
-10393,774,774,[],indigo,Indigo,alola,minior,minior-indigo,10260,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Indigo)",minior-indigo,6
-10394,774,774,[],violet,Violet,alola,minior,minior-violet,10261,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Violet)",minior-violet,7
-10395,774,774,[],meteor,Meteor,alola,miniormeteor,minior-red-meteor,774,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,7,"Minior (Meteor)",minior-meteor,0
+10389,774,774,"[""minior-red-core""]",red,"Red Core",alola,minior,minior-red,10255,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Red Core)",minior-red,1
+10390,10389,774,[],orange,Orange,alola,minior,minior-orange,10256,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Orange)",minior-orange,2
+10391,10389,774,[],yellow,Yellow,alola,minior,minior-yellow,10257,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Yellow)",minior-yellow,3
+10392,10389,774,[],green,Green,alola,minior,minior-green,10258,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Green)",minior-green,4
+10393,10389,774,[],blue,Blue,alola,minior,minior-blue,10259,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Blue)",minior-blue,5
+10394,10389,774,[],indigo,Indigo,alola,minior,minior-indigo,10260,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Indigo)",minior-indigo,6
+10395,10389,774,[],violet,Violet,alola,minior,minior-violet,10261,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Minior (Violet)",minior-violet,7
 10396,777,777,[],totem,Totem,alola,togedemarutotem,togedemaru-totem,10313,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,7,"Togedemaru (Totem)",togedemaru-totem,1
 10397,778,778,[],busted,Busted,alola,mimikyubusted,mimikyu-busted,10262,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,7,"Mimikyu (Busted)",mimikyu-busted,1
 10398,778,778,[],totem,Totem,alola,mimikyutotem,mimikyu-totem-disguised,10263,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,7,"Mimikyu (Totem)",mimikyu-totem,2
@@ -1301,27 +1301,27 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 10402,800,800,[],dawn-wings,"Dawn Wings",alola,necrozmadawnwings,necrozma-dawn,10315,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,7,"Necrozma (Dawn Wings)",necrozma-dawn-wings,2
 10403,800,800,[],ultra,Ultra,alola,necrozmaultra,necrozma-ultra,10316,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,7,"Necrozma (Ultra)",necrozma-ultra,3
 10404,801,801,[],original,Original,alola,magearnaoriginal,magearna-original,10266,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Magearna (Original)",magearna-original,1
-10405,809,809,[],gmax,Gigantamax,unknown,melmetalgmax,,,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Melmetal (Gigantamax)",melmetal-gmax,1
-10406,812,812,[],gmax,Gigantamax,galar,rillaboomgmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Rillaboom (Gigantamax)",rillaboom-gmax,1
-10407,815,815,[],gmax,Gigantamax,galar,cinderacegmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Cinderace (Gigantamax)",cinderace-gmax,1
-10408,818,818,[],gmax,Gigantamax,galar,inteleongmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Inteleon (Gigantamax)",inteleon-gmax,1
-10409,823,823,[],gmax,Gigantamax,galar,corviknightgmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Corviknight (Gigantamax)",corviknight-gmax,1
-10410,826,826,[],gmax,Gigantamax,galar,orbeetlegmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Orbeetle (Gigantamax)",orbeetle-gmax,1
-10411,834,834,[],gmax,Gigantamax,galar,drednawgmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Drednaw (Gigantamax)",drednaw-gmax,1
-10412,839,839,[],gmax,Gigantamax,galar,coalossalgmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Coalossal (Gigantamax)",coalossal-gmax,1
-10413,841,841,[],gmax,Gigantamax,galar,flapplegmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Flapple (Gigantamax)",flapple-gmax,1
-10414,842,842,[],gmax,Gigantamax,galar,appletungmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Appletun (Gigantamax)",appletun-gmax,1
-10415,844,844,[],gmax,Gigantamax,galar,sandacondagmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Sandaconda (Gigantamax)",sandaconda-gmax,1
+10405,809,809,[],gmax,Gigantamax,unknown,melmetalgmax,,,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Melmetal (Gigantamax)",melmetal-gmax,1
+10406,812,812,[],gmax,Gigantamax,galar,rillaboomgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Rillaboom (Gigantamax)",rillaboom-gmax,1
+10407,815,815,[],gmax,Gigantamax,galar,cinderacegmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Cinderace (Gigantamax)",cinderace-gmax,1
+10408,818,818,[],gmax,Gigantamax,galar,inteleongmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Inteleon (Gigantamax)",inteleon-gmax,1
+10409,823,823,[],gmax,Gigantamax,galar,corviknightgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Corviknight (Gigantamax)",corviknight-gmax,1
+10410,826,826,[],gmax,Gigantamax,galar,orbeetlegmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Orbeetle (Gigantamax)",orbeetle-gmax,1
+10411,834,834,[],gmax,Gigantamax,galar,drednawgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Drednaw (Gigantamax)",drednaw-gmax,1
+10412,839,839,[],gmax,Gigantamax,galar,coalossalgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Coalossal (Gigantamax)",coalossal-gmax,1
+10413,841,841,[],gmax,Gigantamax,galar,flapplegmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Flapple (Gigantamax)",flapple-gmax,1
+10414,842,842,[],gmax,Gigantamax,galar,appletungmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Appletun (Gigantamax)",appletun-gmax,1
+10415,844,844,[],gmax,Gigantamax,galar,sandacondagmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Sandaconda (Gigantamax)",sandaconda-gmax,1
 10416,845,845,[],gulping,Gulping,galar,cramorantgulping,cramorant-gulping,10341,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,8,"Cramorant (Gulping)",cramorant-gulping,1
 10417,845,845,[],gorging,Gorging,galar,cramorantgorging,cramorant-gorging,10342,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,8,"Cramorant (Gorging)",cramorant-gorging,2
 10418,849,849,[],low-key,"Low Key",galar,toxtricitylowkey,toxtricity-low-key,10343,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Toxtricity (Low Key)",toxtricity-low-key,1
-10419,849,849,[],gmax,Gigantamax,galar,toxtricitygmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Toxtricity (Gigantamax)",toxtricity-gmax,2
+10419,849,849,[],gmax,Gigantamax,galar,toxtricitygmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Toxtricity (Gigantamax)",toxtricity-gmax,2
 10420,849,849,[],low-key-gigantamax,"Low Key (Gigantamax",galar,toxtricitylowkeygmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Toxtricity (Low Key (Gigantamax))",toxtricity-low-key-gmax,3
-10421,851,851,[],gmax,Gigantamax,galar,centiskorchgmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Centiskorch (Gigantamax)",centiskorch-gmax,1
+10421,851,851,[],gmax,Gigantamax,galar,centiskorchgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Centiskorch (Gigantamax)",centiskorch-gmax,1
 10422,854,854,[],antique,Antique,galar,sinisteaantique,sinistea-antique,10344,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Sinistea (Antique)",sinistea-antique,1
 10423,855,855,[],antique,Antique,galar,polteageistantique,polteageist-antique,10345,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Polteageist (Antique)",polteageist-antique,1
-10424,858,858,[],gmax,Gigantamax,galar,hatterenegmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Hatterene (Gigantamax)",hatterene-gmax,1
-10425,861,861,[],gmax,Gigantamax,galar,grimmsnarlgmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Grimmsnarl (Gigantamax)",grimmsnarl-gmax,1
+10424,858,858,[],gmax,Gigantamax,galar,hatterenegmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Hatterene (Gigantamax)",hatterene-gmax,1
+10425,861,861,[],gmax,Gigantamax,galar,grimmsnarlgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Grimmsnarl (Gigantamax)",grimmsnarl-gmax,1
 10426,869,869,[],vanilla-cream-berry,"Vanilla Cream Berry",galar,alcremie,alcremie-vanilla-cream,869,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Alcremie (Vanilla Cream Berry)",alcremie-vanilla-cream-berry,1
 10427,869,869,[],vanilla-cream-love,"Vanilla Cream Love",galar,alcremie,alcremie-vanilla-cream,869,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Alcremie (Vanilla Cream Love)",alcremie-vanilla-cream-love,2
 10428,869,869,[],vanilla-cream-star,"Vanilla Cream Star",galar,alcremie,alcremie-vanilla-cream,869,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Alcremie (Vanilla Cream Star)",alcremie-vanilla-cream-star,3
@@ -1384,17 +1384,17 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 10485,869,869,[],rainbow-swirl-clover,"Rainbow Swirl Clover",galar,alcremie,alcremie-rainbow-swirl,10353,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Alcremie (Rainbow Swirl Clover)",alcremie-rainbow-swirl-clover,60
 10486,869,869,[],rainbow-swirl-flower,"Rainbow Swirl Flower",galar,alcremie,alcremie-rainbow-swirl,10353,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Alcremie (Rainbow Swirl Flower)",alcremie-rainbow-swirl-flower,61
 10487,869,869,[],rainbow-swirl-ribbon,"Rainbow Swirl Ribbon",galar,alcremie,alcremie-rainbow-swirl,10353,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Alcremie (Rainbow Swirl Ribbon)",alcremie-rainbow-swirl-ribbon,62
-10488,869,869,[],gmax,Gigantamax,galar,alcremiegmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Alcremie (Gigantamax)",alcremie-gmax,63
+10488,869,869,[],gmax,Gigantamax,galar,alcremiegmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Alcremie (Gigantamax)",alcremie-gmax,63
 10489,875,875,[],noice,"Noice Face",galar,eiscuenoice,eiscue-noice,10354,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,8,"Eiscue (Noice Face)",eiscue-noice,1
 10490,876,876,[],f,Female,galar,indeedeef,indeedee-female,10355,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1,8,"Indeedee (Female)",indeedee-f,1
 10491,877,877,[],hangry,Hangry,galar,morpekohangry,morpeko-hangry,10356,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,8,"Morpeko (Hangry)",morpeko-hangry,1
-10492,879,879,[],gmax,Gigantamax,galar,copperajahgmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Copperajah (Gigantamax)",copperajah-gmax,1
-10493,884,884,[],gmax,Gigantamax,galar,duraludongmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Duraludon (Gigantamax)",duraludon-gmax,1
+10492,879,879,[],gmax,Gigantamax,galar,copperajahgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Copperajah (Gigantamax)",copperajah-gmax,1
+10493,884,884,[],gmax,Gigantamax,galar,duraludongmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Duraludon (Gigantamax)",duraludon-gmax,1
 10494,888,888,[],crowned,Crowned,galar,zaciancrowned,zacian-crowned,10357,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,8,"Zacian (Crowned)",zacian-crowned,1
 10495,889,889,[],crowned,Crowned,galar,zamazentacrowned,zamazenta-crowned,10358,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,8,"Zamazenta (Crowned)",zamazenta-crowned,1
 10496,890,890,[],eternamax,Eternamax,galar,eternatuseternamax,eternatus-eternamax,10359,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,8,"Eternatus (Eternamax)",eternatus-eternamax,1
 10497,892,892,[],rapid-strike,"Rapid Strike",galar,urshifurapidstrike,urshifu-rapid-strike,10360,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Urshifu (Rapid Strike)",urshifu-rapid-strike,2
-10498,892,892,[],gmax,Gigantamax,galar,urshifugmax,,,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Urshifu (Gigantamax)",urshifu-gmax,1
+10498,892,892,[],gmax,Gigantamax,galar,urshifugmax,,,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Urshifu (Gigantamax)",urshifu-gmax,1
 10499,892,892,[],rapid-strike-gigantamax,"Rapid Strike (Gigantamax",galar,urshifurapidstrikegmax,,,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Urshifu (Rapid Strike (Gigantamax))",urshifu-rapid-strike-gmax,3
 10500,893,893,[],dada,Dada,galar,zarudedada,zarude-dada,10361,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Zarude (Dada)",zarude-dada,1
 10501,898,898,[],ice,Ice,galar,calyrexice,calyrex-ice,10362,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,8,"Calyrex (Ice)",calyrex-ice,1

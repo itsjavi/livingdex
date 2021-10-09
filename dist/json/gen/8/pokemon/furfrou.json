@@ -15,6 +15,10 @@
     "furfrou-kabuki",
     "furfrou-pharaoh"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Natural",
   "formSlug": "natural",
   "formOrder": 0,
@@ -63,7 +67,6 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,

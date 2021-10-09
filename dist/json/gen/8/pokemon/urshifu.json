@@ -9,6 +9,10 @@
     "urshifu-rapid-strike",
     "urshifu-rapid-strike-gmax"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Single-Strike",
   "formSlug": "single-strike",
   "formOrder": 0,
@@ -57,7 +61,6 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,

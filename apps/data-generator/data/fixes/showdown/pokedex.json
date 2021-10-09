@@ -53,6 +53,18 @@
       "Vivillon-Tundra"
     ]
   },
+  "miniormeteor": {
+    "name": "Minior",
+    "baseForme": "Meteor",
+    "baseSpecies": null,
+    "forme": null
+  },
+  "minior": {
+    "name": "Minior-Red",
+    "baseForme": null,
+    "baseSpecies": "Minior",
+    "forme": "Red"
+  },
   "xerneas": {
     "name": "Xerneas",
     "baseForme": "Neutral",

@@ -7,6 +7,10 @@
   "forms": [
     "meloetta-pirouette"
   ],
+  "isHomeRegistrable": true,
+  "isBattleOnly": false,
+  "isReversible": false,
+  "isGmax": false,
   "formName": "Aria",
   "formSlug": "aria",
   "formOrder": 0,
@@ -55,7 +59,6 @@
   "isFusion": false,
   "isMega": false,
   "isPrimal": false,
-  "isGmax": false,
   "canDynamax": true,
   "isTotem": false,
   "isRegional": false,

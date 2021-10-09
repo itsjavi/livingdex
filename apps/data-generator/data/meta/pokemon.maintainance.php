@@ -1,4 +1,5 @@
-<?php // Maintainance script to quickly edit data.
+<?php
+// Maintainance script to quickly edit data.
 
 namespace Tools;
 
@@ -23,6 +24,12 @@ $pokedex = JsonEncoder::decode(file_get_contents(__DIR__ . '/pokemon.json'));
 foreach ($pokedex as $slug => $pk) {
     // $pokedex[$slug]['is_female'] = ($pk['form_slug'] === 'female');
     // unset($pokedex[$slug]['sorting_order']);
+//    if (stripos($pk['form_slug'] . '', 'gmax') !== false) {
+//        $pokedex[$slug]['is_gmax'] = true;
+//        $pokedex[$slug]['is_home_storable'] = false;
+//        $pokedex[$slug]['is_home_registrable'] = true;
+//    }
+//    unset($pokedex[$slug]['isGmax'], $pokedex[$slug]['isHomeStorable'], $pokedex[$slug]['isHomeRegistrable']);
 }
 
 save_json($pokedex, __DIR__ . '/pokemon.json');

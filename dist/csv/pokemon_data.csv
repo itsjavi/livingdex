@@ -772,7 +772,7 @@ id,pokemon_id,ability1_id,ability2_id,ability_hidden_id,type1,type2,egg_group1,e
 771,771,215,,109,water,,water-1,,30,120,black,black,serpentine,0,0,fast,60,15,50,55,60,130,30,130,5,144,0,0,0,0,2,0,8
 772,772,4,,,normal,,undiscovered,,190,12050,gray,gray,quadruped,0,0,slow,3,120,0,95,95,95,95,95,59,107,2,0,0,0,0,0,8
 773,773,225,,,normal,,undiscovered,,229,10050,gray,gray,quadruped,0,0,slow,3,120,0,95,95,95,95,95,95,285,3,0,0,0,0,0,8
-774,774,197,,,rock,flying,mineral,,30,30,red,red,head,0,0,medium-slow,30,25,70,60,100,60,100,60,120,175,0,1,0,1,0,0,8
+774,774,197,,,rock,flying,mineral,,30,4000,brown,brown,head,0,0,medium-slow,30,25,70,60,60,100,60,100,60,154,0,0,1,0,1,0,8
 775,775,213,,,normal,,field,,40,1989,blue,blue,bipedal-tailless,0,0,slow,45,20,70,65,115,65,75,95,65,168,0,2,0,0,0,0,8
 776,776,75,,,fire,dragon,monster,dragon,200,21200,red,red,bipedal-tailed,0,0,medium-fast,70,20,50,60,78,135,91,85,36,170,0,0,2,0,0,0,8
 777,777,160,31,5,electric,steel,field,fairy,30,330,gray,gray,bipedal-tailed,0,0,medium-fast,180,10,50,65,98,63,40,73,96,152,0,2,0,0,0,0,8
