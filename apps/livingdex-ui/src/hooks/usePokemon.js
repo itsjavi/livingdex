@@ -1,5 +1,5 @@
-import { useEffect, useState } from "react"
-import { PokeApi } from "../app/api"
+import {useEffect, useState} from "react"
+import {PokeApi} from "../app/api"
 
 const api = new PokeApi()
 
@@ -34,9 +34,10 @@ function fetchPokemon(slug) {
 /**
  * @param {int} gen
  * @param {string} slug
+ * @param {boolean} withForms
  * @return {{pokemon: PokemonDetails, loading: boolean}}
  */
-function usePokemon(gen, slug) {
+function usePokemon(gen, slug, withForms = false) {
   const [pokemon, setPokemon] = useState(null)
   const [loading, setLoading] = useState(true)
 
@@ -46,6 +47,14 @@ function usePokemon(gen, slug) {
       api.generation = gen
 
       const response = await fetchPokemon(slug)
+
+      if ((response.forms !== null) && (response.forms.length > 0)) {
+        await Promise.all(response.forms.map(async (formSlug) => {
+          return await fetchPokemon(formSlug)
+        })).then((forms) => {
+          response.forms = forms
+        });
+      }
       setPokemon(response)
       setLoading(false)
     }
@@ -53,7 +62,7 @@ function usePokemon(gen, slug) {
     fetchPokemonEffect()
   }, [gen, slug])
 
-  return { pokemon: pokemon, loading: loading }
+  return {pokemon: pokemon, loading: loading}
 }
 
 export default usePokemon

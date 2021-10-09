@@ -1885,8 +1885,8 @@
   "pikachustarter": {
     "gen": 7,
     "region": "alola",
-    "name": "Pikachu (Starter)",
-    "form_name": "Starter",
+    "name": "Pikachu (Let's Go Starter)",
+    "form_name": "Let's Go Starter",
     "slug": "pikachu-starter",
     "slug_aliases": [],
     "form_slug": "starter",
@@ -8376,8 +8376,8 @@
   "eeveestarter": {
     "gen": 7,
     "region": "alola",
-    "name": "Eevee (Starter)",
-    "form_name": "Starter",
+    "name": "Eevee (Let's Go Starter)",
+    "form_name": "Let's Go Starter",
     "slug": "eevee-starter",
     "slug_aliases": [],
     "form_slug": "starter",
@@ -49195,10 +49195,11 @@
     "gen": 8,
     "region": "galar",
     "name": "Alcremie",
-    "form_name": "Vanilla Cream",
+    "form_name": "Vanilla Cream (Strawberry)",
     "slug": "alcremie",
     "slug_aliases": [
-      "alcremie-vanilla-cream"
+      "alcremie-vanilla-cream",
+      "alcremie-vanilla-cream-strawberry"
     ],
     "form_slug": "vanilla-cream",
     "is_cosmetic": false,

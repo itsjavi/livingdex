@@ -1,5 +1,16 @@
 .pokemonDetailsPage {
   position: relative;
+  text-align: center;
+}
+
+.pokemonDetailsPage h3 {
+  padding: 1em 0;
+  margin: 2em 0 0.5em 0;
+  background: rgba(255, 255, 255, .1);
+  background: linear-gradient(180deg, rgba(255, 255, 255,0.15) 0%, rgba(255,255,255,0) 100%);;
+  /*display: inline-block;*/
+  border-top: 2px solid rgba(0, 0, 0, 0.08);
+  /*border-bottom: 2px solid rgba(0, 0, 0, 0.08);*/
 }
 
 .pokemonCardWrapper {
@@ -25,7 +36,7 @@ hr {
 
 .mugShot {
   display: inline-block;
-  margin: 1em;
+  margin: 0.8em;
   padding: 1em;
   background: rgba(255, 255, 255, .6);
   text-align: center;
@@ -37,6 +48,22 @@ hr {
 
 .currentMugShot {
   box-shadow: 2px 2px 2px 5px rgba(0, 0, 0, 0.45);
+}
+
+.mugShotTitle {
+  display: block;
+  font-size: 0.8em;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.45);
+  max-width: 68px;
+  margin: 0 auto;
+  text-overflow: fade;
+}
+
+.mugShotWrapper {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0.25em;
 }
 
 /*.pokemonCard a {*/
