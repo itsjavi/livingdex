@@ -20,7 +20,6 @@ $generateCssHtml = static function (
     array $spriteSheetFileVariants,
     bool $crispy
 ) {
-
     $outerThumbWidth = ($thumbWidth + ($thumbPadding * 2));
     $outerThumbHeight = ($thumbHeight + ($thumbPadding * 2));
 
@@ -112,9 +111,12 @@ HTML;
         foreach ($row as $colIndex => $data) {
             [$names, $percentX, $percentY] = $data;
 
-            $cssClasses = array_map(function ($slug) use ($classPrefix) {
-                return ".{$classPrefix}-{$slug}";
-            }, $names);
+            $cssClasses = array_map(
+                function ($slug) use ($classPrefix) {
+                    return ".{$classPrefix}-{$slug}";
+                },
+                $names
+            );
 
             $css .= sprintf(
                 $cssTemplate,
@@ -134,6 +136,8 @@ HTML;
     return [$css, $html];
 };
 
+$fileVersion = time();
+
 // HOME renders
 [$spriteSheetWidth, $spriteSheetHeight] = getimagesize($spriteSheetsDir . '/pokemon-home-regular.png');
 [$homeCss, $homeHtml] = $generateCssHtml(
@@ -144,8 +148,8 @@ HTML;
     64,
     64,
     2,
-    'pokemon-home-regular.png',
-    ['shiny' => 'pokemon-home-shiny.png'],
+    'pokemon-home-regular.png?v=' . $fileVersion,
+    ['shiny' => 'pokemon-home-shiny.png?v=' . $fileVersion],
     false
 );
 file_put_contents($spriteSheetsDir . '/pokemon-home.html', $homeHtml);
@@ -160,8 +164,8 @@ file_put_contents($spriteSheetsDir . '/pokemon-home.html', $homeHtml);
     68,
     56,
     2,
-    'pokemon-menu-regular.png',
-    ['shiny' => 'pokemon-menu-shiny.png'],
+    'pokemon-menu-regular.png?v=' . $fileVersion,
+    ['shiny' => 'pokemon-menu-shiny.png?v=' . $fileVersion],
     true
 );
 file_put_contents($spriteSheetsDir . '/pokemon-menu.html', $menuHtml);

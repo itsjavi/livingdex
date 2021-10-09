@@ -37857,7 +37857,7 @@
     "gen": 6,
     "region": "kalos",
     "name": "Aegislash",
-    "form_name": "Shield",
+    "form_name": "Shield Forme",
     "slug": "aegislash",
     "slug_aliases": [
       "aegislash-shield"
@@ -37896,8 +37896,8 @@
   "aegislashblade": {
     "gen": 6,
     "region": "kalos",
-    "name": "Aegislash (Blade)",
-    "form_name": "Blade",
+    "name": "Aegislash (Blade Forme)",
+    "form_name": "Blade Forme",
     "slug": "aegislash-blade",
     "slug_aliases": [],
     "form_slug": "blade",
@@ -42963,9 +42963,7 @@
     "name": "Minior (Red Core)",
     "form_name": "Red Core",
     "slug": "minior-red",
-    "slug_aliases": [
-      "minior-red-core"
-    ],
+    "slug_aliases": [],
     "form_slug": "red",
     "is_cosmetic": false,
     "has_gender_diffs": false,
@@ -43026,7 +43024,7 @@
     },
     "is_default": false,
     "is_form": true,
-    "base_species": "minior-red",
+    "base_species": "minior",
     "changes_from": [
       "minior"
     ],
@@ -43063,7 +43061,7 @@
     },
     "is_default": false,
     "is_form": true,
-    "base_species": "minior-red",
+    "base_species": "minior",
     "changes_from": [
       "minior"
     ],
@@ -43100,7 +43098,7 @@
     },
     "is_default": false,
     "is_form": true,
-    "base_species": "minior-red",
+    "base_species": "minior",
     "changes_from": [
       "minior"
     ],
@@ -43137,7 +43135,7 @@
     },
     "is_default": false,
     "is_form": true,
-    "base_species": "minior-red",
+    "base_species": "minior",
     "changes_from": [
       "minior"
     ],
@@ -43174,7 +43172,7 @@
     },
     "is_default": false,
     "is_form": true,
-    "base_species": "minior-red",
+    "base_species": "minior",
     "changes_from": [
       "minior"
     ],
@@ -43211,7 +43209,7 @@
     },
     "is_default": false,
     "is_form": true,
-    "base_species": "minior-red",
+    "base_species": "minior",
     "changes_from": [
       "minior"
     ],
@@ -46971,11 +46969,11 @@
   "toxtricitylowkeygmax": {
     "gen": 8,
     "region": "galar",
-    "name": "Toxtricity (Low Key (Gigantamax))",
+    "name": "Toxtricity (Low Key Gigantamax)",
     "form_name": "Low Key (Gigantamax",
     "slug": "toxtricity-low-key-gmax",
     "slug_aliases": [],
-    "form_slug": "low-key-gigantamax",
+    "form_slug": "low-key-gmax",
     "is_cosmetic": false,
     "has_gender_diffs": false,
     "is_female": false,
@@ -46983,14 +46981,14 @@
     "is_reversible": true,
     "is_fusion": false,
     "can_dynamax": false,
-    "is_gmax": false,
+    "is_gmax": true,
     "is_legendary": false,
     "is_mythical": false,
     "is_mega": false,
     "is_primal": false,
     "is_totem": false,
     "is_regional": false,
-    "is_home_storable": true,
+    "is_home_storable": false,
     "is_home_registrable": true,
     "images": {
       "home_render": "0849-low-key-gmax",
@@ -50549,10 +50547,10 @@
     "gen": 8,
     "region": "galar",
     "name": "Morpeko",
-    "form_name": null,
+    "form_name": "Full Belly Mode",
     "slug": "morpeko",
-    "slug_aliases": [],
-    "form_slug": null,
+    "slug_aliases": ["morpeko-full-belly"],
+    "form_slug": "full-belly",
     "is_cosmetic": false,
     "has_gender_diffs": false,
     "is_female": false,
@@ -50586,8 +50584,8 @@
   "morpekohangry": {
     "gen": 8,
     "region": "galar",
-    "name": "Morpeko (Hangry)",
-    "form_name": "Hangry",
+    "name": "Morpeko (Hangry Mode)",
+    "form_name": "Hangry Mode",
     "slug": "morpeko-hangry",
     "slug_aliases": [],
     "form_slug": "hangry",
@@ -51336,7 +51334,7 @@
     "gen": 8,
     "region": "galar",
     "name": "Urshifu",
-    "form_name": "Single-Strike",
+    "form_name": "Single Strike",
     "slug": "urshifu",
     "slug_aliases": [
       "urshifu-single-strike"
@@ -51412,8 +51410,8 @@
   "urshifugmax": {
     "gen": 8,
     "region": "galar",
-    "name": "Urshifu (Gigantamax)",
-    "form_name": "Gigantamax",
+    "name": "Urshifu (Single Strike Gigantamax)",
+    "form_name": "Single Strike Gigantamax",
     "slug": "urshifu-gmax",
     "slug_aliases": [],
     "form_slug": "gmax",
@@ -51449,11 +51447,11 @@
   "urshifurapidstrikegmax": {
     "gen": 8,
     "region": "galar",
-    "name": "Urshifu (Rapid Strike (Gigantamax))",
-    "form_name": "Rapid Strike (Gigantamax",
+    "name": "Urshifu (Rapid Strike Gigantamax)",
+    "form_name": "Rapid Strike Gigantamax",
     "slug": "urshifu-rapid-strike-gmax",
     "slug_aliases": [],
-    "form_slug": "rapid-strike-gigantamax",
+    "form_slug": "rapid-strike-gmax",
     "is_cosmetic": false,
     "has_gender_diffs": false,
     "is_female": false,
@@ -51461,14 +51459,14 @@
     "is_reversible": true,
     "is_fusion": false,
     "can_dynamax": false,
-    "is_gmax": false,
+    "is_gmax": true,
     "is_legendary": true,
     "is_mythical": false,
     "is_mega": false,
     "is_primal": false,
     "is_totem": false,
     "is_regional": false,
-    "is_home_storable": true,
+    "is_home_storable": false,
     "is_home_registrable": true,
     "images": {
       "home_render": "0892-rapid-strike-gmax",

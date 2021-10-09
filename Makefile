@@ -22,8 +22,10 @@ clear: # remove all generated data, except sources
 		apps/livingdex-ui/build/* \
 		apps/livingdex-ui/public/assets/*
 	##
-	docker-compose run --rm --workdir=/usr/src/project/apps/data-generator phpfpm composer dumpautoload
-	docker-compose run --rm --workdir=/usr/src/project/apps/data-generator phpfpm bin/console cache:clear
+	sleep 2
+	docker-compose run --rm data-generator /bin/bash -c "composer dumpautoload && bin/console cache:clear"
 
 clear-sources:
 	rm -rf ./.sources/*
+
+clean-build: clear default

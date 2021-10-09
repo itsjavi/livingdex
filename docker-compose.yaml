@@ -112,9 +112,11 @@ services:
       - SPRITESHEETS_DIR=/usr/shared/ui-public/assets/spritesheets/pokemon
       - HOME_IMG_DIR=/usr/shared/sources/livingdex-renders/images/pokemon
       - POKESPRITE_IMG_DIR=/usr/shared/sources/msikma-pokesprite/pokemon-gen8
+      - POKEMON_META_JSON_FILE=/usr/shared/meta/pokemon.json
       - POKEMON_JSON_FILE=/usr/shared/dist/json/gen/8/pokemon-forms.json
     restart: on-failure
     volumes:
+      - './apps/data-generator/data/meta:/usr/shared/meta:ro'
       - './apps/spritesheet-generator:/usr/src/app'
       - './apps/livingdex-ui/public:/usr/shared/ui-public'
       - './.sources:/usr/shared/sources:ro'

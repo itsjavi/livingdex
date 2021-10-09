@@ -57,6 +57,11 @@ function pokemon_data(): array
     return json_decode_file(getenv('POKEMON_JSON_FILE'));
 }
 
+function pokemon_meta_data(): array
+{
+    return json_decode_file(getenv('POKEMON_META_JSON_FILE'));
+}
+
 function home_img_dir(): string
 {
     return getenv('HOME_IMG_DIR');

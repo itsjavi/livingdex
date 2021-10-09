@@ -679,7 +679,7 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 678,,678,"[""meowstic-m""]",m,Male,kalos,meowstic,meowstic-male,678,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,6,Meowstic,meowstic,0
 679,,679,[],,,kalos,honedge,honedge,679,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,Honedge,honedge,0
 680,,680,[],,,kalos,doublade,doublade,680,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,Doublade,doublade,0
-681,,681,"[""aegislash-shield""]",shield,Shield,kalos,aegislash,aegislash-shield,681,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,Aegislash,aegislash,0
+681,,681,"[""aegislash-shield""]",shield,"Shield Forme",kalos,aegislash,aegislash-shield,681,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,Aegislash,aegislash,0
 682,,682,[],,,kalos,spritzee,spritzee,682,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,Spritzee,spritzee,0
 683,,683,[],,,kalos,aromatisse,aromatisse,683,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,Aromatisse,aromatisse,0
 684,,684,[],,,kalos,swirlix,swirlix,684,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,Swirlix,swirlix,0
@@ -875,7 +875,7 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 874,,874,[],,,galar,stonjourner,stonjourner,874,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Stonjourner,stonjourner,0
 875,,875,"[""eiscue-ice""]",ice,"Ice Face",galar,eiscue,eiscue-ice,875,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Eiscue,eiscue,0
 876,,876,"[""indeedee-m""]",m,Male,galar,indeedee,indeedee-male,876,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,8,Indeedee,indeedee,0
-877,,877,[],,,galar,morpeko,morpeko-full-belly,877,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Morpeko,morpeko,0
+877,,877,"[""morpeko-full-belly""]",full-belly,"Full Belly Mode",galar,morpeko,morpeko-full-belly,877,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Morpeko,morpeko,0
 878,,878,[],,,galar,cufant,cufant,878,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Cufant,cufant,0
 879,,879,[],,,galar,copperajah,copperajah,879,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Copperajah,copperajah,0
 880,,880,[],,,galar,dracozolt,dracozolt,880,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Dracozolt,dracozolt,0
@@ -890,7 +890,7 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 889,,889,"[""zamazenta-hero""]",hero,Hero,galar,zamazenta,zamazenta,889,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,Zamazenta,zamazenta,0
 890,,890,[],,,galar,eternatus,eternatus,890,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,Eternatus,eternatus,0
 891,,891,[],,,galar,kubfu,kubfu,891,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Kubfu,kubfu,0
-892,,892,"[""urshifu-single-strike""]",single-strike,Single-Strike,galar,urshifu,urshifu-single-strike,892,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Urshifu,urshifu,0
+892,,892,"[""urshifu-single-strike""]",single-strike,"Single Strike",galar,urshifu,urshifu-single-strike,892,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Urshifu,urshifu,0
 893,,893,[],,,galar,zarude,zarude,893,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Zarude,zarude,0
 894,,894,[],,,galar,regieleki,regieleki,894,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Regieleki,regieleki,0
 895,,895,[],,,galar,regidrago,regidrago,895,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Regidrago,regidrago,0
@@ -1241,7 +1241,7 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 10342,676,676,[],pharaoh,Pharaoh,kalos,furfrou,furfrou-pharaoh,10123,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,6,"Furfrou (Pharaoh)",furfrou-pharaoh,9
 10343,676,676,[],star,Star,kalos,furfrou,furfrou-star,10116,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,6,"Furfrou (Star)",furfrou-star,2
 10344,678,678,[],f,Female,kalos,meowsticf,meowstic-female,10124,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1,6,"Meowstic (Female)",meowstic-f,1
-10345,681,681,[],blade,Blade,kalos,aegislashblade,aegislash-blade,10125,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,6,"Aegislash (Blade)",aegislash-blade,1
+10345,681,681,[],blade,"Blade Forme",kalos,aegislashblade,aegislash-blade,10125,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,6,"Aegislash (Blade Forme)",aegislash-blade,1
 10346,710,710,[],small,Small,kalos,pumpkaboosmall,pumpkaboo-small,10126,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,"Pumpkaboo (Small)",pumpkaboo-small,1
 10347,710,710,[],large,Large,kalos,pumpkaboolarge,pumpkaboo-large,10127,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,"Pumpkaboo (Large)",pumpkaboo-large,2
 10348,710,710,[],super,Super,kalos,pumpkaboosuper,pumpkaboo-super,10128,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,"Pumpkaboo (Super)",pumpkaboo-super,3
@@ -1316,7 +1316,7 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 10417,845,845,[],gorging,Gorging,galar,cramorantgorging,cramorant-gorging,10342,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,8,"Cramorant (Gorging)",cramorant-gorging,2
 10418,849,849,[],low-key,"Low Key",galar,toxtricitylowkey,toxtricity-low-key,10343,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Toxtricity (Low Key)",toxtricity-low-key,1
 10419,849,849,[],gmax,Gigantamax,galar,toxtricitygmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Toxtricity (Gigantamax)",toxtricity-gmax,2
-10420,849,849,[],low-key-gigantamax,"Low Key (Gigantamax",galar,toxtricitylowkeygmax,,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Toxtricity (Low Key (Gigantamax))",toxtricity-low-key-gmax,3
+10420,849,849,[],low-key-gmax,"Low Key (Gigantamax",galar,toxtricitylowkeygmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Toxtricity (Low Key Gigantamax)",toxtricity-low-key-gmax,3
 10421,851,851,[],gmax,Gigantamax,galar,centiskorchgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Centiskorch (Gigantamax)",centiskorch-gmax,1
 10422,854,854,[],antique,Antique,galar,sinisteaantique,sinistea-antique,10344,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Sinistea (Antique)",sinistea-antique,1
 10423,855,855,[],antique,Antique,galar,polteageistantique,polteageist-antique,10345,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Polteageist (Antique)",polteageist-antique,1
@@ -1387,15 +1387,15 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 10488,869,869,[],gmax,Gigantamax,galar,alcremiegmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Alcremie (Gigantamax)",alcremie-gmax,63
 10489,875,875,[],noice,"Noice Face",galar,eiscuenoice,eiscue-noice,10354,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,8,"Eiscue (Noice Face)",eiscue-noice,1
 10490,876,876,[],f,Female,galar,indeedeef,indeedee-female,10355,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1,8,"Indeedee (Female)",indeedee-f,1
-10491,877,877,[],hangry,Hangry,galar,morpekohangry,morpeko-hangry,10356,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,8,"Morpeko (Hangry)",morpeko-hangry,1
+10491,877,877,[],hangry,"Hangry Mode",galar,morpekohangry,morpeko-hangry,10356,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,8,"Morpeko (Hangry Mode)",morpeko-hangry,1
 10492,879,879,[],gmax,Gigantamax,galar,copperajahgmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Copperajah (Gigantamax)",copperajah-gmax,1
 10493,884,884,[],gmax,Gigantamax,galar,duraludongmax,,,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Duraludon (Gigantamax)",duraludon-gmax,1
 10494,888,888,[],crowned,Crowned,galar,zaciancrowned,zacian-crowned,10357,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,8,"Zacian (Crowned)",zacian-crowned,1
 10495,889,889,[],crowned,Crowned,galar,zamazentacrowned,zamazenta-crowned,10358,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,8,"Zamazenta (Crowned)",zamazenta-crowned,1
 10496,890,890,[],eternamax,Eternamax,galar,eternatuseternamax,eternatus-eternamax,10359,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,8,"Eternatus (Eternamax)",eternatus-eternamax,1
 10497,892,892,[],rapid-strike,"Rapid Strike",galar,urshifurapidstrike,urshifu-rapid-strike,10360,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Urshifu (Rapid Strike)",urshifu-rapid-strike,2
-10498,892,892,[],gmax,Gigantamax,galar,urshifugmax,,,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Urshifu (Gigantamax)",urshifu-gmax,1
-10499,892,892,[],rapid-strike-gigantamax,"Rapid Strike (Gigantamax",galar,urshifurapidstrikegmax,,,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,"Urshifu (Rapid Strike (Gigantamax))",urshifu-rapid-strike-gmax,3
+10498,892,892,[],gmax,"Single Strike Gigantamax",galar,urshifugmax,,,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Urshifu (Single Strike Gigantamax)",urshifu-gmax,1
+10499,892,892,[],rapid-strike-gmax,"Rapid Strike Gigantamax",galar,urshifurapidstrikegmax,,,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Urshifu (Rapid Strike Gigantamax)",urshifu-rapid-strike-gmax,3
 10500,893,893,[],dada,Dada,galar,zarudedada,zarude-dada,10361,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Zarude (Dada)",zarude-dada,1
 10501,898,898,[],ice,Ice,galar,calyrexice,calyrex-ice,10362,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,8,"Calyrex (Ice)",calyrex-ice,1
 10502,898,898,[],shadow,Shadow,galar,calyrexshadow,calyrex-shadow,10363,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,8,"Calyrex (Shadow)",calyrex-shadow,2

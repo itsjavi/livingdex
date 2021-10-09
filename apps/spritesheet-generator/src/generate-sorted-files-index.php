@@ -26,6 +26,7 @@ $imgMenuSrcUnknown = 'unknown';
 $imgMenuDestUnknown = '0000-002';
 
 $formsData = pk\pokemon_data();
+$formsMetaData = pk\pokemon_meta_data();
 $data = [
     'egg' => [
         'imgHomeSrc' => '0000',
@@ -56,21 +57,22 @@ $data = [
         'imgMenuSrc' => null,
         'imgHomeDest' => '0000-004',
         'imgMenuDest' => '0000-004',
-    ]
+    ],
 ];
 
 $homeSpritesMap = [];
 $menuSpritesMap = [];
 
 foreach ($formsData as $pk) {
-    $num = str_pad((string)$pk['num'], 4, '0', STR_PAD_LEFT);
-    $formOrder = str_pad((string)$pk['formOrder'], 3, '0', STR_PAD_LEFT);
+    $num = str_pad((string) $pk['num'], 4, '0', STR_PAD_LEFT);
+    $formOrder = str_pad((string) $pk['formOrder'], 3, '0', STR_PAD_LEFT);
     $slug = $pk['slug'];
-    $imgHomeSrc = basename($pk['imgHome']);
+    $slugPlain = str_replace(['-', '_', ' '], '', $pk['slug']);
+    $imgHomeSrc = $formsMetaData[$slugPlain]['images']['home_render'];
     if ($imgHomeSrc === 'unknown') {
         $imgHomeSrc = $imgHomeSrcUnknown;
     }
-    $imgMenuSrc = $pk['imgSprite'];
+    $imgMenuSrc = $formsMetaData[$slugPlain]['images']['box_sprite'];
 
     $imgHomeDest = "{$num}-{$formOrder}";
     $imgMenuDest = $imgHomeDest;
@@ -95,7 +97,7 @@ foreach ($formsData as $pk) {
         'imgHomeSrc' => $imgHomeSrc,
         'imgMenuSrc' => $imgMenuSrc,
         'imgHomeDest' => $imgHomeDest,
-        'imgMenuDest' => $imgMenuDest
+        'imgMenuDest' => $imgMenuDest,
     ];
 
     if (!isset($homeSpritesMap[$imgHomeSrc])) {
@@ -137,12 +139,12 @@ $menuFiles = [];
 $files = [
     'home' => [
         'renames' => [],
-        'classes' => []
+        'classes' => [],
     ],
     'menu' => [
         'renames' => [],
-        'classes' => []
-    ]
+        'classes' => [],
+    ],
 ];
 
 foreach ($data as $slug => $pk) {
