@@ -6,14 +6,21 @@
 
 🏠 [itsjavi.com/livingdex](https://itsjavi.com/livingdex)
 
-Living Dex is a visual guide for organizing Pokémon HOME boxes.<br>
-This web app contains a view of all storable Pokémon forms, including all gender differences.
-
-The project is still in an early state, please feel free to join our discussion and share your thoughts <br>
-on the [Github project's discussion](https://github.com/itsjavi/livingdex/discussions) section.
 
 ![](resources/preview.png)
 
+Living Dex is a visual guide for organizing Pokémon HOME boxes.<br>
+This web app contains a view of all storable Pokémon forms, including all gender differences.
+
+> 🥚 This project is still in an **early state**, please feel free to join our discussion and share your thoughts
+> in the [Github project's discussion](https://github.com/itsjavi/livingdex/discussions) section.
+
+> 💡 The big milestones for this project are to add edition and **customization options** 
+> as well as a **full-featured Pokédex**.
+
+## Credits
+
+👨🏻‍💻 Created by [**@itsjavi**](https://itsjavi.com) aka. [**@route1rodent**](https://twitter.com/route1rodent)
 
 ## License
 

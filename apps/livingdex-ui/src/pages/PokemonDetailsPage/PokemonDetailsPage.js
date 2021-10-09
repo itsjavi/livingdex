@@ -87,7 +87,7 @@ function PokemonDetailsPage() {
               {img}
             </div>
           </div>
-          <Button href={dataUrl} target="_blank">View Data</Button>
+          <Button href={dataUrl}>View Data</Button>
           {baseSpecies}
           {baseDataForm}
           {forms}
