@@ -23,11 +23,12 @@ function shouldSkip(options, pkm) {
   }
   if (options.search.length > 2) {
     let reg = new RegExp(options.search, "gi")
-    let typeFound = ((pkm.type1 !== null && pkm.type1.match(reg))
-      || (pkm.type2 !== null && pkm.type2.match(reg)))
+    // let typeFound = ((pkm.type1 !== null && pkm.type1.match(reg))
+    //   || (pkm.type2 !== null && pkm.type2.match(reg)))
 
     if (!pkm.name.match(reg) && !pkm.slug.match(reg)) {
-      return !typeFound
+      // return !typeFound
+      return true
     }
   }
   return false

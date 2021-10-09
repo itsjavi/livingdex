@@ -7,7 +7,7 @@ use App\Support\Serialization\Encoder\JsonEncoder;
 use App\Support\Serialization\StrFormat;
 use Illuminate\Support\Str;
 
-require __DIR__ . '/../../vendor/autoload.php';
+require __DIR__ . '/../../../vendor/autoload.php';
 
 if (!file_exists(__DIR__ . '/pokemon.json')) {
     throw new \Exception('File does not exist: ' . __DIR__ . '/pokemon-legacy.json');

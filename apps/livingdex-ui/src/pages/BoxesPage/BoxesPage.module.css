@@ -16,7 +16,11 @@
     position: relative;
     border-radius: var(--boxRadius);
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
-    /*background: var(--boxBg);*/
+    background: var(--color-primary-light2c);
+}
+
+.emptyBox {
+  background: var(--color-primary-light2c);
 }
 
 .box-header {
@@ -50,10 +54,13 @@
 
 .box-grid {
     position: relative;
-    background: var(--color-primary-light2c);
     border-radius: 0 0 var(--boxRadius) var(--boxRadius);
     border: none;
     padding: 12px 18px 18px 18px;
+}
+
+.emptyBox .box-grid {
+  background: transparent;
 }
 
 .box:focus .box-grid,

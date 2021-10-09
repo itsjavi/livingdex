@@ -1,11 +1,19 @@
-import { Layout } from "../../components/Layout/Layout"
+import {Layout} from "../../components/Layout/Layout"
 import styles from "./BoxesPage.module.css"
 import React from "react"
-import { CalcBoxPosition } from "../../app/utils"
 import usePokemonList from "../../hooks/usePokemonList"
 import useQueryOptions from "../../hooks/useQueryOptions"
-import { useHistory } from "react-router-dom"
-import { PokeImg } from "../../components/PokeImg/PokeImg"
+import {useHistory} from "react-router-dom"
+import {PokeImg} from "../../components/PokeImg/PokeImg"
+import groupedBoxes from "../../data/boxes/grouped.json"
+import sortedBoxes from "../../data/boxes/sorted.json"
+
+const boxStyles = {
+  grouped: groupedBoxes,
+  sorted: sortedBoxes
+}
+
+const boxStyle = 'grouped'
 
 /**
  * @param {PokemonListItemSimple} pkm
@@ -13,12 +21,6 @@ import { PokeImg } from "../../components/PokeImg/PokeImg"
  * @param {boolean} shiny
  */
 function createPokemonElement(pkm, history, shiny = false) {
-  // let img = CreateThumbImage(
-  //   "./assets/images/placeholder.png",
-  //   pkm.name,
-  //   styles["box-img"] + " pkm pkm-" + pkm.fileBaseName + (shiny ? " shiny" : ""),
-  // )
-
   let img = PokeImg(pkm.slug, pkm.name, shiny, styles["box-img"])
 
   const handleClick = (e) => {
@@ -51,37 +53,58 @@ function createPokemonElement(pkm, history, shiny = false) {
  * @param {boolean} shiny
  */
 function createBoxes(pokemonList, history, shiny = false) {
-  let boxes = new Map()
+  let boxes = boxStyles[boxStyle].boxes
+  let pokemonSlugMap = new Map();
+  let pokemonSlugFlagMap = new Map();
 
-  // First, distribute Pokemon list in boxes, rows and cols
+  // First, distribute Pokemon list in boxes, rows and cols // TODO have pokemonList as map everywhere
   pokemonList.forEach((pkm, i) => {
-    let pos = CalcBoxPosition(i, 5, 6)
-    if (!boxes.has(pos.box)) {
-      boxes.set(pos.box, new Map())
-    }
-    let box = boxes.get(pos.box)
-    if (!box.has(pos.row)) {
-      box.set(pos.row, new Map())
-    }
-    let row = box.get(pos.row)
-    row.set(pos.col, pkm)
+    pokemonSlugMap.set(pkm.slug, pkm)
+    pokemonSlugFlagMap.set(pkm.slug, false)
   })
 
   // Second, iterate all boxes, rows and cols to render elements
+  let totalLoadedPokemon = 0
+  let placeholderCount = 0
   let boxElements = []
   boxes.forEach((box, boxIndex) => {
     let boxPokemon = []
-    box.forEach((row, rowIndex) => {
-      row.forEach((pkm, colIndex) => {
-        boxPokemon.push(createPokemonElement(pkm, history, shiny))
-      })
+    let boxPokemonFilled = 0
+    box.pokemon.forEach((pkmSlug, cellIndex) => {
+      if ((pkmSlug !== null) && !pokemonSlugFlagMap.has(pkmSlug)) {
+        return
+      }
+      if (pkmSlug === null) {
+        placeholderCount++
+        boxPokemon.push(<span key={"placeholder-" + placeholderCount}>&nbsp;</span>)
+        return
+      }
+      totalLoadedPokemon++
+      boxPokemonFilled++
+      pokemonSlugFlagMap.set(pkmSlug, true)
+      boxPokemon.push(createPokemonElement(pokemonSlugMap.get(pkmSlug), history, shiny))
     })
-    boxElements.push(<div key={boxIndex} tabIndex={boxIndex * -1} className={styles["box"]}>
+
+    let boxClassName = styles['box']
+    if (boxPokemonFilled === 0) {
+      return
+      boxClassName += " " + styles['emptyBox']
+    }
+
+    boxElements.push(<div key={boxIndex} tabIndex={boxIndex * -1} className={boxClassName}>
       <div className={styles["box-header"]}>
-        <div className={styles["box-title"]}>{"Box " + (boxIndex + 1)}</div>
+        <div className={styles["box-title"]}>{box.title}</div>
       </div>
       <div className={styles["box-grid"]}>{boxPokemon}</div>
     </div>)
+  })
+
+  console.debug("Total shown pokemon:", totalLoadedPokemon)
+
+  pokemonSlugFlagMap.forEach(function (value, key) {
+    if (value === false) {
+      console.error(`Pokemon ${key} is not present in the boxes json file`)
+    }
   })
 
   return boxElements
@@ -90,7 +113,7 @@ function createBoxes(pokemonList, history, shiny = false) {
 function BoxesPage() {
   const history = useHistory()
   const q = useQueryOptions()
-  const { pokemon, loading } = usePokemonList(q)
+  const {pokemon, loading} = usePokemonList(q)
 
   let boxes = null
   let title = <span>Living Dex</span>
@@ -98,8 +121,10 @@ function BoxesPage() {
 
   if (loading === false) {
     boxes = createBoxes(pokemon, history, q.viewShiny)
-    subtitle = "Box Organization (" + pokemon.length + " Storable Pokémon)"
+    subtitle = "Pokémon Boxes organized by Species and Forms"
   }
+
+  console.debug("Total pokemon forms:", pokemon.length)
 
   return (
     <div className="app themeTeal bgGradientDown">

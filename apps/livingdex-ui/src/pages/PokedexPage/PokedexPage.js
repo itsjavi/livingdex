@@ -47,7 +47,7 @@ function PokedexPage() {
         </div>,
       )
     }
-    subtitle = "National Pokédex (" + total + " Pokémon)"
+    subtitle = "National Pokédex (" + total + " Species)"
   }
 
   return (

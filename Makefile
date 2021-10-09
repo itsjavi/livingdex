@@ -8,6 +8,12 @@ default:
 	docker-compose run --rm data-generator make
 	docker-compose run --rm spritesheet-generator make
 	docker-compose run --rm ui-dev make
+	echo "BUILD FINISHED SUCCESSFULLY"
+
+deploy:
+	cd apps/livingdex-ui && npm run deploy
+	echo "DEPLOYMENT FINISHED SUCCESSFULLY."
+	echo "Go visit https://itsjavi.com/livingdex after some minutes."
 
 clear: # remove all generated data, except sources
 	docker-compose down --remove-orphans
