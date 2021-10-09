@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "pawniard",
-  "imgHome": "0624",
   "dataGen": 8,
   "type1": "dark",
   "type2": "steel",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "pawniard",
   "veekunSlug": "pawniard",
-  "veekunFormId": 624,
-  "title": "Pawniard"
+  "veekunFormId": 624
 }

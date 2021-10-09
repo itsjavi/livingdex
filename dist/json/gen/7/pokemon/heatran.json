@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "heatran",
-  "imgHome": "0485",
   "dataGen": 8,
   "type1": "fire",
   "type2": "steel",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "heatran",
   "veekunSlug": "heatran",
-  "veekunFormId": 485,
-  "title": "Heatran"
+  "veekunFormId": 485
 }

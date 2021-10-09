@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "staraptor",
-  "imgHome": "0398",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "staraptor",
   "veekunSlug": "staraptor",
-  "veekunFormId": 398,
-  "title": "Staraptor"
+  "veekunFormId": 398
 }

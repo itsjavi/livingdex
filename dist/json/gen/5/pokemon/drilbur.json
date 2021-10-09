@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "drilbur",
-  "imgHome": "0529",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "drilbur",
   "veekunSlug": "drilbur",
-  "veekunFormId": 529,
-  "title": "Drilbur"
+  "veekunFormId": 529
 }

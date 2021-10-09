@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "leafeon",
-  "imgHome": "0470",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "leafeon",
   "veekunSlug": "leafeon",
-  "veekunFormId": 470,
-  "title": "Leafeon"
+  "veekunFormId": 470
 }

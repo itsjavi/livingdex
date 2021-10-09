@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "gloom",
-  "imgHome": "0044",
   "dataGen": 8,
   "type1": "grass",
   "type2": "poison",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gloom",
   "veekunSlug": "gloom",
-  "veekunFormId": 44,
-  "title": "Gloom"
+  "veekunFormId": 44
 }

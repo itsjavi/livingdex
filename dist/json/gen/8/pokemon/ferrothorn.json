@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "ferrothorn",
-  "imgHome": "0598",
   "dataGen": 8,
   "type1": "grass",
   "type2": "steel",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "ferrothorn",
   "veekunSlug": "ferrothorn",
-  "veekunFormId": 598,
-  "title": "Ferrothorn"
+  "veekunFormId": 598
 }

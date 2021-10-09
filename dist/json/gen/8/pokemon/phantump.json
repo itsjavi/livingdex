@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "phantump",
-  "imgHome": "0708",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "grass",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "phantump",
   "veekunSlug": "phantump",
-  "veekunFormId": 708,
-  "title": "Phantump"
+  "veekunFormId": 708
 }

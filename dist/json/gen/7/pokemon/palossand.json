@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "palossand",
-  "imgHome": "0770",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "ground",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "palossand",
   "veekunSlug": "palossand",
-  "veekunFormId": 770,
-  "title": "Palossand"
+  "veekunFormId": 770
 }

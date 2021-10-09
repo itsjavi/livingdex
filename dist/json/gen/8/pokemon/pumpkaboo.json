@@ -13,9 +13,6 @@
   "formSlug": "average",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "pumpkaboo",
-  "imgHome": "0710",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "grass",
@@ -67,6 +64,5 @@
   "isHomeStorable": true,
   "showdownSlug": "pumpkaboo",
   "veekunSlug": "pumpkaboo-average",
-  "veekunFormId": 710,
-  "title": "Pumpkaboo"
+  "veekunFormId": 710
 }

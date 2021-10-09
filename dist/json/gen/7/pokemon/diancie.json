@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "diancie",
-  "imgHome": "0719",
   "dataGen": 8,
   "type1": "rock",
   "type2": "fairy",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "diancie",
   "veekunSlug": "diancie",
-  "veekunFormId": 719,
-  "title": "Diancie"
+  "veekunFormId": 719
 }

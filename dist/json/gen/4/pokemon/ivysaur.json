@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "ivysaur",
-  "imgHome": "0002",
   "dataGen": 8,
   "type1": "grass",
   "type2": "poison",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "ivysaur",
   "veekunSlug": "ivysaur",
-  "veekunFormId": 2,
-  "title": "Ivysaur"
+  "veekunFormId": 2
 }

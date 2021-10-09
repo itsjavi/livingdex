@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "beldum",
-  "imgHome": "0374",
   "dataGen": 8,
   "type1": "steel",
   "type2": "psychic",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "beldum",
   "veekunSlug": "beldum",
-  "veekunFormId": 374,
-  "title": "Beldum"
+  "veekunFormId": 374
 }

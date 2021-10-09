@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "ralts",
-  "imgHome": "0280",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "fairy",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "ralts",
   "veekunSlug": "ralts",
-  "veekunFormId": 280,
-  "title": "Ralts"
+  "veekunFormId": 280
 }

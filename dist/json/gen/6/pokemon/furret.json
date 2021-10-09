@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "furret",
-  "imgHome": "0162",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "furret",
   "veekunSlug": "furret",
-  "veekunFormId": 162,
-  "title": "Furret"
+  "veekunFormId": 162
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "frogadier",
-  "imgHome": "0657",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "frogadier",
   "veekunSlug": "frogadier",
-  "veekunFormId": 657,
-  "title": "Frogadier"
+  "veekunFormId": 657
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "igglybuff",
-  "imgHome": "0174",
   "dataGen": 8,
   "type1": "normal",
   "type2": "fairy",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "igglybuff",
   "veekunSlug": "igglybuff",
-  "veekunFormId": 174,
-  "title": "Igglybuff"
+  "veekunFormId": 174
 }

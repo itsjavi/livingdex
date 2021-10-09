@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "swampert",
-  "imgHome": "0260",
   "dataGen": 8,
   "type1": "water",
   "type2": "ground",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "swampert",
   "veekunSlug": "swampert",
-  "veekunFormId": 260,
-  "title": "Swampert"
+  "veekunFormId": 260
 }

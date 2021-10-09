@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "bisharp",
-  "imgHome": "0625",
   "dataGen": 8,
   "type1": "dark",
   "type2": "steel",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "bisharp",
   "veekunSlug": "bisharp",
-  "veekunFormId": 625,
-  "title": "Bisharp"
+  "veekunFormId": 625
 }

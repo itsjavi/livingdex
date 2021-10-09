@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "zigzagoon",
-  "imgHome": "0263",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "zigzagoon",
   "veekunSlug": "zigzagoon",
-  "veekunFormId": 263,
-  "title": "Zigzagoon"
+  "veekunFormId": 263
 }

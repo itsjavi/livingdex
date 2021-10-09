@@ -11,9 +11,6 @@
   "formSlug": "shield",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "aegislash",
-  "imgHome": "0681",
   "dataGen": 8,
   "type1": "steel",
   "type2": "ghost",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "aegislash",
   "veekunSlug": "aegislash-shield",
-  "veekunFormId": 681,
-  "title": "Aegislash"
+  "veekunFormId": 681
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "bouffalant",
-  "imgHome": "0626",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "bouffalant",
   "veekunSlug": "bouffalant",
-  "veekunFormId": 626,
-  "title": "Bouffalant"
+  "veekunFormId": 626
 }

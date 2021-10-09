@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "forretress",
-  "imgHome": "0205",
   "dataGen": 8,
   "type1": "bug",
   "type2": "steel",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "forretress",
   "veekunSlug": "forretress",
-  "veekunFormId": 205,
-  "title": "Forretress"
+  "veekunFormId": 205
 }

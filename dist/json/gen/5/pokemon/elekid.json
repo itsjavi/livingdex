@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "elekid",
-  "imgHome": "0239",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "elekid",
   "veekunSlug": "elekid",
-  "veekunFormId": 239,
-  "title": "Elekid"
+  "veekunFormId": 239
 }

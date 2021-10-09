@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "hoothoot",
-  "imgHome": "0163",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "hoothoot",
   "veekunSlug": "hoothoot",
-  "veekunFormId": 163,
-  "title": "Hoothoot"
+  "veekunFormId": 163
 }

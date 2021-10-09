@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "hawlucha",
-  "imgHome": "0701",
   "dataGen": 8,
   "type1": "fighting",
   "type2": "flying",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "hawlucha",
   "veekunSlug": "hawlucha",
-  "veekunFormId": 701,
-  "title": "Hawlucha"
+  "veekunFormId": 701
 }

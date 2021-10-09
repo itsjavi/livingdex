@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "squirtle",
-  "imgHome": "0007",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "squirtle",
   "veekunSlug": "squirtle",
-  "veekunFormId": 7,
-  "title": "Squirtle"
+  "veekunFormId": 7
 }

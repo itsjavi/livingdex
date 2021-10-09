@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "zweilous",
-  "imgHome": "0634",
   "dataGen": 8,
   "type1": "dark",
   "type2": "dragon",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "zweilous",
   "veekunSlug": "zweilous",
-  "veekunFormId": 634,
-  "title": "Zweilous"
+  "veekunFormId": 634
 }

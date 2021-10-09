@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "stantler",
-  "imgHome": "0234",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "stantler",
   "veekunSlug": "stantler",
-  "veekunFormId": 234,
-  "title": "Stantler"
+  "veekunFormId": 234
 }

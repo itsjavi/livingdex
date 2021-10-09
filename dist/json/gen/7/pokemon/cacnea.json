@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "cacnea",
-  "imgHome": "0331",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cacnea",
   "veekunSlug": "cacnea",
-  "veekunFormId": 331,
-  "title": "Cacnea"
+  "veekunFormId": 331
 }

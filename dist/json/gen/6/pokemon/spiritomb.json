@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "spiritomb",
-  "imgHome": "0442",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "dark",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "spiritomb",
   "veekunSlug": "spiritomb",
-  "veekunFormId": 442,
-  "title": "Spiritomb"
+  "veekunFormId": 442
 }

@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "hippowdon",
-  "imgHome": "0450",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "hippowdon",
   "veekunSlug": "hippowdon",
-  "veekunFormId": 450,
-  "title": "Hippowdon"
+  "veekunFormId": 450
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "whirlipede",
-  "imgHome": "0544",
   "dataGen": 8,
   "type1": "bug",
   "type2": "poison",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "whirlipede",
   "veekunSlug": "whirlipede",
-  "veekunFormId": 544,
-  "title": "Whirlipede"
+  "veekunFormId": 544
 }

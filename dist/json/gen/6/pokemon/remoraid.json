@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "remoraid",
-  "imgHome": "0223",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "remoraid",
   "veekunSlug": "remoraid",
-  "veekunFormId": 223,
-  "title": "Remoraid"
+  "veekunFormId": 223
 }

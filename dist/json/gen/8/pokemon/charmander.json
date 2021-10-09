@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "charmander",
-  "imgHome": "0004",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "charmander",
   "veekunSlug": "charmander",
-  "veekunFormId": 4,
-  "title": "Charmander"
+  "veekunFormId": 4
 }

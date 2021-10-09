@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "clefairy",
-  "imgHome": "0035",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "clefairy",
   "veekunSlug": "clefairy",
-  "veekunFormId": 35,
-  "title": "Clefairy"
+  "veekunFormId": 35
 }

@@ -12,9 +12,6 @@
   "formSlug": "plant",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "burmy",
-  "imgHome": "0412",
   "dataGen": 8,
   "type1": "bug",
   "type2": null,
@@ -66,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "burmy",
   "veekunSlug": "burmy-plant",
-  "veekunFormId": 412,
-  "title": "Burmy"
+  "veekunFormId": 412
 }

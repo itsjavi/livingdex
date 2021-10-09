@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "pikachu",
-  "imgHome": "0025",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "pikachu",
   "veekunSlug": "pikachu",
-  "veekunFormId": 25,
-  "title": "Pikachu"
+  "veekunFormId": 25
 }

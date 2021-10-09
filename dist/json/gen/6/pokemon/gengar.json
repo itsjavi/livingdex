@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "gengar",
-  "imgHome": "0094",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "poison",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gengar",
   "veekunSlug": "gengar",
-  "veekunFormId": 94,
-  "title": "Gengar"
+  "veekunFormId": 94
 }

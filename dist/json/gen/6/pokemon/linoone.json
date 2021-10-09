@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "linoone",
-  "imgHome": "0264",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "linoone",
   "veekunSlug": "linoone",
-  "veekunFormId": 264,
-  "title": "Linoone"
+  "veekunFormId": 264
 }

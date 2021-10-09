@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "marill",
-  "imgHome": "0183",
   "dataGen": 8,
   "type1": "water",
   "type2": "fairy",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "marill",
   "veekunSlug": "marill",
-  "veekunFormId": 183,
-  "title": "Marill"
+  "veekunFormId": 183
 }

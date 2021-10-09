@@ -7,13 +7,10 @@
   "forms": [
     "eiscue-noice"
   ],
-  "formName": null,
-  "formSlug": null,
+  "formName": "Ice Face",
+  "formSlug": "ice",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "eiscue",
-  "imgHome": "0875",
   "dataGen": 8,
   "type1": "ice",
   "type2": null,
@@ -30,9 +27,9 @@
   "maleRatio": 0,
   "femaleRatio": 0,
   "growthRate": "slow",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 60,
+  "hatchCycles": 25,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 75,
     "atk": 80,
@@ -43,14 +40,14 @@
   },
   "baseStatsTotal": 470,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 165,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -64,7 +61,6 @@
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "eiscue",
-  "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Eiscue"
+  "veekunSlug": "eiscue-ice",
+  "veekunFormId": 875
 }

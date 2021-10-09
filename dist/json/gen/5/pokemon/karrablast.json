@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "karrablast",
-  "imgHome": "0588",
   "dataGen": 8,
   "type1": "bug",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "karrablast",
   "veekunSlug": "karrablast",
-  "veekunFormId": 588,
-  "title": "Karrablast"
+  "veekunFormId": 588
 }

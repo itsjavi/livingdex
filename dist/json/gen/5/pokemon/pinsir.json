@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "pinsir",
-  "imgHome": "0127",
   "dataGen": 8,
   "type1": "bug",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "pinsir",
   "veekunSlug": "pinsir",
-  "veekunFormId": 127,
-  "title": "Pinsir"
+  "veekunFormId": 127
 }

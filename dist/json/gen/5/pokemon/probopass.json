@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "probopass",
-  "imgHome": "0476",
   "dataGen": 8,
   "type1": "rock",
   "type2": "steel",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "probopass",
   "veekunSlug": "probopass",
-  "veekunFormId": 476,
-  "title": "Probopass"
+  "veekunFormId": 476
 }

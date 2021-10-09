@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "lugia",
-  "imgHome": "0249",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "flying",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "lugia",
   "veekunSlug": "lugia",
-  "veekunFormId": 249,
-  "title": "Lugia"
+  "veekunFormId": 249
 }

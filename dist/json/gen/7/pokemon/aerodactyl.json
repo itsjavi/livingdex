@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "aerodactyl",
-  "imgHome": "0142",
   "dataGen": 8,
   "type1": "rock",
   "type2": "flying",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "aerodactyl",
   "veekunSlug": "aerodactyl",
-  "veekunFormId": 142,
-  "title": "Aerodactyl"
+  "veekunFormId": 142
 }

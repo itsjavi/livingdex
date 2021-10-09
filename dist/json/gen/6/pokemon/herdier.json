@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "herdier",
-  "imgHome": "0507",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "herdier",
   "veekunSlug": "herdier",
-  "veekunFormId": 507,
-  "title": "Herdier"
+  "veekunFormId": 507
 }

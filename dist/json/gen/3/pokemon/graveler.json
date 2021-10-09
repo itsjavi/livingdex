@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "graveler",
-  "imgHome": "0075",
   "dataGen": 8,
   "type1": "rock",
   "type2": "ground",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "graveler",
   "veekunSlug": "graveler",
-  "veekunFormId": 75,
-  "title": "Graveler"
+  "veekunFormId": 75
 }

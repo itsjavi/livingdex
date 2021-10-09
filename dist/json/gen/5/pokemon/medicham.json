@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "medicham",
-  "imgHome": "0308",
   "dataGen": 8,
   "type1": "fighting",
   "type2": "psychic",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "medicham",
   "veekunSlug": "medicham",
-  "veekunFormId": 308,
-  "title": "Medicham"
+  "veekunFormId": 308
 }

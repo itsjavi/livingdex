@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "leavanny",
-  "imgHome": "0542",
   "dataGen": 8,
   "type1": "bug",
   "type2": "grass",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "leavanny",
   "veekunSlug": "leavanny",
-  "veekunFormId": 542,
-  "title": "Leavanny"
+  "veekunFormId": 542
 }

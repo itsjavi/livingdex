@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "gardevoir",
-  "imgHome": "0282",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "fairy",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gardevoir",
   "veekunSlug": "gardevoir",
-  "veekunFormId": 282,
-  "title": "Gardevoir"
+  "veekunFormId": 282
 }

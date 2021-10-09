@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "sharpedo",
-  "imgHome": "0319",
   "dataGen": 8,
   "type1": "water",
   "type2": "dark",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "sharpedo",
   "veekunSlug": "sharpedo",
-  "veekunFormId": 319,
-  "title": "Sharpedo"
+  "veekunFormId": 319
 }

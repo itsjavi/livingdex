@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "doublade",
-  "imgHome": "0680",
   "dataGen": 8,
   "type1": "steel",
   "type2": "ghost",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "doublade",
   "veekunSlug": "doublade",
-  "veekunFormId": 680,
-  "title": "Doublade"
+  "veekunFormId": 680
 }

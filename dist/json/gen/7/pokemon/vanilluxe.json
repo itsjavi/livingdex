@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "vanilluxe",
-  "imgHome": "0584",
   "dataGen": 8,
   "type1": "ice",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "vanilluxe",
   "veekunSlug": "vanilluxe",
-  "veekunFormId": 584,
-  "title": "Vanilluxe"
+  "veekunFormId": 584
 }

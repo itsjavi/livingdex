@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "nihilego",
-  "imgHome": "0793",
   "dataGen": 8,
   "type1": "rock",
   "type2": "poison",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "nihilego",
   "veekunSlug": "nihilego",
-  "veekunFormId": 793,
-  "title": "Nihilego"
+  "veekunFormId": 793
 }

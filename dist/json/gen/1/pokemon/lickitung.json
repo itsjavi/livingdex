@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "lickitung",
-  "imgHome": "0108",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "lickitung",
   "veekunSlug": "lickitung",
-  "veekunFormId": 108,
-  "title": "Lickitung"
+  "veekunFormId": 108
 }

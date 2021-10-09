@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "corsola",
-  "imgHome": "0222",
   "dataGen": 8,
   "type1": "water",
   "type2": "rock",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "corsola",
   "veekunSlug": "corsola",
-  "veekunFormId": 222,
-  "title": "Corsola"
+  "veekunFormId": 222
 }

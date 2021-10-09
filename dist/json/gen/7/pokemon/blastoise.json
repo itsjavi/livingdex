@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "blastoise",
-  "imgHome": "0009",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "blastoise",
   "veekunSlug": "blastoise",
-  "veekunFormId": 9,
-  "title": "Blastoise"
+  "veekunFormId": 9
 }

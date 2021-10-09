@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "crustle",
-  "imgHome": "0558",
   "dataGen": 8,
   "type1": "bug",
   "type2": "rock",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "crustle",
   "veekunSlug": "crustle",
-  "veekunFormId": 558,
-  "title": "Crustle"
+  "veekunFormId": 558
 }

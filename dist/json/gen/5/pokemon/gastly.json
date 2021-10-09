@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "gastly",
-  "imgHome": "0092",
   "dataGen": 8,
   "type1": "ghost",
   "type2": "poison",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gastly",
   "veekunSlug": "gastly",
-  "veekunFormId": 92,
-  "title": "Gastly"
+  "veekunFormId": 92
 }

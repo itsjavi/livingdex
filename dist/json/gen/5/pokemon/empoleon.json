@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "empoleon",
-  "imgHome": "0395",
   "dataGen": 8,
   "type1": "water",
   "type2": "steel",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "empoleon",
   "veekunSlug": "empoleon",
-  "veekunFormId": 395,
-  "title": "Empoleon"
+  "veekunFormId": 395
 }

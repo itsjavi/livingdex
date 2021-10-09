@@ -276,8 +276,8 @@
   {
     "id": 29,
     "num": 29,
-    "slug": "nidoran-f",
-    "name": "Nidoran-F",
+    "slug": "nidoranf",
+    "name": "Nidoran\u2640",
     "gen": 1,
     "forms": []
   },
@@ -300,8 +300,8 @@
   {
     "id": 32,
     "num": 32,
-    "slug": "nidoran-m",
-    "name": "Nidoran-M",
+    "slug": "nidoranm",
+    "name": "Nidoran\u2642",
     "gen": 1,
     "forms": []
   },
@@ -1098,11 +1098,11 @@
   {
     "id": 122,
     "num": 122,
-    "slug": "mr-mime",
+    "slug": "mrmime",
     "name": "Mr. Mime",
     "gen": 1,
     "forms": [
-      "mr-mime-galar"
+      "mrmime-galar"
     ]
   },
   {
@@ -2238,7 +2238,7 @@
   {
     "id": 250,
     "num": 250,
-    "slug": "ho-oh",
+    "slug": "hooh",
     "name": "Ho-Oh",
     "gen": 2,
     "forms": []
@@ -3885,7 +3885,7 @@
   {
     "id": 439,
     "num": 439,
-    "slug": "mime-jr",
+    "slug": "mimejr",
     "name": "Mime Jr.",
     "gen": 4,
     "forms": []
@@ -4199,7 +4199,7 @@
   {
     "id": 474,
     "num": 474,
-    "slug": "porygon-z",
+    "slug": "porygonz",
     "name": "Porygon-Z",
     "gen": 4,
     "forms": []
@@ -6758,7 +6758,7 @@
   {
     "id": 772,
     "num": 772,
-    "slug": "type-null",
+    "slug": "typenull",
     "name": "Type: Null",
     "gen": 7,
     "forms": []
@@ -6793,7 +6793,7 @@
     "id": 774,
     "num": 774,
     "slug": "minior",
-    "name": "Minior",
+    "name": "Minior (Red)",
     "gen": 7,
     "forms": [
       "minior-meteor",
@@ -6870,7 +6870,7 @@
   {
     "id": 782,
     "num": 782,
-    "slug": "jangmo-o",
+    "slug": "jangmoo",
     "name": "Jangmo-o",
     "gen": 7,
     "forms": []
@@ -6878,7 +6878,7 @@
   {
     "id": 783,
     "num": 783,
-    "slug": "hakamo-o",
+    "slug": "hakamoo",
     "name": "Hakamo-o",
     "gen": 7,
     "forms": []
@@ -6886,17 +6886,17 @@
   {
     "id": 784,
     "num": 784,
-    "slug": "kommo-o",
+    "slug": "kommoo",
     "name": "Kommo-o",
     "gen": 7,
     "forms": [
-      "kommo-o-totem"
+      "kommoo-totem"
     ]
   },
   {
     "id": 785,
     "num": 785,
-    "slug": "tapu-koko",
+    "slug": "tapukoko",
     "name": "Tapu Koko",
     "gen": 7,
     "forms": []
@@ -6904,7 +6904,7 @@
   {
     "id": 786,
     "num": 786,
-    "slug": "tapu-lele",
+    "slug": "tapulele",
     "name": "Tapu Lele",
     "gen": 7,
     "forms": []
@@ -6912,7 +6912,7 @@
   {
     "id": 787,
     "num": 787,
-    "slug": "tapu-bulu",
+    "slug": "tapubulu",
     "name": "Tapu Bulu",
     "gen": 7,
     "forms": []
@@ -6920,7 +6920,7 @@
   {
     "id": 788,
     "num": 788,
-    "slug": "tapu-fini",
+    "slug": "tapufini",
     "name": "Tapu Fini",
     "gen": 7,
     "forms": []
@@ -7589,7 +7589,7 @@
   {
     "id": 866,
     "num": 866,
-    "slug": "mr-rime",
+    "slug": "mrrime",
     "name": "Mr. Rime",
     "gen": 8,
     "forms": []

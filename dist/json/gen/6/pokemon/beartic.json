@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "beartic",
-  "imgHome": "0614",
   "dataGen": 8,
   "type1": "ice",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "beartic",
   "veekunSlug": "beartic",
-  "veekunFormId": 614,
-  "title": "Beartic"
+  "veekunFormId": 614
 }

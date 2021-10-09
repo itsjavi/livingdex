@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "machoke",
-  "imgHome": "0067",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "machoke",
   "veekunSlug": "machoke",
-  "veekunFormId": 67,
-  "title": "Machoke"
+  "veekunFormId": 67
 }

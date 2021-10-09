@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "palkia",
-  "imgHome": "0484",
   "dataGen": 8,
   "type1": "water",
   "type2": "dragon",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "palkia",
   "veekunSlug": "palkia",
-  "veekunFormId": 484,
-  "title": "Palkia"
+  "veekunFormId": 484
 }

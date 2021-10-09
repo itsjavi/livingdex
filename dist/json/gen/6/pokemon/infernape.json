@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "infernape",
-  "imgHome": "0392",
   "dataGen": 8,
   "type1": "fire",
   "type2": "fighting",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "infernape",
   "veekunSlug": "infernape",
-  "veekunFormId": 392,
-  "title": "Infernape"
+  "veekunFormId": 392
 }

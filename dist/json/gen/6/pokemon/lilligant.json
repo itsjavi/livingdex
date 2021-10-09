@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "lilligant",
-  "imgHome": "0549",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "lilligant",
   "veekunSlug": "lilligant",
-  "veekunFormId": 549,
-  "title": "Lilligant"
+  "veekunFormId": 549
 }

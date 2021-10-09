@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "eelektrik",
-  "imgHome": "0603",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "eelektrik",
   "veekunSlug": "eelektrik",
-  "veekunFormId": 603,
-  "title": "Eelektrik"
+  "veekunFormId": 603
 }

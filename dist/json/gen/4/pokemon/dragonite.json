@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "dragonite",
-  "imgHome": "0149",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "flying",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dragonite",
   "veekunSlug": "dragonite",
-  "veekunFormId": 149,
-  "title": "Dragonite"
+  "veekunFormId": 149
 }

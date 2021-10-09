@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "electivire",
-  "imgHome": "0466",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "electivire",
   "veekunSlug": "electivire",
-  "veekunFormId": 466,
-  "title": "Electivire"
+  "veekunFormId": 466
 }

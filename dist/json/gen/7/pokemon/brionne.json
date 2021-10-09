@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "brionne",
-  "imgHome": "0729",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "brionne",
   "veekunSlug": "brionne",
-  "veekunFormId": 729,
-  "title": "Brionne"
+  "veekunFormId": 729
 }

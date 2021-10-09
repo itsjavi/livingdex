@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "togekiss",
-  "imgHome": "0468",
   "dataGen": 8,
   "type1": "fairy",
   "type2": "flying",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "togekiss",
   "veekunSlug": "togekiss",
-  "veekunFormId": 468,
-  "title": "Togekiss"
+  "veekunFormId": 468
 }

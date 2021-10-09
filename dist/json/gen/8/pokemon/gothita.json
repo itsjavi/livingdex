@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "gothita",
-  "imgHome": "0574",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gothita",
   "veekunSlug": "gothita",
-  "veekunFormId": 574,
-  "title": "Gothita"
+  "veekunFormId": 574
 }

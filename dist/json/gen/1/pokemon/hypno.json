@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "hypno",
-  "imgHome": "0097",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "hypno",
   "veekunSlug": "hypno",
-  "veekunFormId": 97,
-  "title": "Hypno"
+  "veekunFormId": 97
 }

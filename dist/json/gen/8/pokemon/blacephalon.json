@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "blacephalon",
-  "imgHome": "0806",
   "dataGen": 8,
   "type1": "fire",
   "type2": "ghost",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "blacephalon",
   "veekunSlug": "blacephalon",
-  "veekunFormId": 806,
-  "title": "Blacephalon"
+  "veekunFormId": 806
 }

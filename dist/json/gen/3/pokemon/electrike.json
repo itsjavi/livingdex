@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "electrike",
-  "imgHome": "0309",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "electrike",
   "veekunSlug": "electrike",
-  "veekunFormId": 309,
-  "title": "Electrike"
+  "veekunFormId": 309
 }

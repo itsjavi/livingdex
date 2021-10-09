@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "paras",
-  "imgHome": "0046",
   "dataGen": 8,
   "type1": "bug",
   "type2": "grass",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "paras",
   "veekunSlug": "paras",
-  "veekunFormId": 46,
-  "title": "Paras"
+  "veekunFormId": 46
 }

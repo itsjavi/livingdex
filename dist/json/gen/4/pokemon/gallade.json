@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "gallade",
-  "imgHome": "0475",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "fighting",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gallade",
   "veekunSlug": "gallade",
-  "veekunFormId": 475,
-  "title": "Gallade"
+  "veekunFormId": 475
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "omanyte",
-  "imgHome": "0138",
   "dataGen": 8,
   "type1": "rock",
   "type2": "water",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "omanyte",
   "veekunSlug": "omanyte",
-  "veekunFormId": 138,
-  "title": "Omanyte"
+  "veekunFormId": 138
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "manaphy",
-  "imgHome": "0490",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "manaphy",
   "veekunSlug": "manaphy",
-  "veekunFormId": 490,
-  "title": "Manaphy"
+  "veekunFormId": 490
 }

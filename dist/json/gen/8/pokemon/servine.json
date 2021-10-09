@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "servine",
-  "imgHome": "0496",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "servine",
   "veekunSlug": "servine",
-  "veekunFormId": 496,
-  "title": "Servine"
+  "veekunFormId": 496
 }

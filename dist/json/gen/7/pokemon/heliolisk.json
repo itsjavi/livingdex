@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "heliolisk",
-  "imgHome": "0695",
   "dataGen": 8,
   "type1": "electric",
   "type2": "normal",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "heliolisk",
   "veekunSlug": "heliolisk",
-  "veekunFormId": 695,
-  "title": "Heliolisk"
+  "veekunFormId": 695
 }

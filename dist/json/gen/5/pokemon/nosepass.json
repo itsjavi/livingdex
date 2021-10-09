@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "nosepass",
-  "imgHome": "0299",
   "dataGen": 8,
   "type1": "rock",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "nosepass",
   "veekunSlug": "nosepass",
-  "veekunFormId": 299,
-  "title": "Nosepass"
+  "veekunFormId": 299
 }

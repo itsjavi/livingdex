@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "exploud",
-  "imgHome": "0295",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "exploud",
   "veekunSlug": "exploud",
-  "veekunFormId": 295,
-  "title": "Exploud"
+  "veekunFormId": 295
 }

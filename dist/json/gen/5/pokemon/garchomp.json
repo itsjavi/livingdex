@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "garchomp",
-  "imgHome": "0445",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "ground",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "garchomp",
   "veekunSlug": "garchomp",
-  "veekunFormId": 445,
-  "title": "Garchomp"
+  "veekunFormId": 445
 }

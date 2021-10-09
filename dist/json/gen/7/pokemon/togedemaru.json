@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "togedemaru",
-  "imgHome": "0777",
   "dataGen": 8,
   "type1": "electric",
   "type2": "steel",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "togedemaru",
   "veekunSlug": "togedemaru",
-  "veekunFormId": 777,
-  "title": "Togedemaru"
+  "veekunFormId": 777
 }

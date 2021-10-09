@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "magcargo",
-  "imgHome": "0219",
   "dataGen": 8,
   "type1": "fire",
   "type2": "rock",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "magcargo",
   "veekunSlug": "magcargo",
-  "veekunFormId": 219,
-  "title": "Magcargo"
+  "veekunFormId": 219
 }

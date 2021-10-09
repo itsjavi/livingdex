@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "oranguru",
-  "imgHome": "0765",
   "dataGen": 8,
   "type1": "normal",
   "type2": "psychic",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "oranguru",
   "veekunSlug": "oranguru",
-  "veekunFormId": 765,
-  "title": "Oranguru"
+  "veekunFormId": 765
 }

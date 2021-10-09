@@ -13,9 +13,6 @@
   "formSlug": "normal",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "deoxys",
-  "imgHome": "0386",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -67,6 +64,5 @@
   "isHomeStorable": true,
   "showdownSlug": "deoxys",
   "veekunSlug": "deoxys-normal",
-  "veekunFormId": 386,
-  "title": "Deoxys"
+  "veekunFormId": 386
 }

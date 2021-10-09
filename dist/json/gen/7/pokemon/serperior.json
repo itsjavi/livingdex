@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "serperior",
-  "imgHome": "0497",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "serperior",
   "veekunSlug": "serperior",
-  "veekunFormId": 497,
-  "title": "Serperior"
+  "veekunFormId": 497
 }

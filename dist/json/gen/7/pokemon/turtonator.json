@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "turtonator",
-  "imgHome": "0776",
   "dataGen": 8,
   "type1": "fire",
   "type2": "dragon",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "turtonator",
   "veekunSlug": "turtonator",
-  "veekunFormId": 776,
-  "title": "Turtonator"
+  "veekunFormId": 776
 }

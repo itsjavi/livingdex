@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "noibat",
-  "imgHome": "0714",
   "dataGen": 8,
   "type1": "flying",
   "type2": "dragon",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "noibat",
   "veekunSlug": "noibat",
-  "veekunFormId": 714,
-  "title": "Noibat"
+  "veekunFormId": 714
 }

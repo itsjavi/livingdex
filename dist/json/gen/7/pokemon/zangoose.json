@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "zangoose",
-  "imgHome": "0335",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "zangoose",
   "veekunSlug": "zangoose",
-  "veekunFormId": 335,
-  "title": "Zangoose"
+  "veekunFormId": 335
 }

@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "butterfree",
-  "imgHome": "0012",
   "dataGen": 8,
   "type1": "bug",
   "type2": "flying",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "butterfree",
   "veekunSlug": "butterfree",
-  "veekunFormId": 12,
-  "title": "Butterfree"
+  "veekunFormId": 12
 }

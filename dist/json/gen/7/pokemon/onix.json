@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "onix",
-  "imgHome": "0095",
   "dataGen": 8,
   "type1": "rock",
   "type2": "ground",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "onix",
   "veekunSlug": "onix",
-  "veekunFormId": 95,
-  "title": "Onix"
+  "veekunFormId": 95
 }

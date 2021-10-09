@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "terrakion",
-  "imgHome": "0639",
   "dataGen": 8,
   "type1": "rock",
   "type2": "fighting",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "terrakion",
   "veekunSlug": "terrakion",
-  "veekunFormId": 639,
-  "title": "Terrakion"
+  "veekunFormId": 639
 }

@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "tangrowth",
-  "imgHome": "0465",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "tangrowth",
   "veekunSlug": "tangrowth",
-  "veekunFormId": 465,
-  "title": "Tangrowth"
+  "veekunFormId": 465
 }

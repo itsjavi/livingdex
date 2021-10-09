@@ -7,13 +7,10 @@
   "forms": [
     "indeedee-f"
   ],
-  "formName": "M",
+  "formName": "Male",
   "formSlug": "m",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "indeedee",
-  "imgHome": "0876",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "normal",
@@ -30,9 +27,9 @@
   "maleRatio": 100,
   "femaleRatio": 0,
   "growthRate": "fast",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 30,
+  "hatchCycles": 40,
+  "baseFriendship": 140,
   "baseStats": {
     "hp": 60,
     "atk": 65,
@@ -43,14 +40,14 @@
   },
   "baseStatsTotal": 475,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 2,
+    "spd": 0,
+    "spe": 0
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 166,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": false,
@@ -64,7 +61,6 @@
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "indeedee",
-  "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Indeedee"
+  "veekunSlug": "indeedee-male",
+  "veekunFormId": 876
 }

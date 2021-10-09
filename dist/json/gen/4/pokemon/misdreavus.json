@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "misdreavus",
-  "imgHome": "0200",
   "dataGen": 8,
   "type1": "ghost",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "misdreavus",
   "veekunSlug": "misdreavus",
-  "veekunFormId": 200,
-  "title": "Misdreavus"
+  "veekunFormId": 200
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "gurdurr",
-  "imgHome": "0533",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gurdurr",
   "veekunSlug": "gurdurr",
-  "veekunFormId": 533,
-  "title": "Gurdurr"
+  "veekunFormId": 533
 }

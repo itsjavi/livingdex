@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "passimian",
-  "imgHome": "0766",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "passimian",
   "veekunSlug": "passimian",
-  "veekunFormId": 766,
-  "title": "Passimian"
+  "veekunFormId": 766
 }

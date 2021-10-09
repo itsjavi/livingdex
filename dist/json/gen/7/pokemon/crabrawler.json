@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "crabrawler",
-  "imgHome": "0739",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "crabrawler",
   "veekunSlug": "crabrawler",
-  "veekunFormId": 739,
-  "title": "Crabrawler"
+  "veekunFormId": 739
 }

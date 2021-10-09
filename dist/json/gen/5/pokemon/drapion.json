@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "drapion",
-  "imgHome": "0452",
   "dataGen": 8,
   "type1": "poison",
   "type2": "dark",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "drapion",
   "veekunSlug": "drapion",
-  "veekunFormId": 452,
-  "title": "Drapion"
+  "veekunFormId": 452
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "goomy",
-  "imgHome": "0704",
   "dataGen": 8,
   "type1": "dragon",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "goomy",
   "veekunSlug": "goomy",
-  "veekunFormId": 704,
-  "title": "Goomy"
+  "veekunFormId": 704
 }

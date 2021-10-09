@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "swadloon",
-  "imgHome": "0541",
   "dataGen": 8,
   "type1": "bug",
   "type2": "grass",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "swadloon",
   "veekunSlug": "swadloon",
-  "veekunFormId": 541,
-  "title": "Swadloon"
+  "veekunFormId": 541
 }

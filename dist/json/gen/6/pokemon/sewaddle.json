@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "sewaddle",
-  "imgHome": "0540",
   "dataGen": 8,
   "type1": "bug",
   "type2": "grass",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "sewaddle",
   "veekunSlug": "sewaddle",
-  "veekunFormId": 540,
-  "title": "Sewaddle"
+  "veekunFormId": 540
 }

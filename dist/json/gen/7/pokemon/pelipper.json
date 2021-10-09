@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "pelipper",
-  "imgHome": "0279",
   "dataGen": 8,
   "type1": "water",
   "type2": "flying",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "pelipper",
   "veekunSlug": "pelipper",
-  "veekunFormId": 279,
-  "title": "Pelipper"
+  "veekunFormId": 279
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "monferno",
-  "imgHome": "0391",
   "dataGen": 8,
   "type1": "fire",
   "type2": "fighting",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "monferno",
   "veekunSlug": "monferno",
-  "veekunFormId": 391,
-  "title": "Monferno"
+  "veekunFormId": 391
 }

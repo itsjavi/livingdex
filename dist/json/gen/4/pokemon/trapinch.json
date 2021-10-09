@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "trapinch",
-  "imgHome": "0328",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "trapinch",
   "veekunSlug": "trapinch",
-  "veekunFormId": 328,
-  "title": "Trapinch"
+  "veekunFormId": 328
 }

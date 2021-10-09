@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "togepi",
-  "imgHome": "0175",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "togepi",
   "veekunSlug": "togepi",
-  "veekunFormId": 175,
-  "title": "Togepi"
+  "veekunFormId": 175
 }

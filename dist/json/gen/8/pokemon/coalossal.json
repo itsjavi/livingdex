@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "coalossal",
-  "imgHome": "0839",
   "dataGen": 8,
   "type1": "rock",
   "type2": "fire",
@@ -43,12 +40,12 @@
   },
   "baseStatsTotal": 510,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 0,
+    "def": 3,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
   },
   "yieldBaseExp": 255,
   "isFemale": false,
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "coalossal",
   "veekunSlug": "coalossal",
-  "veekunFormId": 839,
-  "title": "Coalossal"
+  "veekunFormId": 839
 }

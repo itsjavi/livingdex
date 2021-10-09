@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "chesnaught",
-  "imgHome": "0652",
   "dataGen": 8,
   "type1": "grass",
   "type2": "fighting",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "chesnaught",
   "veekunSlug": "chesnaught",
-  "veekunFormId": 652,
-  "title": "Chesnaught"
+  "veekunFormId": 652
 }

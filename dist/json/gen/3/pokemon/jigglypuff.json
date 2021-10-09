@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "jigglypuff",
-  "imgHome": "0039",
   "dataGen": 8,
   "type1": "normal",
   "type2": "fairy",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "jigglypuff",
   "veekunSlug": "jigglypuff",
-  "veekunFormId": 39,
-  "title": "Jigglypuff"
+  "veekunFormId": 39
 }

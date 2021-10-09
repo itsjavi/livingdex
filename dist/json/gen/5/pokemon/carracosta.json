@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "carracosta",
-  "imgHome": "0565",
   "dataGen": 8,
   "type1": "water",
   "type2": "rock",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "carracosta",
   "veekunSlug": "carracosta",
-  "veekunFormId": 565,
-  "title": "Carracosta"
+  "veekunFormId": 565
 }

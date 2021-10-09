@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "nidoqueen",
-  "imgHome": "0031",
   "dataGen": 8,
   "type1": "poison",
   "type2": "ground",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "nidoqueen",
   "veekunSlug": "nidoqueen",
-  "veekunFormId": 31,
-  "title": "Nidoqueen"
+  "veekunFormId": 31
 }

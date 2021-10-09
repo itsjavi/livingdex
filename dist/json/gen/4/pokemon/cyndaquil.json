@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "cyndaquil",
-  "imgHome": "0155",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cyndaquil",
   "veekunSlug": "cyndaquil",
-  "veekunFormId": 155,
-  "title": "Cyndaquil"
+  "veekunFormId": 155
 }

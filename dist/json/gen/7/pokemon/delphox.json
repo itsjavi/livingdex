@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "delphox",
-  "imgHome": "0655",
   "dataGen": 8,
   "type1": "fire",
   "type2": "psychic",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "delphox",
   "veekunSlug": "delphox",
-  "veekunFormId": 655,
-  "title": "Delphox"
+  "veekunFormId": 655
 }

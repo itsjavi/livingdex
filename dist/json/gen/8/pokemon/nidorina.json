@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "nidorina",
-  "imgHome": "0030",
   "dataGen": 8,
   "type1": "poison",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "nidorina",
   "veekunSlug": "nidorina",
-  "veekunFormId": 30,
-  "title": "Nidorina"
+  "veekunFormId": 30
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "poliwhirl",
-  "imgHome": "0061",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "poliwhirl",
   "veekunSlug": "poliwhirl",
-  "veekunFormId": 61,
-  "title": "Poliwhirl"
+  "veekunFormId": 61
 }

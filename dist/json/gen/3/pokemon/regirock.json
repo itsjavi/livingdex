@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "regirock",
-  "imgHome": "0377",
   "dataGen": 8,
   "type1": "rock",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "regirock",
   "veekunSlug": "regirock",
-  "veekunFormId": 377,
-  "title": "Regirock"
+  "veekunFormId": 377
 }

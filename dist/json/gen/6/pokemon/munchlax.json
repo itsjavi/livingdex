@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "munchlax",
-  "imgHome": "0446",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "munchlax",
   "veekunSlug": "munchlax",
-  "veekunFormId": 446,
-  "title": "Munchlax"
+  "veekunFormId": 446
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "shroomish",
-  "imgHome": "0285",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "shroomish",
   "veekunSlug": "shroomish",
-  "veekunFormId": 285,
-  "title": "Shroomish"
+  "veekunFormId": 285
 }

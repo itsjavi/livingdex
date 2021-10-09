@@ -11,9 +11,6 @@
   "formSlug": "incarnate",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "tornadus",
-  "imgHome": "0641",
   "dataGen": 8,
   "type1": "flying",
   "type2": null,
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "tornadus",
   "veekunSlug": "tornadus-incarnate",
-  "veekunFormId": 641,
-  "title": "Tornadus"
+  "veekunFormId": 641
 }

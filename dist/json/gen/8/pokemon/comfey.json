@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "comfey",
-  "imgHome": "0764",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "comfey",
   "veekunSlug": "comfey",
-  "veekunFormId": 764,
-  "title": "Comfey"
+  "veekunFormId": 764
 }

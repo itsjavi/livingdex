@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "walrein",
-  "imgHome": "0365",
   "dataGen": 8,
   "type1": "ice",
   "type2": "water",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "walrein",
   "veekunSlug": "walrein",
-  "veekunFormId": 365,
-  "title": "Walrein"
+  "veekunFormId": 365
 }

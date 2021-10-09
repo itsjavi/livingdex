@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "throh",
-  "imgHome": "0538",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "throh",
   "veekunSlug": "throh",
-  "veekunFormId": 538,
-  "title": "Throh"
+  "veekunFormId": 538
 }

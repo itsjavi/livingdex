@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "gogoat",
-  "imgHome": "0673",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gogoat",
   "veekunSlug": "gogoat",
-  "veekunFormId": 673,
-  "title": "Gogoat"
+  "veekunFormId": 673
 }

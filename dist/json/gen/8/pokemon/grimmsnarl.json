@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "grimmsnarl",
-  "imgHome": "0861",
   "dataGen": 8,
   "type1": "dark",
   "type2": "fairy",
@@ -43,12 +40,12 @@
   },
   "baseStatsTotal": 510,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 3,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
   },
   "yieldBaseExp": 255,
   "isFemale": false,
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "grimmsnarl",
   "veekunSlug": "grimmsnarl",
-  "veekunFormId": 861,
-  "title": "Grimmsnarl"
+  "veekunFormId": 861
 }

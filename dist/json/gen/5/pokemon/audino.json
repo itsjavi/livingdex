@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "audino",
-  "imgHome": "0531",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "audino",
   "veekunSlug": "audino",
-  "veekunFormId": 531,
-  "title": "Audino"
+  "veekunFormId": 531
 }

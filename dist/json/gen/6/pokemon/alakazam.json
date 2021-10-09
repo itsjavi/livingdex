@@ -12,9 +12,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "alakazam",
-  "imgHome": "0065",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -66,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "alakazam",
   "veekunSlug": "alakazam",
-  "veekunFormId": 65,
-  "title": "Alakazam"
+  "veekunFormId": 65
 }

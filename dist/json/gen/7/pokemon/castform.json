@@ -13,9 +13,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "castform",
-  "imgHome": "0351",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -67,6 +64,5 @@
   "isHomeStorable": true,
   "showdownSlug": "castform",
   "veekunSlug": "castform",
-  "veekunFormId": 351,
-  "title": "Castform"
+  "veekunFormId": 351
 }

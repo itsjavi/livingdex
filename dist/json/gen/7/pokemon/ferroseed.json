@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "ferroseed",
-  "imgHome": "0597",
   "dataGen": 8,
   "type1": "grass",
   "type2": "steel",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "ferroseed",
   "veekunSlug": "ferroseed",
-  "veekunFormId": 597,
-  "title": "Ferroseed"
+  "veekunFormId": 597
 }

@@ -13,9 +13,6 @@
   "formSlug": "single-strike",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "urshifu",
-  "imgHome": "0892",
   "dataGen": 8,
   "type1": "fighting",
   "type2": "dark",
@@ -32,9 +29,9 @@
   "maleRatio": 0,
   "femaleRatio": 0,
   "growthRate": "slow",
-  "catchRate": -1,
-  "hatchCycles": -1,
-  "baseFriendship": -1,
+  "catchRate": 3,
+  "hatchCycles": 120,
+  "baseFriendship": 50,
   "baseStats": {
     "hp": 100,
     "atk": 130,
@@ -45,14 +42,14 @@
   },
   "baseStatsTotal": 550,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 3,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
   },
-  "yieldBaseExp": -1,
+  "yieldBaseExp": 275,
   "isFemale": false,
   "isCosmetic": false,
   "isLegendary": true,
@@ -66,7 +63,6 @@
   "isRegional": false,
   "isHomeStorable": true,
   "showdownSlug": "urshifu",
-  "veekunSlug": null,
-  "veekunFormId": null,
-  "title": "Urshifu"
+  "veekunSlug": "urshifu-single-strike",
+  "veekunFormId": 892
 }

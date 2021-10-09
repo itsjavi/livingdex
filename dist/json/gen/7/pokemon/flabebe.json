@@ -2,7 +2,7 @@
   "id": 669,
   "num": 669,
   "slug": "flabebe",
-  "name": "Flabébé",
+  "name": "Flabe\u0301be\u0301",
   "gen": 6,
   "forms": [
     "flabebe-yellow",
@@ -14,9 +14,6 @@
   "formSlug": "red",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "flabebe",
-  "imgHome": "0669",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -68,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "flabebe",
   "veekunSlug": "flabebe-red",
-  "veekunFormId": 669,
-  "title": "Flabébé"
+  "veekunFormId": 669
 }

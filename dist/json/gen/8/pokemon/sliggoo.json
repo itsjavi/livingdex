@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "sliggoo",
-  "imgHome": "0705",
   "dataGen": 8,
   "type1": "dragon",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "sliggoo",
   "veekunSlug": "sliggoo",
-  "veekunFormId": 705,
-  "title": "Sliggoo"
+  "veekunFormId": 705
 }

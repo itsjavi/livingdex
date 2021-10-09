@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "grotle",
-  "imgHome": "0388",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "grotle",
   "veekunSlug": "grotle",
-  "veekunFormId": 388,
-  "title": "Grotle"
+  "veekunFormId": 388
 }

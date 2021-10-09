@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "doduo",
-  "imgHome": "0084",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "doduo",
   "veekunSlug": "doduo",
-  "veekunFormId": 84,
-  "title": "Doduo"
+  "veekunFormId": 84
 }

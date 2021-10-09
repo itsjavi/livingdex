@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "jynx",
-  "imgHome": "0124",
   "dataGen": 8,
   "type1": "ice",
   "type2": "psychic",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "jynx",
   "veekunSlug": "jynx",
-  "veekunFormId": 124,
-  "title": "Jynx"
+  "veekunFormId": 124
 }

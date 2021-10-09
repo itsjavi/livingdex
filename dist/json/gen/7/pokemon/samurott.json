@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "samurott",
-  "imgHome": "0503",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "samurott",
   "veekunSlug": "samurott",
-  "veekunFormId": 503,
-  "title": "Samurott"
+  "veekunFormId": 503
 }

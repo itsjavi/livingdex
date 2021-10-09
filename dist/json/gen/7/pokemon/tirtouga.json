@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "tirtouga",
-  "imgHome": "0564",
   "dataGen": 8,
   "type1": "water",
   "type2": "rock",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "tirtouga",
   "veekunSlug": "tirtouga",
-  "veekunFormId": 564,
-  "title": "Tirtouga"
+  "veekunFormId": 564
 }

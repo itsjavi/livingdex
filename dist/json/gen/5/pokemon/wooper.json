@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "wooper",
-  "imgHome": "0194",
   "dataGen": 8,
   "type1": "water",
   "type2": "ground",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "wooper",
   "veekunSlug": "wooper",
-  "veekunFormId": 194,
-  "title": "Wooper"
+  "veekunFormId": 194
 }

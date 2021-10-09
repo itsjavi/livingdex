@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "mienshao",
-  "imgHome": "0620",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "mienshao",
   "veekunSlug": "mienshao",
-  "veekunFormId": 620,
-  "title": "Mienshao"
+  "veekunFormId": 620
 }

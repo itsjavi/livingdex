@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "vileplume",
-  "imgHome": "0045",
   "dataGen": 8,
   "type1": "grass",
   "type2": "poison",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "vileplume",
   "veekunSlug": "vileplume",
-  "veekunFormId": 45,
-  "title": "Vileplume"
+  "veekunFormId": 45
 }

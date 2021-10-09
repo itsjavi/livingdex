@@ -12,9 +12,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "rattata",
-  "imgHome": "0019",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -66,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "rattata",
   "veekunSlug": "rattata",
-  "veekunFormId": 19,
-  "title": "Rattata"
+  "veekunFormId": 19
 }

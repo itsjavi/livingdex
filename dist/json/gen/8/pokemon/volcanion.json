@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "volcanion",
-  "imgHome": "0721",
   "dataGen": 8,
   "type1": "fire",
   "type2": "water",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "volcanion",
   "veekunSlug": "volcanion",
-  "veekunFormId": 721,
-  "title": "Volcanion"
+  "veekunFormId": 721
 }

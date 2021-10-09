@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "smoochum",
-  "imgHome": "0238",
   "dataGen": 8,
   "type1": "ice",
   "type2": "psychic",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "smoochum",
   "veekunSlug": "smoochum",
-  "veekunFormId": 238,
-  "title": "Smoochum"
+  "veekunFormId": 238
 }

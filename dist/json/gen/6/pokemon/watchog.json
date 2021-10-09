@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "watchog",
-  "imgHome": "0505",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "watchog",
   "veekunSlug": "watchog",
-  "veekunFormId": 505,
-  "title": "Watchog"
+  "veekunFormId": 505
 }

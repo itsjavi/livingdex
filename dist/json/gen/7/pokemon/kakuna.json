@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "kakuna",
-  "imgHome": "0014",
   "dataGen": 8,
   "type1": "bug",
   "type2": "poison",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "kakuna",
   "veekunSlug": "kakuna",
-  "veekunFormId": 14,
-  "title": "Kakuna"
+  "veekunFormId": 14
 }

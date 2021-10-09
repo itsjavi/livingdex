@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "mamoswine",
-  "imgHome": "0473",
   "dataGen": 8,
   "type1": "ice",
   "type2": "ground",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "mamoswine",
   "veekunSlug": "mamoswine",
-  "veekunFormId": 473,
-  "title": "Mamoswine"
+  "veekunFormId": 473
 }

@@ -238,8 +238,8 @@
   {
     "id": 29,
     "num": 29,
-    "slug": "nidoran-f",
-    "name": "Nidoran-F",
+    "slug": "nidoranf",
+    "name": "Nidoran\u2640",
     "gen": 1,
     "forms": []
   },
@@ -262,8 +262,8 @@
   {
     "id": 32,
     "num": 32,
-    "slug": "nidoran-m",
-    "name": "Nidoran-M",
+    "slug": "nidoranm",
+    "name": "Nidoran\u2642",
     "gen": 1,
     "forms": []
   },
@@ -1008,7 +1008,7 @@
   {
     "id": 122,
     "num": 122,
-    "slug": "mr-mime",
+    "slug": "mrmime",
     "name": "Mr. Mime",
     "gen": 1,
     "forms": []
@@ -2114,7 +2114,7 @@
   {
     "id": 250,
     "num": 250,
-    "slug": "ho-oh",
+    "slug": "hooh",
     "name": "Ho-Oh",
     "gen": 2,
     "forms": []
@@ -3714,7 +3714,7 @@
   {
     "id": 439,
     "num": 439,
-    "slug": "mime-jr",
+    "slug": "mimejr",
     "name": "Mime Jr.",
     "gen": 4,
     "forms": []
@@ -4024,7 +4024,7 @@
   {
     "id": 474,
     "num": 474,
-    "slug": "porygon-z",
+    "slug": "porygonz",
     "name": "Porygon-Z",
     "gen": 4,
     "forms": []

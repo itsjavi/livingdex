@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "sudowoodo",
-  "imgHome": "0185",
   "dataGen": 8,
   "type1": "rock",
   "type2": null,
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "sudowoodo",
   "veekunSlug": "sudowoodo",
-  "veekunFormId": 185,
-  "title": "Sudowoodo"
+  "veekunFormId": 185
 }

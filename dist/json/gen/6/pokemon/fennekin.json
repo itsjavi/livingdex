@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "fennekin",
-  "imgHome": "0653",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "fennekin",
   "veekunSlug": "fennekin",
-  "veekunFormId": 653,
-  "title": "Fennekin"
+  "veekunFormId": 653
 }

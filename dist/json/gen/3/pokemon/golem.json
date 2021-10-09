@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "golem",
-  "imgHome": "0076",
   "dataGen": 8,
   "type1": "rock",
   "type2": "ground",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "golem",
   "veekunSlug": "golem",
-  "veekunFormId": 76,
-  "title": "Golem"
+  "veekunFormId": 76
 }

@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "ponyta",
-  "imgHome": "0077",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "ponyta",
   "veekunSlug": "ponyta",
-  "veekunFormId": 77,
-  "title": "Ponyta"
+  "veekunFormId": 77
 }

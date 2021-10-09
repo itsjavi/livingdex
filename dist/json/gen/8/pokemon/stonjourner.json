@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "stonjourner",
-  "imgHome": "0874",
   "dataGen": 8,
   "type1": "rock",
   "type2": null,
@@ -41,12 +38,12 @@
   },
   "baseStatsTotal": 470,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
   },
   "yieldBaseExp": 165,
   "isFemale": false,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "stonjourner",
   "veekunSlug": "stonjourner",
-  "veekunFormId": 874,
-  "title": "Stonjourner"
+  "veekunFormId": 874
 }

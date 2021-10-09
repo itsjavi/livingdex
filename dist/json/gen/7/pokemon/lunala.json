@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "lunala",
-  "imgHome": "0792",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "ghost",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "lunala",
   "veekunSlug": "lunala",
-  "veekunFormId": 792,
-  "title": "Lunala"
+  "veekunFormId": 792
 }

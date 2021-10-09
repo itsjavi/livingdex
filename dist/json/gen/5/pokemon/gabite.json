@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "gabite",
-  "imgHome": "0444",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "ground",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gabite",
   "veekunSlug": "gabite",
-  "veekunFormId": 444,
-  "title": "Gabite"
+  "veekunFormId": 444
 }

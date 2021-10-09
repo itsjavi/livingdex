@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "aron",
-  "imgHome": "0304",
   "dataGen": 8,
   "type1": "steel",
   "type2": "rock",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "aron",
   "veekunSlug": "aron",
-  "veekunFormId": 304,
-  "title": "Aron"
+  "veekunFormId": 304
 }

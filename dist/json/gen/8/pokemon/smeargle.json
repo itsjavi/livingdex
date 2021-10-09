@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "smeargle",
-  "imgHome": "0235",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "smeargle",
   "veekunSlug": "smeargle",
-  "veekunFormId": 235,
-  "title": "Smeargle"
+  "veekunFormId": 235
 }

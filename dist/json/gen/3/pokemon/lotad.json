@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "lotad",
-  "imgHome": "0270",
   "dataGen": 8,
   "type1": "water",
   "type2": "grass",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "lotad",
   "veekunSlug": "lotad",
-  "veekunFormId": 270,
-  "title": "Lotad"
+  "veekunFormId": 270
 }

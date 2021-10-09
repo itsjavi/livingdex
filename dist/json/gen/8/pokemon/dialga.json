@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "dialga",
-  "imgHome": "0483",
   "dataGen": 8,
   "type1": "steel",
   "type2": "dragon",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dialga",
   "veekunSlug": "dialga",
-  "veekunFormId": 483,
-  "title": "Dialga"
+  "veekunFormId": 483
 }

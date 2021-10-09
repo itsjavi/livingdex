@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "cranidos",
-  "imgHome": "0408",
   "dataGen": 8,
   "type1": "rock",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cranidos",
   "veekunSlug": "cranidos",
-  "veekunFormId": 408,
-  "title": "Cranidos"
+  "veekunFormId": 408
 }

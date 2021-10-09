@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "raikou",
-  "imgHome": "0243",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "raikou",
   "veekunSlug": "raikou",
-  "veekunFormId": 243,
-  "title": "Raikou"
+  "veekunFormId": 243
 }

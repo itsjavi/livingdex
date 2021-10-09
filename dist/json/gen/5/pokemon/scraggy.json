@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "scraggy",
-  "imgHome": "0559",
   "dataGen": 8,
   "type1": "dark",
   "type2": "fighting",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "scraggy",
   "veekunSlug": "scraggy",
-  "veekunFormId": 559,
-  "title": "Scraggy"
+  "veekunFormId": 559
 }

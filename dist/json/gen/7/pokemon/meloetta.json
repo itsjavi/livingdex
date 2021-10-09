@@ -11,9 +11,6 @@
   "formSlug": "aria",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "meloetta",
-  "imgHome": "0648",
   "dataGen": 8,
   "type1": "normal",
   "type2": "psychic",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "meloetta",
   "veekunSlug": "meloetta-aria",
-  "veekunFormId": 648,
-  "title": "Meloetta"
+  "veekunFormId": 648
 }

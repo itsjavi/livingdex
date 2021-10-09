@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "bonsly",
-  "imgHome": "0438",
   "dataGen": 8,
   "type1": "rock",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "bonsly",
   "veekunSlug": "bonsly",
-  "veekunFormId": 438,
-  "title": "Bonsly"
+  "veekunFormId": 438
 }

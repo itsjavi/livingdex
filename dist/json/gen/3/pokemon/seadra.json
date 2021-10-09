@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "seadra",
-  "imgHome": "0117",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "seadra",
   "veekunSlug": "seadra",
-  "veekunFormId": 117,
-  "title": "Seadra"
+  "veekunFormId": 117
 }

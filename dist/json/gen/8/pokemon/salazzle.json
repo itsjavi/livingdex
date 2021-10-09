@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "salazzle",
-  "imgHome": "0758",
   "dataGen": 8,
   "type1": "poison",
   "type2": "fire",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "salazzle",
   "veekunSlug": "salazzle",
-  "veekunFormId": 758,
-  "title": "Salazzle"
+  "veekunFormId": 758
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "solrock",
-  "imgHome": "0338",
   "dataGen": 8,
   "type1": "rock",
   "type2": "psychic",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "solrock",
   "veekunSlug": "solrock",
-  "veekunFormId": 338,
-  "title": "Solrock"
+  "veekunFormId": 338
 }

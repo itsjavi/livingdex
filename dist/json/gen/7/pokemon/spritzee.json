@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "spritzee",
-  "imgHome": "0682",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "spritzee",
   "veekunSlug": "spritzee",
-  "veekunFormId": 682,
-  "title": "Spritzee"
+  "veekunFormId": 682
 }

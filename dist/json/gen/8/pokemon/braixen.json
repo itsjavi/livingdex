@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "braixen",
-  "imgHome": "0654",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "braixen",
   "veekunSlug": "braixen",
-  "veekunFormId": 654,
-  "title": "Braixen"
+  "veekunFormId": 654
 }

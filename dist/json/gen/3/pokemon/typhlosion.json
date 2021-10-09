@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "typhlosion",
-  "imgHome": "0157",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "typhlosion",
   "veekunSlug": "typhlosion",
-  "veekunFormId": 157,
-  "title": "Typhlosion"
+  "veekunFormId": 157
 }

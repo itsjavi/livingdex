@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "swinub",
-  "imgHome": "0220",
   "dataGen": 8,
   "type1": "ice",
   "type2": "ground",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "swinub",
   "veekunSlug": "swinub",
-  "veekunFormId": 220,
-  "title": "Swinub"
+  "veekunFormId": 220
 }

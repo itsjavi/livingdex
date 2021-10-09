@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "entei",
-  "imgHome": "0244",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "entei",
   "veekunSlug": "entei",
-  "veekunFormId": 244,
-  "title": "Entei"
+  "veekunFormId": 244
 }

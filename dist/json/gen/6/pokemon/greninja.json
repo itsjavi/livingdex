@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "greninja",
-  "imgHome": "0658",
   "dataGen": 8,
   "type1": "water",
   "type2": "dark",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "greninja",
   "veekunSlug": "greninja",
-  "veekunFormId": 658,
-  "title": "Greninja"
+  "veekunFormId": 658
 }

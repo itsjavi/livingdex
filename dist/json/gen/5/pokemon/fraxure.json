@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "fraxure",
-  "imgHome": "0611",
   "dataGen": 8,
   "type1": "dragon",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "fraxure",
   "veekunSlug": "fraxure",
-  "veekunFormId": 611,
-  "title": "Fraxure"
+  "veekunFormId": 611
 }

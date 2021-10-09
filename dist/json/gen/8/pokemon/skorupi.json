@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "skorupi",
-  "imgHome": "0451",
   "dataGen": 8,
   "type1": "poison",
   "type2": "bug",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "skorupi",
   "veekunSlug": "skorupi",
-  "veekunFormId": 451,
-  "title": "Skorupi"
+  "veekunFormId": 451
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "minccino",
-  "imgHome": "0572",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "minccino",
   "veekunSlug": "minccino",
-  "veekunFormId": 572,
-  "title": "Minccino"
+  "veekunFormId": 572
 }

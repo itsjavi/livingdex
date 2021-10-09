@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "totodile",
-  "imgHome": "0158",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "totodile",
   "veekunSlug": "totodile",
-  "veekunFormId": 158,
-  "title": "Totodile"
+  "veekunFormId": 158
 }

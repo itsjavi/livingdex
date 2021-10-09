@@ -12,9 +12,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "steelix",
-  "imgHome": "0208",
   "dataGen": 8,
   "type1": "steel",
   "type2": "ground",
@@ -66,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "steelix",
   "veekunSlug": "steelix",
-  "veekunFormId": 208,
-  "title": "Steelix"
+  "veekunFormId": 208
 }

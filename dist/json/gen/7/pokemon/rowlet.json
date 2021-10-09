@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "rowlet",
-  "imgHome": "0722",
   "dataGen": 8,
   "type1": "grass",
   "type2": "flying",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "rowlet",
   "veekunSlug": "rowlet",
-  "veekunFormId": 722,
-  "title": "Rowlet"
+  "veekunFormId": 722
 }

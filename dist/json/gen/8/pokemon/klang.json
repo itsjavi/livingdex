@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "klang",
-  "imgHome": "0600",
   "dataGen": 8,
   "type1": "steel",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "klang",
   "veekunSlug": "klang",
-  "veekunFormId": 600,
-  "title": "Klang"
+  "veekunFormId": 600
 }

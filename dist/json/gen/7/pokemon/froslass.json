@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "froslass",
-  "imgHome": "0478",
   "dataGen": 8,
   "type1": "ice",
   "type2": "ghost",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "froslass",
   "veekunSlug": "froslass",
-  "veekunFormId": 478,
-  "title": "Froslass"
+  "veekunFormId": 478
 }

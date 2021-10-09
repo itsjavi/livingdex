@@ -2,16 +2,13 @@
   "id": 865,
   "num": 865,
   "slug": "sirfetchd",
-  "name": "Sirfetch’d",
+  "name": "Sirfetch\u2019d",
   "gen": 8,
   "forms": [],
   "formName": null,
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "sirfetchd",
-  "imgHome": "0865",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -41,12 +38,12 @@
   },
   "baseStatsTotal": 507,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
   },
   "yieldBaseExp": 177,
   "isFemale": false,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "sirfetchd",
   "veekunSlug": "sirfetchd",
-  "veekunFormId": 865,
-  "title": "Sirfetch’d"
+  "veekunFormId": 865
 }

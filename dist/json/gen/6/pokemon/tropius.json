@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "tropius",
-  "imgHome": "0357",
   "dataGen": 8,
   "type1": "grass",
   "type2": "flying",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "tropius",
   "veekunSlug": "tropius",
-  "veekunFormId": 357,
-  "title": "Tropius"
+  "veekunFormId": 357
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "druddigon",
-  "imgHome": "0621",
   "dataGen": 8,
   "type1": "dragon",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "druddigon",
   "veekunSlug": "druddigon",
-  "veekunFormId": 621,
-  "title": "Druddigon"
+  "veekunFormId": 621
 }

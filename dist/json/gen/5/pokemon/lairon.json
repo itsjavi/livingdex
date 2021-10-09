@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "lairon",
-  "imgHome": "0305",
   "dataGen": 8,
   "type1": "steel",
   "type2": "rock",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "lairon",
   "veekunSlug": "lairon",
-  "veekunFormId": 305,
-  "title": "Lairon"
+  "veekunFormId": 305
 }

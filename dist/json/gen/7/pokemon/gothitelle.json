@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "gothitelle",
-  "imgHome": "0576",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "gothitelle",
   "veekunSlug": "gothitelle",
-  "veekunFormId": 576,
-  "title": "Gothitelle"
+  "veekunFormId": 576
 }

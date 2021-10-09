@@ -7,13 +7,10 @@
   "forms": [
     "meowstic-f"
   ],
-  "formName": "M",
+  "formName": "Male",
   "formSlug": "m",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "meowstic",
-  "imgHome": "0678",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "meowstic",
   "veekunSlug": "meowstic-male",
-  "veekunFormId": 678,
-  "title": "Meowstic"
+  "veekunFormId": 678
 }

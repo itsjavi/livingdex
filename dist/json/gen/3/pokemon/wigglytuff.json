@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "wigglytuff",
-  "imgHome": "0040",
   "dataGen": 8,
   "type1": "normal",
   "type2": "fairy",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "wigglytuff",
   "veekunSlug": "wigglytuff",
-  "veekunFormId": 40,
-  "title": "Wigglytuff"
+  "veekunFormId": 40
 }

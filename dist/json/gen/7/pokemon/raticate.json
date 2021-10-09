@@ -13,9 +13,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "raticate",
-  "imgHome": "0020",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -67,6 +64,5 @@
   "isHomeStorable": true,
   "showdownSlug": "raticate",
   "veekunSlug": "raticate",
-  "veekunFormId": 20,
-  "title": "Raticate"
+  "veekunFormId": 20
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "wimpod",
-  "imgHome": "0767",
   "dataGen": 8,
   "type1": "bug",
   "type2": "water",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "wimpod",
   "veekunSlug": "wimpod",
-  "veekunFormId": 767,
-  "title": "Wimpod"
+  "veekunFormId": 767
 }

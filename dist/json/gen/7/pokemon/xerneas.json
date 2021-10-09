@@ -7,13 +7,10 @@
   "forms": [
     "xerneas-active"
   ],
-  "formName": "Neutral",
-  "formSlug": "neutral",
+  "formName": "Active",
+  "formSlug": "active",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "xerneas",
-  "imgHome": "0716",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "xerneas",
   "veekunSlug": "xerneas-neutral",
-  "veekunFormId": 10132,
-  "title": "Xerneas"
+  "veekunFormId": 10132
 }

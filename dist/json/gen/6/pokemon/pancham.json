@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "pancham",
-  "imgHome": "0674",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "pancham",
   "veekunSlug": "pancham",
-  "veekunFormId": 674,
-  "title": "Pancham"
+  "veekunFormId": 674
 }

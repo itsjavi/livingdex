@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "baltoy",
-  "imgHome": "0343",
   "dataGen": 8,
   "type1": "ground",
   "type2": "psychic",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "baltoy",
   "veekunSlug": "baltoy",
-  "veekunFormId": 343,
-  "title": "Baltoy"
+  "veekunFormId": 343
 }

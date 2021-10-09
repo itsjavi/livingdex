@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "grumpig",
-  "imgHome": "0326",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "grumpig",
   "veekunSlug": "grumpig",
-  "veekunFormId": 326,
-  "title": "Grumpig"
+  "veekunFormId": 326
 }

@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "luxray",
-  "imgHome": "0405",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "luxray",
   "veekunSlug": "luxray",
-  "veekunFormId": 405,
-  "title": "Luxray"
+  "veekunFormId": 405
 }

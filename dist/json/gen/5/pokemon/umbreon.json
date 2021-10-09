@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "umbreon",
-  "imgHome": "0197",
   "dataGen": 8,
   "type1": "dark",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "umbreon",
   "veekunSlug": "umbreon",
-  "veekunFormId": 197,
-  "title": "Umbreon"
+  "veekunFormId": 197
 }

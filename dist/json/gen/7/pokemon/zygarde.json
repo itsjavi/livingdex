@@ -14,9 +14,6 @@
   "formSlug": "50",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "zygarde",
-  "imgHome": "0718",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "ground",
@@ -68,6 +65,5 @@
   "isHomeStorable": true,
   "showdownSlug": "zygarde",
   "veekunSlug": "zygarde-50",
-  "veekunFormId": 718,
-  "title": "Zygarde"
+  "veekunFormId": 718
 }

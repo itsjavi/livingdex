@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "patrat",
-  "imgHome": "0504",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "patrat",
   "veekunSlug": "patrat",
-  "veekunFormId": 504,
-  "title": "Patrat"
+  "veekunFormId": 504
 }

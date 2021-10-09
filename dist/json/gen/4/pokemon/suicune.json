@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "suicune",
-  "imgHome": "0245",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "suicune",
   "veekunSlug": "suicune",
-  "veekunFormId": 245,
-  "title": "Suicune"
+  "veekunFormId": 245
 }

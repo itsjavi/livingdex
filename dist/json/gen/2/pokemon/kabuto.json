@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "kabuto",
-  "imgHome": "0140",
   "dataGen": 8,
   "type1": "rock",
   "type2": "water",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "kabuto",
   "veekunSlug": "kabuto",
-  "veekunFormId": 140,
-  "title": "Kabuto"
+  "veekunFormId": 140
 }

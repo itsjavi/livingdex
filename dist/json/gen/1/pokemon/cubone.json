@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "cubone",
-  "imgHome": "0104",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cubone",
   "veekunSlug": "cubone",
-  "veekunFormId": 104,
-  "title": "Cubone"
+  "veekunFormId": 104
 }

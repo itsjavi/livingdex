@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "thievul",
-  "imgHome": "0828",
   "dataGen": 8,
   "type1": "dark",
   "type2": null,
@@ -41,12 +38,12 @@
   },
   "baseStatsTotal": 455,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 0
   },
   "yieldBaseExp": 159,
   "isFemale": false,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "thievul",
   "veekunSlug": "thievul",
-  "veekunFormId": 828,
-  "title": "Thievul"
+  "veekunFormId": 828
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "yamask",
-  "imgHome": "0562",
   "dataGen": 8,
   "type1": "ghost",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "yamask",
   "veekunSlug": "yamask",
-  "veekunFormId": 562,
-  "title": "Yamask"
+  "veekunFormId": 562
 }

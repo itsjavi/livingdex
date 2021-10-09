@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "persian",
-  "imgHome": "0053",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "persian",
   "veekunSlug": "persian",
-  "veekunFormId": 53,
-  "title": "Persian"
+  "veekunFormId": 53
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "pupitar",
-  "imgHome": "0247",
   "dataGen": 8,
   "type1": "rock",
   "type2": "ground",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "pupitar",
   "veekunSlug": "pupitar",
-  "veekunFormId": 247,
-  "title": "Pupitar"
+  "veekunFormId": 247
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "zekrom",
-  "imgHome": "0644",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "electric",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "zekrom",
   "veekunSlug": "zekrom",
-  "veekunFormId": 644,
-  "title": "Zekrom"
+  "veekunFormId": 644
 }

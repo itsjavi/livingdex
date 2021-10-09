@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "pyroar",
-  "imgHome": "0668",
   "dataGen": 8,
   "type1": "fire",
   "type2": "normal",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "pyroar",
   "veekunSlug": "pyroar",
-  "veekunFormId": 668,
-  "title": "Pyroar"
+  "veekunFormId": 668
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "slowking",
-  "imgHome": "0199",
   "dataGen": 8,
   "type1": "water",
   "type2": "psychic",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "slowking",
   "veekunSlug": "slowking",
-  "veekunFormId": 199,
-  "title": "Slowking"
+  "veekunFormId": 199
 }

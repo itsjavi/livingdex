@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "klefki",
-  "imgHome": "0707",
   "dataGen": 8,
   "type1": "steel",
   "type2": "fairy",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "klefki",
   "veekunSlug": "klefki",
-  "veekunFormId": 707,
-  "title": "Klefki"
+  "veekunFormId": 707
 }

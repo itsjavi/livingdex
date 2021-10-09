@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "mesprit",
-  "imgHome": "0481",
   "dataGen": 8,
   "type1": "psychic",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "mesprit",
   "veekunSlug": "mesprit",
-  "veekunFormId": 481,
-  "title": "Mesprit"
+  "veekunFormId": 481
 }

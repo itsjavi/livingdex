@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "lanturn",
-  "imgHome": "0171",
   "dataGen": 8,
   "type1": "water",
   "type2": "electric",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "lanturn",
   "veekunSlug": "lanturn",
-  "veekunFormId": 171,
-  "title": "Lanturn"
+  "veekunFormId": 171
 }

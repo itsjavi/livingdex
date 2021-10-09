@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "stoutland",
-  "imgHome": "0508",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "stoutland",
   "veekunSlug": "stoutland",
-  "veekunFormId": 508,
-  "title": "Stoutland"
+  "veekunFormId": 508
 }

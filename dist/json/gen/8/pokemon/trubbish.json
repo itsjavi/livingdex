@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "trubbish",
-  "imgHome": "0568",
   "dataGen": 8,
   "type1": "poison",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "trubbish",
   "veekunSlug": "trubbish",
-  "veekunFormId": 568,
-  "title": "Trubbish"
+  "veekunFormId": 568
 }

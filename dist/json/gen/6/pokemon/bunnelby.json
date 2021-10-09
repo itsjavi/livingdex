@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "bunnelby",
-  "imgHome": "0659",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "bunnelby",
   "veekunSlug": "bunnelby",
-  "veekunFormId": 659,
-  "title": "Bunnelby"
+  "veekunFormId": 659
 }

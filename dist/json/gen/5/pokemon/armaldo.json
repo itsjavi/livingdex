@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "armaldo",
-  "imgHome": "0348",
   "dataGen": 8,
   "type1": "rock",
   "type2": "bug",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "armaldo",
   "veekunSlug": "armaldo",
-  "veekunFormId": 348,
-  "title": "Armaldo"
+  "veekunFormId": 348
 }

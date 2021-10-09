@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "mawile",
-  "imgHome": "0303",
   "dataGen": 8,
   "type1": "steel",
   "type2": "fairy",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "mawile",
   "veekunSlug": "mawile",
-  "veekunFormId": 303,
-  "title": "Mawile"
+  "veekunFormId": 303
 }

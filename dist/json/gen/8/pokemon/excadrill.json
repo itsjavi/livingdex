@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "excadrill",
-  "imgHome": "0530",
   "dataGen": 8,
   "type1": "ground",
   "type2": "steel",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "excadrill",
   "veekunSlug": "excadrill",
-  "veekunFormId": 530,
-  "title": "Excadrill"
+  "veekunFormId": 530
 }

@@ -25,13 +25,10 @@
     "vivillon-fancy",
     "vivillon-pokeball"
   ],
-  "formName": "Icy Snow",
-  "formSlug": "icy-snow",
+  "formName": "Meadow",
+  "formSlug": "meadow",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "vivillon-icy-snow",
-  "imgHome": "0666",
   "dataGen": 8,
   "type1": "bug",
   "type2": "flying",
@@ -83,6 +80,5 @@
   "isHomeStorable": true,
   "showdownSlug": "vivillon",
   "veekunSlug": "vivillon-icy-snow",
-  "veekunFormId": 10086,
-  "title": "Vivillon"
+  "veekunFormId": 10086
 }

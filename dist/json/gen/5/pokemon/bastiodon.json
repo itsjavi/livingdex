@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "bastiodon",
-  "imgHome": "0411",
   "dataGen": 8,
   "type1": "rock",
   "type2": "steel",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "bastiodon",
   "veekunSlug": "bastiodon",
-  "veekunFormId": 411,
-  "title": "Bastiodon"
+  "veekunFormId": 411
 }

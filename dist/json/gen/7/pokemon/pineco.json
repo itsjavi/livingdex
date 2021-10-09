@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "pineco",
-  "imgHome": "0204",
   "dataGen": 8,
   "type1": "bug",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "pineco",
   "veekunSlug": "pineco",
-  "veekunFormId": 204,
-  "title": "Pineco"
+  "veekunFormId": 204
 }

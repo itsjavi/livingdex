@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "yamper",
-  "imgHome": "0835",
   "dataGen": 8,
   "type1": "electric",
   "type2": null,
@@ -41,12 +38,12 @@
   },
   "baseStatsTotal": 270,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
   },
   "yieldBaseExp": 54,
   "isFemale": false,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "yamper",
   "veekunSlug": "yamper",
-  "veekunFormId": 835,
-  "title": "Yamper"
+  "veekunFormId": 835
 }

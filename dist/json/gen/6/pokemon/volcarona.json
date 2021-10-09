@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "volcarona",
-  "imgHome": "0637",
   "dataGen": 8,
   "type1": "bug",
   "type2": "fire",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "volcarona",
   "veekunSlug": "volcarona",
-  "veekunFormId": 637,
-  "title": "Volcarona"
+  "veekunFormId": 637
 }

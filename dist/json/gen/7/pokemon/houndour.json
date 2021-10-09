@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "houndour",
-  "imgHome": "0228",
   "dataGen": 8,
   "type1": "dark",
   "type2": "fire",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "houndour",
   "veekunSlug": "houndour",
-  "veekunFormId": 228,
-  "title": "Houndour"
+  "veekunFormId": 228
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "dusknoir",
-  "imgHome": "0477",
   "dataGen": 8,
   "type1": "ghost",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dusknoir",
   "veekunSlug": "dusknoir",
-  "veekunFormId": 477,
-  "title": "Dusknoir"
+  "veekunFormId": 477
 }

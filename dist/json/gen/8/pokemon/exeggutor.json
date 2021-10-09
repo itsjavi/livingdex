@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "exeggutor",
-  "imgHome": "0103",
   "dataGen": 8,
   "type1": "grass",
   "type2": "psychic",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "exeggutor",
   "veekunSlug": "exeggutor",
-  "veekunFormId": 103,
-  "title": "Exeggutor"
+  "veekunFormId": 103
 }

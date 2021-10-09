@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "altaria",
-  "imgHome": "0334",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "flying",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "altaria",
   "veekunSlug": "altaria",
-  "veekunFormId": 334,
-  "title": "Altaria"
+  "veekunFormId": 334
 }

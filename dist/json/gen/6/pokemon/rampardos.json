@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "rampardos",
-  "imgHome": "0409",
   "dataGen": 8,
   "type1": "rock",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "rampardos",
   "veekunSlug": "rampardos",
-  "veekunFormId": 409,
-  "title": "Rampardos"
+  "veekunFormId": 409
 }

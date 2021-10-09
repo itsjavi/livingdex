@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "delcatty",
-  "imgHome": "0301",
   "dataGen": 8,
   "type1": "normal",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "delcatty",
   "veekunSlug": "delcatty",
-  "veekunFormId": 301,
-  "title": "Delcatty"
+  "veekunFormId": 301
 }

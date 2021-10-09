@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "mudbray",
-  "imgHome": "0749",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "mudbray",
   "veekunSlug": "mudbray",
-  "veekunFormId": 749,
-  "title": "Mudbray"
+  "veekunFormId": 749
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "chatot",
-  "imgHome": "0441",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "chatot",
   "veekunSlug": "chatot",
-  "veekunFormId": 441,
-  "title": "Chatot"
+  "veekunFormId": 441
 }

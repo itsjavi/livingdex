@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "honedge",
-  "imgHome": "0679",
   "dataGen": 8,
   "type1": "steel",
   "type2": "ghost",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "honedge",
   "veekunSlug": "honedge",
-  "veekunFormId": 679,
-  "title": "Honedge"
+  "veekunFormId": 679
 }

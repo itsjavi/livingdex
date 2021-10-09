@@ -12,9 +12,6 @@
   "formSlug": "midday",
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "lycanroc",
-  "imgHome": "0745",
   "dataGen": 8,
   "type1": "rock",
   "type2": null,
@@ -66,6 +63,5 @@
   "isHomeStorable": true,
   "showdownSlug": "lycanroc",
   "veekunSlug": "lycanroc-midday",
-  "veekunFormId": 745,
-  "title": "Lycanroc"
+  "veekunFormId": 745
 }

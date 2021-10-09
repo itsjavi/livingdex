@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "weavile",
-  "imgHome": "0461",
   "dataGen": 8,
   "type1": "dark",
   "type2": "ice",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "weavile",
   "veekunSlug": "weavile",
-  "veekunFormId": 461,
-  "title": "Weavile"
+  "veekunFormId": 461
 }

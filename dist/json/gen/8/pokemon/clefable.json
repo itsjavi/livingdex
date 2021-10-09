@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "clefable",
-  "imgHome": "0036",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "clefable",
   "veekunSlug": "clefable",
-  "veekunFormId": 36,
-  "title": "Clefable"
+  "veekunFormId": 36
 }

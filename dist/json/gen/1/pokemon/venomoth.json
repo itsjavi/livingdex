@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "venomoth",
-  "imgHome": "0049",
   "dataGen": 8,
   "type1": "bug",
   "type2": "poison",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "venomoth",
   "veekunSlug": "venomoth",
-  "veekunFormId": 49,
-  "title": "Venomoth"
+  "veekunFormId": 49
 }

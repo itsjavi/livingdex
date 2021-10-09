@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "whimsicott",
-  "imgHome": "0547",
   "dataGen": 8,
   "type1": "grass",
   "type2": "fairy",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "whimsicott",
   "veekunSlug": "whimsicott",
-  "veekunFormId": 547,
-  "title": "Whimsicott"
+  "veekunFormId": 547
 }

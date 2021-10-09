@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "staryu",
-  "imgHome": "0120",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "staryu",
   "veekunSlug": "staryu",
-  "veekunFormId": 120,
-  "title": "Staryu"
+  "veekunFormId": 120
 }

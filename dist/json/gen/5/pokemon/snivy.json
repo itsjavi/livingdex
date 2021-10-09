@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "snivy",
-  "imgHome": "0495",
   "dataGen": 8,
   "type1": "grass",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "snivy",
   "veekunSlug": "snivy",
-  "veekunFormId": 495,
-  "title": "Snivy"
+  "veekunFormId": 495
 }

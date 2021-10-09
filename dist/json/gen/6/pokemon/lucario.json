@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "lucario",
-  "imgHome": "0448",
   "dataGen": 8,
   "type1": "fighting",
   "type2": "steel",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "lucario",
   "veekunSlug": "lucario",
-  "veekunFormId": 448,
-  "title": "Lucario"
+  "veekunFormId": 448
 }

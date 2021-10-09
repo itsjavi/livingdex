@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "togetic",
-  "imgHome": "0176",
   "dataGen": 8,
   "type1": "fairy",
   "type2": "flying",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "togetic",
   "veekunSlug": "togetic",
-  "veekunFormId": 176,
-  "title": "Togetic"
+  "veekunFormId": 176
 }

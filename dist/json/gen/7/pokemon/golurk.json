@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "golurk",
-  "imgHome": "0623",
   "dataGen": 8,
   "type1": "ground",
   "type2": "ghost",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "golurk",
   "veekunSlug": "golurk",
-  "veekunFormId": 623,
-  "title": "Golurk"
+  "veekunFormId": 623
 }

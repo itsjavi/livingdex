@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "volbeat",
-  "imgHome": "0313",
   "dataGen": 8,
   "type1": "bug",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "volbeat",
   "veekunSlug": "volbeat",
-  "veekunFormId": 313,
-  "title": "Volbeat"
+  "veekunFormId": 313
 }

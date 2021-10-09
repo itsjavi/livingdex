@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "tentacool",
-  "imgHome": "0072",
   "dataGen": 8,
   "type1": "water",
   "type2": "poison",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "tentacool",
   "veekunSlug": "tentacool",
-  "veekunFormId": 72,
-  "title": "Tentacool"
+  "veekunFormId": 72
 }

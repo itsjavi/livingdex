@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "dewpider",
-  "imgHome": "0751",
   "dataGen": 8,
   "type1": "water",
   "type2": "bug",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dewpider",
   "veekunSlug": "dewpider",
-  "veekunFormId": 751,
-  "title": "Dewpider"
+  "veekunFormId": 751
 }

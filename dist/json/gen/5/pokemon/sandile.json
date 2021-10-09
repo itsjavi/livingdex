@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "sandile",
-  "imgHome": "0551",
   "dataGen": 8,
   "type1": "ground",
   "type2": "dark",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "sandile",
   "veekunSlug": "sandile",
-  "veekunFormId": 551,
-  "title": "Sandile"
+  "veekunFormId": 551
 }

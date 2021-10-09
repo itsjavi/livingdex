@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "fletchling",
-  "imgHome": "0661",
   "dataGen": 8,
   "type1": "normal",
   "type2": "flying",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "fletchling",
   "veekunSlug": "fletchling",
-  "veekunFormId": 661,
-  "title": "Fletchling"
+  "veekunFormId": 661
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "venonat",
-  "imgHome": "0048",
   "dataGen": 8,
   "type1": "bug",
   "type2": "poison",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "venonat",
   "veekunSlug": "venonat",
-  "veekunFormId": 48,
-  "title": "Venonat"
+  "veekunFormId": 48
 }

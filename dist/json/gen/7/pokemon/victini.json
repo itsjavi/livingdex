@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "victini",
-  "imgHome": "0494",
   "dataGen": 8,
   "type1": "psychic",
   "type2": "fire",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "victini",
   "veekunSlug": "victini",
-  "veekunFormId": 494,
-  "title": "Victini"
+  "veekunFormId": 494
 }

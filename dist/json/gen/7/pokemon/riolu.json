@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "riolu",
-  "imgHome": "0447",
   "dataGen": 8,
   "type1": "fighting",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "riolu",
   "veekunSlug": "riolu",
-  "veekunFormId": 447,
-  "title": "Riolu"
+  "veekunFormId": 447
 }

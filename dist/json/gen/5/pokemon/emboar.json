@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "emboar",
-  "imgHome": "0500",
   "dataGen": 8,
   "type1": "fire",
   "type2": "fighting",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "emboar",
   "veekunSlug": "emboar",
-  "veekunFormId": 500,
-  "title": "Emboar"
+  "veekunFormId": 500
 }

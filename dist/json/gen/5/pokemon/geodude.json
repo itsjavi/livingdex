@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "geodude",
-  "imgHome": "0074",
   "dataGen": 8,
   "type1": "rock",
   "type2": "ground",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "geodude",
   "veekunSlug": "geodude",
-  "veekunFormId": 74,
-  "title": "Geodude"
+  "veekunFormId": 74
 }

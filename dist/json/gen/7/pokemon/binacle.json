@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "binacle",
-  "imgHome": "0688",
   "dataGen": 8,
   "type1": "rock",
   "type2": "water",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "binacle",
   "veekunSlug": "binacle",
-  "veekunFormId": 688,
-  "title": "Binacle"
+  "veekunFormId": 688
 }

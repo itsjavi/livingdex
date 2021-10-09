@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "groudon",
-  "imgHome": "0383",
   "dataGen": 8,
   "type1": "ground",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "groudon",
   "veekunSlug": "groudon",
-  "veekunFormId": 383,
-  "title": "Groudon"
+  "veekunFormId": 383
 }

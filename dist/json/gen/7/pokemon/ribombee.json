@@ -11,9 +11,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "ribombee",
-  "imgHome": "0743",
   "dataGen": 8,
   "type1": "bug",
   "type2": "fairy",
@@ -65,6 +62,5 @@
   "isHomeStorable": true,
   "showdownSlug": "ribombee",
   "veekunSlug": "ribombee",
-  "veekunFormId": 743,
-  "title": "Ribombee"
+  "veekunFormId": 743
 }

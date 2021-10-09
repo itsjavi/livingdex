@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "litleo",
-  "imgHome": "0667",
   "dataGen": 8,
   "type1": "fire",
   "type2": "normal",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "litleo",
   "veekunSlug": "litleo",
-  "veekunFormId": 667,
-  "title": "Litleo"
+  "veekunFormId": 667
 }

@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "haxorus",
-  "imgHome": "0612",
   "dataGen": 8,
   "type1": "dragon",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "haxorus",
   "veekunSlug": "haxorus",
-  "veekunFormId": 612,
-  "title": "Haxorus"
+  "veekunFormId": 612
 }

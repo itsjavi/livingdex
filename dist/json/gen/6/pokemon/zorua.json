@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "zorua",
-  "imgHome": "0570",
   "dataGen": 8,
   "type1": "dark",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "zorua",
   "veekunSlug": "zorua",
-  "veekunFormId": 570,
-  "title": "Zorua"
+  "veekunFormId": 570
 }

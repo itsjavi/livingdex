@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "ninetales",
-  "imgHome": "0038",
   "dataGen": 8,
   "type1": "fire",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "ninetales",
   "veekunSlug": "ninetales",
-  "veekunFormId": 38,
-  "title": "Ninetales"
+  "veekunFormId": 38
 }

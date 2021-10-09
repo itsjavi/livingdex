@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "granbull",
-  "imgHome": "0210",
   "dataGen": 8,
   "type1": "fairy",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "granbull",
   "veekunSlug": "granbull",
-  "veekunFormId": 210,
-  "title": "Granbull"
+  "veekunFormId": 210
 }

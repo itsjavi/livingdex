@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "cottonee",
-  "imgHome": "0546",
   "dataGen": 8,
   "type1": "grass",
   "type2": "fairy",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "cottonee",
   "veekunSlug": "cottonee",
-  "veekunFormId": 546,
-  "title": "Cottonee"
+  "veekunFormId": 546
 }

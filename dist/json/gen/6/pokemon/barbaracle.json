@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "barbaracle",
-  "imgHome": "0689",
   "dataGen": 8,
   "type1": "rock",
   "type2": "water",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "barbaracle",
   "veekunSlug": "barbaracle",
-  "veekunFormId": 689,
-  "title": "Barbaracle"
+  "veekunFormId": 689
 }

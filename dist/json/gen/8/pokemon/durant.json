@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "durant",
-  "imgHome": "0632",
   "dataGen": 8,
   "type1": "bug",
   "type2": "steel",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "durant",
   "veekunSlug": "durant",
-  "veekunFormId": 632,
-  "title": "Durant"
+  "veekunFormId": 632
 }

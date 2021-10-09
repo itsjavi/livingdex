@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "duskull",
-  "imgHome": "0355",
   "dataGen": 8,
   "type1": "ghost",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "duskull",
   "veekunSlug": "duskull",
-  "veekunFormId": 355,
-  "title": "Duskull"
+  "veekunFormId": 355
 }

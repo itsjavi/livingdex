@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "dragapult",
-  "imgHome": "0887",
   "dataGen": 8,
   "type1": "dragon",
   "type2": "ghost",
@@ -41,12 +38,12 @@
   },
   "baseStatsTotal": 600,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 3
   },
   "yieldBaseExp": 300,
   "isFemale": false,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "dragapult",
   "veekunSlug": "dragapult",
-  "veekunFormId": 887,
-  "title": "Dragapult"
+  "veekunFormId": 887
 }

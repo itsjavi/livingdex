@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "nickit",
-  "imgHome": "0827",
   "dataGen": 8,
   "type1": "dark",
   "type2": null,
@@ -41,12 +38,12 @@
   },
   "baseStatsTotal": 245,
   "yieldStats": {
-    "hp": -1,
-    "atk": -1,
-    "def": -1,
-    "spa": -1,
-    "spd": -1,
-    "spe": -1
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 0,
+    "spd": 1,
+    "spe": 0
   },
   "yieldBaseExp": 49,
   "isFemale": false,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "nickit",
   "veekunSlug": "nickit",
-  "veekunFormId": 827,
-  "title": "Nickit"
+  "veekunFormId": 827
 }

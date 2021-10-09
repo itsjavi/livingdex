@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "mudkip",
-  "imgHome": "0258",
   "dataGen": 8,
   "type1": "water",
   "type2": null,
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "mudkip",
   "veekunSlug": "mudkip",
-  "veekunFormId": 258,
-  "title": "Mudkip"
+  "veekunFormId": 258
 }

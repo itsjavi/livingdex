@@ -9,9 +9,6 @@
   "formSlug": null,
   "formOrder": 0,
   "baseSpecies": null,
-  "baseDataForm": null,
-  "imgSprite": "delibird",
-  "imgHome": "0225",
   "dataGen": 8,
   "type1": "ice",
   "type2": "flying",
@@ -63,6 +60,5 @@
   "isHomeStorable": true,
   "showdownSlug": "delibird",
   "veekunSlug": "delibird",
-  "veekunFormId": 225,
-  "title": "Delibird"
+  "veekunFormId": 225
 }
