@@ -75,19 +75,6 @@ WORKDIR /usr/src/app
 # ----------------------------------------------------------------------------
 # ----------------------------------------------------------------------------
 
-FROM php8-imagemagick as node-php8-imagemagick
-
-# Node.js
-RUN curl -sL https://deb.nodesource.com/setup_16.x -o nodesource_setup.sh
-RUN bash nodesource_setup.sh
-RUN apt-get install nodejs -y
-RUN npm install npm@7 -g
-
-WORKDIR /usr/src/project
-
-# ----------------------------------------------------------------------------
-# ----------------------------------------------------------------------------
-
 FROM node:16 as node
 RUN npm install npm@7 -g
 WORKDIR /usr/src/app

@@ -19,7 +19,7 @@ services:
       - MYSQL_ROOT_PASSWORD=${DATABASE_ROOT_PASSWORD}
 
   adminer:
-    image: adminer
+    image: adminer  # https://hub.docker.com/_/adminer   https://www.adminer.org/en/extension/
     restart: on-failure
     ports:
       - '${ADMINER_PORT}:8080'
@@ -33,14 +33,12 @@ services:
     ports:
       - '${NGINX_PORT}:80'
     depends_on:
-      - phpfpm
+      - data-generator
 
   data-generator:
     build:
       context: .
-      target: node-php8-imagemagick
-    command: [ 'true' ]
-    working_dir: /usr/src/app
+      target: php8-imagemagick
     environment:
       - APP_DIR=/usr/src/app
       - SOURCES_DIR=/usr/shared/sources
@@ -54,25 +52,31 @@ services:
       - './dist:/usr/shared/dist'
       - './resources:/usr/shared/resources:ro'
       - './.sources:/usr/shared/sources:ro'
+  #      - '~/.composer:/root/.config/composer'  # required to install private packages and use your auth.json in the container
+  #      - '~/.ssh:/root/.ssh'                   # required to clone private repositories
 
-  phpfpm:
+  spritesheet-generator:
     build:
       context: .
-      target: node-php8-imagemagick
+      target: php8-imagemagick
+    command: [ 'true' ]
     environment:
-      - APPS_DIR=/usr/src/project/apps
-      - UI_APP_DIR=/usr/src/project/apps/livingdex-ui
-      - DATAGEN_APP_DIR=/usr/src/project/apps/data-generator
-      - SOURCES_DIR=/usr/src/project/.sources
-      - RESOURCES_DIR=/usr/src/project/resources
-      - DIST_DIR=/usr/src/project/dist
-    env_file:
-      - .env
+      - SOURCES_DIR=/usr/shared/sources
+      - RESOURCES_DIR=/usr/shared/resources
+      - DIST_DIR=/usr/shared/dist
+      - SPRITESHEETS_DIR=/usr/shared/ui-public/assets/spritesheets/pokemon
+      - HOME_IMG_DIR=/usr/shared/sources/livingdex-renders/images/pokemon
+      - POKESPRITE_IMG_DIR=/usr/shared/sources/msikma-pokesprite/pokemon-gen8
+      - POKEMON_META_JSON_FILE=/usr/shared/meta/pokemon.json
+      - POKEMON_JSON_FILE=/usr/shared/dist/json/gen/8/pokemon-forms.json
     restart: on-failure
     volumes:
-      - './:/usr/src/project'
-      - '~/.composer:/root/.config/composer'  # required to install private packages and use your auth.json in the container
-      - '~/.ssh:/root/.ssh'                   # required to clone private repositories
+      - './apps/data-generator/data/meta:/usr/shared/meta:ro'
+      - './apps/spritesheet-generator:/usr/src/app'
+      - './apps/livingdex-ui/public:/usr/shared/ui-public'
+      - './.sources:/usr/shared/sources:ro'
+      - './dist:/usr/shared/dist:ro'
+      - './resources:/usr/shared/resources:ro'
 
   ui-dev:
     build:
@@ -99,26 +103,3 @@ services:
     volumes:
       - './apps/pogo-dumper:/usr/src/app'
       - './dist/json/go:/usr/shared/data'
-
-  spritesheet-generator:
-    build:
-      context: .
-      target: php8-imagemagick
-    command: [ 'true' ]
-    environment:
-      - SOURCES_DIR=/usr/shared/sources
-      - RESOURCES_DIR=/usr/shared/resources
-      - DIST_DIR=/usr/shared/dist
-      - SPRITESHEETS_DIR=/usr/shared/ui-public/assets/spritesheets/pokemon
-      - HOME_IMG_DIR=/usr/shared/sources/livingdex-renders/images/pokemon
-      - POKESPRITE_IMG_DIR=/usr/shared/sources/msikma-pokesprite/pokemon-gen8
-      - POKEMON_META_JSON_FILE=/usr/shared/meta/pokemon.json
-      - POKEMON_JSON_FILE=/usr/shared/dist/json/gen/8/pokemon-forms.json
-    restart: on-failure
-    volumes:
-      - './apps/data-generator/data/meta:/usr/shared/meta:ro'
-      - './apps/spritesheet-generator:/usr/src/app'
-      - './apps/livingdex-ui/public:/usr/shared/ui-public'
-      - './.sources:/usr/shared/sources:ro'
-      - './dist:/usr/shared/dist:ro'
-      - './resources:/usr/shared/resources:ro'
