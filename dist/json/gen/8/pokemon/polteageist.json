@@ -7,7 +7,6 @@
   "forms": [
     "polteageist-antique"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -64,6 +63,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "polteageist",
   "veekunSlug": "polteageist-phony",
   "veekunFormId": 855

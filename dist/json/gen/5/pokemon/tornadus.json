@@ -7,7 +7,6 @@
   "forms": [
     "tornadus-therian"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -64,6 +63,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "tornadus",
   "veekunSlug": "tornadus-incarnate",
   "veekunFormId": 641

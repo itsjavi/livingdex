@@ -5,7 +5,6 @@
   "name": "Mantyke",
   "gen": 4,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -62,6 +61,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "mantyke",
   "veekunSlug": "mantyke",
   "veekunFormId": 458

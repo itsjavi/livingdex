@@ -5,7 +5,6 @@
   "name": "Rattata (Female)",
   "gen": 1,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -25,6 +24,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": null,
   "veekunSlug": "rattata",
   "veekunFormId": 19

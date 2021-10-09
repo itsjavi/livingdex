@@ -7,7 +7,6 @@
   "forms": [
     "frillish-f"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -64,6 +63,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "frillish",
   "veekunSlug": "frillish",
   "veekunFormId": 592

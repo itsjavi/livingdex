@@ -69,7 +69,6 @@
     "alcremie-rainbow-swirl-ribbon",
     "alcremie-gmax"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -126,6 +125,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "alcremie",
   "veekunSlug": "alcremie-vanilla-cream",
   "veekunFormId": 869

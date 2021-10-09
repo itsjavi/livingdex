@@ -5,7 +5,6 @@
   "name": "Zarude Dada",
   "gen": 8,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -25,6 +24,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "zarudedada",
   "veekunSlug": "zarude-dada",
   "veekunFormId": 10361

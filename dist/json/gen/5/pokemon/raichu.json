@@ -7,7 +7,6 @@
   "forms": [
     "raichu-f"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -64,6 +63,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "raichu",
   "veekunSlug": "raichu",
   "veekunFormId": 26

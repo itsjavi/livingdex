@@ -10,7 +10,6 @@
     "flabebe-blue",
     "flabebe-white"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -67,6 +66,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "flabebe",
   "veekunSlug": "flabebe-red",
   "veekunFormId": 669

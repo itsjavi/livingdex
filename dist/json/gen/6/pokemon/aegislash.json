@@ -7,7 +7,6 @@
   "forms": [
     "aegislash-blade"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -64,6 +63,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "aegislash",
   "veekunSlug": "aegislash-shield",
   "veekunFormId": 681

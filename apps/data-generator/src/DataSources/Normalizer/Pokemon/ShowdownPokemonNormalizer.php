@@ -82,9 +82,11 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
             if ($baseDataForm !== null) {
                 $baseSpeciesId = $container->getEntity()->getBaseSpecies()->getId();
                 $container->getEntity()->setBaseSpecies($containersById[$baseSpeciesId]->getEntity());
-                continue;
+                // continue;
             }
-            $this->normalizeData($container, $abilitiesBySlug);
+            if (!$this->getExtraData($container->getSlug(), 'is_cosmetic')) {
+                $this->normalizeData($container, $abilitiesBySlug);
+            }
         }
 
         // set proper slug

@@ -9,7 +9,6 @@
     "gourgeist-large",
     "gourgeist-super"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -66,6 +65,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "gourgeist",
   "veekunSlug": "gourgeist-average",
   "veekunFormId": 711

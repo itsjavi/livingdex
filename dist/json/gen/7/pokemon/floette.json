@@ -11,7 +11,6 @@
     "floette-blue",
     "floette-white"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -68,6 +67,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "floette",
   "veekunSlug": "floette-red",
   "veekunFormId": 670

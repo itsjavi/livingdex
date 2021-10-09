@@ -5,7 +5,6 @@
   "name": "Mareanie",
   "gen": 7,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -62,6 +61,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "mareanie",
   "veekunSlug": "mareanie",
   "veekunFormId": 747

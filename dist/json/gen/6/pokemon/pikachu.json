@@ -13,7 +13,6 @@
     "pikachu-phd",
     "pikachu-libre"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -70,6 +69,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "pikachu",
   "veekunSlug": "pikachu",
   "veekunFormId": 25

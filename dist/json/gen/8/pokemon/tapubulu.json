@@ -5,7 +5,6 @@
   "name": "Tapu Bulu",
   "gen": 7,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -62,6 +61,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "tapubulu",
   "veekunSlug": "tapu-bulu",
   "veekunFormId": 787

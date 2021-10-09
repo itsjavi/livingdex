@@ -5,7 +5,6 @@
   "name": "Alcremie (Ruby Cream Star)",
   "gen": 8,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -25,6 +24,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "alcremie",
   "veekunSlug": "alcremie-ruby-cream",
   "veekunFormId": 10346

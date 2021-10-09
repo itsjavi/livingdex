@@ -7,7 +7,6 @@
   "forms": [
     "giratina-origin"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -64,6 +63,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "giratina",
   "veekunSlug": "giratina-altered",
   "veekunFormId": 487

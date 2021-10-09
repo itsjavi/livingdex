@@ -15,7 +15,6 @@
     "furfrou-kabuki",
     "furfrou-pharaoh"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -72,6 +71,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "furfrou",
   "veekunSlug": "furfrou-natural",
   "veekunFormId": 676

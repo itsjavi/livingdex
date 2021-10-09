@@ -5,7 +5,6 @@
   "name": "Vivillon Pok\u00e9 Ball Pattern",
   "gen": 6,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -25,6 +24,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "vivillonpokeball",
   "veekunSlug": "vivillon-poke-ball",
   "veekunFormId": 10162

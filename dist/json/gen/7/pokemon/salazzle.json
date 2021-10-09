@@ -7,7 +7,6 @@
   "forms": [
     "salazzle-totem"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -64,6 +63,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "salazzle",
   "veekunSlug": "salazzle",
   "veekunFormId": 758

@@ -273,6 +273,10 @@ class DataFullExportCommand extends Command
             }
         }
 
+        if ($pokemon->getBaseSpecies() !== null) {
+            // print_r([$pokemon->getSlug() => $dataByGen]);
+        }
+
         return $dataByGen;
     }
 
@@ -339,7 +343,7 @@ class DataFullExportCommand extends Command
     private function writeData(array $data, string $file): bool
     {
         if (file_exists($file)) {
-            error_log("IO Warning: Output file already exists: {$file}");
+            // error_log("IO Warning: Output file already exists: {$file}");
         }
 
         $json = empty($data) ? ('[]' . PHP_EOL) : JsonEncoder::encodePrettyCompact($data, 4);

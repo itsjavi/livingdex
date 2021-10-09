@@ -23,7 +23,6 @@
     "silvally-dark",
     "silvally-fairy"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -80,6 +79,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "silvally",
   "veekunSlug": "silvally-normal",
   "veekunFormId": 773

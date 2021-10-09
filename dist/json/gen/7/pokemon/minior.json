@@ -13,7 +13,6 @@
     "minior-indigo",
     "minior-violet"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": true,
   "isReversible": true,
   "isGmax": false,
@@ -70,6 +69,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": false,
+  "isHomeRegistrable": true,
   "showdownSlug": "miniormeteor",
   "veekunSlug": "minior-red-meteor",
   "veekunFormId": 774

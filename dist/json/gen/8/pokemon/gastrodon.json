@@ -7,7 +7,6 @@
   "forms": [
     "gastrodon-east"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -64,6 +63,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "gastrodon",
   "veekunSlug": "gastrodon-west",
   "veekunFormId": 423

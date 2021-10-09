@@ -9,7 +9,6 @@
     "deoxys-defense",
     "deoxys-speed"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -66,6 +65,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "deoxys",
   "veekunSlug": "deoxys-normal",
   "veekunFormId": 386

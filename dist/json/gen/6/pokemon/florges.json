@@ -10,7 +10,6 @@
     "florges-blue",
     "florges-white"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -67,6 +66,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "florges",
   "veekunSlug": "florges-red",
   "veekunFormId": 671

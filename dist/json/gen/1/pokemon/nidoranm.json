@@ -5,7 +5,6 @@
   "name": "Nidoran\u2642",
   "gen": 1,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -62,6 +61,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "nidoranm",
   "veekunSlug": "nidoran-m",
   "veekunFormId": 32

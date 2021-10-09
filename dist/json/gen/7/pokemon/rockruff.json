@@ -7,7 +7,6 @@
   "forms": [
     "rockruff-own-tempo"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -64,6 +63,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "rockruff",
   "veekunSlug": "rockruff",
   "veekunFormId": 744

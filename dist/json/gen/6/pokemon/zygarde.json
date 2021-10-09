@@ -5,7 +5,6 @@
   "name": "Zygarde",
   "gen": 6,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": true,
   "isGmax": false,
@@ -62,6 +61,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "zygarde",
   "veekunSlug": "zygarde-50",
   "veekunFormId": 718

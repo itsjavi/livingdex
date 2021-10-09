@@ -9,7 +9,6 @@
     "eevee-gmax",
     "eevee-starter"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -66,6 +65,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "eevee",
   "veekunSlug": "eevee",
   "veekunFormId": 133

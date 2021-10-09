@@ -7,7 +7,6 @@
   "forms": [
     "pachirisu-f"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -64,6 +63,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "pachirisu",
   "veekunSlug": "pachirisu",
   "veekunFormId": 417

@@ -5,7 +5,6 @@
   "name": "Primeape",
   "gen": 1,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -62,6 +61,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "primeape",
   "veekunSlug": "primeape",
   "veekunFormId": 57

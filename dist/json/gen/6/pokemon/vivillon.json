@@ -25,7 +25,6 @@
     "vivillon-fancy",
     "vivillon-pokeball"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -82,6 +81,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "vivillon",
   "veekunSlug": "vivillon-icy-snow",
   "veekunFormId": 10086

@@ -5,7 +5,6 @@
   "name": "Sawsbuck Winter Form",
   "gen": 5,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": true,
   "isGmax": false,
@@ -25,6 +24,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "sawsbuck",
   "veekunSlug": "sawsbuck-winter",
   "veekunFormId": 10073

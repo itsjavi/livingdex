@@ -7,7 +7,6 @@
   "forms": [
     "croagunk-f"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -64,6 +63,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "croagunk",
   "veekunSlug": "croagunk",
   "veekunFormId": 453

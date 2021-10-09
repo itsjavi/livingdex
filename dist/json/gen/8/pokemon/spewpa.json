@@ -5,7 +5,6 @@
   "name": "Spewpa",
   "gen": 6,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -62,6 +61,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "spewpa",
   "veekunSlug": "spewpa-icy-snow",
   "veekunFormId": 665

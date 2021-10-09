@@ -5,7 +5,6 @@
   "name": "Sirfetch\u2019d",
   "gen": 8,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -62,6 +61,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "sirfetchd",
   "veekunSlug": "sirfetchd",
   "veekunFormId": 865

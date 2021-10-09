@@ -5,7 +5,6 @@
   "name": "Tranquill",
   "gen": 5,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -62,6 +61,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "tranquill",
   "veekunSlug": "tranquill",
   "veekunFormId": 520

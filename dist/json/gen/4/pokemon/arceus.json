@@ -22,7 +22,6 @@
     "arceus-dragon",
     "arceus-dark"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -79,6 +78,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "arceus",
   "veekunSlug": "arceus-normal",
   "veekunFormId": 493

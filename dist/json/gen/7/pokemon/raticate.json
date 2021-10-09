@@ -9,7 +9,6 @@
     "raticate-alola",
     "raticate-alola-totem"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -66,6 +65,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "raticate",
   "veekunSlug": "raticate",
   "veekunFormId": 20

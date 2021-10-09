@@ -5,7 +5,6 @@
   "name": "Hakamo-o",
   "gen": 7,
   "forms": [],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -62,6 +61,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "hakamoo",
   "veekunSlug": "hakamo-o",
   "veekunFormId": 783

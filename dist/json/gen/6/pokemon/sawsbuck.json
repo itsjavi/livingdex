@@ -9,7 +9,6 @@
     "sawsbuck-autumn",
     "sawsbuck-winter"
   ],
-  "isHomeRegistrable": true,
   "isBattleOnly": false,
   "isReversible": false,
   "isGmax": false,
@@ -66,6 +65,7 @@
   "isAbilityForm": false,
   "isRegional": false,
   "isHomeStorable": true,
+  "isHomeRegistrable": true,
   "showdownSlug": "sawsbuck",
   "veekunSlug": "sawsbuck-spring",
   "veekunFormId": 586
