@@ -58,6 +58,9 @@ class PokemonNormalizerPipeline implements DataSourceNormalizerPipeline, LoggerA
     {
         $formsSortingOrder = [];
         foreach ($overrides as $plainSlug => $data) {
+            if ($data['forms_order'] === null) {
+                continue;
+            }
             foreach ($data['forms_order'] as $order => $formSlug) {
                 $formSlugPlain = StrFormat::plainSlug($formSlug);
                 if (isset($formsSortingOrder[$formSlugPlain])) {
@@ -68,7 +71,7 @@ class PokemonNormalizerPipeline implements DataSourceNormalizerPipeline, LoggerA
         }
 
         $slugPlain = StrFormat::plainSlug($container->getEntity()->getSlug());
-        if (isset($formsSortingOrder[$slugPlain])) {
+        if (!isset($formsSortingOrder[$slugPlain])) {
             throw new DataSourceException("Not sorting order found for {$slugPlain}");
         }
         $container->getEntity()->setSortingOrder($formsSortingOrder[$slugPlain]);

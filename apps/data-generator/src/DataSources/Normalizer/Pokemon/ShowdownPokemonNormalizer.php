@@ -26,8 +26,7 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
     public function __construct(
         DataSourceFileIo $dataListFileReader,
         AbilityRepository $abilityRepository
-    )
-    {
+    ) {
         $this->localDataSource = $dataListFileReader;
         $this->abilityRepository = $abilityRepository;
     }
@@ -63,7 +62,7 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
             }
             $baseSpecies = $containers[$baseSpeciesSlug] ?? null;
             if ($baseSpecies === null) {
-                throw new DataSourceException("Base species entry not found for {$slug}");
+                throw new DataSourceException("Base species entry '{$baseSpeciesSlug}' not found for {$slug}");
             }
 
             $container->getEntity()->setBaseSpecies($baseSpecies->getEntity());
@@ -88,6 +87,12 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
             $this->normalizeData($container, $abilitiesBySlug);
         }
 
+        // set proper slug
+        foreach ($containersById as $id => $container) {
+            $slug = $this->getExtraData($container->getSlug(), 'slug');
+            $container->getEntity()->setSlug($slug);
+        }
+
         ksort($containersById);
 
         yield from $containersById;
@@ -103,6 +108,7 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
             }
             $fixedData[$showdownSlug] = array_replace_recursive($data[$showdownSlug] ?? [], $override);
         }
+
         return $fixedData;
     }
 
@@ -126,7 +132,7 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
         $container = new PokemonContainer($data);
         $entity = $container->getEntity();
 
-        $dexNum = (int)$data['num'];
+        $dexNum = (int) $data['num'];
         $slug = $data['_slug'];
         $formSlug = $data['_formSlug'];
         $baseSpeciesSlug = $data['_baseSpeciesSlug'];
@@ -141,7 +147,7 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
         $entity
             ->setId($id)
             ->setDexNum($dexNum)
-            ->setSlug($slug)
+            ->setSlug(StrFormat::plainSlug($slug))
             ->setName($data['name'])
             ->setFormSlug($formSlug)
             ->setFormName($data['_formName'])
@@ -155,7 +161,7 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
 
     /**
      * @param PokemonContainer $container
-     * @param Ability[] $abilitiesBySlug
+     * @param Ability[]        $abilitiesBySlug
      * @throws DataSourceException
      */
     private function normalizeData(PokemonContainer $container, array $abilitiesBySlug)
@@ -186,8 +192,8 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
             ->setAbility1($ability1 ? $abilitiesBySlug[$ability1] : null)
             ->setAbility2($ability2 ? $abilitiesBySlug[$ability2] : null)
             ->setAbilityHidden($abilityHidden ? $abilitiesBySlug[$abilityHidden] : null)
-            ->setHeight((int)($dataSrc->getFloat('heightm', -0.01) * 100))
-            ->setWeight((int)($dataSrc->getFloat('weightkg', -0.01) * 100))
+            ->setHeight((int) ($dataSrc->getFloat('heightm', -0.01) * 100))
+            ->setWeight((int) ($dataSrc->getFloat('weightkg', -0.01) * 100))
             ->setColor($dataSrc->getSlug('color'))
             ->setActualColor($dataSrc->getSlug('color'))
             ->setMaleRatio($genderRatio['male'])
@@ -335,6 +341,6 @@ class ShowdownPokemonNormalizer implements DataSourceNormalizer
             $genderRatio['female'] = $poke['genderRatio']['F'] ?? 0.5;
         }
 
-        return ['male' => (int)$genderRatio['male'] * 100, 'female' => (int)$genderRatio['female'] * 100];
+        return ['male' => (int) $genderRatio['male'] * 100, 'female' => (int) $genderRatio['female'] * 100];
     }
 }

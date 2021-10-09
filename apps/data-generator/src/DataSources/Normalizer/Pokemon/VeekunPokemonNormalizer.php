@@ -49,7 +49,7 @@ class VeekunPokemonNormalizer implements DataSourceNormalizer, LoggerAwareInterf
      */
     public function normalize(iterable $entries): Generator
     {
-        $veekunMaxPokemonSpeciesId = (int)current(
+        $veekunMaxPokemonSpeciesId = (int) current(
             $this->veekunConnection->executeQuery(
                 "SELECT max(id) as max_id FROM pokemon_species"
             )->fetchFirstColumn()
@@ -85,16 +85,13 @@ class VeekunPokemonNormalizer implements DataSourceNormalizer, LoggerAwareInterf
 
             $slug = $entity->getSlug();
 
-            $veekunFormSlug = array_search(
-                $entity->getSlug(),
-                VeekunDataMapping::POKEMON_SLUGS,
-                true
-            ) ?: $entity->getSlug();
-
+            $veekunFormSlug = VeekunDataMapping::POKEMON_FORM_SLUGS[$entity->getSlug()] ?? $entity->getSlug();
             $veekunSubFormEntry = $veekunSubForms[$veekunFormSlug] ?? null;
 
             if ($veekunSubFormEntry === null) {
-                $this->logger->warning("Pokemon Sub-Form not found in veekun DB: {$slug}");
+                $this->logger->warning(
+                    "Pokemon Sub-Form not found in veekun DB: {$slug} / Tried with: {$veekunFormSlug}"
+                );
                 yield $id => $container;
                 continue;
             }
@@ -123,7 +120,7 @@ class VeekunPokemonNormalizer implements DataSourceNormalizer, LoggerAwareInterf
                 throw new DataSourceException("No veekun stats found for {$slug}");
             }
 
-            $entity->setVeekunFormId((int)$veekunSubFormEntry['id'])
+            $entity->setVeekunFormId((int) $veekunSubFormEntry['id'])
                 ->setVeekunSlug($veekunSubFormEntry['identifier']);
 
             $dataEntity = $container->getData();
@@ -133,18 +130,20 @@ class VeekunPokemonNormalizer implements DataSourceNormalizer, LoggerAwareInterf
             }
 
             $dataEntity
-                ->setHatchCycles((int)$veekunSpeciesEntry['hatch_counter'])
-                ->setCatchRate((int)$veekunSpeciesEntry['capture_rate'])
-                ->setBaseFriendship((int)$veekunSpeciesEntry['base_happiness'])
+                ->setHatchCycles((int) $veekunSpeciesEntry['hatch_counter'])
+                ->setCatchRate((int) $veekunSpeciesEntry['capture_rate'])
+                ->setBaseFriendship((int) $veekunSpeciesEntry['base_happiness'])
                 ->setShape($veekunSpeciesEntry['shape'] ?? VeekunDataMapping::SHAPES[$veekunSpeciesEntry['shape_id']])
-                ->setGrowthRate($veekunSpeciesEntry['growth_rate'] ?? VeekunDataMapping::GROWTH_RATES[$veekunSpeciesEntry['growth_rate_id']])
-                ->setYieldBaseExp((int)$veekunFormEntry['base_experience'])
-                ->setYieldHp((int)$stats[1]['effort'])
-                ->setYieldAttack((int)$stats[2]['effort'])
-                ->setYieldDefense((int)$stats[3]['effort'])
-                ->setYieldSpAttack((int)$stats[4]['effort'])
-                ->setYieldSpDefense((int)$stats[5]['effort'])
-                ->setYieldSpeed((int)$stats[6]['effort']);
+                ->setGrowthRate(
+                    $veekunSpeciesEntry['growth_rate'] ?? VeekunDataMapping::GROWTH_RATES[$veekunSpeciesEntry['growth_rate_id']]
+                )
+                ->setYieldBaseExp((int) $veekunFormEntry['base_experience'])
+                ->setYieldHp((int) $stats[1]['effort'])
+                ->setYieldAttack((int) $stats[2]['effort'])
+                ->setYieldDefense((int) $stats[3]['effort'])
+                ->setYieldSpAttack((int) $stats[4]['effort'])
+                ->setYieldSpDefense((int) $stats[5]['effort'])
+                ->setYieldSpeed((int) $stats[6]['effort']);
 
             yield $id => $container;
         }
