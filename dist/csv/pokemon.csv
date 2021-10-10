@@ -664,7 +664,7 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 663,,663,[],,,kalos,talonflame,talonflame,663,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,Talonflame,talonflame,0
 664,,664,[],,,kalos,scatterbug,scatterbug-icy-snow,664,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,Scatterbug,scatterbug,0
 665,,665,[],,,kalos,spewpa,spewpa-icy-snow,665,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,Spewpa,spewpa,0
-666,,666,"[""vivillon-icy-snow""]",meadow,"Icy Snow Pattern",kalos,vivillon,vivillon-icy-snow,10086,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,Vivillon,vivillon,0
+666,,666,"[""vivillon-icy-snow""]",icy-snow,"Icy Snow Pattern",kalos,vivillon,vivillon-icy-snow,10086,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,Vivillon,vivillon,0
 667,,667,[],,,kalos,litleo,litleo,667,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,Litleo,litleo,0
 668,,668,[],,,kalos,pyroar,pyroar,668,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,6,Pyroar,pyroar,0
 669,,669,"[""flabebe-red""]",red,"Red Flower",kalos,flabebe,flabebe-red,669,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,Flabébé,flabebe,0
@@ -867,7 +867,7 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 866,,866,[],,,galar,mrrime,mr-rime,866,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Mr. Rime",mrrime,0
 867,,867,[],,,galar,runerigus,runerigus,867,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Runerigus,runerigus,0
 868,,868,[],,,galar,milcery,milcery,868,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Milcery,milcery,0
-869,,869,"[""alcremie-vanilla-cream""]",vanilla-cream,"Vanilla Cream",galar,alcremie,alcremie-vanilla-cream,869,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Alcremie,alcremie,0
+869,,869,"[""alcremie-vanilla-cream"", ""alcremie-vanilla-cream-strawberry""]",vanilla-cream,"Vanilla Cream (Strawberry)",galar,alcremie,alcremie-vanilla-cream,869,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Alcremie,alcremie,0
 870,,870,[],,,galar,falinks,falinks,870,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Falinks,falinks,0
 871,,871,[],,,galar,pincurchin,pincurchin,871,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Pincurchin,pincurchin,0
 872,,872,[],,,galar,snom,snom,872,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Snom,snom,0
@@ -928,7 +928,7 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 10029,25,25,[],kalos-cap,"Kalos Cap",alola,pikachukalos,pikachu-kalos-cap,10200,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,7,"Pikachu Kalos Cap",pikachu-kalos-cap,14
 10030,25,25,[],alola-cap,"Alola Cap",alola,pikachualola,pikachu-alola-cap,10201,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,7,"Pikachu Alola Cap",pikachu-alola-cap,15
 10031,25,25,[],partner-cap,"Partner Cap",alola,pikachupartner,pikachu-partner-cap,10267,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,"Pikachu Partner Cap",pikachu-partner-cap,16
-10032,25,25,[],starter,Starter,alola,pikachustarter,pikachu-starter,10317,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,7,"Pikachu (Starter)",pikachu-starter,8
+10032,25,25,[],starter,"Let's Go Starter",alola,pikachustarter,pikachu-starter,10317,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,7,"Pikachu (Let's Go Starter)",pikachu-starter,8
 10033,25,25,[],gmax,Gigantamax,galar,pikachugmax,,,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Gigantamax Pikachu",pikachu-gmax,9
 10034,25,25,[],world-cap,"World Cap",galar,pikachuworld,pikachu-world-cap,10319,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Pikachu World Cap",pikachu-world-cap,17
 10035,26,26,[],f,Female,kanto,,raichu,26,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,"Raichu (Female)",raichu-f,1
@@ -985,7 +985,7 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 10086,130,130,[],mega,Mega,kalos,gyaradosmega,gyarados-mega,10141,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,6,"Mega Gyarados",gyarados-mega,2
 10087,131,131,[],gmax,Gigantamax,galar,laprasgmax,,,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Gigantamax Lapras",lapras-gmax,1
 10088,133,133,[],f,Female,kanto,,eevee,133,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,"Eevee (Female)",eevee-f,1
-10089,133,133,[],starter,Starter,alola,eeveestarter,eevee-starter,10318,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,"Eevee (Starter)",eevee-starter,3
+10089,133,133,[],starter,"Let's Go Starter",alola,eeveestarter,eevee-starter,10318,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,"Eevee (Let's Go Starter)",eevee-starter,3
 10090,133,133,[],gmax,Gigantamax,galar,eeveegmax,,,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Gigantamax Eevee",eevee-gmax,2
 10091,142,142,[],mega,Mega,kalos,aerodactylmega,aerodactyl-mega,10142,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,6,"Mega Aerodactyl",aerodactyl-mega,1
 10092,143,143,[],gmax,Gigantamax,galar,snorlaxgmax,,,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,8,"Gigantamax Snorlax",snorlax-gmax,1
@@ -1203,7 +1203,7 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 10304,666,666,[],elegant,"Elegant Pattern",kalos,vivillon,vivillon-elegant,10091,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,"Vivillon Elegant Pattern",vivillon-elegant,5
 10305,666,666,[],garden,"Garden Pattern",kalos,vivillon,vivillon-garden,10090,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,"Vivillon Garden Pattern",vivillon-garden,4
 10306,666,666,[],high-plains,"High Plains Pattern",kalos,vivillon,vivillon-high-plains,10095,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,"Vivillon High Plains Pattern",vivillon-high-plains,10
-10307,666,666,[],meadow,"Meadow Pattern",kalos,vivillon,vivillon-meadow,666,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,"Vivillon Meadow Pattern",vivillon-meadow,6
+10307,666,666,[],meadow,"Meadow Pattern",kalos,vivillon,vivillon-meadow,666,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,"Vivillon Meadow Pattern",vivillon-meadow,6
 10308,666,666,[],jungle,"Jungle Pattern",kalos,vivillon,vivillon-jungle,10102,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,"Vivillon Jungle Pattern",vivillon-jungle,17
 10309,666,666,[],marine,"Marine Pattern",kalos,vivillon,vivillon-marine,10093,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,"Vivillon Marine Pattern",vivillon-marine,8
 10310,666,666,[],modern,"Modern Pattern",kalos,vivillon,vivillon-modern,10092,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,"Vivillon Modern Pattern",vivillon-modern,7

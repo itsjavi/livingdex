@@ -14950,7 +14950,7 @@
     "forms": [],
     "baseSpecies": "vivillon",
     "formOrder": 6,
-    "isCosmetic": false,
+    "isCosmetic": true,
     "isHomeStorable": true,
     "isHomeRegistrable": true,
     "isBattleOnly": false,
