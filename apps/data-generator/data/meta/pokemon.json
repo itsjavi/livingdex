@@ -36697,7 +36697,7 @@
     "slug_aliases": [
       "vivillon-icy-snow"
     ],
-    "form_slug": "meadow",
+    "form_slug": "icy-snow",
     "is_cosmetic": false,
     "has_gender_diffs": false,
     "is_female": false,
@@ -36755,7 +36755,7 @@
     "slug": "vivillon-meadow",
     "slug_aliases": [],
     "form_slug": "meadow",
-    "is_cosmetic": false,
+    "is_cosmetic": true,
     "has_gender_diffs": false,
     "is_female": false,
     "is_battle_only": false,

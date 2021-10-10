@@ -1,7 +1,7 @@
 {
   "name": "Sorted",
   "slug": "sorted",
-  "description": "Pokémon sorted by species and form",
+  "description": "Pokémon Boxes sorted by Species and Forms order",
   "boxes": [
     {
       "title": "Box 1",

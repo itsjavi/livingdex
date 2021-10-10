@@ -48,12 +48,12 @@ function createPokemonElement(pkm, history, shiny = false) {
 }
 
 /**
+ * @param boxes
  * @param {PokemonListItemSimple[]} pokemonList
  * @param {History} history
  * @param {boolean} shiny
  */
-function createBoxes(pokemonList, history, shiny = false) {
-  let boxes = boxStyles[boxStyle].boxes
+function createBoxes(boxes, pokemonList, history, shiny = false) {
   let pokemonSlugMap = new Map();
   let pokemonSlugFlagMap = new Map();
 
@@ -120,8 +120,9 @@ function BoxesPage() {
   let subtitle = "Loading..."
 
   if (loading === false) {
-    boxes = createBoxes(pokemon, history, q.viewShiny)
-    subtitle = "Pokémon Boxes organized by Species and Forms"
+    let boxStyleData = boxStyles[q.boxStyle]
+    boxes = createBoxes(boxStyleData.boxes, pokemon, history, q.viewShiny)
+    subtitle = boxStyleData.description
   }
 
   console.debug("Total pokemon forms:", pokemon.length)

@@ -1,6 +1,6 @@
-import { useLocation } from "react-router-dom"
+import {useLocation} from "react-router-dom"
 import PokemonListOptions from "../app/PokemonListOptions"
-import { useMemo } from "react"
+import {useMemo} from "react"
 
 /**
  * @returns {PokemonListOptions}
@@ -22,6 +22,12 @@ function useQueryOptions(speciesOnlyByDefault = false) {
       currentOpts.showCosmeticForms = !query.has("nocosmetic") || query.has("all")
     }
 
+    currentOpts.boxStyle = 'grouped'
+
+    let allowedStyles = ['grouped', 'sorted']
+    if (query.has("mode") && allowedStyles.includes(query.get("mode"))) {
+      currentOpts.boxStyle = query.get("mode")
+    }
     currentOpts.viewShiny = query.has("shiny")
     currentOpts.onlyHomeStorable = !query.has("all")
     currentOpts.separateBoxPikachu = query.get("sbpika")

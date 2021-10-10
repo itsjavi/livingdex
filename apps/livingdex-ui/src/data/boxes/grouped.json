@@ -1,7 +1,7 @@
 {
   "name": "Grouped",
   "slug": "grouped",
-  "description": "Pokémon forms grouped by category, with species first.",
+  "description": "Pokémon Boxes organized by Species and Categories",
   "boxes": [
     {
       "title": "Species 1",

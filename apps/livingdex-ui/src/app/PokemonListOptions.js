@@ -9,6 +9,7 @@ class PokemonListOptions {
   separateBoxForms = false
   onlyHomeStorable = false
   viewShiny = false
+  boxStyle = 'grouped'
 
   get gen() {
     return this._gen

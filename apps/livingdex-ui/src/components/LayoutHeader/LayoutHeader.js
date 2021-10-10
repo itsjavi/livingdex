@@ -3,15 +3,23 @@ import styles from "./LayoutHeader.module.css"
 import imgSrc from "./box-icon.svg"
 import PropTypes from "prop-types"
 import { Link, NavLink } from "react-router-dom"
+import useQueryOptions from "../../hooks/useQueryOptions";
 
 function LayoutHeader(props) {
-  const checkActive = (match, location) => {
+  const q = useQueryOptions()
+  const checkIsHome = (match, location) => {
     //some additional logic to verify you are in the home URI
     if (!location) {
       return false
     }
     const { pathname } = location
     return pathname === "/"
+  }
+  const checkBoxesPageGrouped = (match, location) => {
+    return checkIsHome(match, location) && (q.boxStyle === 'grouped')
+  }
+  const checkBoxesPageSorted = (match, location) => {
+    return checkIsHome(match, location) && (q.boxStyle === 'sorted')
   }
 
   return (
@@ -23,18 +31,24 @@ function LayoutHeader(props) {
         </Link>
         <div className={styles.layoutHeaderRightMenu}>
           <nav>
-            <NavLink to="/"
+            <NavLink title="Boxes (Grouped)" to="/"
                      activeClassName={styles.active}
-                     isActive={checkActive}>
+                     isActive={checkBoxesPageGrouped}>
               <i className="icon-box-add"/>
-              <span>Boxes</span>
+              <span>Boxes (Grouped) </span>
             </NavLink>
-            <NavLink to="/pokedex"
+            <NavLink title="Boxes (Sorted)" to="/?mode=sorted"
+                     activeClassName={styles.active}
+                     isActive={checkBoxesPageSorted}>
+              <i className="icon-box-remove"/>
+              <span>Boxes (Sorted)</span>
+            </NavLink>
+            <NavLink title="Pokédex" to="/pokedex"
                      activeClassName={styles.active}>
               <i className="icon-books"/>
               <span>Pokédex</span>
             </NavLink>
-            <a href="https://github.com/itsjavi/livingdex#pok%C3%A9mon-living-dex" target="_blank" rel="noreferrer">
+            <a title="Github project" href="https://github.com/itsjavi/livingdex#pok%C3%A9mon-living-dex" target="_blank" rel="noreferrer">
               <i className="icon-github" title="Github"/>
               <span>Github</span>
             </a>
