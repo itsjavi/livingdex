@@ -4,7 +4,7 @@
 ![Generations](https://img.shields.io/badge/Generations-1--8-orange)
 ![Updated for](https://img.shields.io/badge/Updated%20For-Crown%20of%20Tundra-teal)
 
-🏠 [itsjavi.com/livingdex](https://itsjavi.com/livingdex)
+🏠 [Homepage](https://itsjavi.com/livingdex) &nbsp;|&nbsp; 💬 [Discord Server](https://discord.gg/sdTkJ2Kj)
 
 
 ![](resources/preview.png)
@@ -13,10 +13,8 @@ Living Dex is a visual guide for organizing Pokémon HOME boxes.<br>
 This web app contains a view of all storable Pokémon forms, including all gender differences.
 
 > 🥚 This project is still in an **early state**, please feel free to join our discussion and share your thoughts
-> in the [Github project's discussion](https://github.com/itsjavi/livingdex/discussions) section.
+> in [our Discord server](https://discord.gg/sdTkJ2Kj).
 
-> 💡 The big milestones for this project are to add edition and **customization options** 
-> as well as a **full-featured Pokédex**.
 
 ## Credits
 
