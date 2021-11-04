@@ -1,0 +1,11 @@
+dist/**/* linguist-generated=true
+resources/**/* linguist-generated=true
+*.php linguist-detectable=false
+*.html linguist-detectable=false
+*.twig linguist-detectable=false
+*.css linguist-detectable=false
+*.scss linguist-detectable=false
+*.sass linguist-detectable=false
+*.sh linguist-detectable=false
+Dockerfile linguist-detectable=false
+Makefile linguist-detectable=false
