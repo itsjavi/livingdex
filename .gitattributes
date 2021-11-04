@@ -1,5 +1,6 @@
 dist/**/* linguist-generated=true
 resources/**/* linguist-generated=true
+apps/cli/**/* linguist-generated=true
 *.php linguist-detectable=false
 *.html linguist-detectable=false
 *.twig linguist-detectable=false
