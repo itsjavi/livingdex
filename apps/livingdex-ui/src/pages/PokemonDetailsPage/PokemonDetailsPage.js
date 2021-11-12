@@ -50,16 +50,16 @@ function PokemonDetailsPage() {
   // TODO: add image file to forms array
   if (pokemon.forms.length > 0) {
     forms.push(
-      <div key={2}><h3>Forms ({pokemon.forms.length + 1})</h3></div>
+      <div key={2}><h3>Other Forms ({pokemon.forms.length})</h3></div>
     )
-    forms.push(
-      <span key={3} className={"mugShotWrapper currentMugShotWrapper"}>
-        <Link className={"mugShot currentMugShot"} to={"/pokemon/" + pokemon.slug}>
-          {PokeImg(pokemon.slug, pokemon.name, q.viewShiny)}
-        </Link>
-        <span className={"mugShotTitle"}>{pokemon.formName || pokemon.name}</span>
-      </span>
-    )
+    // forms.push(
+    //   <span key={3} className={"mugShotWrapper currentMugShotWrapper"}>
+    //     <Link className={"mugShot currentMugShot"} to={"/pokemon/" + pokemon.slug}>
+    //       {PokeImg(pokemon.slug, pokemon.name, q.viewShiny)}
+    //     </Link>
+    //     <span className={"mugShotTitle"}>{pokemon.formName || pokemon.name}</span>
+    //   </span>
+    // )
     for (let i in pokemon.forms) {
       let formData = pokemon.forms[i]
       forms.push(

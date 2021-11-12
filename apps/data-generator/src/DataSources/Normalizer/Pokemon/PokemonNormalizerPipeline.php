@@ -138,7 +138,7 @@ class PokemonNormalizerPipeline implements DataSourceNormalizerPipeline, LoggerA
             }
 
             if ($value === null || $value === []) {
-                continue;
+                // continue; // uncomment to not set null/empty-array values
             }
 
             $entity->{$setterMethod}($value);
