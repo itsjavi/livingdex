@@ -742,7 +742,7 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 741,,741,"[""oricorio-baile""]",baile,"Baile Style",alola,oricorio,oricorio-baile,741,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,Oricorio,oricorio,0
 742,,742,[],,,alola,cutiefly,cutiefly,742,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,Cutiefly,cutiefly,0
 743,,743,[],,,alola,ribombee,ribombee,743,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,Ribombee,ribombee,0
-744,,744,[],midday,Midday,alola,rockruff,rockruff,744,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,Rockruff,rockruff,0
+744,,744,[],,,alola,rockruff,rockruff,744,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,Rockruff,rockruff,0
 745,,745,"[""lycanroc-midday""]",midday,"Midday Form",alola,lycanroc,lycanroc-midday,745,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,Lycanroc,lycanroc,0
 746,,746,"[""wishiwashi-solo""]",solo,"Solo Form",alola,wishiwashi,wishiwashi-solo,746,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,Wishiwashi,wishiwashi,0
 747,,747,[],,,alola,mareanie,mareanie,747,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7,Mareanie,mareanie,0
