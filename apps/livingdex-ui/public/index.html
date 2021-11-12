@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1"/>
 
   <!-- SEO -->
   <title>Pokémon Living Dex | Pokémon HOME Box Organizer | Pokémon Living Pokédex | Pokédex Tracker</title>
 
   <meta name="description" content="Living Dex is a Pokédex,
     a Pokédex Tracker and visual guide for organizing Pokémon HOME boxes.
-    This web app contains a view of all storable Pokémon forms, including all gender differences." />
+    This web app contains a view of all storable Pokémon forms, including all gender differences."/>
 
   <!-- Icons and webapp theme -->
   <link rel="apple-touch-icon" sizes="180x180" href="%PUBLIC_URL%/icons/apple-touch-icon.png">
@@ -40,34 +40,29 @@
     href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap"
     rel="stylesheet">
 
-  <link rel="preconnect dns-prefetch" href="https://www.google-analytics.com" />
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7JHSH4JQNJ"></script>
   <script>
-    (function(i, s, o, g, r, a, m) {
-      i["GoogleAnalyticsObject"] = r
-      i[r] = i[r] || function() {
-        (i[r].q = i[r].q || []).push(arguments)
-      }, i[r].l = 1 * new Date()
-      a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0]
-      a.async = 1
-      a.src = g
-      m.parentNode.insertBefore(a, m)
-    })(window, document, "script", "https://www.google-analytics.com/analytics.js", "ga")
-    if (typeof ga === "function") {
-      ga("create", "UA-85082661-2", "auto", {})
+    window.dataLayer = window.dataLayer || []
+
+    function gtag() {
+      dataLayer.push(arguments)
     }
+
+    gtag('js', new Date())
+    gtag('config', 'G-7JHSH4JQNJ')
   </script>
 </head>
 <body>
 <noscript>You need to enable JavaScript to run this app.</noscript>
 <div id="preload" style="display: none">
-  <img src="%PUBLIC_URL%/placeholders/placeholder-64x64.png" />
-  <img src="%PUBLIC_URL%/placeholders/placeholder-68x56.png" />
-  <img src="%PUBLIC_URL%/placeholders/placeholder-128x128.png" />
-  <img src="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-home-regular.png" />
-  <img src="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-home-shiny.png" />
-  <img src="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-menu-regular.png" />
-  <img src="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-menu-shiny.png" />
+  <img src="%PUBLIC_URL%/placeholders/placeholder-64x64.png"/>
+  <img src="%PUBLIC_URL%/placeholders/placeholder-68x56.png"/>
+  <img src="%PUBLIC_URL%/placeholders/placeholder-128x128.png"/>
+  <img src="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-home-regular.png"/>
+  <img src="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-home-shiny.png"/>
+  <img src="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-menu-regular.png"/>
+  <img src="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-menu-shiny.png"/>
 </div>
 <div id="root"></div>
 <!--

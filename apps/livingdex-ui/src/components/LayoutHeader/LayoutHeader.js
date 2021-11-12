@@ -52,9 +52,10 @@ function LayoutHeader(props) {
               <i className="icon-github" title="Github"/>
               <span>Github</span>
             </a>
-            {/*<a href="https://blog.itsjavi.com/" target="_blank">*/}
-            {/*  <small>Created by <b>@itsjavi</b></small>*/}
-            {/*</a>*/}
+            <a title="Discord server" href="https://discord.gg/k7zuuYb7" target="_blank" rel="noreferrer">
+              <i className="icon-discord" title="Discord"/>
+              <span>Discord</span>
+            </a>
           </nav>
         </div>
       </div>
