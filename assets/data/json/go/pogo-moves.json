@@ -239,6 +239,7 @@ null
 ,{"uniqueId": "INCINERATE_FAST", "type": "POKEMON_TYPE_FIRE", "power": 15.0, "vfxName": "incinerate_fast", "durationTurns": 4, "energyDelta": 20}
 ,{"uniqueId": "FEATHER_DANCE", "type": "POKEMON_TYPE_FLYING", "power": 35.0, "vfxName": "feather_dance", "energyDelta": -50, "buffs": {"targetAttackStatStageChange": -2, "buffActivationChance": 1.0}}
 ,{"uniqueId": "WEATHER_BALL_NORMAL", "type": "POKEMON_TYPE_NORMAL", "power": 55.0, "vfxName": "weather_ball_normal", "energyDelta": -35}
+,{"uniqueId": "PSYCHIC_FANGS", "type": "POKEMON_TYPE_PSYCHIC", "power": 40.0, "vfxName": "psychic_fangs", "energyDelta": -35, "buffs": {"targetDefenseStatStageChange": -1, "buffActivationChance": 1.0}}
 
 ]
 

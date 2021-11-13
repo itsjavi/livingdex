@@ -3,11 +3,11 @@
     display: inline-block;
     max-width: 100%;
     background-repeat: no-repeat;
-    background-image: url(pokemon-home-regular.png?v=1633824428);
+    background-image: url(pokemon-home-regular.png?v=1636759770);
     background-size: 3200% 4800%;
 }
 .pkm.shiny, .shiny .pkm {
-    background-image: url(pokemon-home-shiny.png?v=1633824428);
+    background-image: url(pokemon-home-shiny.png?v=1636759770);
 }
 .pkm-egg {background-position: 0 0;}
 .pkm-unknown, .pkm-pikachu-cosplay, .pkm-pikachu-rock-star, .pkm-pikachu-belle, .pkm-pikachu-pop-star, .pkm-pikachu-phd, .pkm-pikachu-libre, .pkm-pikachu-starter, .pkm-eevee-starter, .pkm-pichu-spiky-eared, .pkm-floette-eternal {background-position: 3.2258064516129% 0;}
@@ -1390,7 +1390,7 @@
     display: inline-block;
     max-width: 100%;
     background-repeat: no-repeat;
-    background-image: url(pokemon-menu-regular.png?v=1633824428);
+    background-image: url(pokemon-menu-regular.png?v=1636759770);
     background-size: 3200% 4800%;
 }
 
@@ -1401,7 +1401,7 @@
     image-rendering: pixelated;
 }
 .pkmi.shiny, .shiny .pkmi {
-    background-image: url(pokemon-menu-shiny.png?v=1633824428);
+    background-image: url(pokemon-menu-shiny.png?v=1636759770);
 }
 .pkmi-egg {background-position: 0 0;}
 .pkmi-egg-manaphy {background-position: 3.2258064516129% 0;}

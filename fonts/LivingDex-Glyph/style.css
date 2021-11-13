@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'LivingDex-Glyph';
   src:
-    url('fonts/LivingDex-Glyph.ttf?5dfah9') format('truetype'),
-    url('fonts/LivingDex-Glyph.woff?5dfah9') format('woff'),
-    url('fonts/LivingDex-Glyph.svg?5dfah9#LivingDex-Glyph') format('svg');
+    url('fonts/LivingDex-Glyph.ttf?p2mujj') format('truetype'),
+    url('fonts/LivingDex-Glyph.woff?p2mujj') format('woff'),
+    url('fonts/LivingDex-Glyph.svg?p2mujj#LivingDex-Glyph') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -24,6 +24,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-photo_size_select_small:before {
+  content: "\e900";
+}
+.icon-select_all:before {
+  content: "\e901";
+}
+.icon-discord:before {
+  content: "\e902";
+}
 .icon-book:before {
   content: "\e91f";
 }
@@ -68,4 +77,85 @@
 }
 .icon-github:before {
   content: "\eab0";
+}
+.icon-newspaper:before {
+  content: "\e904";
+}
+.icon-image:before {
+  content: "\e90d";
+}
+.icon-library:before {
+  content: "\e921";
+}
+.icon-stack:before {
+  content: "\e92e";
+}
+.icon-price-tag:before {
+  content: "\e935";
+}
+.icon-price-tags:before {
+  content: "\e936";
+}
+.icon-pushpin:before {
+  content: "\e946";
+}
+.icon-location:before {
+  content: "\e947";
+}
+.icon-location2:before {
+  content: "\e948";
+}
+.icon-database:before {
+  content: "\e964";
+}
+.icon-bubble:before {
+  content: "\e96b";
+}
+.icon-bubble2:before {
+  content: "\e96e";
+}
+.icon-binoculars:before {
+  content: "\e985";
+}
+.icon-search:before {
+  content: "\e986";
+}
+.icon-pie-chart:before {
+  content: "\e99a";
+}
+.icon-truck:before {
+  content: "\e9b0";
+}
+.icon-sphere:before {
+  content: "\e9c9";
+}
+.icon-earth:before {
+  content: "\e9ca";
+}
+.icon-move-up:before {
+  content: "\ea46";
+}
+.icon-move-down:before {
+  content: "\ea47";
+}
+.icon-sort-amount-asc:before {
+  content: "\ea4c";
+}
+.icon-sort-amount-desc:before {
+  content: "\ea4d";
+}
+.icon-make-group:before {
+  content: "\ea58";
+}
+.icon-ungroup:before {
+  content: "\ea59";
+}
+.icon-filter:before {
+  content: "\ea5b";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-twitch:before {
+  content: "\ea9f";
 }
