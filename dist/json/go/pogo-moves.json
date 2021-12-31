@@ -25,7 +25,7 @@ null
 ,{"uniqueId": "DRILL_RUN", "type": "POKEMON_TYPE_GROUND", "power": 80.0, "vfxName": "drill_run", "energyDelta": -45}
 ,{"uniqueId": "PETAL_BLIZZARD", "type": "POKEMON_TYPE_GRASS", "power": 110.0, "vfxName": "petal_blizzard", "energyDelta": -65}
 ,{"uniqueId": "MEGA_DRAIN", "type": "POKEMON_TYPE_GRASS", "power": 25.0, "vfxName": "mega_drain", "energyDelta": -55}
-,{"uniqueId": "BUG_BUZZ", "type": "POKEMON_TYPE_BUG", "power": 90.0, "vfxName": "bug_buzz", "energyDelta": -60, "buffs": {"targetDefenseStatStageChange": -1, "buffActivationChance": 0.3}}
+,{"uniqueId": "BUG_BUZZ", "type": "POKEMON_TYPE_BUG", "power": 100.0, "vfxName": "bug_buzz", "energyDelta": -60, "buffs": {"targetDefenseStatStageChange": -1, "buffActivationChance": 0.3}}
 ,{"uniqueId": "POISON_FANG", "type": "POKEMON_TYPE_POISON", "power": 40.0, "vfxName": "poison_fang", "energyDelta": -35, "buffs": {"targetDefenseStatStageChange": -1, "buffActivationChance": 1.0}}
 ,{"uniqueId": "NIGHT_SLASH", "type": "POKEMON_TYPE_DARK", "power": 50.0, "vfxName": "night_slash", "energyDelta": -35, "buffs": {"attackerAttackStatStageChange": 2, "buffActivationChance": 0.125}}
 ,{"uniqueId": "BUBBLE_BEAM", "type": "POKEMON_TYPE_WATER", "power": 25.0, "vfxName": "bubble_beam", "energyDelta": -40, "buffs": {"targetAttackStatStageChange": -1, "buffActivationChance": 1.0}}
@@ -36,7 +36,7 @@ null
 ,{"uniqueId": "SEED_BOMB", "type": "POKEMON_TYPE_GRASS", "power": 55.0, "vfxName": "seed_bomb", "energyDelta": -40}
 ,{"uniqueId": "PSYSHOCK", "type": "POKEMON_TYPE_PSYCHIC", "power": 70.0, "vfxName": "psyshock", "energyDelta": -45}
 ,{"uniqueId": "ANCIENT_POWER", "type": "POKEMON_TYPE_ROCK", "power": 45.0, "vfxName": "ancient_power", "energyDelta": -45, "buffs": {"attackerAttackStatStageChange": 2, "attackerDefenseStatStageChange": 2, "buffActivationChance": 0.1}}
-,{"uniqueId": "ROCK_TOMB", "type": "POKEMON_TYPE_ROCK", "power": 70.0, "vfxName": "rock_tomb", "energyDelta": -60}
+,{"uniqueId": "ROCK_TOMB", "type": "POKEMON_TYPE_ROCK", "power": 70.0, "vfxName": "rock_tomb", "energyDelta": -60, "buffs": {"targetAttackStatStageChange": -1, "buffActivationChance": 1.0}}
 ,{"uniqueId": "ROCK_SLIDE", "type": "POKEMON_TYPE_ROCK", "power": 75.0, "vfxName": "rock_slide", "energyDelta": -45}
 ,{"uniqueId": "POWER_GEM", "type": "POKEMON_TYPE_ROCK", "power": 80.0, "vfxName": "power_gem", "energyDelta": -60}
 ,{"uniqueId": "SHADOW_SNEAK", "type": "POKEMON_TYPE_GHOST", "power": 50.0, "vfxName": "shadow_sneak", "energyDelta": -45}
@@ -117,7 +117,7 @@ null
 ,{"uniqueId": "QUICK_ATTACK_FAST", "type": "POKEMON_TYPE_NORMAL", "power": 5.0, "vfxName": "quick_attack_fast", "durationTurns": 1, "energyDelta": 7}
 ,{"uniqueId": "SCRATCH_FAST", "type": "POKEMON_TYPE_NORMAL", "power": 4.0, "vfxName": "scratch_fast", "energyDelta": 2}
 ,{"uniqueId": "TACKLE_FAST", "type": "POKEMON_TYPE_NORMAL", "power": 3.0, "vfxName": "tackle_fast", "energyDelta": 2}
-,{"uniqueId": "POUND_FAST", "type": "POKEMON_TYPE_NORMAL", "power": 5.0, "vfxName": "pound_fast", "durationTurns": 1, "energyDelta": 4}
+,{"uniqueId": "POUND_FAST", "type": "POKEMON_TYPE_NORMAL", "power": 4.0, "vfxName": "pound_fast", "durationTurns": 1, "energyDelta": 4}
 ,{"uniqueId": "CUT_FAST", "type": "POKEMON_TYPE_NORMAL", "power": 3.0, "vfxName": "cut_fast", "energyDelta": 2}
 ,{"uniqueId": "POISON_JAB_FAST", "type": "POKEMON_TYPE_POISON", "power": 7.0, "vfxName": "poison_jab_fast", "durationTurns": 1, "energyDelta": 7}
 ,{"uniqueId": "ACID_FAST", "type": "POKEMON_TYPE_POISON", "power": 6.0, "vfxName": "acid_fast", "durationTurns": 1, "energyDelta": 5}

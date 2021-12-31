@@ -867,7 +867,7 @@ id,base_species_id,dex_num,slug_aliases,form_slug,form_name,region,showdown_slug
 866,,866,[],,,galar,mrrime,mr-rime,866,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,"Mr. Rime",mrrime,0
 867,,867,[],,,galar,runerigus,runerigus,867,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Runerigus,runerigus,0
 868,,868,[],,,galar,milcery,milcery,868,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Milcery,milcery,0
-869,,869,"[""alcremie-vanilla-cream"", ""alcremie-vanilla-cream-strawberry""]",vanilla-cream,"Vanilla Cream (Strawberry)",galar,alcremie,alcremie-vanilla-cream,869,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Alcremie,alcremie,0
+869,,869,"[""alcremie-vanilla-cream"",""alcremie-vanilla-cream-strawberry""]",vanilla-cream,"Vanilla Cream (Strawberry)",galar,alcremie,alcremie-vanilla-cream,869,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Alcremie,alcremie,0
 870,,870,[],,,galar,falinks,falinks,870,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Falinks,falinks,0
 871,,871,[],,,galar,pincurchin,pincurchin,871,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Pincurchin,pincurchin,0
 872,,872,[],,,galar,snom,snom,872,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,8,Snom,snom,0

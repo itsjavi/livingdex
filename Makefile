@@ -8,6 +8,7 @@ clean-build: wipe build
 install:
 	./scripts/docker/install.sh
 
+publish:deploy
 deploy:
 	./scripts/docker/deploy.sh
 
