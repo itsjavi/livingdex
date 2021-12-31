@@ -24,3 +24,4 @@ function table_export_json_all() {
 
 table_export_csv_all
 table_export_json_all
+bin/console app:data:export-pokemon-index -vvv "${JSON_DATA_DIR}" || exit 1

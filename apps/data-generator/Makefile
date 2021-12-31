@@ -11,3 +11,6 @@ default:
 		mkdir -p "$${DIST_DIR}/csv"
 		mkdir -p "$${DIST_DIR}/json"
 		scripts/export-data.sh || exit 1
+
+export:
+		scripts/export-data.sh || exit 1
