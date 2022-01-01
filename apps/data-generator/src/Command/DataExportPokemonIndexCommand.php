@@ -119,6 +119,7 @@ class DataExportPokemonIndexCommand extends Command
         foreach ($pokemonCollection as $poke) {
             $forms = $poke->getChildren()->map(fn(Pokemon $form): string => $form->getSlug())->toArray();
             $data = $this->getDataByGen($poke)[Generation::MAX_GEN];
+            $imageFile = $poke->getSlug();
             $pokemonIndex[] = [
                 'id' => $poke->getId(),
                 'num' => $poke->getDexNum(),
@@ -130,10 +131,64 @@ class DataExportPokemonIndexCommand extends Command
                 'color' => $data['color'] ?? null,
                 'forms' => $forms,
                 'baseForm' => $poke->getBaseSpecies()?->getSlug(),
+                'tags' => $this->getTags($poke),
+                'images' => [
+                    'regular' => $imageFile,
+                    'icon' => $imageFile
+                ]
             ];
         }
 
         return $pokemonIndex;
+    }
+
+    private function getTags(Pokemon $pokemon): array
+    {
+        $tags = [];
+        if ($pokemon->isCosmetic()) {
+            $tags[] = 'cosmetic';
+        }
+        if ($pokemon->isAbilityForm()) {
+            $tags[] = 'special-ability';
+        }
+        if ($pokemon->isBattleOnly()) {
+            $tags[] = 'battle-only';
+        }
+        if ($pokemon->isReversible()) {
+            $tags[] = 'reversible';
+        }
+        if ($pokemon->isFemale()) {
+            $tags[] = 'female';
+        }
+        if ($pokemon->isRegional()) {
+            $tags[] = 'regional';
+        }
+        if ($pokemon->isGmax()) {
+            $tags[] = 'gigantamax';
+        }
+        if ($pokemon->isMega()) {
+            $tags[] = 'mega';
+        }
+        if ($pokemon->isPrimal()) {
+            $tags[] = 'primal';
+        }
+        if ($pokemon->isTotem()) {
+            $tags[] = 'totem';
+        }
+        if ($pokemon->isFusion()) {
+            $tags[] = 'fusion';
+        }
+        if ($pokemon->isLegendary()) {
+            $tags[] = 'legendary';
+        }
+        if ($pokemon->isMythical()) {
+            $tags[] = 'mythical';
+        }
+        if (!$pokemon->isHomeStorable() && !$pokemon->isHomeRegistrable()) {
+            $tags[] = 'legacy';
+        }
+
+        return $tags;
     }
 
     private function writeData(array $data, string $file): bool
