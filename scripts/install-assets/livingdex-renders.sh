@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
 
 RENDERS_URL="https://mega.nz/#!kwtkWLaZ!QpEZIEeOADV4_xE4rCy7G1yUJFu1CvWXL4aS_1bat48"
-REPO="livingdex-renders"
+REPO="livingdex-renders2"
 # REPO_FQN="itsjavi/${REPO}"
-SOURCES_DIR="./.sources"
+APPS_DIR="${PWD}/apps"
+SOURCES_DIR="${PWD}/.sources"
 
 mkdir -p "${SOURCES_DIR}"
 cd "${SOURCES_DIR}"
@@ -19,7 +20,11 @@ if [[ ! -d "./${REPO}" ]]; then
   #  cd -
   if [[ ! -f "${REPO}.zip" ]]; then
     echo "Downloading ${REPO}.zip from mega.nz ..."
-    /usr/src/project/apps/cli/livingdex megadl "${RENDERS_URL}" "${REPO}.zip"
+    ${APPS_DIR}/cli/src/lib/mega_dl.sh "${RENDERS_URL}" "${REPO}.zip"
+  fi
+  if [[ ! -f "${REPO}.zip" ]]; then
+    echo "ZIP file not found..."
+    exit 1
   fi
   unzip "${REPO}.zip"
 fi

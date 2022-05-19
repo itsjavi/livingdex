@@ -90,7 +90,7 @@ services:
       - './apps/livingdex-ui:/usr/src/app'
       - './dist:/usr/shared/dist:ro'
     ports:
-      - "3001:3000"
+      - "3005:3000"
 
   pogo-dumper:
     build:

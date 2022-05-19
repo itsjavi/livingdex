@@ -114,29 +114,11 @@
     "illuminate/support": {
         "version": "v8.24.0"
     },
-    "itsjavi/livingdex-renders": {
-        "version": "2021.01.26"
-    },
-    "itsjavi/showdown-data": {
-        "version": "2020.11.1"
-    },
-    "itsjavi/veekun-pokedex": {
-        "version": "2020.12.27"
-    },
     "laminas/laminas-code": {
         "version": "4.0.0"
     },
-    "laminas/laminas-eventmanager": {
-        "version": "3.3.0"
-    },
-    "laminas/laminas-zendframework-bridge": {
-        "version": "1.1.1"
-    },
     "monolog/monolog": {
         "version": "1.26.0"
-    },
-    "msikma/pokesprite": {
-        "version": "2020.11.23"
     },
     "nesbot/carbon": {
         "version": "2.43.0"
@@ -283,9 +265,6 @@
             "config/packages/test/monolog.yaml"
         ]
     },
-    "symfony/orm-pack": {
-        "version": "v2.1.0"
-    },
     "symfony/polyfill-intl-idn": {
         "version": "v1.22.0"
     },
@@ -362,9 +341,6 @@
             "config/packages/twig.yaml",
             "templates/base.html.twig"
         ]
-    },
-    "symfony/twig-pack": {
-        "version": "v1.0.1"
     },
     "symfony/validator": {
         "version": "4.3",

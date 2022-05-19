@@ -1,15 +1,17 @@
 #!/usr/bin/env bash
 
+SOURCES_DIR="${PWD}/.sources"
+APP_DIR="${PWD}/apps/data-generator"
 REPO="veekun-pokedex"
 REPO_FQN="itsjavi/${REPO}"
 SQLITE_FILE="${SOURCES_DIR}/pokedex.sqlite"
 SQLITE_FILE_ZIP="${REPO}/pokedex/data/pokedex.sqlite.zip"
-SQLITE_FILE_DEST="${DATAGEN_APP_DIR}/var/data/veekun-pokedex.sqlite"
-SOURCES_DIR="./.sources"
+SQLITE_FILE_DEST="${APP_DIR}/var/data/veekun-pokedex.sqlite"
 
 mkdir -p "${SOURCES_DIR}"
-cd "${SOURCES_DIR}"
+mkdir -p "${APP_DIR}/var/data"
 
+cd "${SOURCES_DIR}"
 if [[ ! -d "./${REPO}" ]]; then
   git clone https://github.com/${REPO_FQN}.git "${REPO}"
 fi
