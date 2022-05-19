@@ -2,10 +2,18 @@
 
 [![MIT license](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![Generations](https://img.shields.io/badge/Generations-1--8-orange)
-![Updated for](https://img.shields.io/badge/Updated%20For-Crown%20of%20Tundra-teal)
+![Updated for](https://img.shields.io/badge/Last%20Update-Crown%20of%20Tundra-teal)
 
-🏠 [Homepage](https://itsjavi.com/livingdex) &nbsp;|&nbsp; 💬 [Discord Server](https://discord.gg/3fRXQFtrkN)
+🏠 [Homepage](https://supereffective.gg) &nbsp;|&nbsp; 🐥 [Twitter](https://twitter.com/supereffectiv) &nbsp;|&nbsp; 💬 [Discord Server](https://discord.gg/3fRXQFtrkN)
 
+> ️⚠️ IMPORTANT: This project has been moved to 
+> [https://supereffective.gg](https://supereffective.gg)
+> where it keeps continuously updated with new Pokémon 🍊🍇✨ and features.
+>
+> This repository is discontinued and won't receive new features anymore, please
+> use the new website instead. 
+> 
+> If you have any questions, feel free to reach me via Twitter or Discord.
 
 ![](resources/preview.png)
 
