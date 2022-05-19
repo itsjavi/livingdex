@@ -25,7 +25,7 @@ null
 ,{"uniqueId": "DRILL_RUN", "type": "POKEMON_TYPE_GROUND", "power": 80.0, "vfxName": "drill_run", "energyDelta": -45}
 ,{"uniqueId": "PETAL_BLIZZARD", "type": "POKEMON_TYPE_GRASS", "power": 110.0, "vfxName": "petal_blizzard", "energyDelta": -65}
 ,{"uniqueId": "MEGA_DRAIN", "type": "POKEMON_TYPE_GRASS", "power": 25.0, "vfxName": "mega_drain", "energyDelta": -55}
-,{"uniqueId": "BUG_BUZZ", "type": "POKEMON_TYPE_BUG", "power": 90.0, "vfxName": "bug_buzz", "energyDelta": -60, "buffs": {"targetDefenseStatStageChange": -1, "buffActivationChance": 0.3}}
+,{"uniqueId": "BUG_BUZZ", "type": "POKEMON_TYPE_BUG", "power": 100.0, "vfxName": "bug_buzz", "energyDelta": -60, "buffs": {"targetDefenseStatStageChange": -1, "buffActivationChance": 0.3}}
 ,{"uniqueId": "POISON_FANG", "type": "POKEMON_TYPE_POISON", "power": 40.0, "vfxName": "poison_fang", "energyDelta": -35, "buffs": {"targetDefenseStatStageChange": -1, "buffActivationChance": 1.0}}
 ,{"uniqueId": "NIGHT_SLASH", "type": "POKEMON_TYPE_DARK", "power": 50.0, "vfxName": "night_slash", "energyDelta": -35, "buffs": {"attackerAttackStatStageChange": 2, "buffActivationChance": 0.125}}
 ,{"uniqueId": "BUBBLE_BEAM", "type": "POKEMON_TYPE_WATER", "power": 25.0, "vfxName": "bubble_beam", "energyDelta": -40, "buffs": {"targetAttackStatStageChange": -1, "buffActivationChance": 1.0}}
@@ -36,7 +36,7 @@ null
 ,{"uniqueId": "SEED_BOMB", "type": "POKEMON_TYPE_GRASS", "power": 55.0, "vfxName": "seed_bomb", "energyDelta": -40}
 ,{"uniqueId": "PSYSHOCK", "type": "POKEMON_TYPE_PSYCHIC", "power": 70.0, "vfxName": "psyshock", "energyDelta": -45}
 ,{"uniqueId": "ANCIENT_POWER", "type": "POKEMON_TYPE_ROCK", "power": 45.0, "vfxName": "ancient_power", "energyDelta": -45, "buffs": {"attackerAttackStatStageChange": 2, "attackerDefenseStatStageChange": 2, "buffActivationChance": 0.1}}
-,{"uniqueId": "ROCK_TOMB", "type": "POKEMON_TYPE_ROCK", "power": 70.0, "vfxName": "rock_tomb", "energyDelta": -60}
+,{"uniqueId": "ROCK_TOMB", "type": "POKEMON_TYPE_ROCK", "power": 70.0, "vfxName": "rock_tomb", "energyDelta": -60, "buffs": {"targetAttackStatStageChange": -1, "buffActivationChance": 1.0}}
 ,{"uniqueId": "ROCK_SLIDE", "type": "POKEMON_TYPE_ROCK", "power": 75.0, "vfxName": "rock_slide", "energyDelta": -45}
 ,{"uniqueId": "POWER_GEM", "type": "POKEMON_TYPE_ROCK", "power": 80.0, "vfxName": "power_gem", "energyDelta": -60}
 ,{"uniqueId": "SHADOW_SNEAK", "type": "POKEMON_TYPE_GHOST", "power": 50.0, "vfxName": "shadow_sneak", "energyDelta": -45}
@@ -45,7 +45,7 @@ null
 ,{"uniqueId": "SHADOW_BALL", "type": "POKEMON_TYPE_GHOST", "power": 100.0, "vfxName": "shadow_ball", "energyDelta": -55}
 ,{"uniqueId": "MAGNET_BOMB", "type": "POKEMON_TYPE_STEEL", "power": 70.0, "vfxName": "magnet_bomb", "energyDelta": -45}
 ,{"uniqueId": "IRON_HEAD", "type": "POKEMON_TYPE_STEEL", "power": 70.0, "vfxName": "iron_head", "energyDelta": -50}
-,{"uniqueId": "PARABOLIC_CHARGE", "type": "POKEMON_TYPE_ELECTRIC", "power": 25.0, "vfxName": "parabolic_charge", "energyDelta": -55}
+,{"uniqueId": "PARABOLIC_CHARGE", "type": "POKEMON_TYPE_ELECTRIC", "power": 65.0, "vfxName": "parabolic_charge", "energyDelta": -55}
 ,{"uniqueId": "THUNDER_PUNCH", "type": "POKEMON_TYPE_ELECTRIC", "power": 55.0, "vfxName": "thunder_punch", "energyDelta": -40}
 ,{"uniqueId": "THUNDER", "type": "POKEMON_TYPE_ELECTRIC", "power": 100.0, "vfxName": "thunder", "energyDelta": -60}
 ,{"uniqueId": "THUNDERBOLT", "type": "POKEMON_TYPE_ELECTRIC", "power": 90.0, "vfxName": "thunderbolt", "energyDelta": -55}
@@ -117,7 +117,7 @@ null
 ,{"uniqueId": "QUICK_ATTACK_FAST", "type": "POKEMON_TYPE_NORMAL", "power": 5.0, "vfxName": "quick_attack_fast", "durationTurns": 1, "energyDelta": 7}
 ,{"uniqueId": "SCRATCH_FAST", "type": "POKEMON_TYPE_NORMAL", "power": 4.0, "vfxName": "scratch_fast", "energyDelta": 2}
 ,{"uniqueId": "TACKLE_FAST", "type": "POKEMON_TYPE_NORMAL", "power": 3.0, "vfxName": "tackle_fast", "energyDelta": 2}
-,{"uniqueId": "POUND_FAST", "type": "POKEMON_TYPE_NORMAL", "power": 5.0, "vfxName": "pound_fast", "durationTurns": 1, "energyDelta": 4}
+,{"uniqueId": "POUND_FAST", "type": "POKEMON_TYPE_NORMAL", "power": 4.0, "vfxName": "pound_fast", "durationTurns": 1, "energyDelta": 4}
 ,{"uniqueId": "CUT_FAST", "type": "POKEMON_TYPE_NORMAL", "power": 3.0, "vfxName": "cut_fast", "energyDelta": 2}
 ,{"uniqueId": "POISON_JAB_FAST", "type": "POKEMON_TYPE_POISON", "power": 7.0, "vfxName": "poison_jab_fast", "durationTurns": 1, "energyDelta": 7}
 ,{"uniqueId": "ACID_FAST", "type": "POKEMON_TYPE_POISON", "power": 6.0, "vfxName": "acid_fast", "durationTurns": 1, "energyDelta": 5}
@@ -207,6 +207,7 @@ null
 ,{"uniqueId": "SUPER_POWER", "type": "POKEMON_TYPE_FIGHTING", "power": 85.0, "vfxName": "super_power", "energyDelta": -40, "buffs": {"attackerAttackStatStageChange": -1, "attackerDefenseStatStageChange": -1, "buffActivationChance": 1.0}}
 ,{"uniqueId": "FELL_STINGER", "type": "POKEMON_TYPE_BUG", "power": 20.0, "vfxName": "fell_stinger", "energyDelta": -35, "buffs": {"attackerAttackStatStageChange": 1, "buffActivationChance": 1.0}}
 ,{"uniqueId": "LEAF_TORNADO", "type": "POKEMON_TYPE_GRASS", "power": 45.0, "vfxName": "leaf_tornado", "energyDelta": -40, "buffs": {"targetAttackStatStageChange": -2, "buffActivationChance": 0.5}}
+,{"uniqueId": "DRAIN_PUNCH", "type": "POKEMON_TYPE_FIGHTING", "power": 20.0, "vfxName": "drain_punch", "energyDelta": -40, "buffs": {"attackerDefenseStatStageChange": 1, "buffActivationChance": 1.0}}
 ,{"uniqueId": "SHADOW_BONE", "type": "POKEMON_TYPE_GHOST", "power": 75.0, "vfxName": "shadow_bone", "energyDelta": -45, "buffs": {"targetDefenseStatStageChange": -1, "buffActivationChance": 0.2}}
 ,{"uniqueId": "MUDDY_WATER", "type": "POKEMON_TYPE_WATER", "power": 35.0, "vfxName": "muddy_water", "energyDelta": -35, "buffs": {"targetAttackStatStageChange": -1, "buffActivationChance": 0.3}}
 ,{"uniqueId": "BLAZE_KICK", "type": "POKEMON_TYPE_FIRE", "power": 55.0, "vfxName": "blaze_kick", "energyDelta": -40}
@@ -240,6 +241,16 @@ null
 ,{"uniqueId": "FEATHER_DANCE", "type": "POKEMON_TYPE_FLYING", "power": 35.0, "vfxName": "feather_dance", "energyDelta": -50, "buffs": {"targetAttackStatStageChange": -2, "buffActivationChance": 1.0}}
 ,{"uniqueId": "WEATHER_BALL_NORMAL", "type": "POKEMON_TYPE_NORMAL", "power": 55.0, "vfxName": "weather_ball_normal", "energyDelta": -35}
 ,{"uniqueId": "PSYCHIC_FANGS", "type": "POKEMON_TYPE_PSYCHIC", "power": 40.0, "vfxName": "psychic_fangs", "energyDelta": -35, "buffs": {"targetDefenseStatStageChange": -1, "buffActivationChance": 1.0}}
+,{"uniqueId": "MAGICAL_LEAF_FAST", "type": "POKEMON_TYPE_GRASS", "power": 10.0, "vfxName": "magical_leaf_fast", "durationTurns": 2, "energyDelta": 10}
+,{"uniqueId": "SACRED_FIRE", "type": "POKEMON_TYPE_FIRE", "power": 130.0, "vfxName": "sacred_fire", "energyDelta": -65, "buffs": {"targetAttackStatStageChange": -1, "buffActivationChance": 0.5}}
+,{"uniqueId": "ICICLE_SPEAR", "type": "POKEMON_TYPE_ICE", "power": 60.0, "vfxName": "icicle_spear", "energyDelta": -35}
+,{"uniqueId": "AEROBLAST_PLUS", "type": "POKEMON_TYPE_FLYING", "power": 170.0, "vfxName": "aeroblast", "energyDelta": -75, "buffs": {"attackerAttackStatStageChange": 2, "buffActivationChance": 0.125}}
+,{"uniqueId": "AEROBLAST_PLUS_PLUS", "type": "POKEMON_TYPE_FLYING", "power": 170.0, "vfxName": "aeroblast", "energyDelta": -75, "buffs": {"attackerAttackStatStageChange": 2, "buffActivationChance": 0.125}}
+,{"uniqueId": "SACRED_FIRE_PLUS", "type": "POKEMON_TYPE_FIRE", "power": 130.0, "vfxName": "sacred_fire", "energyDelta": -65, "buffs": {"targetAttackStatStageChange": -1, "buffActivationChance": 0.5}}
+,{"uniqueId": "SACRED_FIRE_PLUS_PLUS", "type": "POKEMON_TYPE_FIRE", "power": 130.0, "vfxName": "sacred_fire", "energyDelta": -65, "buffs": {"targetAttackStatStageChange": -1, "buffActivationChance": 0.5}}
+,{"uniqueId": "ACROBATICS", "type": "POKEMON_TYPE_FLYING", "power": 110.0, "vfxName": "acrobatics", "energyDelta": -60}
+,{"uniqueId": "LUSTER_PURGE", "type": "POKEMON_TYPE_PSYCHIC", "power": 120.0, "vfxName": "luster_purge", "energyDelta": -60, "buffs": {"targetDefenseStatStageChange": -1, "buffActivationChance": 0.5}}
+,{"uniqueId": "MIST_BALL", "type": "POKEMON_TYPE_PSYCHIC", "power": 120.0, "vfxName": "mist_ball", "energyDelta": -60, "buffs": {"targetAttackStatStageChange": -1, "buffActivationChance": 0.5}}
 
 ]
 
