@@ -48,21 +48,24 @@ function LayoutHeader(props) {
               <i className="icon-books"/>
               <span>Pokédex</span>
             </NavLink>
-            <a title="Github project" href="https://github.com/itsjavi/livingdex#pok%C3%A9mon-living-dex" target="_blank" rel="noreferrer">
-              <i className="icon-github" title="Github"/>
-              <span>Github</span>
+            <a title="Official Twitter" href="https://twitter.com/supereffectiv" target="_blank" rel="noreferrer">
+              <i className="icon-twitter" title="Twitter"/>
+              <span>Twitter</span>
             </a>
-            <a title="Discord server" href="https://discord.gg/k7zuuYb7" target="_blank" rel="noreferrer">
+            <a title="Discord server" href="https://discord.gg/3fRXQFtrkN" target="_blank" rel="noreferrer">
               <i className="icon-discord" title="Discord"/>
               <span>Discord</span>
             </a>
           </nav>
         </div>
       </div>
-      <div className={styles.layoutHeaderBottom + " bgGradientDownLight"}>
-        <h2 className={styles.layoutHeaderSubMenuTitle}>
-          {props.subtitle}
-        </h2>
+      <div className={styles.layoutHeaderBottom + " bgNotice"} rel={"noindex"}>
+        <div className={styles.layoutHeaderSubMenuTitle}>
+         ️⚠️ IMPORTANT: This app has been moved to <a href="https://supereffective.gg/apps/livingdex">supereffective.gg</a>,
+          where it keeps continuously updated with new Pokémon 🍊🍇✨  and features.
+          <br />
+          <i style={{opacity: 0.7}}>This app version is discontinued and won't be updated anymore.</i>
+        </div>
       </div>
     </div>
   )
