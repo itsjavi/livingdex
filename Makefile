@@ -11,4 +11,5 @@ install:
 
 publish:deploy
 deploy:
+	make build || exit 1
 	npm run deploy
