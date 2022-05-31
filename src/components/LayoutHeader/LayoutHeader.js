@@ -5,22 +5,6 @@ import PropTypes from "prop-types"
 import {Link} from "react-router-dom"
 
 function LayoutHeader(props) {
-  const q = {}
-  const checkIsHome = (match, location) => {
-    //some additional logic to verify you are in the home URI
-    if (!location) {
-      return false
-    }
-    const {pathname} = location
-    return pathname === "/"
-  }
-  const checkBoxesPageGrouped = (match, location) => {
-    return checkIsHome(match, location) && (q.boxStyle === 'grouped')
-  }
-  const checkBoxesPageSorted = (match, location) => {
-    return checkIsHome(match, location) && (q.boxStyle === 'sorted')
-  }
-
   return (
     <div className={styles.layoutHeader}>
       <div className={styles.layoutHeaderTop + " bgGradientLeft"}>
