@@ -1,105 +1,14 @@
 version: "3.8"
-volumes:
-  mariadb-data: ~
 services:
-  mariadb:
-    image: mariadb:10
-    restart: on-failure
-    command:
-      - '--character-set-server=utf8mb4'
-      - '--collation-server=utf8mb4_unicode_ci'
-    ports:
-      - '${MARIADB_PORT}:3306'
-    volumes:
-      - "mariadb-data:/var/lib/mysql"
-    environment:
-      - MARIADB_DATABASE=${DATABASE_NAME}
-      - MARIADB_USER=${DATABASE_USER}
-      - MARIADB_PASSWORD=${DATABASE_PASSWORD}
-      - MARIADB_ROOT_PASSWORD=${DATABASE_ROOT_PASSWORD}
-
-  adminer:
-    image: adminer  # https://hub.docker.com/_/adminer   https://www.adminer.org/en/extension/
-    restart: on-failure
-    ports:
-      - '${ADMINER_PORT}:8080'
-
-  nginx:
-    image: nginx:1.19-alpine
-    restart: on-failure
-    volumes:
-      - './:/usr/src/project'
-      - './resources/docker/nginx-default.conf:/etc/nginx/conf.d/default.conf'
-    ports:
-      - '${NGINX_PORT}:80'
-    depends_on:
-      - data-generator
-
-  data-generator:
+  frontend:
     build:
       context: .
-      target: php8-imagemagick
-    environment:
-      - APP_DIR=/usr/src/app
-      - SOURCES_DIR=/usr/shared/sources
-      - RESOURCES_DIR=/usr/shared/resources
-      - DIST_DIR=/usr/shared/dist
-    env_file:
-      - .env
-    restart: on-failure
-    volumes:
-      - './apps/data-generator:/usr/src/app'
-      - './dist:/usr/shared/dist'
-      - './resources:/usr/shared/resources:ro'
-      - './.sources:/usr/shared/sources:ro'
-  #      - '~/.composer:/root/.config/composer'  # required to install private packages and use your auth.json in the container
-  #      - '~/.ssh:/root/.ssh'                   # required to clone private repositories
-
-  spritesheet-generator:
-    build:
-      context: .
-      target: php8-imagemagick
-    command: [ 'true' ]
-    environment:
-      - SOURCES_DIR=/usr/shared/sources
-      - RESOURCES_DIR=/usr/shared/resources
-      - DIST_DIR=/usr/shared/dist
-      - SPRITESHEETS_DIR=/usr/shared/ui-public/assets/spritesheets/pokemon
-      - HOME_IMG_DIR=/usr/shared/sources/livingdex-renders/images/pokemon
-      - POKESPRITE_IMG_DIR=/usr/shared/sources/msikma-pokesprite/pokemon-gen8
-      - POKEMON_META_JSON_FILE=/usr/shared/meta/pokemon.json
-      - POKEMON_JSON_FILE=/usr/shared/dist/json/gen/8/pokemon-forms.json
-    restart: on-failure
-    volumes:
-      - './apps/data-generator/data/meta:/usr/shared/meta:ro'
-      - './apps/spritesheet-generator:/usr/src/app'
-      - './apps/livingdex-ui/public:/usr/shared/ui-public'
-      - './.sources:/usr/shared/sources:ro'
-      - './dist:/usr/shared/dist:ro'
-      - './resources:/usr/shared/resources:ro'
-
-  ui-dev:
-    build:
-      context: .
-      target: node
-    command: [ 'npm', 'start' ]
+      target: dev-frontend
+    command: ["npm", "start"]
     restart: on-failure
     environment:
-      - DIST_DIR=/usr/shared/dist
-    volumes:
-      - './apps/livingdex-ui:/usr/src/app'
-      - './dist:/usr/shared/dist:ro'
+      - DIST_DIR=/usr/src/app/dist
     ports:
-      - "3005:3000"
-
-  pogo-dumper:
-    build:
-      context: .
-      target: python
-    command: [ 'true' ]
-    environment:
-      - DATA_DIR=/usr/shared/data
-    restart: on-failure
+      - "3003:3000"
     volumes:
-      - './apps/pogo-dumper:/usr/src/app'
-      - './dist/json/go:/usr/shared/data'
+      - "./:/usr/src/app"

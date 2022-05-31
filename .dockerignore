@@ -10,3 +10,5 @@ node_modules
 .megadown
 .sources
 dist
+public/assets
+node_modules/livingdex-renders

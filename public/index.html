@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1"/>
+
+  <!-- SEO -->
+  <title>Pokémon Living Dex | Pokémon HOME Box Organizer | Living Pokédex | Pokédex Tracker</title>
+
+  <meta name="description" content="Living Dex is a Pokédex,
+    a Pokédex Tracker and visual guide for organizing Pokémon HOME boxes.
+    This web app contains a view of all storable Pokémon forms, including all gender differences."/>
+
+  <!-- Icons and webapp theme -->
+  <link rel="apple-touch-icon" sizes="180x180" href="%PUBLIC_URL%/icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="%PUBLIC_URL%/icons/favicon-32x32.png">
+  <!--    <link rel="icon" type="image/png" sizes="16x16" href="%PUBLIC_URL%/icons/favicon-16x16.png">-->
+  <link rel="manifest" href="%PUBLIC_URL%/icons/site.webmanifest">
+  <link rel="mask-icon" href="%PUBLIC_URL%/icons/safari-pinned-tab.svg" color="#ff8002">
+  <link rel="shortcut icon" href="%PUBLIC_URL%/icons/favicon.ico">
+  <meta name="apple-mobile-web-app-title" content="LivingDex">
+  <meta name="application-name" content="LivingDex">
+  <meta name="msapplication-TileColor" content="#39b7ab">
+  <meta name="msapplication-config" content="%PUBLIC_URL%/icons/browserconfig.xml">
+  <meta name="theme-color" content="#b0edb6">
+
+  <link rel="preload" href="%PUBLIC_URL%/fonts/LivingDex-Glyph/style.css" as="style">
+  <link rel="preload" href="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-home-regular.png" as="image">
+  <link rel="preload" href="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-home-shiny.png" as="image">
+  <link rel="preload" href="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-menu-regular.png" as="image">
+  <link rel="preload" href="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-menu-shiny.png" as="image">
+  <link rel="preload" href="%PUBLIC_URL%/assets/spritesheets/pokemon/spritesheet.css" as="style">
+
+  <link rel="stylesheet" href="%PUBLIC_URL%/fonts/LivingDex-Glyph/style.css">
+  <link rel="stylesheet" href="%PUBLIC_URL%/assets/spritesheets/pokemon/spritesheet.css">
+
+  <!-- External resources -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap"
+    rel="stylesheet">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7JHSH4JQNJ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || []
+
+    function gtag() {
+      dataLayer.push(arguments)
+    }
+
+    gtag('js', new Date())
+    gtag('config', 'G-7JHSH4JQNJ')
+  </script>
+</head>
+<body>
+<noscript>You need to enable JavaScript to run this app.</noscript>
+<div id="preload" style="display: none">
+  <img src="%PUBLIC_URL%/placeholders/placeholder-64x64.png"/>
+  <img src="%PUBLIC_URL%/placeholders/placeholder-68x56.png"/>
+  <img src="%PUBLIC_URL%/placeholders/placeholder-128x128.png"/>
+  <img src="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-home-regular.png"/>
+  <img src="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-home-shiny.png"/>
+  <img src="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-menu-regular.png"/>
+  <img src="%PUBLIC_URL%/assets/spritesheets/pokemon/pokemon-menu-shiny.png"/>
+</div>
+<div id="root"></div>
+<!--
+  This HTML file is a template.
+  If you open it directly in the browser, you will see an empty page.
+
+  You can add webfonts, meta tags, or analytics to this file.
+  The build step will place the bundled scripts into the <body> tag.
+
+  To begin the development, run `npm start` or `yarn start`.
+  To create a production bundle, use `npm run build` or `yarn build`.
+-->
+</body>
+</html>
