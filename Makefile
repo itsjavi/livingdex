@@ -1,13 +1,13 @@
 default: build
 
 start:
-	docker-compose up -d
+	npm start
 
 build:
-	docker-compose run --rm frontend ./build.sh
+	./build.sh
 
 install:
-	docker-compose run --rm frontend npm install
+	npm install
 
 publish:deploy
 deploy:
