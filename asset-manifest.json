@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/livingdex/static/css/main.f2d2e157.css",
-    "main.js": "/livingdex/static/js/main.53a187c0.js",
+    "main.css": "/livingdex/static/css/main.1765e24f.css",
+    "main.js": "/livingdex/static/js/main.943917a7.js",
     "index.html": "/livingdex/index.html",
     "static/media/box-icon.svg": "/livingdex/static/media/box-icon.c2afa28f97c84e00fea58b62b115f7af.svg",
-    "main.f2d2e157.css.map": "/livingdex/static/css/main.f2d2e157.css.map",
-    "main.53a187c0.js.map": "/livingdex/static/js/main.53a187c0.js.map"
+    "main.1765e24f.css.map": "/livingdex/static/css/main.1765e24f.css.map",
+    "main.943917a7.js.map": "/livingdex/static/js/main.943917a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2d2e157.css",
-    "static/js/main.53a187c0.js"
+    "static/css/main.1765e24f.css",
+    "static/js/main.943917a7.js"
   ]
 }
